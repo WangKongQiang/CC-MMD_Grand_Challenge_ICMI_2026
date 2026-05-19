@@ -1,0 +1,2138 @@
+[
+  {
+    "image_id": "1193",
+    "classification": "misogyny",
+    "explanation": "The husband is using ' செல்லம்' ( செல்லம்) which is a term of endearment but also can be condescending. He's also implying the wife is complaining about nothing ('அப்ரம் ஏன் முறைக்கிற..') and is using 'அப்ரம்' (which is a somewhat rude term) and 'முறைக்கிற' (to frown).",
+    "full_response": "{\"label\": 1, \"reason\": \"The husband is using ' செல்லம்' ( செல்லம்) which is a term of endearment but also can be condescending. He's also implying the wife is complaining about nothing ('அப்ரம் ஏன் முறைக்கிற..') and is using 'அப்ரம்' (which is a somewhat rude term) and 'முறைக்கிற' (to frown).\"}"
+  },
+  {
+    "image_id": "427",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a manager discussing ratings, which is a neutral situation.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a manager discussing ratings, which is a neutral situation.\"}"
+  },
+  {
+    "image_id": "1474",
+    "classification": "not-misogyny",
+    "explanation": "It's a general statement about a meme, no specific misogynistic content.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a general statement about a meme, no specific misogynistic content.\"}"
+  },
+  {
+    "image_id": "766",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a film about divorce and its solution, with no misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a film about divorce and its solution, with no misogynistic elements.\"}"
+  },
+  {
+    "image_id": "486",
+    "classification": "misogyny",
+    "explanation": "The meme suggests that a woman's consent is secondary to a man's desire to marry her, implying that she should agree to be 'tied' (married) if he wants to. This is a common trope in misogynistic humor that reduces women to objects of men's affection and disregards their agency.",
+    "full_response": "{\"label\": 1, \"reason\": \"The meme suggests that a woman's consent is secondary to a man's desire to marry her, implying that she should agree to be 'tied' (married) if he wants to. This is a common trope in misogynistic humor that reduces women to objects of men's affection and disregards their agency.\"}"
+  },
+  {
+    "image_id": "480",
+    "classification": "not-misogyny",
+    "explanation": "",
+    "full_response": ""
+  },
+  {
+    "image_id": "110",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a transaction and mentions two concerts. It doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a transaction and mentions two concerts. It doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "775",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a motivational interaction and doesn't contain any misogynistic remarks or offensive language towards women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a motivational interaction and doesn't contain any misogynistic remarks or offensive language towards women.\"}"
+  },
+  {
+    "image_id": "1388",
+    "classification": "misogyny",
+    "explanation": "The text uses derogatory terms ('thambi' and 'akka') and describes a sexual act in a crude and objectifying way, which is clearly misogynistic.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text uses derogatory terms ('thambi' and 'akka') and describes a sexual act in a crude and objectifying way, which is clearly misogynistic.\"}"
+  },
+  {
+    "image_id": "1189",
+    "classification": "not-misogyny",
+    "explanation": "It's a simple observation about actresses. No misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a simple observation about actresses. No misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1721",
+    "classification": "misogyny",
+    "explanation": "The sentence implies that women's mouths (speech) are more easily damaged than men's hands, suggesting women are more prone to causing problems through their words.",
+    "full_response": "{\"label\": 1, \"reason\": \"The sentence implies that women's mouths (speech) are more easily damaged than men's hands, suggesting women are more prone to causing problems through their words.\"}"
+  },
+  {
+    "image_id": "531",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a common meme format and doesn't contain any misogynistic remarks or stereotypes about women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a common meme format and doesn't contain any misogynistic remarks or stereotypes about women.\"}"
+  },
+  {
+    "image_id": "985",
+    "classification": "not-misogyny",
+    "explanation": "It describes a common Tamil meme about a boy's dream, and doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"It describes a common Tamil meme about a boy's dream, and doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "539",
+    "classification": "misogyny",
+    "explanation": "Uses derogatory terms like 'Naragam' (witch) and repeatedly calls the woman 'Naragam', which is a common misogynistic insult in Tamil.",
+    "full_response": "{\"label\": 1, \"reason\": \"Uses derogatory terms like 'Naragam' (witch) and repeatedly calls the woman 'Naragam', which is a common misogynistic insult in Tamil.\"}"
+  },
+  {
+    "image_id": "1058",
+    "classification": "not-misogyny",
+    "explanation": "It describes a typical family scene with a mother cooking and family members welcoming her. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"It describes a typical family scene with a mother cooking and family members welcoming her. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "678",
+    "classification": "misogyny",
+    "explanation": "The mom is implying the daughter is only good at making sambhar (lentil dish), a common and somewhat condescending way to describe women in Tamil culture.",
+    "full_response": "{\"label\": 1, \"reason\": \"The mom is implying the daughter is only good at making sambhar (lentil dish), a common and somewhat condescending way to describe women in Tamil culture.\"}"
+  },
+  {
+    "image_id": "1102",
+    "classification": "misogyny",
+    "explanation": "The meme implies that women from a certain region (Karur) are always trying to undermine their husbands by saying they can do better than him, which is a common and somewhat misogynistic stereotype.",
+    "full_response": "{\"label\": 1, \"reason\": \"The meme implies that women from a certain region (Karur) are always trying to undermine their husbands by saying they can do better than him, which is a common and somewhat misogynistic stereotype.\"}"
+  },
+  {
+    "image_id": "317",
+    "classification": "not-misogyny",
+    "explanation": "It's a simple sports meme referencing players. No misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a simple sports meme referencing players. No misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1150",
+    "classification": "not-misogyny",
+    "explanation": "The text uses a playful nickname ('Dothi') and compares the woman to a teddy bear and a bear. It's teasing but not overtly misogynistic.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text uses a playful nickname ('Dothi') and compares the woman to a teddy bear and a bear. It's teasing but not overtly misogynistic.\"}"
+  },
+  {
+    "image_id": "931",
+    "classification": "not-misogyny",
+    "explanation": "The meme describes a woman joining a team and then finding out she is married. It's a common observation and doesn't inherently express misogynistic views.",
+    "full_response": "{\"label\": 0, \"reason\": \"The meme describes a woman joining a team and then finding out she is married. It's a common observation and doesn't inherently express misogynistic views.\"}"
+  },
+  {
+    "image_id": "345",
+    "classification": "not-misogyny",
+    "explanation": "The meme is about a girl being just a friend and a potential love interest. It's a common and relatively harmless observation about relationships.",
+    "full_response": "{\"label\": 0, \"reason\": \"The meme is about a girl being just a friend and a potential love interest. It's a common and relatively harmless observation about relationships.\"}"
+  },
+  {
+    "image_id": "591",
+    "classification": "misogyny",
+    "explanation": "The text implies that women are only valuable for their looks and ability to be free for the speaker, and that a woman is a 'rare piece'.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that women are only valuable for their looks and ability to be free for the speaker, and that a woman is a 'rare piece'.\"}"
+  },
+  {
+    "image_id": "949",
+    "classification": "misogyny",
+    "explanation": "The phrase 'Mom' followed by 'Me' and then a list of superlatives ('Valikuthu', 'Kaluthu', 'Muthuku') suggests a condescending and somewhat dismissive tone towards the mother, implying she's only good for her looks and perhaps a bit of a burden.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'Mom' followed by 'Me' and then a list of superlatives ('Valikuthu', 'Kaluthu', 'Muthuku') suggests a condescending and somewhat dismissive tone towards the mother, implying she's only good for her looks and perhaps a bit of a burden.\"}"
+  },
+  {
+    "image_id": "786",
+    "classification": "misogyny",
+    "explanation": "Suggests that women should wear traditional attire (saree, chudi) while men can be modern, implying women should conform to traditional expectations.",
+    "full_response": "{\"label\": 1, \"reason\": \"Suggests that women should wear traditional attire (saree, chudi) while men can be modern, implying women should conform to traditional expectations.\"}"
+  },
+  {
+    "image_id": "882",
+    "classification": "not-misogyny",
+    "explanation": "The text is about playing PUBG in a 2G network and mentions memes and a bike. There is no misogynistic content.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is about playing PUBG in a 2G network and mentions memes and a bike. There is no misogynistic content.\"}"
+  },
+  {
+    "image_id": "562",
+    "classification": "not-misogyny",
+    "explanation": "",
+    "full_response": ""
+  },
+  {
+    "image_id": "1141",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a movie scene and doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a movie scene and doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "304",
+    "classification": "not-misogyny",
+    "explanation": "",
+    "full_response": ""
+  },
+  {
+    "image_id": "221",
+    "classification": "not-misogyny",
+    "explanation": "The text simply describes a character from a Tamil show and praises it. There is no misogynistic content.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text simply describes a character from a Tamil show and praises it. There is no misogynistic content.\"}"
+  },
+  {
+    "image_id": "1272",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a cartoon about street fights over pipes, and doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a cartoon about street fights over pipes, and doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1081",
+    "classification": "misogyny",
+    "explanation": "The text implies that girls only get few likes if they wear 'ara guray dress' (revealing dresses), suggesting that their worth is based on their appearance and that they need to dress up to get attention. This is a common and somewhat misogynistic trope.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that girls only get few likes if they wear 'ara guray dress' (revealing dresses), suggesting that their worth is based on their appearance and that they need to dress up to get attention. This is a common and somewhat misogynistic trope.\"}"
+  },
+  {
+    "image_id": "742",
+    "classification": "misogyny",
+    "explanation": "The use of 'nalaiku' (meaning 'you') combined with 'Naa Sick Leave hu' (meaning 'I have a sick leave') and the exasperated exclamation 'varataahhhh' suggests a dismissive and slightly condescending tone towards the woman, implying she's always taking sick leave. The final 'MOKKA POSTU vetrimra mt mt' (which is a Tamil slang) is also misogynistic, implying she is annoying and a bother.",
+    "full_response": "{\"label\": 1, \"reason\": \"The use of 'nalaiku' (meaning 'you') combined with 'Naa Sick Leave hu' (meaning 'I have a sick leave') and the exasperated exclamation 'varataahhhh' suggests a dismissive and slightly condescending tone towards the woman, implying she's always taking sick leave. The final 'MOKKA POSTU vetrimra mt mt' (which is a Tamil slang) is also misogynistic, implying she is annoying and a bother.\"}"
+  },
+  {
+    "image_id": "1269",
+    "classification": "misogyny",
+    "explanation": "The text implies that women are solely responsible for managing the household and cooking, and that their efforts are often undervalued. The repetition of 'நோய்பி நோய்பினுட்டு' (like a burden) reinforces this negative perception.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that women are solely responsible for managing the household and cooking, and that their efforts are often undervalued. The repetition of 'நோய்பி நோய்பினுட்டு' (like a burden) reinforces this negative perception.\"}"
+  },
+  {
+    "image_id": "600",
+    "classification": "not-misogyny",
+    "explanation": "The text uses a common Tamil phrase 'irukura ella tharkurigalum' which is a playful term for girls, similar to 'sweetie' or 'little one'. It doesn't contain any offensive or derogatory language towards women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text uses a common Tamil phrase 'irukura ella tharkurigalum' which is a playful term for girls, similar to 'sweetie' or 'little one'. It doesn't contain any offensive or derogatory language towards women.\"}"
+  },
+  {
+    "image_id": "325",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a casual conversation and doesn't contain any misogynistic remarks or stereotypes about women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a casual conversation and doesn't contain any misogynistic remarks or stereotypes about women.\"}"
+  },
+  {
+    "image_id": "1711",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a man being annoyed at his wife, but doesn't contain misogynistic elements. It's a common marital complaint.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a man being annoyed at his wife, but doesn't contain misogynistic elements. It's a common marital complaint.\"}"
+  },
+  {
+    "image_id": "943",
+    "classification": "misogyny",
+    "explanation": "The phrase 'பிச்சி பிச்சி' (bichhi bichhi) meaning 'pecking' or 'picking' is often used as a derogatory term for women in Tamil, implying they are fussy or demanding. The 'Dad's Little Princess' adds to the condescending tone.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'பிச்சி பிச்சி' (bichhi bichhi) meaning 'pecking' or 'picking' is often used as a derogatory term for women in Tamil, implying they are fussy or demanding. The 'Dad's Little Princess' adds to the condescending tone.\"}"
+  },
+  {
+    "image_id": "549",
+    "classification": "not-misogyny",
+    "explanation": "The text doesn't contain any misogynistic remarks or offensive language towards women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text doesn't contain any misogynistic remarks or offensive language towards women.\"}"
+  },
+  {
+    "image_id": "830",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a woman's eyes as 'Bun னு மாதிரி' (like a Bun). It's a simple comparison, not necessarily misogynistic. It's a bit odd, but not overtly offensive.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a woman's eyes as 'Bun னு மாதிரி' (like a Bun). It's a simple comparison, not necessarily misogynistic. It's a bit odd, but not overtly offensive.\"}"
+  },
+  {
+    "image_id": "1366",
+    "classification": "not-misogyny",
+    "explanation": "The text describes an actress and a meme trend. It doesn't contain any explicit misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes an actress and a meme trend. It doesn't contain any explicit misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "382",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a situation where a senior received praise for memes. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a situation where a senior received praise for memes. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1450",
+    "classification": "misogyny",
+    "explanation": "The meme uses 'Wife' and 'Husband' in a way that implies women are valued primarily for their appearance and their role in maintaining the house. The 'என்னாங்க' (what are you) at the end can be seen as a slightly condescending question.",
+    "full_response": "{\"label\": 1, \"reason\": \"The meme uses 'Wife' and 'Husband' in a way that implies women are valued primarily for their appearance and their role in maintaining the house. The 'என்னாங்க' (what are you) at the end can be seen as a slightly condescending question.\"}"
+  },
+  {
+    "image_id": "30",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a meme and doesn't contain any misogynistic content.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a meme and doesn't contain any misogynistic content.\"}"
+  },
+  {
+    "image_id": "866",
+    "classification": "not-misogyny",
+    "explanation": "The text praises Lakshmi Priya and her team, highlighting her toughness and leadership. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text praises Lakshmi Priya and her team, highlighting her toughness and leadership. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1703",
+    "classification": "misogyny",
+    "explanation": "The phrase 'amma nu oruthi kuththu kal ah iruken' (like an old woman) is a common, slightly condescending way to refer to women, implying they are old and outdated. It's a subtle form of misogyny.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'amma nu oruthi kuththu kal ah iruken' (like an old woman) is a common, slightly condescending way to refer to women, implying they are old and outdated. It's a subtle form of misogyny.\"}"
+  },
+  {
+    "image_id": "1044",
+    "classification": "not-misogyny",
+    "explanation": "It's a simple observation about the time it takes for girls and boys to get ready. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a simple observation about the time it takes for girls and boys to get ready. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1492",
+    "classification": "misogyny",
+    "explanation": "The text implies that a wife's main purpose is to be at home and entertain her husband, suggesting she should be passive and focused on domesticity. It also questions the wife's identity and whereabouts when she is away, implying she is only valuable when she is at home.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that a wife's main purpose is to be at home and entertain her husband, suggesting she should be passive and focused on domesticity. It also questions the wife's identity and whereabouts when she is away, implying she is only valuable when she is at home.\"}"
+  },
+  {
+    "image_id": "1709",
+    "classification": "not-misogyny",
+    "explanation": "The text describes crushes and college, with no clear misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes crushes and college, with no clear misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1638",
+    "classification": "not-misogyny",
+    "explanation": "",
+    "full_response": ""
+  },
+  {
+    "image_id": "1716",
+    "classification": "not-misogyny",
+    "explanation": "The meme simply compares women to mobile phones, which is a common and not necessarily misogynistic comparison.",
+    "full_response": "{\"label\": 0, \"reason\": \"The meme simply compares women to mobile phones, which is a common and not necessarily misogynistic comparison.\"}"
+  },
+  {
+    "image_id": "1254",
+    "classification": "misogyny",
+    "explanation": "The phrase 'naan oru loose'uh' (I am a loose woman) is a derogatory term used to describe women, implying they are sexually available and easy to obtain. It's a common and often misogynistic stereotype.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'naan oru loose'uh' (I am a loose woman) is a derogatory term used to describe women, implying they are sexually available and easy to obtain. It's a common and often misogynistic stereotype.\"}"
+  },
+  {
+    "image_id": "116",
+    "classification": "not-misogyny",
+    "explanation": "The text is in Tamil and describes a crime audio series. It doesn't contain any obvious misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is in Tamil and describes a crime audio series. It doesn't contain any obvious misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "680",
+    "classification": "misogyny",
+    "explanation": "The phrase 'Poi kuli da' is a derogatory term for mothers, implying they are only good for cooking and household chores. It's a common, often used, and mildly misogynistic insult in Tamil.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'Poi kuli da' is a derogatory term for mothers, implying they are only good for cooking and household chores. It's a common, often used, and mildly misogynistic insult in Tamil.\"}"
+  },
+  {
+    "image_id": "1423",
+    "classification": "not-misogyny",
+    "explanation": "",
+    "full_response": ""
+  },
+  {
+    "image_id": "1245",
+    "classification": "misogyny",
+    "explanation": "The text mocks the wife for being easily fooled and implies the husband is a fool for getting a discount. It's a common trope in Tamil memes to make fun of wives for being naive and easily impressed by gifts, which can be a subtle form of misogyny.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text mocks the wife for being easily fooled and implies the husband is a fool for getting a discount. It's a common trope in Tamil memes to make fun of wives for being naive and easily impressed by gifts, which can be a subtle form of misogyny.\"}"
+  },
+  {
+    "image_id": "1091",
+    "classification": "misogyny",
+    "explanation": "The phrase 'பொண்ணுங்க நாங்க தான்' (poNNUngaNaang taan) - 'girls we are' implies that women are the only ones who truly love, which is a common, albeit slightly stereotypical, trope in Tamil memes and can be seen as subtly condescending.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'பொண்ணுங்க நாங்க தான்' (poNNUngaNaang taan) - 'girls we are' implies that women are the only ones who truly love, which is a common, albeit slightly stereotypical, trope in Tamil memes and can be seen as subtly condescending.\"}"
+  },
+  {
+    "image_id": "66",
+    "classification": "not-misogyny",
+    "explanation": "",
+    "full_response": ""
+  },
+  {
+    "image_id": "213",
+    "classification": "not-misogyny",
+    "explanation": "It describes a Kerala Biriyani, a dish, and compares it to a hero, Vaikuran, without any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"It describes a Kerala Biriyani, a dish, and compares it to a hero, Vaikuran, without any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "558",
+    "classification": "not-misogyny",
+    "explanation": "",
+    "full_response": ""
+  },
+  {
+    "image_id": "1111",
+    "classification": "misogyny",
+    "explanation": "The text describes 'South Indian Aunties' engaging in arguments, and implies they know everything about everyone's relationships, which is a common stereotype portraying women as nosy and meddling.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text describes 'South Indian Aunties' engaging in arguments, and implies they know everything about everyone's relationships, which is a common stereotype portraying women as nosy and meddling.\"}"
+  },
+  {
+    "image_id": "1616",
+    "classification": "not-misogyny",
+    "explanation": "It describes an 'attitude girl' and asks to be decent, which is a common compliment. No misogynistic elements are present.",
+    "full_response": "{\"label\": 0, \"reason\": \"It describes an 'attitude girl' and asks to be decent, which is a common compliment. No misogynistic elements are present.\"}"
+  },
+  {
+    "image_id": "1253",
+    "classification": "misogyny",
+    "explanation": "The text asks the wife ( மருமகள்) if she should put fish in the sambar (சாம்பார்), a common Tamil dish made by the mother-in-law. It's a playful way of saying the mother-in-law is controlling and demanding, which can be a common source of tension and sometimes misogynistic humor in Tamil culture.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text asks the wife ( மருமகள்) if she should put fish in the sambar (சாம்பார்), a common Tamil dish made by the mother-in-law. It's a playful way of saying the mother-in-law is controlling and demanding, which can be a common source of tension and sometimes misogynistic humor in Tamil culture.\"}"
+  },
+  {
+    "image_id": "71",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a common work situation and doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a common work situation and doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "340",
+    "classification": "not-misogyny",
+    "explanation": "The text is a typical Tamil meme format. It doesn't contain any clear misogynistic remarks or offensive language towards women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a typical Tamil meme format. It doesn't contain any clear misogynistic remarks or offensive language towards women.\"}"
+  },
+  {
+    "image_id": "367",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a common situation (manager being absent) and uses positive adjectives like 'VERA LEVEL'. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a common situation (manager being absent) and uses positive adjectives like 'VERA LEVEL'. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1664",
+    "classification": "misogyny",
+    "explanation": "The text refers to 'men' as 'evils' and questions whether they respect each other. This is a common way to express misogyny by generalizing about men and implying they are disrespectful to women.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text refers to 'men' as 'evils' and questions whether they respect each other. This is a common way to express misogyny by generalizing about men and implying they are disrespectful to women.\"}"
+  },
+  {
+    "image_id": "484",
+    "classification": "not-misogyny",
+    "explanation": "The text uses a mildly insulting term 'Macha' (a slang term for a man), but it's not inherently misogynistic. It's more about a playful rivalry or teasing.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text uses a mildly insulting term 'Macha' (a slang term for a man), but it's not inherently misogynistic. It's more about a playful rivalry or teasing.\"}"
+  },
+  {
+    "image_id": "577",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a wife and her family playing cricket, which is a common and neutral activity. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a wife and her family playing cricket, which is a common and neutral activity. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "136",
+    "classification": "not-misogyny",
+    "explanation": "The text uses a playful and affectionate term ('Muthu Kutti') and a common Tamil phrase ('paathia vittu pora paathia') which means 'like a lazy one'. It doesn't contain any overtly misogynistic language or stereotypes.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text uses a playful and affectionate term ('Muthu Kutti') and a common Tamil phrase ('paathia vittu pora paathia') which means 'like a lazy one'. It doesn't contain any overtly misogynistic language or stereotypes.\"}"
+  },
+  {
+    "image_id": "24",
+    "classification": "misogyny",
+    "explanation": "The text suggests the user wants to send a meme with a female, implying objectification and potentially sexualization.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text suggests the user wants to send a meme with a female, implying objectification and potentially sexualization.\"}"
+  },
+  {
+    "image_id": "629",
+    "classification": "not-misogyny",
+    "explanation": "The text is a simple meme exchange with no clear misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a simple meme exchange with no clear misogynistic elements.\"}"
+  },
+  {
+    "image_id": "887",
+    "classification": "misogyny",
+    "explanation": "The text implies that girls in a hostel are only interested in their phones and contacts, and that the friend is annoyed by it. It's a common, slightly stereotypical, but mildly misogynistic view of women.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that girls in a hostel are only interested in their phones and contacts, and that the friend is annoyed by it. It's a common, slightly stereotypical, but mildly misogynistic view of women.\"}"
+  },
+  {
+    "image_id": "1238",
+    "classification": "misogyny",
+    "explanation": "The text implies that women are only good at housework and that this is a source of amusement. The phrase 'girls' followed by 'Mom' and 'housework' is a common way to express a mildly misogynistic view.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that women are only good at housework and that this is a source of amusement. The phrase 'girls' followed by 'Mom' and 'housework' is a common way to express a mildly misogynistic view.\"}"
+  },
+  {
+    "image_id": "355",
+    "classification": "not-misogyny",
+    "explanation": "The text is a simple, friendly conversation between a person and an AI. It doesn't contain any misogynistic remarks or stereotypes.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a simple, friendly conversation between a person and an AI. It doesn't contain any misogynistic remarks or stereotypes.\"}"
+  },
+  {
+    "image_id": "1034",
+    "classification": "misogyny",
+    "explanation": "The text uses derogatory terms like 'வீங்கிருச்சடி' (become swollen) and calls a woman 'டம்மி' (dummy), suggesting she is inferior and only valuable for her looks. It also compares her to a celebrity, implying she is not as good as her.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text uses derogatory terms like 'வீங்கிருச்சடி' (become swollen) and calls a woman 'டம்மி' (dummy), suggesting she is inferior and only valuable for her looks. It also compares her to a celebrity, implying she is not as good as her.\"}"
+  },
+  {
+    "image_id": "1344",
+    "classification": "misogyny",
+    "explanation": "The word 'THEVU****' is a derogatory term for women, implying they are annoying and bothersome. This is a clear example of misogyny.",
+    "full_response": "{\"label\": 1, \"reason\": \"The word 'THEVU****' is a derogatory term for women, implying they are annoying and bothersome. This is a clear example of misogyny.\"}"
+  },
+  {
+    "image_id": "1512",
+    "classification": "misogyny",
+    "explanation": "The text refers to a stepmother (மாமியார் ஏண்டி) and questions her knowledge about her son-in-law. It implies she is forgetful and perhaps a bit helpless, which can be a subtle form of misogyny.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text refers to a stepmother (மாமியார் ஏண்டி) and questions her knowledge about her son-in-law. It implies she is forgetful and perhaps a bit helpless, which can be a subtle form of misogyny.\"}"
+  },
+  {
+    "image_id": "353",
+    "classification": "not-misogyny",
+    "explanation": "The meme mentions boys and girls, and shows Balmain Paris and The Boys. It doesn't contain any specific misogynistic remarks or stereotypes about women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The meme mentions boys and girls, and shows Balmain Paris and The Boys. It doesn't contain any specific misogynistic remarks or stereotypes about women.\"}"
+  },
+  {
+    "image_id": "632",
+    "classification": "misogyny",
+    "explanation": "The text objectifies Yera (a woman's name) by focusing on her 'pottu' (bindi) and 'beauty' (okkum), suggesting she is defined by her appearance and easily described. It also implies she is only good for being looked at.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text objectifies Yera (a woman's name) by focusing on her 'pottu' (bindi) and 'beauty' (okkum), suggesting she is defined by her appearance and easily described. It also implies she is only good for being looked at.\"}"
+  },
+  {
+    "image_id": "1636",
+    "classification": "not-misogyny",
+    "explanation": "It compares a husband to a new shirt, suggesting he might be a bit fussy, but not necessarily misogynistic. It's a common observation about men.",
+    "full_response": "{\"label\": 0, \"reason\": \"It compares a husband to a new shirt, suggesting he might be a bit fussy, but not necessarily misogynistic. It's a common observation about men.\"}"
+  },
+  {
+    "image_id": "479",
+    "classification": "not-misogyny",
+    "explanation": "It describes a common scenario of a child imitating their parents. It's not offensive to women.",
+    "full_response": "{\"label\": 0, \"reason\": \"It describes a common scenario of a child imitating their parents. It's not offensive to women.\"}"
+  },
+  {
+    "image_id": "384",
+    "classification": "not-misogyny",
+    "explanation": "The text refers to an 18+ meme and doesn't contain any explicit misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text refers to an 18+ meme and doesn't contain any explicit misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "1031",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a typical mother-son interaction and doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a typical mother-son interaction and doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "238",
+    "classification": "not-misogyny",
+    "explanation": "The text is a lighthearted meme about a client and a manager. It doesn't contain any misogynistic remarks or offensive language towards women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a lighthearted meme about a client and a manager. It doesn't contain any misogynistic remarks or offensive language towards women.\"}"
+  },
+  {
+    "image_id": "1358",
+    "classification": "misogyny",
+    "explanation": "The text uses dismissive and condescending language ('Daii', 'apdiye') towards the woman, and the 'Ssshhhh aaahh' suggests she's being told to be quiet and is being mocked.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text uses dismissive and condescending language ('Daii', 'apdiye') towards the woman, and the 'Ssshhhh aaahh' suggests she's being told to be quiet and is being mocked.\"}"
+  },
+  {
+    "image_id": "332",
+    "classification": "not-misogyny",
+    "explanation": "It's a general conversation about salary and doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a general conversation about salary and doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "1455",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a meme about Sunny, a man, and his wife. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a meme about Sunny, a man, and his wife. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "112",
+    "classification": "not-misogyny",
+    "explanation": "The meme describes a common traffic situation and doesn't contain any offensive language or stereotypes about women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The meme describes a common traffic situation and doesn't contain any offensive language or stereotypes about women.\"}"
+  },
+  {
+    "image_id": "1720",
+    "classification": "misogyny",
+    "explanation": "The text criticizes women (திமிர், வெறுப்பு, கோபம் ஆணவம் - arrogance, hatred, anger) for carrying 'dirt' ( அழுக்கை சுமந்து).",
+    "full_response": "{\"label\": 1, \"reason\": \"The text criticizes women (திமிர், வெறுப்பு, கோபம் ஆணவம் - arrogance, hatred, anger) for carrying 'dirt' ( அழுக்கை சுமந்து).\"}"
+  },
+  {
+    "image_id": "1092",
+    "classification": "not-misogyny",
+    "explanation": "The text describes different types of Tamil marriages and uses relatively casual language. It doesn't contain any overtly misogynistic remarks or objectify women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes different types of Tamil marriages and uses relatively casual language. It doesn't contain any overtly misogynistic remarks or objectify women.\"}"
+  },
+  {
+    "image_id": "189",
+    "classification": "not-misogyny",
+    "explanation": "The text is a simple request for a connection and doesn't contain any misogynistic language or stereotypes.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a simple request for a connection and doesn't contain any misogynistic language or stereotypes.\"}"
+  },
+  {
+    "image_id": "652",
+    "classification": "not-misogyny",
+    "explanation": "The text is about a meme and doesn't contain any explicit misogynistic remarks or demeaning language towards women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is about a meme and doesn't contain any explicit misogynistic remarks or demeaning language towards women.\"}"
+  },
+  {
+    "image_id": "937",
+    "classification": "misogyny",
+    "explanation": "The use of 'Me*' suggests a dismissive and potentially derogatory view of the woman, implying she is only concerned with money and is not intelligent.",
+    "full_response": "{\"label\": 1, \"reason\": \"The use of 'Me*' suggests a dismissive and potentially derogatory view of the woman, implying she is only concerned with money and is not intelligent.\"}"
+  },
+  {
+    "image_id": "414",
+    "classification": "not-misogyny",
+    "explanation": "The text describes common activities like going out with friends, family events, watching CSK matches, and general life events. It doesn't contain any misogynistic remarks or stereotypes.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes common activities like going out with friends, family events, watching CSK matches, and general life events. It doesn't contain any misogynistic remarks or stereotypes.\"}"
+  },
+  {
+    "image_id": "465",
+    "classification": "not-misogyny",
+    "explanation": "The text is a simple conversation and doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a simple conversation and doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "599",
+    "classification": "misogyny",
+    "explanation": "The text implies that the woman (Me) is only worth 200 ruba (rupees), which is a devaluing comment and can be considered misogynistic.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that the woman (Me) is only worth 200 ruba (rupees), which is a devaluing comment and can be considered misogynistic.\"}"
+  },
+  {
+    "image_id": "940",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a scene with a woman (Katyari) and a man (Moti) and uses emojis to express excitement and strength. It doesn't contain any misogynistic language or stereotypes.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a scene with a woman (Katyari) and a man (Moti) and uses emojis to express excitement and strength. It doesn't contain any misogynistic language or stereotypes.\"}"
+  },
+  {
+    "image_id": "368",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a struggle with a social media update, with no specific reference to women or gender.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a struggle with a social media update, with no specific reference to women or gender.\"}"
+  },
+  {
+    "image_id": "163",
+    "classification": "not-misogyny",
+    "explanation": "The text describes memes about negative characters and their mating behavior. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes memes about negative characters and their mating behavior. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "333",
+    "classification": "not-misogyny",
+    "explanation": "The text is a simple meme with a playful insult ('Anta thappa mattum panida maaten da') which is common in Tamil memes and doesn't necessarily convey misogynistic sentiment.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a simple meme with a playful insult ('Anta thappa mattum panida maaten da') which is common in Tamil memes and doesn't necessarily convey misogynistic sentiment.\"}"
+  },
+  {
+    "image_id": "1641",
+    "classification": "misogyny",
+    "explanation": "The text implies that a woman's (mom) primary value is to give a 'jatti' (scarf) to a boy, reducing her to a possession. It also suggests she'll get angry if she doesn't give it, reinforcing a stereotypical role for women.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that a woman's (mom) primary value is to give a 'jatti' (scarf) to a boy, reducing her to a possession. It also suggests she'll get angry if she doesn't give it, reinforcing a stereotypical role for women.\"}"
+  },
+  {
+    "image_id": "1755",
+    "classification": "not-misogyny",
+    "explanation": "The text refers to a woman being sent early in the world, and mentions Chennai and Pattinam (Chennai and its suburbs). It doesn't contain any explicit misogynistic remarks or derogatory terms.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text refers to a woman being sent early in the world, and mentions Chennai and Pattinam (Chennai and its suburbs). It doesn't contain any explicit misogynistic remarks or derogatory terms.\"}"
+  },
+  {
+    "image_id": "1679",
+    "classification": "not-misogyny",
+    "explanation": "",
+    "full_response": ""
+  },
+  {
+    "image_id": "1069",
+    "classification": "misogyny",
+    "explanation": "The text uses the derogatory term 'Aunty' (அuntie), which is often used in a condescending way to refer to women, particularly older women. It also implies that the woman was only valued for her looks ('picture').",
+    "full_response": "{\"label\": 1, \"reason\": \"The text uses the derogatory term 'Aunty' (அuntie), which is often used in a condescending way to refer to women, particularly older women. It also implies that the woman was only valued for her looks ('picture').\"}"
+  },
+  {
+    "image_id": "174",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a short film concept and doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a short film concept and doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1152",
+    "classification": "not-misogyny",
+    "explanation": "It describes a love breakup, no misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"It describes a love breakup, no misogynistic elements.\"}"
+  },
+  {
+    "image_id": "454",
+    "classification": "misogyny",
+    "explanation": "The phrase 'veetu doli' (house girl) is a derogatory term for a young woman who works in a household, often implying she's a subservient and unmarried figure. It's a common way to subtly objectify and demean women in Tamil culture.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'veetu doli' (house girl) is a derogatory term for a young woman who works in a household, often implying she's a subservient and unmarried figure. It's a common way to subtly objectify and demean women in Tamil culture.\"}"
+  },
+  {
+    "image_id": "755",
+    "classification": "not-misogyny",
+    "explanation": "",
+    "full_response": ""
+  },
+  {
+    "image_id": "1698",
+    "classification": "misogyny",
+    "explanation": "The text implies that women only care about Women's Day and are only worth noticing when men come to wish them.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that women only care about Women's Day and are only worth noticing when men come to wish them.\"}"
+  },
+  {
+    "image_id": "1027",
+    "classification": "misogyny",
+    "explanation": "The text uses derogatory terms like 'Ethana masam' (fatty) and repeatedly calls the woman 'paithyakari' (housewife), implying she is only defined by her marital status and domestic role. This is a common way to insult women in Tamil.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text uses derogatory terms like 'Ethana masam' (fatty) and repeatedly calls the woman 'paithyakari' (housewife), implying she is only defined by her marital status and domestic role. This is a common way to insult women in Tamil.\"}"
+  },
+  {
+    "image_id": "1206",
+    "classification": "misogyny",
+    "explanation": "The phrase 'velakkamaru pinju poirum.unalam' suggests that a woman's help in love is expected, and when she doesn't fulfill that expectation, she is described as 'velakkamaru' (a derogatory term for a woman who is not good in bed), which is misogynistic.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'velakkamaru pinju poirum.unalam' suggests that a woman's help in love is expected, and when she doesn't fulfill that expectation, she is described as 'velakkamaru' (a derogatory term for a woman who is not good in bed), which is misogynistic.\"}"
+  },
+  {
+    "image_id": "204",
+    "classification": "misogyny",
+    "explanation": "The phrase 'paathia vittu pora paathia' literally translates to 'like a lazy husband, she's lazy'. It's a common Tamil insult used to describe women as being idle and useless, especially when they don't immediately respond to a man's message.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'paathia vittu pora paathia' literally translates to 'like a lazy husband, she's lazy'. It's a common Tamil insult used to describe women as being idle and useless, especially when they don't immediately respond to a man's message.\"}"
+  },
+  {
+    "image_id": "863",
+    "classification": "not-misogyny",
+    "explanation": "The text refers to a childhood memory of a Tamil meme, 'UrUpUdAtHA MeMeS', and mentions common items like pencil, scale, eraser, and snacks. It doesn't contain any misogynistic remarks or stereotypes about women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text refers to a childhood memory of a Tamil meme, 'UrUpUdAtHA MeMeS', and mentions common items like pencil, scale, eraser, and snacks. It doesn't contain any misogynistic remarks or stereotypes about women.\"}"
+  },
+  {
+    "image_id": "375",
+    "classification": "not-misogyny",
+    "explanation": "The text is praising memes and doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is praising memes and doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1533",
+    "classification": "misogyny",
+    "explanation": "The meme suggests that after marriage, a woman's work should be shared, but it implies that men should share it, while women should not. This reinforces a traditional, unequal division of labor within marriage, which can be seen as misogynistic.",
+    "full_response": "{\"label\": 1, \"reason\": \"The meme suggests that after marriage, a woman's work should be shared, but it implies that men should share it, while women should not. This reinforces a traditional, unequal division of labor within marriage, which can be seen as misogynistic.\"}"
+  },
+  {
+    "image_id": "472",
+    "classification": "not-misogyny",
+    "explanation": "It's a meme about a level, doesn't have misogynistic content.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a meme about a level, doesn't have misogynistic content.\"}"
+  },
+  {
+    "image_id": "1336",
+    "classification": "misogyny",
+    "explanation": "The text implies that Rashi, a woman, is being asked to do something quick (15mins) and is being judged on her work. It's a common trope in Tamil memes to make fun of women's work habits and suggest they are not as efficient as men.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that Rashi, a woman, is being asked to do something quick (15mins) and is being judged on her work. It's a common trope in Tamil memes to make fun of women's work habits and suggest they are not as efficient as men.\"}"
+  },
+  {
+    "image_id": "487",
+    "classification": "misogyny",
+    "explanation": "The text uses derogatory terms like 'Fraud' and 'Amma' in a dismissive and potentially insulting way, implying women are deceitful and easily manipulated. This is a common form of misogyny in Tamil culture.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text uses derogatory terms like 'Fraud' and 'Amma' in a dismissive and potentially insulting way, implying women are deceitful and easily manipulated. This is a common form of misogyny in Tamil culture.\"}"
+  },
+  {
+    "image_id": "1270",
+    "classification": "not-misogyny",
+    "explanation": "The text is about music and nostalgia, with no clear misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is about music and nostalgia, with no clear misogynistic elements.\"}"
+  },
+  {
+    "image_id": "586",
+    "classification": "not-misogyny",
+    "explanation": "The text expresses sadness about the mother's death and mentions leave. It doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text expresses sadness about the mother's death and mentions leave. It doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "583",
+    "classification": "not-misogyny",
+    "explanation": "The text is a simple, lighthearted meme about a roommate and their love for biryani. It doesn't contain any misogynistic language or stereotypes.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a simple, lighthearted meme about a roommate and their love for biryani. It doesn't contain any misogynistic language or stereotypes.\"}"
+  },
+  {
+    "image_id": "426",
+    "classification": "not-misogyny",
+    "explanation": "The text describes the movie poster of 'Adipurush' and praises Kriti Sanon. It doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes the movie poster of 'Adipurush' and praises Kriti Sanon. It doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "1277",
+    "classification": "misogyny",
+    "explanation": "The text uses objectifying language ('உருவிட்டு ஒவ்வொன்னா வெடிப்பேன் - twisting and peeling one by one') and refers to a woman as 'தங்கச்சி' (little gold one), which is a common, albeit slightly condescending, term. The overall tone is objectifying and potentially disrespectful.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text uses objectifying language ('உருவிட்டு ஒவ்வொன்னா வெடிப்பேன் - twisting and peeling one by one') and refers to a woman as 'தங்கச்சி' (little gold one), which is a common, albeit slightly condescending, term. The overall tone is objectifying and potentially disrespectful.\"}"
+  },
+  {
+    "image_id": "1393",
+    "classification": "not-misogyny",
+    "explanation": "The text uses 'akka' (அக்கா) which is a common term for an elder sister. It's not inherently misogynistic, just a friendly way to address someone.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text uses 'akka' (அக்கா) which is a common term for an elder sister. It's not inherently misogynistic, just a friendly way to address someone.\"}"
+  },
+  {
+    "image_id": "1712",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a dog fight and uses common Tamil slang like 'Girl Bestie'. It doesn't contain any overtly misogynistic language or stereotypes.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a dog fight and uses common Tamil slang like 'Girl Bestie'. It doesn't contain any overtly misogynistic language or stereotypes.\"}"
+  },
+  {
+    "image_id": "1696",
+    "classification": "not-misogyny",
+    "explanation": "It's a friendly message wishing someone 'Happy Women's Day'.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a friendly message wishing someone 'Happy Women's Day'.\"}"
+  },
+  {
+    "image_id": "1441",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a female bus driver, Shrimala, who was removed from her job. It doesn't contain any misogynistic remarks or offensive language towards women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a female bus driver, Shrimala, who was removed from her job. It doesn't contain any misogynistic remarks or offensive language towards women.\"}"
+  },
+  {
+    "image_id": "1396",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a situation where a man is working in a room with a heater and asks a woman to turn on the light. It's a simple request, not misogynistic.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a situation where a man is working in a room with a heater and asks a woman to turn on the light. It's a simple request, not misogynistic.\"}"
+  },
+  {
+    "image_id": "1278",
+    "classification": "not-misogyny",
+    "explanation": "It describes two women, Gabriella and Shivani, and their ages. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"It describes two women, Gabriella and Shivani, and their ages. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1024",
+    "classification": "misogyny",
+    "explanation": "The phrase 'Little Princess' (Little Princess) can be seen as a condescending term for women, implying they are dependent and need to be 'ruled' by men. Also, the need to find a name for the cooking is a subtle way of saying women are only good for cooking.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'Little Princess' (Little Princess) can be seen as a condescending term for women, implying they are dependent and need to be 'ruled' by men. Also, the need to find a name for the cooking is a subtle way of saying women are only good for cooking.\"}"
+  },
+  {
+    "image_id": "1658",
+    "classification": "not-misogyny",
+    "explanation": "The meme suggests that women get free bus rides and men have to change their outfits to travel. It doesn't explicitly express misogynistic views.",
+    "full_response": "{\"label\": 0, \"reason\": \"The meme suggests that women get free bus rides and men have to change their outfits to travel. It doesn't explicitly express misogynistic views.\"}"
+  },
+  {
+    "image_id": "50",
+    "classification": "misogyny",
+    "explanation": "The meme compares the mother to Suneeta Sharma, a controversial actress known for her beauty and often objectified in Tamil media. The phrase 'kaal kazhuvi kudichalum urupdamata da' (like Suneeta Sharma, she always looks like she's posing for a magazine) is a common way to objectify women and implies she's only valued for her appearance. The overall tone is dismissive and uses a somewhat condescending comparison.",
+    "full_response": "{\"label\": 1, \"reason\": \"The meme compares the mother to Suneeta Sharma, a controversial actress known for her beauty and often objectified in Tamil media. The phrase 'kaal kazhuvi kudichalum urupdamata da' (like Suneeta Sharma, she always looks like she's posing for a magazine) is a common way to objectify women and implies she's only valued for her appearance. The overall tone is dismissive and uses a somewhat condescending comparison.\"}"
+  },
+  {
+    "image_id": "995",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a cuckoo bird and its song. It doesn't contain any misogynistic remarks or offensive language towards women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a cuckoo bird and its song. It doesn't contain any misogynistic remarks or offensive language towards women.\"}"
+  },
+  {
+    "image_id": "1442",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a man who gave his friend a fish to relieve his stress. It's a common and relatable situation, with no misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a man who gave his friend a fish to relieve his stress. It's a common and relatable situation, with no misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1381",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a scenario where a friend is studying and the other is waiting for them. It doesn't contain any misogynistic remarks or offensive language towards women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a scenario where a friend is studying and the other is waiting for them. It doesn't contain any misogynistic remarks or offensive language towards women.\"}"
+  },
+  {
+    "image_id": "619",
+    "classification": "not-misogyny",
+    "explanation": "The text is about cricket tickets and doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is about cricket tickets and doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "535",
+    "classification": "not-misogyny",
+    "explanation": "The text describes Tamil memes and doesn't contain any obvious misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes Tamil memes and doesn't contain any obvious misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "711",
+    "classification": "not-misogyny",
+    "explanation": "It's a simple instruction to sit up straight, not misogynistic.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a simple instruction to sit up straight, not misogynistic.\"}"
+  },
+  {
+    "image_id": "1461",
+    "classification": "not-misogyny",
+    "explanation": "The text describes the drying time of clothes based on whether a woman or man is wearing them. It's a common observation and doesn't express any misogynistic sentiment.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes the drying time of clothes based on whether a woman or man is wearing them. It's a common observation and doesn't express any misogynistic sentiment.\"}"
+  },
+  {
+    "image_id": "1744",
+    "classification": "misogyny",
+    "explanation": "The text suggests that mothers of sons only care about food for their sons, implying that they value their sons' needs more than their love for them. This is a common, albeit slightly stereotypical, view of mothers and sons in India, but it can be seen as subtly misogynistic as it diminishes the importance of a woman's love for her child.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text suggests that mothers of sons only care about food for their sons, implying that they value their sons' needs more than their love for them. This is a common, albeit slightly stereotypical, view of mothers and sons in India, but it can be seen as subtly misogynistic as it diminishes the importance of a woman's love for her child.\"}"
+  },
+  {
+    "image_id": "868",
+    "classification": "not-misogyny",
+    "explanation": "It describes a women's trip and is generally positive, no misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"It describes a women's trip and is generally positive, no misogynistic elements.\"}"
+  },
+  {
+    "image_id": "79",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a common experience of a child dreaming and being woken up by their mother. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a common experience of a child dreaming and being woken up by their mother. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "211",
+    "classification": "not-misogyny",
+    "explanation": "The text is a simple meme caption with no clear misogynistic content.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a simple meme caption with no clear misogynistic content.\"}"
+  },
+  {
+    "image_id": "1209",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a woman with experience, but doesn't express any misogynistic sentiment.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a woman with experience, but doesn't express any misogynistic sentiment.\"}"
+  },
+  {
+    "image_id": "74",
+    "classification": "not-misogyny",
+    "explanation": "The text is a random mix of Tamil and English words and phrases, with no clear misogynistic content.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a random mix of Tamil and English words and phrases, with no clear misogynistic content.\"}"
+  },
+  {
+    "image_id": "70",
+    "classification": "not-misogyny",
+    "explanation": "It's a simple meme about a girl named Nallatha. No misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a simple meme about a girl named Nallatha. No misogynistic elements.\"}"
+  },
+  {
+    "image_id": "820",
+    "classification": "misogyny",
+    "explanation": "The phrase 'NURSING ATROCITIES' is a harsh and potentially dismissive way to describe nursing, implying that it's a negative or abusive experience for women. It can be seen as misogynistic as it generalizes and criticizes women in a profession.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'NURSING ATROCITIES' is a harsh and potentially dismissive way to describe nursing, implying that it's a negative or abusive experience for women. It can be seen as misogynistic as it generalizes and criticizes women in a profession.\"}"
+  },
+  {
+    "image_id": "1183",
+    "classification": "misogyny",
+    "explanation": "The phrase 'என்னதான் தலையில பூ வைக்கிறது நம்ம கலாச்சாரமா இருந்தாலும்' (Even though putting flowers on our heads is our culture) implies that women are objects to be adorned, which can be seen as misogynistic.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'என்னதான் தலையில பூ வைக்கிறது நம்ம கலாச்சாரமா இருந்தாலும்' (Even though putting flowers on our heads is our culture) implies that women are objects to be adorned, which can be seen as misogynistic.\"}"
+  },
+  {
+    "image_id": "1115",
+    "classification": "misogyny",
+    "explanation": "The phrase 'Enga da irukka??' (Are you guys?) followed by 'serida' (are you sleeping) and 'mathavangaloda sandai podama silenta iru' (You are silent in the meaning) implies that women are often quiet and sleep, which is a common and often misogynistic stereotype.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'Enga da irukka??' (Are you guys?) followed by 'serida' (are you sleeping) and 'mathavangaloda sandai podama silenta iru' (You are silent in the meaning) implies that women are often quiet and sleep, which is a common and often misogynistic stereotype.\"}"
+  },
+  {
+    "image_id": "731",
+    "classification": "not-misogyny",
+    "explanation": "The text is a random date and doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a random date and doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "527",
+    "classification": "not-misogyny",
+    "explanation": "It's a lighthearted joke about a man not wearing a double helmet. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a lighthearted joke about a man not wearing a double helmet. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "434",
+    "classification": "not-misogyny",
+    "explanation": "The text is about a woman (Muthu Kutti) and her lazy behavior, but it doesn't contain any misogynistic remarks or offensive language towards women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is about a woman (Muthu Kutti) and her lazy behavior, but it doesn't contain any misogynistic remarks or offensive language towards women.\"}"
+  },
+  {
+    "image_id": "451",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a cricket catch. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a cricket catch. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "608",
+    "classification": "misogyny",
+    "explanation": "The text uses derogatory language ('கருமத்த') and implies that a woman's worth is tied to her appearance and that she should be silent and subservient to a man ('Batman nu suithi tu irukka').",
+    "full_response": "{\"label\": 1, \"reason\": \"The text uses derogatory language ('கருமத்த') and implies that a woman's worth is tied to her appearance and that she should be silent and subservient to a man ('Batman nu suithi tu irukka').\"}"
+  },
+  {
+    "image_id": "1384",
+    "classification": "misogyny",
+    "explanation": "The text 'Ammava Mattum' (woman and mother) and 'Amma Vida' (mother's life) are common terms of endearment for women, but in this context, it's used to describe her beauty and how she's always beautiful. It can be seen as a slightly condescending way of describing a woman, implying she's only defined by her beauty and motherhood.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text 'Ammava Mattum' (woman and mother) and 'Amma Vida' (mother's life) are common terms of endearment for women, but in this context, it's used to describe her beauty and how she's always beautiful. It can be seen as a slightly condescending way of describing a woman, implying she's only defined by her beauty and motherhood.\"}"
+  },
+  {
+    "image_id": "1753",
+    "classification": "not-misogyny",
+    "explanation": "It simply states that a woman is the center of attention in Tamil cinema, without any offensive or derogatory remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"It simply states that a woman is the center of attention in Tamil cinema, without any offensive or derogatory remarks.\"}"
+  },
+  {
+    "image_id": "77",
+    "classification": "misogyny",
+    "explanation": "The phrase 'dummy piece' is used to insult women, implying they are foolish and weak. The repetition of 'they will die' is also a derogatory statement.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'dummy piece' is used to insult women, implying they are foolish and weak. The repetition of 'they will die' is also a derogatory statement.\"}"
+  },
+  {
+    "image_id": "1625",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a woman's cooking as repetitive and simple (same upama, idli, dosa), but it doesn't express any misogynistic sentiment. It's a common observation about women's cooking.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a woman's cooking as repetitive and simple (same upama, idli, dosa), but it doesn't express any misogynistic sentiment. It's a common observation about women's cooking.\"}"
+  },
+  {
+    "image_id": "1730",
+    "classification": "misogyny",
+    "explanation": "The text compares a mother to someone who needs to be punished, and then states that the woman's mind is like a set of lashes. This is a derogatory and misogynistic comparison.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text compares a mother to someone who needs to be punished, and then states that the woman's mind is like a set of lashes. This is a derogatory and misogynistic comparison.\"}"
+  },
+  {
+    "image_id": "1316",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a scenario with ice cream, briyani, and a woman enjoying food. It doesn't contain any misogynistic remarks or offensive language towards women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a scenario with ice cream, briyani, and a woman enjoying food. It doesn't contain any misogynistic remarks or offensive language towards women.\"}"
+  },
+  {
+    "image_id": "483",
+    "classification": "not-misogyny",
+    "explanation": "It uses common Tamil terms like 'Macha' and 'Muthu Kutti' which are not inherently misogynistic. It's a playful, lighthearted meme.",
+    "full_response": "{\"label\": 0, \"reason\": \"It uses common Tamil terms like 'Macha' and 'Muthu Kutti' which are not inherently misogynistic. It's a playful, lighthearted meme.\"}"
+  },
+  {
+    "image_id": "1768",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a woman's tendency to demand more than enough, which is a common observation about women's behavior, but it doesn't contain misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a woman's tendency to demand more than enough, which is a common observation about women's behavior, but it doesn't contain misogynistic elements.\"}"
+  },
+  {
+    "image_id": "299",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a sequence of memes and viewers' reactions. It doesn't contain any misogynistic content.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a sequence of memes and viewers' reactions. It doesn't contain any misogynistic content.\"}"
+  },
+  {
+    "image_id": "611",
+    "classification": "not-misogyny",
+    "explanation": "The text simply describes a woman and asks how she can be happy alone. It doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text simply describes a woman and asks how she can be happy alone. It doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "255",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a common scene of people enjoying a movie or song, with no clear misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a common scene of people enjoying a movie or song, with no clear misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1001",
+    "classification": "not-misogyny",
+    "explanation": "The meme refers to Tamil Nadu and Nigeria, and the phrase 'maathiri Nigerian ku Avunga' (meaning 'whoever is like a Nigerian woman') is a common, relatively neutral compliment. It doesn't inherently express misogyny.",
+    "full_response": "{\"label\": 0, \"reason\": \"The meme refers to Tamil Nadu and Nigeria, and the phrase 'maathiri Nigerian ku Avunga' (meaning 'whoever is like a Nigerian woman') is a common, relatively neutral compliment. It doesn't inherently express misogyny.\"}"
+  },
+  {
+    "image_id": "979",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a mother and daughter, and the conversation is about turning off the TV. It doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a mother and daughter, and the conversation is about turning off the TV. It doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "31",
+    "classification": "not-misogyny",
+    "explanation": "The text is a simple Tamil phrase with no clear misogynistic content. It uses common Tamil terms and expressions.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a simple Tamil phrase with no clear misogynistic content. It uses common Tamil terms and expressions.\"}"
+  },
+  {
+    "image_id": "1129",
+    "classification": "not-misogyny",
+    "explanation": "It's a playful question about periods, not misogynistic.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a playful question about periods, not misogynistic.\"}"
+  },
+  {
+    "image_id": "670",
+    "classification": "not-misogyny",
+    "explanation": "The text is a simple compliment and praise, with no misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a simple compliment and praise, with no misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1472",
+    "classification": "misogyny",
+    "explanation": "The text uses derogatory terms like 'puZZy cat', 'Aunty', and 'potu' (meaning 'wanker') to describe a woman, which is misogynistic.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text uses derogatory terms like 'puZZy cat', 'Aunty', and 'potu' (meaning 'wanker') to describe a woman, which is misogynistic.\"}"
+  },
+  {
+    "image_id": "352",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a manager and the user's reactions, with no misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a manager and the user's reactions, with no misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1306",
+    "classification": "not-misogyny",
+    "explanation": "It's a general statement about not underestimating people. 'Athai' (mother) is used affectionately, not in a derogatory way.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a general statement about not underestimating people. 'Athai' (mother) is used affectionately, not in a derogatory way.\"}"
+  },
+  {
+    "image_id": "1376",
+    "classification": "misogyny",
+    "explanation": "The phrase 'wife aana na mattum' (and he is not even a wife) implies that a woman's value is tied to her marital status, which can be a subtle form of misogyny.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'wife aana na mattum' (and he is not even a wife) implies that a woman's value is tied to her marital status, which can be a subtle form of misogyny.\"}"
+  },
+  {
+    "image_id": "100",
+    "classification": "not-misogyny",
+    "explanation": "The text is a simple meme description and doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a simple meme description and doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "915",
+    "classification": "not-misogyny",
+    "explanation": "The text is friendly and appreciative. It's a simple birthday wish with a slightly playful, common Tamil phrase ('Kedu' meaning 'how').",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is friendly and appreciative. It's a simple birthday wish with a slightly playful, common Tamil phrase ('Kedu' meaning 'how').\"}"
+  },
+  {
+    "image_id": "248",
+    "classification": "not-misogyny",
+    "explanation": "The text is a casual conversation with a friend, using Tamil slang. It doesn't contain any misogynistic remarks or offensive language towards women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a casual conversation with a friend, using Tamil slang. It doesn't contain any misogynistic remarks or offensive language towards women.\"}"
+  },
+  {
+    "image_id": "1380",
+    "classification": "misogyny",
+    "explanation": "The text uses derogatory terms like 'dirty actresses' and 'pla' (a slang for vagina) and implies actresses are solely objects of desire, which is a common form of misogyny.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text uses derogatory terms like 'dirty actresses' and 'pla' (a slang for vagina) and implies actresses are solely objects of desire, which is a common form of misogyny.\"}"
+  },
+  {
+    "image_id": "835",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a man (nambi) who is good at greeting and making women happy. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a man (nambi) who is good at greeting and making women happy. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "252",
+    "classification": "not-misogyny",
+    "explanation": "The text is about a woman (Muthu Kutti) and her coding skills, and uses a playful comparison with English. It doesn't contain any overtly misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is about a woman (Muthu Kutti) and her coding skills, and uses a playful comparison with English. It doesn't contain any overtly misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "169",
+    "classification": "not-misogyny",
+    "explanation": "The text refers to a concept video and mentions 'Bf/Gf' (boyfriend/girlfriend), which is a common term in Tamil and doesn't express any misogynistic sentiment.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text refers to a concept video and mentions 'Bf/Gf' (boyfriend/girlfriend), which is a common term in Tamil and doesn't express any misogynistic sentiment.\"}"
+  },
+  {
+    "image_id": "924",
+    "classification": "misogyny",
+    "explanation": "The text implies the woman is just a burden, and the speaker is indifferent to her. It's a common way to belittle women in Tamil.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies the woman is just a burden, and the speaker is indifferent to her. It's a common way to belittle women in Tamil.\"}"
+  },
+  {
+    "image_id": "240",
+    "classification": "not-misogyny",
+    "explanation": "The text describes memes and doesn't contain any misogynistic content.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes memes and doesn't contain any misogynistic content.\"}"
+  },
+  {
+    "image_id": "1112",
+    "classification": "not-misogyny",
+    "explanation": "It describes a woman's physical appearance, but doesn't express any misogynistic sentiment.",
+    "full_response": "{\"label\": 0, \"reason\": \"It describes a woman's physical appearance, but doesn't express any misogynistic sentiment.\"}"
+  },
+  {
+    "image_id": "695",
+    "classification": "not-misogyny",
+    "explanation": "It's a common and slightly cute observation about a common behavior. It doesn't express any misogynistic sentiment.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a common and slightly cute observation about a common behavior. It doesn't express any misogynistic sentiment.\"}"
+  },
+  {
+    "image_id": "1736",
+    "classification": "not-misogyny",
+    "explanation": "It's a general meme about Instagram and memes. No specific misogynistic content.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a general meme about Instagram and memes. No specific misogynistic content.\"}"
+  },
+  {
+    "image_id": "463",
+    "classification": "not-misogyny",
+    "explanation": "The meme is about a movie and doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The meme is about a movie and doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "1453",
+    "classification": "not-misogyny",
+    "explanation": "The text is a humorous conversation between two men. It doesn't contain any clear misogynistic remarks or offensive language towards women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a humorous conversation between two men. It doesn't contain any clear misogynistic remarks or offensive language towards women.\"}"
+  },
+  {
+    "image_id": "533",
+    "classification": "not-misogyny",
+    "explanation": "It's a common Tamil expression implying someone is trying to make you look bad by pointing out your lack of knowledge. It's not inherently misogynistic.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a common Tamil expression implying someone is trying to make you look bad by pointing out your lack of knowledge. It's not inherently misogynistic.\"}"
+  },
+  {
+    "image_id": "1125",
+    "classification": "misogyny",
+    "explanation": "The text implies that a woman (Panni) is only useful at night when she's on the net, suggesting she's idle and dependent.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that a woman (Panni) is only useful at night when she's on the net, suggesting she's idle and dependent.\"}"
+  },
+  {
+    "image_id": "33",
+    "classification": "not-misogyny",
+    "explanation": "The meme describes a common situation (asking permission) and uses 'VERA LEVEL' which is a positive term, not misogynistic.",
+    "full_response": "{\"label\": 0, \"reason\": \"The meme describes a common situation (asking permission) and uses 'VERA LEVEL' which is a positive term, not misogynistic.\"}"
+  },
+  {
+    "image_id": "1345",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a woman who is a snake, but it doesn't explicitly express any misogynistic sentiment.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a woman who is a snake, but it doesn't explicitly express any misogynistic sentiment.\"}"
+  },
+  {
+    "image_id": "234",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a man watching office celebration videos. It does not contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a man watching office celebration videos. It does not contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "498",
+    "classification": "not-misogyny",
+    "explanation": "The text is a simple conversation with no misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a simple conversation with no misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1122",
+    "classification": "misogyny",
+    "explanation": "The text implies that women are more likely to go and do things if called, suggesting they are subservient and lack independence, which is a common misogynistic trope.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that women are more likely to go and do things if called, suggesting they are subservient and lack independence, which is a common misogynistic trope.\"}"
+  },
+  {
+    "image_id": "910",
+    "classification": "not-misogyny",
+    "explanation": "The text doesn't contain any obvious misogynistic remarks or stereotypes about women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text doesn't contain any obvious misogynistic remarks or stereotypes about women.\"}"
+  },
+  {
+    "image_id": "933",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a situation with a woman and family, without any clear misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a situation with a woman and family, without any clear misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "186",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a feeling of being valued and important, with no negative connotations towards women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a feeling of being valued and important, with no negative connotations towards women.\"}"
+  },
+  {
+    "image_id": "1701",
+    "classification": "misogyny",
+    "explanation": "The text wishes Women's Day to someone and then asks if they wish for women to be protected. It subtly implies that women need protection, which can be a common trope in misogynistic jokes.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text wishes Women's Day to someone and then asks if they wish for women to be protected. It subtly implies that women need protection, which can be a common trope in misogynistic jokes.\"}"
+  },
+  {
+    "image_id": "1377",
+    "classification": "misogyny",
+    "explanation": "The text implies that women are responsible for the failure of a project and that men are also to blame, subtly suggesting women are less competent.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that women are responsible for the failure of a project and that men are also to blame, subtly suggesting women are less competent.\"}"
+  },
+  {
+    "image_id": "343",
+    "classification": "not-misogyny",
+    "explanation": "The text describes memes and mentions CSK (Chennai Super Kings), a cricket team. It doesn't contain any misogynistic language or stereotypes.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes memes and mentions CSK (Chennai Super Kings), a cricket team. It doesn't contain any misogynistic language or stereotypes.\"}"
+  },
+  {
+    "image_id": "45",
+    "classification": "not-misogyny",
+    "explanation": "The text is a simple meme caption and doesn't contain any misogynistic language or stereotypes.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a simple meme caption and doesn't contain any misogynistic language or stereotypes.\"}"
+  },
+  {
+    "image_id": "901",
+    "classification": "not-misogyny",
+    "explanation": "The text is a mix of Tamil and English, and doesn't contain any obvious misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a mix of Tamil and English, and doesn't contain any obvious misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "571",
+    "classification": "not-misogyny",
+    "explanation": "The meme is about teachers trying to normalize things. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The meme is about teachers trying to normalize things. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "974",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a feeling of being hot in summer and cold in winter, and mentions a woman being needed to avoid being scorched in summer and being cold in winter. It doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a feeling of being hot in summer and cold in winter, and mentions a woman being needed to avoid being scorched in summer and being cold in winter. It doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "890",
+    "classification": "misogyny",
+    "explanation": "The phrase 'Enna pandra' (meaning 'everyone crushes') combined with 'lover kuda pesitu iruken' (meaning 'lovers are chasing after') can be interpreted as a somewhat objectifying and competitive way of describing women, suggesting they are being chased by men.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'Enna pandra' (meaning 'everyone crushes') combined with 'lover kuda pesitu iruken' (meaning 'lovers are chasing after') can be interpreted as a somewhat objectifying and competitive way of describing women, suggesting they are being chased by men.\"}"
+  },
+  {
+    "image_id": "197",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a woman as 'un alumba paathavan' (literally 'a woman who is a burden'). While it's a somewhat dismissive description, it's not overtly misogynistic and could be used playfully. It doesn't rely on harmful stereotypes or derogatory language.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a woman as 'un alumba paathavan' (literally 'a woman who is a burden'). While it's a somewhat dismissive description, it's not overtly misogynistic and could be used playfully. It doesn't rely on harmful stereotypes or derogatory language.\"}"
+  },
+  {
+    "image_id": "880",
+    "classification": "not-misogyny",
+    "explanation": "It's about girls psychology and mentions 'girls' and 'womens', which is not necessarily misogynistic. It's just a description of a video.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's about girls psychology and mentions 'girls' and 'womens', which is not necessarily misogynistic. It's just a description of a video.\"}"
+  },
+  {
+    "image_id": "988",
+    "classification": "not-misogyny",
+    "explanation": "The text is a simple observation about a fan and doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a simple observation about a fan and doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1342",
+    "classification": "misogyny",
+    "explanation": "The phrase 'Gaaji puducha Munda' (meaning 'wife is like a small child') is a common, often condescending, way to describe women in Tamil, implying they are immature and need to be taken care of. It's a classic example of patriarchal language.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'Gaaji puducha Munda' (meaning 'wife is like a small child') is a common, often condescending, way to describe women in Tamil, implying they are immature and need to be taken care of. It's a classic example of patriarchal language.\"}"
+  },
+  {
+    "image_id": "60",
+    "classification": "not-misogyny",
+    "explanation": "The text is about KFC Crispy Days offer and doesn't contain any misogynistic content.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is about KFC Crispy Days offer and doesn't contain any misogynistic content.\"}"
+  },
+  {
+    "image_id": "1210",
+    "classification": "misogyny",
+    "explanation": "The text suggests that women should rely on themselves, implying they cannot be trusted or are unreliable, which is a common misogynistic trope.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text suggests that women should rely on themselves, implying they cannot be trusted or are unreliable, which is a common misogynistic trope.\"}"
+  },
+  {
+    "image_id": "290",
+    "classification": "not-misogyny",
+    "explanation": "It's a general observation about bargain shopping and memes, not specifically misogynistic.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a general observation about bargain shopping and memes, not specifically misogynistic.\"}"
+  },
+  {
+    "image_id": "298",
+    "classification": "not-misogyny",
+    "explanation": "{\"label\": 0, \"reason\": \"The text describes a meal (non-veg) on a Sunday, with no specific comment about women.\"}\n```json\n{\"label\": 0, \"reason\": \"The text describes a meal and doesn't contain any misogynistic remarks.\"}\n```\n{\"label\": 0, \"reason\": \"The text is simply describing a meal and has no misogynistic content.\"}\n```json\n{\"label\": 0, \"reason\": \"The text describes a meal and doesn't mention or imply anything about women in a misogynistic way.\"}\n```\n{\"label\": 0, \"reason\": \"The text is about food and doesn't contain any misogynistic elements.\"}\n```json\n{\"label\": 0, \"reason\": \"The text describes a meal and has no misogynistic content.\"}\n```\n{\"label\": 0, \"reason\": \"The text is a simple observation about a meal.\"}\n```json\n{\"label\": 0, \"reason\": \"The text describes a meal and doesn't contain any misogynistic content.\"}\n```\n{\"label\": 0, \"reason\": \"",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a meal (non-veg) on a Sunday, with no specific comment about women.\"}\n```json\n{\"label\": 0, \"reason\": \"The text describes a meal and doesn't contain any misogynistic remarks.\"}\n```\n{\"label\": 0, \"reason\": \"The text is simply describing a meal and has no misogynistic content.\"}\n```json\n{\"label\": 0, \"reason\": \"The text describes a meal and doesn't mention or imply anything about women in a misogynistic way.\"}\n```\n{\"label\": 0, \"reason\": \"The text is about food and doesn't contain any misogynistic elements.\"}\n```json\n{\"label\": 0, \"reason\": \"The text describes a meal and has no misogynistic content.\"}\n```\n{\"label\": 0, \"reason\": \"The text is a simple observation about a meal.\"}\n```json\n{\"label\": 0, \"reason\": \"The text describes a meal and doesn't contain any misogynistic content.\"}\n```\n{\"label\": 0, \"reason\": \""
+  },
+  {
+    "image_id": "1114",
+    "classification": "not-misogyny",
+    "explanation": "The text refers to girls and women, but in a neutral way, describing them by age and marital status. It doesn't contain any offensive or derogatory terms.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text refers to girls and women, but in a neutral way, describing them by age and marital status. It doesn't contain any offensive or derogatory terms.\"}"
+  },
+  {
+    "image_id": "1074",
+    "classification": "misogyny",
+    "explanation": "The text implies that women are only good at being beautiful and that they are poisonous. It's a derogatory and stereotypical view of women.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that women are only good at being beautiful and that they are poisonous. It's a derogatory and stereotypical view of women.\"}"
+  },
+  {
+    "image_id": "1565",
+    "classification": "misogyny",
+    "explanation": "The meme suggests that girls are only followed outside and when they are inside, they follow boys, implying that girls are passive and only initiate relationships when men do.",
+    "full_response": "{\"label\": 1, \"reason\": \"The meme suggests that girls are only followed outside and when they are inside, they follow boys, implying that girls are passive and only initiate relationships when men do.\"}"
+  },
+  {
+    "image_id": "1320",
+    "classification": "misogyny",
+    "explanation": "The phrase 'akka' (meaning auntie/older sister) is used in a slightly condescending way, implying the woman is just a 'little friend' and 'thin kid'. It suggests she's a minor and the speaker is superior.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'akka' (meaning auntie/older sister) is used in a slightly condescending way, implying the woman is just a 'little friend' and 'thin kid'. It suggests she's a minor and the speaker is superior.\"}"
+  },
+  {
+    "image_id": "1433",
+    "classification": "not-misogyny",
+    "explanation": "It's a simple romantic expression, expressing longing for a girl. No misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a simple romantic expression, expressing longing for a girl. No misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1561",
+    "classification": "misogyny",
+    "explanation": "The text suggests that if a woman replies with 'hmm' or 'kk', it means she is finished with the conversation and doesn't want to continue, implying she is not engaged or interested.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text suggests that if a woman replies with 'hmm' or 'kk', it means she is finished with the conversation and doesn't want to continue, implying she is not engaged or interested.\"}"
+  },
+  {
+    "image_id": "124",
+    "classification": "not-misogyny",
+    "explanation": "The text is a casual conversation with a slightly playful tone. It doesn't contain any misogynistic remarks or demeaning language towards women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a casual conversation with a slightly playful tone. It doesn't contain any misogynistic remarks or demeaning language towards women.\"}"
+  },
+  {
+    "image_id": "1353",
+    "classification": "misogyny",
+    "explanation": "The text uses derogatory terms like 'p*ndaya' (a vulgar term for women) and implies violence ('thappu vendaamnu') suggesting misogynistic intent.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text uses derogatory terms like 'p*ndaya' (a vulgar term for women) and implies violence ('thappu vendaamnu') suggesting misogynistic intent.\"}"
+  },
+  {
+    "image_id": "556",
+    "classification": "not-misogyny",
+    "explanation": "The meme uses a common Tamil phrase and doesn't contain any overtly misogynistic language or stereotypes.",
+    "full_response": "{\"label\": 0, \"reason\": \"The meme uses a common Tamil phrase and doesn't contain any overtly misogynistic language or stereotypes.\"}"
+  },
+  {
+    "image_id": "1770",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a woman (Madam) who brings things to jailer, implying she is a helpful and respectable figure. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a woman (Madam) who brings things to jailer, implying she is a helpful and respectable figure. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "271",
+    "classification": "not-misogyny",
+    "explanation": "The text is a Tamil meme referencing a song and asking people to relate. It doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a Tamil meme referencing a song and asking people to relate. It doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "1777",
+    "classification": "misogyny",
+    "explanation": "The text describes a scenario where a man beats his wife and compares it based on location - rural vs. urban. It implies that women in rural areas are more tolerant of abuse and accept it as normal, which is a common and often misogynistic trope in Indian culture.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text describes a scenario where a man beats his wife and compares it based on location - rural vs. urban. It implies that women in rural areas are more tolerant of abuse and accept it as normal, which is a common and often misogynistic trope in Indian culture.\"}"
+  },
+  {
+    "image_id": "1134",
+    "classification": "not-misogyny",
+    "explanation": "The meme is about a name, 'Prathap Palikarana', and doesn't contain any offensive language or stereotypes about women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The meme is about a name, 'Prathap Palikarana', and doesn't contain any offensive language or stereotypes about women.\"}"
+  },
+  {
+    "image_id": "1615",
+    "classification": "misogyny",
+    "explanation": "The text implies that a woman's soft palm is a sign of her being lazy and not doing housework, which is a common and often misogynistic stereotype in India.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that a woman's soft palm is a sign of her being lazy and not doing housework, which is a common and often misogynistic stereotype in India.\"}"
+  },
+  {
+    "image_id": "1610",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a woman who received light and is now alone, suggesting a journey. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a woman who received light and is now alone, suggesting a journey. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "814",
+    "classification": "not-misogyny",
+    "explanation": "The text refers to a demand to ban a song and take legal action against the film group. It doesn't contain any direct or obvious misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text refers to a demand to ban a song and take legal action against the film group. It doesn't contain any direct or obvious misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "1558",
+    "classification": "misogyny",
+    "explanation": "The phrase 'Apdi Paakura?' (Are you a girl?) followed by 'Me Nejamavey ne ponnu dhana?' (Do you have a good money?) and 'Una epdi paathalum aambala madhiri dhan d iruka' (Can you even do something like a simple compliment?) is a common way to demean women by questioning their intelligence and value based on their appearance and money.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'Apdi Paakura?' (Are you a girl?) followed by 'Me Nejamavey ne ponnu dhana?' (Do you have a good money?) and 'Una epdi paathalum aambala madhiri dhan d iruka' (Can you even do something like a simple compliment?) is a common way to demean women by questioning their intelligence and value based on their appearance and money.\"}"
+  },
+  {
+    "image_id": "276",
+    "classification": "not-misogyny",
+    "explanation": "The text is about a movie buff and doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is about a movie buff and doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "1454",
+    "classification": "misogyny",
+    "explanation": "The text uses the term 'சிங்கப்பெண்' (lion woman) which is a somewhat condescending and stereotypical comparison of a woman to a lion, implying she is strong but also potentially wild and difficult. It also uses 'மேடம்' (Madam) which can be a slightly patronizing term.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text uses the term 'சிங்கப்பெண்' (lion woman) which is a somewhat condescending and stereotypical comparison of a woman to a lion, implying she is strong but also potentially wild and difficult. It also uses 'மேடம்' (Madam) which can be a slightly patronizing term.\"}"
+  },
+  {
+    "image_id": "964",
+    "classification": "not-misogyny",
+    "explanation": "It's a simple observation about someone taking parotta. No misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a simple observation about someone taking parotta. No misogynistic elements.\"}"
+  },
+  {
+    "image_id": "351",
+    "classification": "not-misogyny",
+    "explanation": "",
+    "full_response": ""
+  },
+  {
+    "image_id": "773",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a simple conversation between an employee and a manager. There is no misogynistic content.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a simple conversation between an employee and a manager. There is no misogynistic content.\"}"
+  },
+  {
+    "image_id": "1541",
+    "classification": "misogyny",
+    "explanation": "The meme compares a girlfriend to someone who throws affection and a wife to someone who throws a plate. This implies that wives are messy and inconsiderate, which is a common and often misogynistic stereotype.",
+    "full_response": "{\"label\": 1, \"reason\": \"The meme compares a girlfriend to someone who throws affection and a wife to someone who throws a plate. This implies that wives are messy and inconsiderate, which is a common and often misogynistic stereotype.\"}"
+  },
+  {
+    "image_id": "1527",
+    "classification": "not-misogyny",
+    "explanation": "It's a simple conversation about sharing tomatoes with a neighbor. No misogynistic elements are present.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a simple conversation about sharing tomatoes with a neighbor. No misogynistic elements are present.\"}"
+  },
+  {
+    "image_id": "965",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a typical domestic scene and doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a typical domestic scene and doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1000",
+    "classification": "not-misogyny",
+    "explanation": "The meme refers to a 'little princess' but doesn't contain any overtly misogynistic language or stereotypes.",
+    "full_response": "{\"label\": 0, \"reason\": \"The meme refers to a 'little princess' but doesn't contain any overtly misogynistic language or stereotypes.\"}"
+  },
+  {
+    "image_id": "1282",
+    "classification": "not-misogyny",
+    "explanation": "The text describes different types of 'anni' (likely referring to years) and suggests they are all good. It doesn't contain any misogynistic remarks or offensive language towards women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes different types of 'anni' (likely referring to years) and suggests they are all good. It doesn't contain any misogynistic remarks or offensive language towards women.\"}"
+  },
+  {
+    "image_id": "1279",
+    "classification": "misogyny",
+    "explanation": "The joke implies that a woman's primary purpose is to buy groceries and beauty products, and that her time spent doing so is a burden to the husband. The phrase 'ஒரு ஜிமிக்கியும் 60 செல்பியும்' (one jasmine and 60 lipsticks) is a common, slightly mocking way of describing a woman's spending habits.",
+    "full_response": "{\"label\": 1, \"reason\": \"The joke implies that a woman's primary purpose is to buy groceries and beauty products, and that her time spent doing so is a burden to the husband. The phrase 'ஒரு ஜிமிக்கியும் 60 செல்பியும்' (one jasmine and 60 lipsticks) is a common, slightly mocking way of describing a woman's spending habits.\"}"
+  },
+  {
+    "image_id": "1579",
+    "classification": "misogyny",
+    "explanation": "The meme questions why someone loved a drunkard, implying women are easily swayed by men's flaws. It's a common trope of portraying women as simple and easily influenced.",
+    "full_response": "{\"label\": 1, \"reason\": \"The meme questions why someone loved a drunkard, implying women are easily swayed by men's flaws. It's a common trope of portraying women as simple and easily influenced.\"}"
+  },
+  {
+    "image_id": "1614",
+    "classification": "not-misogyny",
+    "explanation": "It describes a teacher and a student, and mentions she is the first rank girl. It doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"It describes a teacher and a student, and mentions she is the first rank girl. It doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "1337",
+    "classification": "misogyny",
+    "explanation": "The meme describes a teenage boy rubbing his hard and the speaker enjoying the feeling, which can be interpreted as objectifyinging the woman and reducing her to her body.",
+    "full_response": "{\"label\": 1, \"reason\": \"The meme describes a teenage boy rubbing his hard and the speaker enjoying the feeling, which can be interpreted as objectifyinging the woman and reducing her to her body.\"}"
+  },
+  {
+    "image_id": "68",
+    "classification": "not-misogyny",
+    "explanation": "The text is about a woman named Mc Muriel and doesn't express any misogynistic sentiment.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is about a woman named Mc Muriel and doesn't express any misogynistic sentiment.\"}"
+  },
+  {
+    "image_id": "1524",
+    "classification": "not-misogyny",
+    "explanation": "The meme describes the wife's cooking (saambar) and attributes it to her being frugal. It's a common, lighthearted observation about a wife's cooking, not misogynistic.",
+    "full_response": "{\"label\": 0, \"reason\": \"The meme describes the wife's cooking (saambar) and attributes it to her being frugal. It's a common, lighthearted observation about a wife's cooking, not misogynistic.\"}"
+  },
+  {
+    "image_id": "1108",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a conversation where a woman (Maiyu) is telling a man (Maama) that he should drink hot water in the morning. It's a common observation and doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a conversation where a woman (Maiyu) is telling a man (Maama) that he should drink hot water in the morning. It's a common observation and doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1548",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a positive quality of a wife - forgiveness. It doesn't express any misogynistic sentiment.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a positive quality of a wife - forgiveness. It doesn't express any misogynistic sentiment.\"}"
+  },
+  {
+    "image_id": "125",
+    "classification": "misogyny",
+    "explanation": "The phrase 'Macha enta vanguna' is a common Tamil insult, often used to degrade women by comparing them to a male dog. 'Kaasu kudra' (meaning 'waste of money') is also a derogatory term.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'Macha enta vanguna' is a common Tamil insult, often used to degrade women by comparing them to a male dog. 'Kaasu kudra' (meaning 'waste of money') is also a derogatory term.\"}"
+  },
+  {
+    "image_id": "544",
+    "classification": "not-misogyny",
+    "explanation": "The text is a simple meme description with no clear misogynistic content.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a simple meme description with no clear misogynistic content.\"}"
+  },
+  {
+    "image_id": "1042",
+    "classification": "misogyny",
+    "explanation": "The phrase 'ஆப்பு' (appu) is a derogatory term for a woman's genitals and is used in a suggestive and potentially humiliating way. It's a common form of misogynistic humor in Tamil memes.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'ஆப்பு' (appu) is a derogatory term for a woman's genitals and is used in a suggestive and potentially humiliating way. It's a common form of misogynistic humor in Tamil memes.\"}"
+  },
+  {
+    "image_id": "1432",
+    "classification": "not-misogyny",
+    "explanation": "The text is a simple observation about a bus stand and doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a simple observation about a bus stand and doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "1343",
+    "classification": "misogyny",
+    "explanation": "The phrase 'Avan po***la paru na' (literally 'that girl is like') is a common Tamil insult implying she is promiscuous. 'Podi' is a derogatory term for women, and 'ponna vida auntu' (literally 'good looking aunt') is used sarcastically. The overall text is clearly misogynistic.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'Avan po***la paru na' (literally 'that girl is like') is a common Tamil insult implying she is promiscuous. 'Podi' is a derogatory term for women, and 'ponna vida auntu' (literally 'good looking aunt') is used sarcastically. The overall text is clearly misogynistic.\"}"
+  },
+  {
+    "image_id": "1462",
+    "classification": "misogyny",
+    "explanation": "The text implies the woman is only good at cooking and is criticized for it. It's a common way to belittle women in Tamil, suggesting their value is tied to their domestic skills.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies the woman is only good at cooking and is criticized for it. It's a common way to belittle women in Tamil, suggesting their value is tied to their domestic skills.\"}"
+  },
+  {
+    "image_id": "1224",
+    "classification": "misogyny",
+    "explanation": "The text implies the wife is smarter than the husband, and the husband is condescending about it. This is a common trope in Tamil memes that can be misogynistic, suggesting women are often portrayed as superior and men as foolish.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies the wife is smarter than the husband, and the husband is condescending about it. This is a common trope in Tamil memes that can be misogynistic, suggesting women are often portrayed as superior and men as foolish.\"}"
+  },
+  {
+    "image_id": "874",
+    "classification": "not-misogyny",
+    "explanation": "The text is a list of numbers in Tamil, with a few phrases like 'எங்கள் தமிழின் சிறப்பு!' (Our Tamil is special!). It doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a list of numbers in Tamil, with a few phrases like 'எங்கள் தமிழின் சிறப்பு!' (Our Tamil is special!). It doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "1653",
+    "classification": "not-misogyny",
+    "explanation": "The text mentions women traveling for free in local buses, which is a positive development. It doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text mentions women traveling for free in local buses, which is a positive development. It doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "1741",
+    "classification": "misogyny",
+    "explanation": "The text implies that wives are like a monthly expense and that their husbands spend a lot of money on them, including free bus rides. This is a devaluing and condescending view of women.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that wives are like a monthly expense and that their husbands spend a lot of money on them, including free bus rides. This is a devaluing and condescending view of women.\"}"
+  },
+  {
+    "image_id": "592",
+    "classification": "misogyny",
+    "explanation": "The phrase 'cheap ah kidaikum' (literally 'you cheap ones') is a derogatory term used to insult women, implying they are worthless and of low value.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'cheap ah kidaikum' (literally 'you cheap ones') is a derogatory term used to insult women, implying they are worthless and of low value.\"}"
+  },
+  {
+    "image_id": "1182",
+    "classification": "misogyny",
+    "explanation": "The text uses the term 'தோழிக்கும் மனைவி' (wife who cooks) and implies that a good wife should be beaten if she doesn't come home after giving 'good measure' (அளவா அடி). This is a common and outdated trope in Tamil culture that promotes violence against women.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text uses the term 'தோழிக்கும் மனைவி' (wife who cooks) and implies that a good wife should be beaten if she doesn't come home after giving 'good measure' (அளவா அடி). This is a common and outdated trope in Tamil culture that promotes violence against women.\"}"
+  },
+  {
+    "image_id": "1714",
+    "classification": "not-misogyny",
+    "explanation": "The text uses the term 'Machan' which is a common affectionate term for a woman in Tamil. It doesn't express any misogynistic sentiment.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text uses the term 'Machan' which is a common affectionate term for a woman in Tamil. It doesn't express any misogynistic sentiment.\"}"
+  },
+  {
+    "image_id": "1360",
+    "classification": "not-misogyny",
+    "explanation": "The meme focuses on cleavage and the 'Adult Mafia' which is not necessarily misogynistic, just a common Tamil meme theme.",
+    "full_response": "{\"label\": 0, \"reason\": \"The meme focuses on cleavage and the 'Adult Mafia' which is not necessarily misogynistic, just a common Tamil meme theme.\"}"
+  },
+  {
+    "image_id": "1405",
+    "classification": "misogyny",
+    "explanation": "The text implies that a woman's happiness depends on getting married and that she is only valuable if she has a husband. This is a common, and often misogynistic, trope in Tamil culture.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that a woman's happiness depends on getting married and that she is only valuable if she has a husband. This is a common, and often misogynistic, trope in Tamil culture.\"}"
+  },
+  {
+    "image_id": "847",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a happy Diwali conversation and uses affectionate terms like 'Paathu' (like/love) and '❤️❤️'. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a happy Diwali conversation and uses affectionate terms like 'Paathu' (like/love) and '❤️❤️'. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "421",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a software engineer and doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a software engineer and doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "638",
+    "classification": "misogyny",
+    "explanation": "The phrase 'பொன்னந்தின்னி' (ponnanthini) is a somewhat condescending term for a woman, implying she is beautiful and delicate. 'யோவ்' (yov) is a rude interjection. The overall tone is dismissive.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'பொன்னந்தின்னி' (ponnanthini) is a somewhat condescending term for a woman, implying she is beautiful and delicate. 'யோவ்' (yov) is a rude interjection. The overall tone is dismissive.\"}"
+  },
+  {
+    "image_id": "1488",
+    "classification": "not-misogyny",
+    "explanation": "The text is a simple conversation with a slightly humorous tone, referencing a Sunday picture and suggesting the person should book a case (likely a legal one). It doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a simple conversation with a slightly humorous tone, referencing a Sunday picture and suggesting the person should book a case (likely a legal one). It doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "708",
+    "classification": "misogyny",
+    "explanation": "The text uses the vulgar term 'v*rginity' and 'VERA' which is a common and often derogatory term for a woman's virginity. It also contains a dismissive and objectifying phrase 'nee aalu dham lae' (you are like a potato).",
+    "full_response": "{\"label\": 1, \"reason\": \"The text uses the vulgar term 'v*rginity' and 'VERA' which is a common and often derogatory term for a woman's virginity. It also contains a dismissive and objectifying phrase 'nee aalu dham lae' (you are like a potato).\"}"
+  },
+  {
+    "image_id": "528",
+    "classification": "not-misogyny",
+    "explanation": "The text is about comparing followers on social media and paying for them. It doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is about comparing followers on social media and paying for them. It doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "1289",
+    "classification": "misogyny",
+    "explanation": "The phrase 'pakathu veetu aunty' (old, nagging aunt) is a common and often derogatory term used to describe older women, particularly in a way that implies they are annoying and meddling. It's a classic example of misogynistic language.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'pakathu veetu aunty' (old, nagging aunt) is a common and often derogatory term used to describe older women, particularly in a way that implies they are annoying and meddling. It's a classic example of misogynistic language.\"}"
+  },
+  {
+    "image_id": "262",
+    "classification": "misogyny",
+    "explanation": "The phrase 'Naan ready dhan varava annen naan erangi varava' is a Tamil phrase that can be interpreted as 'My husband is ready, but I'm not yet.' It implies that a woman's readiness is dependent on her husband, which is a common and somewhat misogynistic trope in Tamil culture.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'Naan ready dhan varava annen naan erangi varava' is a Tamil phrase that can be interpreted as 'My husband is ready, but I'm not yet.' It implies that a woman's readiness is dependent on her husband, which is a common and somewhat misogynistic trope in Tamil culture.\"}"
+  },
+  {
+    "image_id": "778",
+    "classification": "misogyny",
+    "explanation": "The text suggests the woman is being criticized for spending money on makeup and shopping, implying she is wasting money and that her family is better off. This is a common and potentially misogynistic trope in Tamil culture, where women's spending is often scrutinized and judged.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text suggests the woman is being criticized for spending money on makeup and shopping, implying she is wasting money and that her family is better off. This is a common and potentially misogynistic trope in Tamil culture, where women's spending is often scrutinized and judged.\"}"
+  },
+  {
+    "image_id": "241",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a friend being depressed and suggesting they be jolly. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a friend being depressed and suggesting they be jolly. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1170",
+    "classification": "misogyny",
+    "explanation": "The text implies that women's hairstyles are only noticeable when they are at home, and uses derogatory terms like 'sanki' (idiot) and 'mangi' (foolish).",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that women's hairstyles are only noticeable when they are at home, and uses derogatory terms like 'sanki' (idiot) and 'mangi' (foolish).\"}"
+  },
+  {
+    "image_id": "953",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a meme about an ad for 'Mokka Memes 2.0' and mentions Balaji Book Stall. It doesn't contain any misogynistic language or stereotypes.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a meme about an ad for 'Mokka Memes 2.0' and mentions Balaji Book Stall. It doesn't contain any misogynistic language or stereotypes.\"}"
+  },
+  {
+    "image_id": "926",
+    "classification": "not-misogyny",
+    "explanation": "The text describes the behavior of 90s kids watching movies, not misogynistic.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes the behavior of 90s kids watching movies, not misogynistic.\"}"
+  },
+  {
+    "image_id": "821",
+    "classification": "misogyny",
+    "explanation": "The text uses derogatory terms like 'டேய்' (Hey) and 'National Crush' in a way that can be seen as objectifying and condescending towards women.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text uses derogatory terms like 'டேய்' (Hey) and 'National Crush' in a way that can be seen as objectifying and condescending towards women.\"}"
+  },
+  {
+    "image_id": "594",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a woman (Muthu Kutti) as 'dolis' (a slightly condescending term for a woman) and says she is 'alaga' (good), but it's overall a positive and playful description, not misogynistic.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a woman (Muthu Kutti) as 'dolis' (a slightly condescending term for a woman) and says she is 'alaga' (good), but it's overall a positive and playful description, not misogynistic.\"}"
+  },
+  {
+    "image_id": "416",
+    "classification": "not-misogyny",
+    "explanation": "The text describes the trailer of a movie and doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes the trailer of a movie and doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "72",
+    "classification": "not-misogyny",
+    "explanation": "The text is about a movie and general feelings about the generation. It doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is about a movie and general feelings about the generation. It doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "366",
+    "classification": "not-misogyny",
+    "explanation": "It's a simple observation about best friends during a fight. No misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a simple observation about best friends during a fight. No misogynistic elements.\"}"
+  },
+  {
+    "image_id": "260",
+    "classification": "misogyny",
+    "explanation": "The phrase 'konjo sanda poduratha' (literally 'like a girl who is crying and complaining') is a common, often derogatory, way to describe a woman, implying she is overly emotional and weak.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'konjo sanda poduratha' (literally 'like a girl who is crying and complaining') is a common, often derogatory, way to describe a woman, implying she is overly emotional and weak.\"}"
+  },
+  {
+    "image_id": "52",
+    "classification": "misogyny",
+    "explanation": "The text implies that a woman who is late to meet up is like a broken thing, which is a common misogynistic trope.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that a woman who is late to meet up is like a broken thing, which is a common misogynistic trope.\"}"
+  },
+  {
+    "image_id": "1226",
+    "classification": "not-misogyny",
+    "explanation": "The meme describes a humorous situation where the wife won second place in a costume contest and the husband jokingly suggests she would have won first if she had dressed as a 'lioness'. It's a lighthearted and not misogynistic comment.",
+    "full_response": "{\"label\": 0, \"reason\": \"The meme describes a humorous situation where the wife won second place in a costume contest and the husband jokingly suggests she would have won first if she had dressed as a 'lioness'. It's a lighthearted and not misogynistic comment.\"}"
+  },
+  {
+    "image_id": "911",
+    "classification": "not-misogyny",
+    "explanation": "The meme describes a woman asking a man to give her food, it's a common and not offensive interaction.",
+    "full_response": "{\"label\": 0, \"reason\": \"The meme describes a woman asking a man to give her food, it's a common and not offensive interaction.\"}"
+  },
+  {
+    "image_id": "1659",
+    "classification": "not-misogyny",
+    "explanation": "The text mentions that women can travel for free in city buses starting from May 8, as announced by the Chief Minister M.K. Stalin. It doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text mentions that women can travel for free in city buses starting from May 8, as announced by the Chief Minister M.K. Stalin. It doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "1205",
+    "classification": "misogyny",
+    "explanation": "The text uses a disrespectful term ('டேய்') and implies the wife is only valued for her appearance and ability to have children. It's a common, slightly condescending way to address a wife in Tamil.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text uses a disrespectful term ('டேய்') and implies the wife is only valued for her appearance and ability to have children. It's a common, slightly condescending way to address a wife in Tamil.\"}"
+  },
+  {
+    "image_id": "917",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a prank that went wrong. It doesn't contain any misogynistic remarks or offensive language towards women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a prank that went wrong. It doesn't contain any misogynistic remarks or offensive language towards women.\"}"
+  },
+  {
+    "image_id": "372",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a Tamil meme and doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a Tamil meme and doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1704",
+    "classification": "misogyny",
+    "explanation": "The phrase 'Munjiyum mogarayum paaru' (meaning 'rest of the days you will be like this') implies women are only good during Women's Day and are otherwise like a bull, which is a common misogynistic stereotype.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'Munjiyum mogarayum paaru' (meaning 'rest of the days you will be like this') implies women are only good during Women's Day and are otherwise like a bull, which is a common misogynistic stereotype.\"}"
+  },
+  {
+    "image_id": "433",
+    "classification": "not-misogyny",
+    "explanation": "The text implies a question about contribution, not necessarily misogynistic. 'Ayya' is a common term of address and 'poda' is a colloquial term, not inherently offensive.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text implies a question about contribution, not necessarily misogynistic. 'Ayya' is a common term of address and 'poda' is a colloquial term, not inherently offensive.\"}"
+  },
+  {
+    "image_id": "1256",
+    "classification": "misogyny",
+    "explanation": "The phrase 'Gundu girls' (meaning 'fat girls') is a derogatory term and clearly misogynistic, implying that girls should be thin and beautiful.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'Gundu girls' (meaning 'fat girls') is a derogatory term and clearly misogynistic, implying that girls should be thin and beautiful.\"}"
+  },
+  {
+    "image_id": "409",
+    "classification": "not-misogyny",
+    "explanation": "The text is a Tamil meme referencing a common situation (apartment) and uses playful language ('motor') without any obvious misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a Tamil meme referencing a common situation (apartment) and uses playful language ('motor') without any obvious misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1584",
+    "classification": "misogyny",
+    "explanation": "The meme describes the husband hitting his wife, which is a common trope for domestic violence. It's a somewhat humorous depiction, but it still reinforces a negative stereotype of men hitting women.",
+    "full_response": "{\"label\": 1, \"reason\": \"The meme describes the husband hitting his wife, which is a common trope for domestic violence. It's a somewhat humorous depiction, but it still reinforces a negative stereotype of men hitting women.\"}"
+  },
+  {
+    "image_id": "615",
+    "classification": "not-misogyny",
+    "explanation": "The text refers to 'ilam ner' (young coconut) and its price. It doesn't contain any misogynistic remarks or offensive language towards women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text refers to 'ilam ner' (young coconut) and its price. It doesn't contain any misogynistic remarks or offensive language towards women.\"}"
+  },
+  {
+    "image_id": "756",
+    "classification": "not-misogyny",
+    "explanation": "The text simply describes a situation and doesn't contain any misogynistic remarks or stereotypes about women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text simply describes a situation and doesn't contain any misogynistic remarks or stereotypes about women.\"}"
+  },
+  {
+    "image_id": "1051",
+    "classification": "not-misogyny",
+    "explanation": "The text simply describes a conversation. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text simply describes a conversation. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "515",
+    "classification": "not-misogyny",
+    "explanation": "",
+    "full_response": ""
+  },
+  {
+    "image_id": "142",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a meme and uses positive emojis. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a meme and uses positive emojis. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1139",
+    "classification": "misogyny",
+    "explanation": "The phrase '2K Girl' (meaning 2000 Rupees) reduces a woman's value to her financial status, implying she's only worth something if she has money. The '🥵' emoji adds to the objectification.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase '2K Girl' (meaning 2000 Rupees) reduces a woman's value to her financial status, implying she's only worth something if she has money. The '🥵' emoji adds to the objectification.\"}"
+  },
+  {
+    "image_id": "1233",
+    "classification": "not-misogyny",
+    "explanation": "The text is about a photo trend from the 90s and doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is about a photo trend from the 90s and doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1660",
+    "classification": "not-misogyny",
+    "explanation": "The text announces that all women can travel for free in city buses on May 8th, as announced by the Chief Minister. It's a positive announcement and doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text announces that all women can travel for free in city buses on May 8th, as announced by the Chief Minister. It's a positive announcement and doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1349",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a woman's appearance (hair) and a man's opinion, it's not necessarily misogynistic.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a woman's appearance (hair) and a man's opinion, it's not necessarily misogynistic.\"}"
+  },
+  {
+    "image_id": "417",
+    "classification": "not-misogyny",
+    "explanation": "The text is about planning a date and comparing different places to go. It doesn't contain any misogynistic remarks or offensive language towards women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is about planning a date and comparing different places to go. It doesn't contain any misogynistic remarks or offensive language towards women.\"}"
+  },
+  {
+    "image_id": "1469",
+    "classification": "misogyny",
+    "explanation": "The text implies that women are only good for doing household chores and are only useful when they are doing that. This is a common and often misogynistic stereotype in India.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that women are only good for doing household chores and are only useful when they are doing that. This is a common and often misogynistic stereotype in India.\"}"
+  },
+  {
+    "image_id": "272",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a common scene of a young woman drinking juice late at night. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a common scene of a young woman drinking juice late at night. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "185",
+    "classification": "not-misogyny",
+    "explanation": "The text is a simple conversation with a slight insult ('insult panra...'), but it doesn't contain any clear misogynistic remarks or stereotypes about women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a simple conversation with a slight insult ('insult panra...'), but it doesn't contain any clear misogynistic remarks or stereotypes about women.\"}"
+  },
+  {
+    "image_id": "757",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a work situation and a request for leave. It doesn't contain any misogynistic remarks or offensive language towards women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a work situation and a request for leave. It doesn't contain any misogynistic remarks or offensive language towards women.\"}"
+  },
+  {
+    "image_id": "245",
+    "classification": "not-misogyny",
+    "explanation": "The text is a simple meme about a girl (Muthu Kutti) getting a seat. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a simple meme about a girl (Muthu Kutti) getting a seat. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "440",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a movie teaser and talks about modern love. It doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a movie teaser and talks about modern love. It doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "661",
+    "classification": "not-misogyny",
+    "explanation": "The text is a description of a Tamil meme and doesn't contain any misogynistic language or stereotypes.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a description of a Tamil meme and doesn't contain any misogynistic language or stereotypes.\"}"
+  },
+  {
+    "image_id": "1766",
+    "classification": "misogyny",
+    "explanation": "The meme compares a woman to a pot of sambar (a lentil stew), suggesting she will be overwhelmed and diluted if men express too much anger. This is a common trope used to demean women and imply they are passive and easily dominated.",
+    "full_response": "{\"label\": 1, \"reason\": \"The meme compares a woman to a pot of sambar (a lentil stew), suggesting she will be overwhelmed and diluted if men express too much anger. This is a common trope used to demean women and imply they are passive and easily dominated.\"}"
+  },
+  {
+    "image_id": "323",
+    "classification": "not-misogyny",
+    "explanation": "",
+    "full_response": ""
+  },
+  {
+    "image_id": "817",
+    "classification": "not-misogyny",
+    "explanation": "It's a simple Tamil meme about love and failure. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a simple Tamil meme about love and failure. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "889",
+    "classification": "not-misogyny",
+    "explanation": "The text simply describes a song and doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text simply describes a song and doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "590",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a peaceful trip to the temple and doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a peaceful trip to the temple and doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1318",
+    "classification": "misogyny",
+    "explanation": "The text describes women as 'rugged' and 'asingam' (meaning 'unattractive'), implying they need to be made more appealing to men. This is a common and often misogynistic trope in Tamil culture.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text describes women as 'rugged' and 'asingam' (meaning 'unattractive'), implying they need to be made more appealing to men. This is a common and often misogynistic trope in Tamil culture.\"}"
+  },
+  {
+    "image_id": "1290",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a woman who is beautiful and covers her face, but it doesn't express any misogynistic sentiment.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a woman who is beautiful and covers her face, but it doesn't express any misogynistic sentiment.\"}"
+  },
+  {
+    "image_id": "251",
+    "classification": "not-misogyny",
+    "explanation": "",
+    "full_response": ""
+  },
+  {
+    "image_id": "701",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a lyrical video starring Ishaaon and Prranali Alagu. It's a simple description and doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a lyrical video starring Ishaaon and Prranali Alagu. It's a simple description and doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1162",
+    "classification": "misogyny",
+    "explanation": "The text implies that the woman is forgiven for cheating, but she will be judged for not calling the speaker 'mama' (uncle), which is a common term for a man and a woman's father. This is a subtle form of misogyny, suggesting that a woman's primary role is to be a mother and that she should show respect to the man's father.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that the woman is forgiven for cheating, but she will be judged for not calling the speaker 'mama' (uncle), which is a common term for a man and a woman's father. This is a subtle form of misogyny, suggesting that a woman's primary role is to be a mother and that she should show respect to the man's father.\"}"
+  },
+  {
+    "image_id": "415",
+    "classification": "not-misogyny",
+    "explanation": "The text is a simple meme about rain and tea. It doesn't contain any misogynistic language or stereotypes.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a simple meme about rain and tea. It doesn't contain any misogynistic language or stereotypes.\"}"
+  },
+  {
+    "image_id": "383",
+    "classification": "not-misogyny",
+    "explanation": "The text is a simple description of a Tamil IPL script and doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a simple description of a Tamil IPL script and doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "839",
+    "classification": "misogyny",
+    "explanation": "The text implies that women's love is less reliable than men's, suggesting a lower value of women's love and a common misogynistic trope.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that women's love is less reliable than men's, suggesting a lower value of women's love and a common misogynistic trope.\"}"
+  },
+  {
+    "image_id": "1651",
+    "classification": "not-misogyny",
+    "explanation": "The text describes how Ivan (from Vijay TV's Little Princess) is like Arjuna, a great warrior. It suggests that future husbands should also be like him, but it doesn't express any misogynistic views about women.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes how Ivan (from Vijay TV's Little Princess) is like Arjuna, a great warrior. It suggests that future husbands should also be like him, but it doesn't express any misogynistic views about women.\"}"
+  },
+  {
+    "image_id": "980",
+    "classification": "not-misogyny",
+    "explanation": "The text describes earning money from followers and sharing Tamil memes. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes earning money from followers and sharing Tamil memes. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1145",
+    "classification": "not-misogyny",
+    "explanation": "The text is about weight and comparing oneself to a butterfly. It doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is about weight and comparing oneself to a butterfly. It doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "495",
+    "classification": "misogyny",
+    "explanation": "The text implies that a woman is enjoying a snack (pakuriya) while the man waits for her to finish, suggesting she is only valued for her consumption and enjoyment.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that a woman is enjoying a snack (pakuriya) while the man waits for her to finish, suggesting she is only valued for her consumption and enjoyment.\"}"
+  },
+  {
+    "image_id": "951",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a woman who likes to eat rice and upma. It's a simple observation and doesn't express any misogynistic sentiment.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a woman who likes to eat rice and upma. It's a simple observation and doesn't express any misogynistic sentiment.\"}"
+  },
+  {
+    "image_id": "399",
+    "classification": "not-misogyny",
+    "explanation": "The text describes memes about women attending movies and events, and taking photos. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes memes about women attending movies and events, and taking photos. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1346",
+    "classification": "misogyny",
+    "explanation": "The phrase 'nalla paal maadু' (bad milk) is used to describe a girl, implying she is unpleasant or inferior. It's a common, slightly derogatory way to talk about women in Tamil.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'nalla paal maadু' (bad milk) is used to describe a girl, implying she is unpleasant or inferior. It's a common, slightly derogatory way to talk about women in Tamil.\"}"
+  },
+  {
+    "image_id": "171",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a movie and its entertainment value. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a movie and its entertainment value. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1050",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a conversation about love and marriage, without any clear misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a conversation about love and marriage, without any clear misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "1202",
+    "classification": "not-misogyny",
+    "explanation": "The text mentions a woman (Pandian MC) and her husband's child, and that the woman has been having stomach problems for two days. It's a common complaint and doesn't express any misogynistic sentiment.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text mentions a woman (Pandian MC) and her husband's child, and that the woman has been having stomach problems for two days. It's a common complaint and doesn't express any misogynistic sentiment.\"}"
+  },
+  {
+    "image_id": "428",
+    "classification": "misogyny",
+    "explanation": "The phrase 'kosu vathi' (put kosu vathi) refers to a sexual act. 'Thayavu' is a derogatory term for women. The overall meme is likely mocking women and their bodies.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'kosu vathi' (put kosu vathi) refers to a sexual act. 'Thayavu' is a derogatory term for women. The overall meme is likely mocking women and their bodies.\"}"
+  },
+  {
+    "image_id": "301",
+    "classification": "not-misogyny",
+    "explanation": "It's a general observation about women superheroes, not specifically misogynistic.",
+    "full_response": "{\"label\": 0, \"reason\": \"It's a general observation about women superheroes, not specifically misogynistic.\"}"
+  },
+  {
+    "image_id": "1666",
+    "classification": "misogyny",
+    "explanation": "The text highlights that women can travel for free on buses on May 8, but then immediately states that women get free travel while men have to pay. This implies that women are different and need special treatment, which can be seen as a subtle form of misogyny.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text highlights that women can travel for free on buses on May 8, but then immediately states that women get free travel while men have to pay. This implies that women are different and need special treatment, which can be seen as a subtle form of misogyny.\"}"
+  },
+  {
+    "image_id": "395",
+    "classification": "not-misogyny",
+    "explanation": "The text is about a football match and doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is about a football match and doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "1236",
+    "classification": "misogyny",
+    "explanation": "The phrase 'இது என் பொண்டாட்டிக்கு தெரியாம பாத்துகனுமே' (Let her not know, I ate it) implies that the speaker is eating food secretly, and the term 'பொண்டாட்டி' (pondaaṭṭi) which means 'wife' is often used in a somewhat condescending or possessive way, suggesting she is only for serving food.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'இது என் பொண்டாட்டிக்கு தெரியாம பாத்துகனுமே' (Let her not know, I ate it) implies that the speaker is eating food secretly, and the term 'பொண்டாட்டி' (pondaaṭṭi) which means 'wife' is often used in a somewhat condescending or possessive way, suggesting she is only for serving food.\"}"
+  },
+  {
+    "image_id": "1054",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a romantic feeling towards a woman, focusing on her beauty and charm. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a romantic feeling towards a woman, focusing on her beauty and charm. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "507",
+    "classification": "not-misogyny",
+    "explanation": "The text describes the movie trailer and performance, with 'VERA LEVEL' (meaning 'very') which is a positive compliment. No misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes the movie trailer and performance, with 'VERA LEVEL' (meaning 'very') which is a positive compliment. No misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1738",
+    "classification": "not-misogyny",
+    "explanation": "",
+    "full_response": ""
+  },
+  {
+    "image_id": "1028",
+    "classification": "misogyny",
+    "explanation": "The phrase 'En ponnu amaidhiyana ponnu' (Our woman is our woman) is a common phrase used to suggest women are possessions. 'Nimara mata' (like a mother) is often used sarcastically to imply women are only good for bearing children.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'En ponnu amaidhiyana ponnu' (Our woman is our woman) is a common phrase used to suggest women are possessions. 'Nimara mata' (like a mother) is often used sarcastically to imply women are only good for bearing children.\"}"
+  },
+  {
+    "image_id": "1418",
+    "classification": "not-misogyny",
+    "explanation": "The text describes the growth of mangoes in the winter season, and uses a cute emoji. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes the growth of mangoes in the winter season, and uses a cute emoji. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "530",
+    "classification": "misogyny",
+    "explanation": "The phrase 'hot af looking photo' objectifies women by focusing on their appearance. 'Kadupethify' is a slang term that implies making someone look like a commoner, which can be demeaning. 'VERA LEVEL MEMES' and 'Gethu kaatiyadhaga unargirar' (meaning 'they will be furious') further reinforce the idea of women being easily provoked and reacting with anger, a common misogynistic trope.'",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'hot af looking photo' objectifies women by focusing on their appearance. 'Kadupethify' is a slang term that implies making someone look like a commoner, which can be demeaning. 'VERA LEVEL MEMES' and 'Gethu kaatiyadhaga unargirar' (meaning 'they will be furious') further reinforce the idea of women being easily provoked and reacting with anger, a common misogynistic trope.'\"}"
+  },
+  {
+    "image_id": "1109",
+    "classification": "not-misogyny",
+    "explanation": "The text is a typical Tamil meme about a crush and online dating. It doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text is a typical Tamil meme about a crush and online dating. It doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "1719",
+    "classification": "not-misogyny",
+    "explanation": "The text describes the concept of spending money and how it's related to living a good life. It doesn't contain any misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes the concept of spending money and how it's related to living a good life. It doesn't contain any misogynistic elements.\"}"
+  },
+  {
+    "image_id": "555",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a woman's preferences (movies, cricket, money) and suggests she's depressed. It's not inherently misogynistic, just a relatable observation.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a woman's preferences (movies, cricket, money) and suggests she's depressed. It's not inherently misogynistic, just a relatable observation.\"}"
+  },
+  {
+    "image_id": "176",
+    "classification": "not-misogyny",
+    "explanation": "The text uses 'Ayya' which is a common term of endearment for women in Tamil. It's not offensive.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text uses 'Ayya' which is a common term of endearment for women in Tamil. It's not offensive.\"}"
+  },
+  {
+    "image_id": "1627",
+    "classification": "misogyny",
+    "explanation": "The text implies that a woman didn't ask for tea, and that she was told to do it by someone else. It suggests she's subservient and that her actions are dictated by men, which is a common trope in misogynistic memes.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text implies that a woman didn't ask for tea, and that she was told to do it by someone else. It suggests she's subservient and that her actions are dictated by men, which is a common trope in misogynistic memes.\"}"
+  },
+  {
+    "image_id": "620",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a comedy series and doesn't contain any misogynistic remarks.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a comedy series and doesn't contain any misogynistic remarks.\"}"
+  },
+  {
+    "image_id": "1237",
+    "classification": "misogyny",
+    "explanation": "The text uses derogatory terms like 'சாளிச்கட்டு' (chilly cut) and 'பைத்தியம்' (mad) to describe the mother, implying she is foolish and potentially dangerous. The phrase 'உன் அப்படியே கொன்றுவேன்' (I will kill you) is also a threat, contributing to a misogynistic tone.",
+    "full_response": "{\"label\": 1, \"reason\": \"The text uses derogatory terms like 'சாளிச்கட்டு' (chilly cut) and 'பைத்தியம்' (mad) to describe the mother, implying she is foolish and potentially dangerous. The phrase 'உன் அப்படியே கொன்றுவேன்' (I will kill you) is also a threat, contributing to a misogynistic tone.\"}"
+  },
+  {
+    "image_id": "1010",
+    "classification": "misogyny",
+    "explanation": "The phrase 'Dei pooi clean shave' (literally 'Mom, do a clean shave') is a common Tamil insult implying the woman is unattractive and needs to change herself to be desirable. The overall context of the family laughing at this is also misogynistic.",
+    "full_response": "{\"label\": 1, \"reason\": \"The phrase 'Dei pooi clean shave' (literally 'Mom, do a clean shave') is a common Tamil insult implying the woman is unattractive and needs to change herself to be desirable. The overall context of the family laughing at this is also misogynistic.\"}"
+  },
+  {
+    "image_id": "744",
+    "classification": "not-misogyny",
+    "explanation": "The text describes a sports victory, with no clear misogynistic elements.",
+    "full_response": "{\"label\": 0, \"reason\": \"The text describes a sports victory, with no clear misogynistic elements.\"}"
+  },
+  {
+    "image_id": "1262",
+    "classification": "misogyny",
+    "explanation": "The meme portrays mothers as having to give up their last kiss to a husband to give their child a 'harlicks' (a slang term for a good time), implying that women are solely responsible for their children's pleasure and are willing to sacrifice their own.",
+    "full_response": "{\"label\": 1, \"reason\": \"The meme portrays mothers as having to give up their last kiss to a husband to give their child a 'harlicks' (a slang term for a good time), implying that women are solely responsible for their children's pleasure and are willing to sacrifice their own.\"}"
+  }
+]

@@ -1,0 +1,1783 @@
+CC-MMD 2026 — Misogyny Meme Classification Results
+==================================================
+
+Image ID      : 1193
+Classification: misogyny
+Explanation   : The meme portrays a man making a flirtatious comment about his wife's appearance, which is met with anger from her. This type of humor often trivializes women's feelings and can be seen as devaluing their emotional responses, which aligns with misogynistic attitudes.
+--------------------------------------------------
+
+Image ID      : 427
+Classification: not-misogyny
+Explanation   : The image shows a group of people in what appears to be a casual setting, possibly a studio or office, engaged in a discussion about ratings. The transcription text does not contain any explicit or implicit content that could be interpreted as misogynistic. There is no indication of gender-based discrimination or derogatory language towards women in the context provided.
+--------------------------------------------------
+
+Image ID      : 1474
+Classification: misogyny
+Explanation   : The meme uses the phrase 'IRUKKU EDHO ULLA IRUKKU', which is a colloquial expression in Tamil that translates to 'I am here, I am here' or 'I am present'. This phrase is often used in a mocking or dismissive manner towards women, implying that they are not taken seriously or are being ignored. The image of a woman in an orange dress standing confidently does not counteract this negative connotation, thus reinforcing the misogynistic message.
+--------------------------------------------------
+
+Image ID      : 766
+Classification: not-misogyny
+Explanation   : The transcription does not contain any content that could be interpreted as misogynistic. The text praises the director for providing a quality film on a sensitive topic, which is not related to gender-based criticism or discrimination.
+--------------------------------------------------
+
+Image ID      : 486
+Classification: misogyny
+Explanation   : The dialogue in the image portrays a father dismissing his daughter's opinion about love, suggesting that men should be the ones to decide on matters related to love. This reflects a patriarchal view where women's opinions are not valued equally, which is considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 480
+Classification: misogyny
+Explanation   : The meme contains a statement that suggests women should be treated as cameras during Ramadan, which is a form of objectifying women and devaluing their role in society. This aligns with misogynistic attitudes prevalent in some cultures.
+--------------------------------------------------
+
+Image ID      : 110
+Classification: misogyny
+Explanation   : The meme contains a statement that suggests a preference for AR Rahman's concert over Vijay Antony's, which could be interpreted as a form of gender bias or discrimination against male artists, aligning with misogynistic undertones in some cultural contexts.
+--------------------------------------------------
+
+Image ID      : 775
+Classification: not-misogyny
+Explanation   : The meme does not contain any explicit or implicit content that promotes or perpetuates gender-based discrimination or stereotypes against women. The text and images do not suggest any form of misogyny.
+--------------------------------------------------
+
+Image ID      : 1388
+Classification: misogyny
+Explanation   : The meme uses derogatory language towards women, specifically targeting 'akka' (mother-in-law), which is often associated with negative stereotypes in Indian culture. The phrase 'thambi touches akka pussy' is highly offensive and degrading towards women.
+--------------------------------------------------
+
+Image ID      : 1189
+Classification: misogyny
+Explanation   : The meme depicts scenes from Tamil films where women are shown in intimate and suggestive poses with men, which can be interpreted as objectifying them. The text mentions siblings acting in movies, but the visual content suggests a focus on the women's bodies rather than their characters or roles, which may be seen as degrading or objectifying in some contexts.
+--------------------------------------------------
+
+Image ID      : 1721
+Classification: misogyny
+Explanation   : The meme uses a common phrase in Tamil that equates a woman's worth to her physical appearance, which is a form of objectification and devaluation of women, thus promoting misogyny.
+--------------------------------------------------
+
+Image ID      : 531
+Classification: misogyny
+Explanation   : The meme uses a dog's image in a way that suggests a woman is being objectified by her appearance, which is a common form of misogyny in some cultures. The text 'Kandipa chatting panitu dhan irupan' translates to 'She is talking about money while wearing a revealing outfit,' implying that the woman's worth is defined by her appearance rather than her character or actions.
+--------------------------------------------------
+
+Image ID      : 985
+Classification: misogyny
+Explanation   : The meme includes a caption in Tamil that translates to 'Every boy dreams of having a mother-in-law like this, and then they get married.' This statement perpetuates harmful stereotypes about women, particularly mothers-in-law, which is considered misogynistic in Indian culture.
+--------------------------------------------------
+
+Image ID      : 539
+Classification: misogyny
+Explanation   : The Tamil text in the meme translates to 'Room is not available, there's no water, I don't know what to do 😩'. The use of 'Naragam pa athu' (I don't know what to do) followed by a facepalm emoji suggests frustration and helplessness, which can be interpreted as a form of misogyny towards women, as it implies that women are the cause of these problems. This aligns with the cultural context where women are often blamed for household issues in some parts of India.
+--------------------------------------------------
+
+Image ID      : 1058
+Classification: misogyny
+Explanation   : The meme uses the phrase 'Ennada idu ellam saapdama poranga!!' which translates to 'My mom is the best cook in the world!!', implying that the mother's cooking is superior to all others. This can be seen as a form of gendered praise, which may be interpreted as implicitly suggesting that men's cooking skills are inferior, thus promoting a gender stereotype.
+--------------------------------------------------
+
+Image ID      : 678
+Classification: misogyny
+Explanation   : The meme contains a conversation where the mother's response is dismissive and condescending towards the son's request for a different type of sambar, which is a common trope in memes that portray women as authoritative figures who make decisions without considering the son's preferences. This reflects a stereotypical and potentially misogynistic portrayal of women in Indian culture.
+--------------------------------------------------
+
+Image ID      : 1102
+Classification: misogyny
+Explanation   : The meme uses a dog crying to represent a woman being told she is not good enough for a man, which is a common trope in misogynistic humor. The text reinforces this by saying 'before 10 years, I told you that you are not good enough for me,' indicating a dismissive attitude towards women's worth and capabilities.
+--------------------------------------------------
+
+Image ID      : 317
+Classification: misogyny
+Explanation   : The meme uses a phrase that translates to 'Smith: Annan pitch la paduthuten cup vangitu vandhu sandhipom', which is a derogatory term for women in Tamil. The context of the image, showing men in traditional attire, further emphasizes the cultural sensitivity and potential for offense towards women.
+--------------------------------------------------
+
+Image ID      : 1150
+Classification: misogyny
+Explanation   : The meme contains derogatory language towards women, using terms that are considered offensive in Tamil culture. The text includes phrases like 'போகாதீங்க டோழி' which translates to 'don't go out, you b*tch', and 'போறாங்கடி வெண்ணமவளே' which is a vulgar term for a woman. These expressions are clearly misogynistic.
+--------------------------------------------------
+
+Image ID      : 931
+Classification: misogyny
+Explanation   : The meme depicts a situation where a man is misled into thinking a woman is single, only to find out she is already married. This scenario is often used in memes to highlight the societal pressure on men to marry and the potential for deception in relationships, which can be seen as a form of misogyny by objectifying women's marital status and their ability to deceive men.
+--------------------------------------------------
+
+Image ID      : 345
+Classification: misogyny
+Explanation   : The meme contains a reference to 'ponnu venum' which is a term used to describe a woman's breasts in a derogatory manner. This language is considered misogynistic in Indian culture.
+--------------------------------------------------
+
+Image ID      : 591
+Classification: misogyny
+Explanation   : The transcription includes a statement that suggests a woman should be free from work for 50 days after childbirth, which is a culturally insensitive and potentially harmful stereotype about women's roles in society.
+--------------------------------------------------
+
+Image ID      : 949
+Classification: misogyny
+Explanation   : The meme uses the phrase 'Ippa Seriyagidum Poo...' which is a colloquial expression in Tamil that translates to 'I'll kick your ass' or 'I'll beat you up'. This phrase is often used in a confrontational manner and can be interpreted as aggressive or violent towards women, thus contributing to a misogynistic tone.
+--------------------------------------------------
+
+Image ID      : 786
+Classification: misogyny
+Explanation   : The meme contains a reference to women wearing sarees and chudis, which are traditional Indian garments, while suggesting that men should wear modern trousers. This implies a preference for men's attire over women's, which can be seen as a form of gender discrimination and is therefore misogynistic.
+--------------------------------------------------
+
+Image ID      : 882
+Classification: misogyny
+Explanation   : The meme uses a phrase 'Vaathiyare Bike eh illama Bike la Porom Vaathiyare...' which translates to 'This bike is like that bike, it's just a copy...'. This phrase is often used in a derogatory manner towards women, implying they are imitating men without originality. The context and tone of the meme suggest a negative stereotype about women's abilities or choices, which aligns with misogynistic content.
+--------------------------------------------------
+
+Image ID      : 562
+Classification: misogyny
+Explanation   : The meme includes the text 'Ennada oruthanum mathika matreenga?' which translates to 'Is it just a woman's fault?' in English. This phrase is often used to blame women for problems or misfortunes, which is a form of gender-based discrimination and can be considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 1141
+Classification: misogyny
+Explanation   : The meme uses derogatory language towards women, specifically calling them 'irundhuchu' which is a term used to describe women in a derogatory manner in some Indian cultures. The use of such language in a meme format is considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 304
+Classification: not-misogyny
+Explanation   : The transcription does not contain any explicit or implicit content that can be interpreted as misogynistic. The text discusses personal struggles like depression and work pressure, which are common themes in social media posts but do not carry a misogynistic undertone.
+--------------------------------------------------
+
+Image ID      : 221
+Classification: misogyny
+Explanation   : The image depicts a scene from a Tamil movie where a character is being praised by a group of men. The text mentions 'fafa character' which could be interpreted as a derogatory term for women in some contexts. Additionally, the use of the hashtag #dharshanmc suggests a reference to a specific actor or character, which might imply a focus on male characters or their portrayal. The overall tone and context suggest a possible critique or commentary on gender roles within the film industry, which aligns with misogynistic themes.
+--------------------------------------------------
+
+Image ID      : 1272
+Classification: misogyny
+Explanation   : The image depicts women in a confrontational manner, which could be interpreted as aggressive or violent towards men, aligning with traditional gender roles where women are often portrayed as dominant or aggressive in such contexts. The text also includes laughing emojis, suggesting a mocking tone towards the depicted scenario.
+--------------------------------------------------
+
+Image ID      : 1081
+Classification: misogyny
+Explanation   : The meme uses a phrase that implies girls should wear revealing clothes to get more likes, which is a form of objectification and promotes unrealistic beauty standards, thus carrying misogynistic undertones.
+--------------------------------------------------
+
+Image ID      : 742
+Classification: misogyny
+Explanation   : The meme uses a stereotypical portrayal of a man as lazy and unwilling to work, which can be seen as a form of misogyny. The text suggests that the person should take sick leave instead of coming to work, implying a lack of responsibility and work ethic, which is often associated with men in certain cultural contexts.
+--------------------------------------------------
+
+Image ID      : 1269
+Classification: misogyny
+Explanation   : The meme depicts a woman carrying an excessive amount of weight, which is often used in memes to stereotype women as weak or burdened. The accompanying text further emphasizes this by mentioning 'kappamavane' (a term for a woman who is weak or easily tired), suggesting that the woman's strength is being questioned and undermined. This portrayal aligns with misogynistic themes prevalent in some Indian culture where women are often depicted as physically weaker than men.
+--------------------------------------------------
+
+Image ID      : 600
+Classification: misogyny
+Explanation   : The transcription includes a statement that translates to 'If you don't know the girl's name in your class, then you're a fool,' which is a derogatory comment about women, implying that not knowing their names makes one less intelligent or knowledgeable. This aligns with misogynistic attitudes prevalent in some Indian cultures.
+--------------------------------------------------
+
+Image ID      : 325
+Classification: misogyny
+Explanation   : The meme includes a dialogue where the manager/TL dismisses the importance of the call by saying 'antha call la nee enna pesuna enna nadanthuchu nu naa kekala', which translates to 'This call was not important at all'. This statement implies that the call was trivial and not worth mentioning, which can be seen as devaluing the person's effort and time, potentially reflecting a gendered bias against women's work in professional settings.
+--------------------------------------------------
+
+Image ID      : 1711
+Classification: misogyny
+Explanation   : The transcription text includes phrases like 'களைப்பு' (sorrow), 'சோர்வு' (sorrow), and 'மயக்கம்' (doubt), which are often used in a negative context towards women in Tamil culture. The phrase 'புருஷன திட்டும் போது மட்டும்' suggests that women's emotions and concerns are only valid when men make decisions, which is a form of gender discrimination. The overall tone and content of the text are indicative of misogynistic attitudes.
+--------------------------------------------------
+
+Image ID      : 943
+Classification: misogyny
+Explanation   : The meme uses the phrase "Dad's Little Princess" which is a derogatory term often used to belittle women, especially in the context of their relationship with their father. The image also shows a woman being scolded by a man, reinforcing the idea that women are subservient and should follow their husbands' commands. This aligns with traditional patriarchal views and is considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 549
+Classification: not-misogyny
+Explanation   : The transcription does not contain any content that is inherently misogynistic. The text appears to be a quote from a movie or TV show, expressing a violent intent, but there is no indication of gender-based discrimination or derogatory language towards women.
+--------------------------------------------------
+
+Image ID      : 830
+Classification: misogyny
+Explanation   : The meme includes derogatory language towards women, using terms like 'Bun' which is often used in a disrespectful manner in Tamil culture. The repeated use of this term in the context of the image suggests a misogynistic tone.
+--------------------------------------------------
+
+Image ID      : 1366
+Classification: misogyny
+Explanation   : The meme includes derogatory language directed at women, such as 'Porikki Anna' and 'Angry Thangachi', which are terms used to belittle women in Tamil culture. The use of these terms, along with the overall tone of the meme, suggests a misogynistic intent.
+--------------------------------------------------
+
+Image ID      : 382
+Classification: misogyny
+Explanation   : The meme uses the phrase 'He~Edhuna purinjidha', which is a colloquial expression in Tamil that can be interpreted as a derogatory term for women, often used in a dismissive or belittling manner. This aligns with the context provided by the OCR transcription, suggesting a scenario where someone is being criticized or belittled after receiving KT (knowledge transfer) from a senior. The use of such language in a meme format contributes to a negative portrayal of women, thus classifying it as misogynistic.
+--------------------------------------------------
+
+Image ID      : 1450
+Classification: misogyny
+Explanation   : The meme portrays the wife as critical and ungrateful towards her husband, which is a common trope in some Indian cultural narratives. The husband's response, while humorous, does not address the wife's concerns constructively but rather dismisses them, reinforcing a negative stereotype about women's behavior and expectations in relationships.
+--------------------------------------------------
+
+Image ID      : 30
+Classification: misogyny
+Explanation   : The Tamil text in the meme translates to 'I am so excited for this trailer that I can't even think straight.' The use of the word 'pannum' (meaning 'woman') in a way that suggests excitement about a woman's appearance is often used in a derogatory manner in some contexts, implying objectification. This aligns with misogynistic humor in certain cultures.
+--------------------------------------------------
+
+Image ID      : 866
+Classification: misogyny
+Explanation   : The meme uses language that suggests a gendered expectation for Lakshmi Priya's performance, implying that she should be able to handle a sword as a team captain, which could be seen as an expectation based on gender stereotypes.
+--------------------------------------------------
+
+Image ID      : 1703
+Classification: misogyny
+Explanation   : The meme uses a humorous tone to criticize the excessive use of social media for sending generic wishes on Women's Day, which can be seen as a critique of superficiality in relationships, potentially reflecting a misogynistic view towards women's emotional needs and the societal pressure to maintain appearances.
+--------------------------------------------------
+
+Image ID      : 1044
+Classification: misogyny
+Explanation   : The meme portrays girls as taking significantly longer to prepare for an event compared to boys, who are ready in just five minutes. This implies that girls take more time and effort, which can be seen as a form of gender stereotyping and potentially objectifying their preparation process. The use of the phrase 'Mov sapadu ready ah..' further emphasizes the contrast and could be interpreted as a derogatory comment on girls' preparation times.
+--------------------------------------------------
+
+Image ID      : 1492
+Classification: misogyny
+Explanation   : The meme portrays the wife as being overly concerned about her husband's whereabouts and well-being, while the husband is depicted as carefree and unbothered by his wife's concerns. This portrayal can be seen as devaluing the wife's emotional investment in their relationship, which is a form of misogyny.
+--------------------------------------------------
+
+Image ID      : 1709
+Classification: misogyny
+Explanation   : The meme uses the term 'Unakaga' which is a derogatory term for women in Tamil culture, often used to belittle or mock them. The context of the meme, where the term is applied to both 'Senior crush' and 'Junior crush,' suggests a dismissive attitude towards female characters, reinforcing negative stereotypes about women's relationships and status.
+--------------------------------------------------
+
+Image ID      : 1638
+Classification: misogyny
+Explanation   : The meme uses a stereotype about slim girls being associated with children's clothing, which can be seen as objectifying their body type and suggesting they are not suitable for adult clothing. This aligns with misogynistic tropes in some cultures where women's bodies are often judged based on their appearance and linked to specific age groups or roles.
+--------------------------------------------------
+
+Image ID      : 1716
+Classification: misogyny
+Explanation   : The meme uses a phrase that translates to 'If you want to marry a girl, you have to get a mobile phone first,' which is a common stereotype in some parts of India where women are often seen as a burden and men are expected to provide for them financially. This perpetuates gender stereotypes and can be interpreted as misogynistic.
+--------------------------------------------------
+
+Image ID      : 1254
+Classification: misogyny
+Explanation   : The transcription includes derogatory terms like 'cheese'uh' and 'loose'uh', which are often used to belittle women in Indian culture. The meme also implies that the speaker is trying to impress their crush by using these terms, which can be seen as objectifying and degrading the woman they admire.
+--------------------------------------------------
+
+Image ID      : 116
+Classification: misogyny
+Explanation   : The Tamil text in the image includes phrases that can be interpreted as derogatory towards women, such as 'அநியாயமா கொண்ணுட்டானுகளே' which translates to 'The ones who commit injustice', and 'துக்கு சார் எங்க அப்பாவ அடிக்கிறீங்க' which translates to 'Where is your father standing?'. These phrases, especially when combined with the context of the image showing a police officer and a man being restrained, suggest a portrayal of women in a negative light, which aligns with misogynistic content.
+--------------------------------------------------
+
+Image ID      : 680
+Classification: misogyny
+Explanation   : The meme includes a dialogue from a mother that is often used in a dismissive manner, which can be interpreted as a form of disrespect towards women, aligning with misogynistic attitudes.
+--------------------------------------------------
+
+Image ID      : 1423
+Classification: misogyny
+Explanation   : The meme contains derogatory language towards women, using terms like 'bestie' and 'nenachi', which are pejorative in the context of Indian culture. The overall tone and content of the meme are disrespectful towards women.
+--------------------------------------------------
+
+Image ID      : 1245
+Classification: misogyny
+Explanation   : The meme portrays a woman demanding a large sum of money for a trivial task, while the man is portrayed as a victim of her demands. This depiction is stereotypical and objectifies women, which is considered misogynistic in many cultures, including India.
+--------------------------------------------------
+
+Image ID      : 1091
+Classification: misogyny
+Explanation   : The meme contains a statement that suggests women are less valuable than men in terms of love, which is a form of gender-based discrimination and can be considered misogynistic. The use of such language in Tamil, a language widely spoken in India, contributes to the perpetuation of harmful stereotypes about women's worth.
+--------------------------------------------------
+
+Image ID      : 66
+Classification: not-misogyny
+Explanation   : The image shows a group of men sitting together, which does not inherently convey any misogynistic content. The transcription text is a positive review of a film, expressing appreciation for various aspects including the director, music, and the team. There is no indication of gender-based discrimination or negative portrayal of women in the image or text.
+--------------------------------------------------
+
+Image ID      : 213
+Classification: misogyny
+Explanation   : The meme uses the phrase 'Ennada Ivanuga Biryani Ku Appalam Vaikuranuga', which is a derogatory term for women in Tamil culture. The context suggests that the meme is making a negative statement about women, thus indicating misogyny.
+--------------------------------------------------
+
+Image ID      : 558
+Classification: misogyny
+Explanation   : The meme uses the phrase 'Naliki nadaka podhu paaru real game uh,' which translates to 'Real game, you're a woman.' This is a derogatory statement that belittles women by implying they cannot play a 'real' game, which is a form of misogyny.
+--------------------------------------------------
+
+Image ID      : 1111
+Classification: misogyny
+Explanation   : The meme uses a stereotypical portrayal of South Indian aunties during festivals, which can be seen as objectifying them. The text suggests that they are overly concerned with relationships and appearances, which is often used in a derogatory manner towards women in Indian culture.
+--------------------------------------------------
+
+Image ID      : 1616
+Classification: misogyny
+Explanation   : The meme uses derogatory language towards women, referring to them as 'attitude girl' and suggesting they are not 'decent'. This type of language is often used in a way that devalues women's behavior and appearance, which aligns with misogynistic attitudes.
+--------------------------------------------------
+
+Image ID      : 1253
+Classification: misogyny
+Explanation   : The meme uses derogatory language towards women, referring to them as 'mammy' and 'marumakal', which are terms often used in a derogatory manner in Tamil culture to refer to women, especially in a dismissive or condescending way.
+--------------------------------------------------
+
+Image ID      : 71
+Classification: misogyny
+Explanation   : The meme uses a phrase 'Neenga ponga naa vare...' which translates to 'I can't go out either...', implying that the person is stuck at work due to their gender, which is a form of gender-based discrimination against women in the workplace.
+--------------------------------------------------
+
+Image ID      : 340
+Classification: misogyny
+Explanation   : The meme depicts a scenario where a man is waiting for a message from a woman, but after several days, he receives another message from her. The tone suggests that the man is disappointed or frustrated by the lack of response, which could be interpreted as a commentary on the perceived value placed on women's messages in certain contexts. This can be seen as a form of misogyny, as it implies that men's messages are more important or valued than women's. Additionally, the use of the term 'msg' (message) in the context of a woman's communication might be seen as dismissive or轻视的。
+--------------------------------------------------
+
+Image ID      : 367
+Classification: misogyny
+Explanation   : The meme uses the phrase 'Inaiku en manager leave potta nalla irukkum', which translates to 'My wife and manager both leave at the same time'. This implies that the person's life is heavily dependent on their wife and manager, suggesting a lack of independence and control, which can be seen as a form of gender-based oppression.
+--------------------------------------------------
+
+Image ID      : 1664
+Classification: misogyny
+Explanation   : The meme contains a statement that suggests women can travel for free on buses, which is a common stereotype in some cultures. The accompanying text also includes derogatory language towards women, indicating a misogynistic tone.
+--------------------------------------------------
+
+Image ID      : 484
+Classification: misogyny
+Explanation   : The meme uses a colloquial phrase in Tamil that translates to 'When you don't have a double helmet, you just jump over the signal.' This implies that women are less cautious or responsible than men, which is a form of gender-based discrimination and can be considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 577
+Classification: misogyny
+Explanation   : The meme depicts a scenario where a married man goes to play cricket on Sunday, while his wife and family are left behind, which is often seen as a humorous commentary on the traditional gender roles in Indian society, where men are expected to participate in social activities like cricket, leaving women at home. This portrayal can be interpreted as a form of misogyny as it suggests that women's presence is not valued in such activities.
+--------------------------------------------------
+
+Image ID      : 136
+Classification: misogyny
+Explanation   : The meme uses the phrase 'paathia vittu pora paathia,' which is a colloquial expression in Tamil that translates to 'my heart is broken.' This expression is often used by men to express their feelings of disappointment or sadness when a woman doesn't respond to their messages. The use of this phrase in the context of a meme about a 'favorite person' who didn't message for two days implies a romantic relationship, which is typically seen from a male perspective. This perspective can be seen as objectifying women and focusing on their actions rather than the emotional impact on the person who is waiting for a response. Therefore, the meme carries a misogynistic undertone.
+--------------------------------------------------
+
+Image ID      : 24
+Classification: misogyny
+Explanation   : The meme uses the phrase 'Sex na MALE/FEMALE nu enakku therium ley...', which translates to 'I don't care about male/female, I'll do it anyway...' in English. This statement implies a dismissive attitude towards gender, suggesting that the speaker would engage in sexual activity regardless of the person's gender. Such content can be interpreted as misogynistic, as it trivializes gender differences and suggests a lack of respect for women's autonomy and agency.
+--------------------------------------------------
+
+Image ID      : 629
+Classification: misogyny
+Explanation   : The meme uses a phrase that implies the man is not capable of being a 'real' man, comparing him to fictional superheroes like Batman or Ironman, which is a derogatory and dismissive statement towards men in Indian culture.
+--------------------------------------------------
+
+Image ID      : 887
+Classification: misogyny
+Explanation   : The meme uses a phrase that implies a negative stereotype about girls in hostels, which can be considered derogatory and reflects a misogynistic view.
+--------------------------------------------------
+
+Image ID      : 1238
+Classification: misogyny
+Explanation   : The meme portrays a mother scolding her daughter for not doing household chores, which is a common theme in Indian culture. However, the tone and language used in the transcription suggest a dismissive attitude towards the daughter's efforts, implying that she should have done more than just the chores mentioned. This can be interpreted as a form of criticism or disapproval towards the daughter's actions, which may be seen as misogynistic in some contexts.
+--------------------------------------------------
+
+Image ID      : 355
+Classification: misogyny
+Explanation   : The meme includes a phrase 'Enaku vera vali therila aatha', which translates to 'I am a woman who is always right'. This statement is often used in a derogatory manner towards women, implying that they are always wrong and need to be corrected. The context of the image and the transcription together suggest a misogynistic tone.
+--------------------------------------------------
+
+Image ID      : 1034
+Classification: misogyny
+Explanation   : The meme uses a derogatory term for women ('டம்மி') and implies that a woman's beauty is only valued in comparison to another woman, which is a form of objectification and dehumanization.
+--------------------------------------------------
+
+Image ID      : 1344
+Classification: misogyny
+Explanation   : The meme contains derogatory language directed at women, using terms that are considered offensive in Tamil culture. The use of 'Munda' and other derogatory terms towards women is indicative of misogyny.
+--------------------------------------------------
+
+Image ID      : 1512
+Classification: misogyny
+Explanation   : The meme uses the term 'மருமகள்' which translates to 'brides' in English, but in a derogatory manner often used to refer to women in a dismissive way. The question 'என்ன புள்ள பேர் கூடவா உனக்கு தெரியாது?' implies that the woman's knowledge or opinion is irrelevant, which is a form of devaluing her perspective. This aligns with misogynistic attitudes prevalent in some Indian cultures.
+--------------------------------------------------
+
+Image ID      : 353
+Classification: misogyny
+Explanation   : The meme compares boys' fashion choices to luxury brands like Balmain Paris and The Boys, while girls' fashion choices are humorously reduced to traditional Indian attire (kurtis). This comparison implies that boys' fashion is more desirable or sophisticated than girls', which can be seen as a form of gender discrimination and objectification of women's clothing choices.
+--------------------------------------------------
+
+Image ID      : 632
+Classification: misogyny
+Explanation   : The Tamil text in the meme translates to 'I want to sleep at night, but I can't because of the noise from the neighbors.' This statement implies that the person is being disturbed by the neighbors, which could be interpreted as a form of harassment or intrusion into their personal space, potentially reflecting a societal issue where women's safety and comfort are often overlooked. The use of the term 'theriyum' (to disturb) in the context of neighbors could be seen as a subtle form of criticism towards the behavior of the neighbors, which might be perceived as misogynistic in some cultural contexts.
+--------------------------------------------------
+
+Image ID      : 1636
+Classification: misogyny
+Explanation   : The meme uses derogatory language towards women, specifically targeting their appearance and suggesting they are not suitable for certain activities. The use of emojis like 😡 and 😂 further emphasizes the negative connotation towards women in the context of the meme.
+--------------------------------------------------
+
+Image ID      : 479
+Classification: misogyny
+Explanation   : The meme uses a playful but dismissive tone towards children's attempts at speech, comparing them to adults' attempts to communicate. The repetition of 'Amma' and 'Appa' in a way that suggests they are not being taken seriously could be interpreted as a form of belittling, which aligns with misogynistic humor often found in Indian memes targeting women.
+--------------------------------------------------
+
+Image ID      : 384
+Classification: not-misogyny
+Explanation   : The meme does not contain any explicit or implicit content that could be interpreted as misogynistic. The text 'When you don't understand that one 18+ meme' is a humorous statement about not understanding an adult-oriented meme, which is a common scenario in internet culture and does not carry any misogynistic undertones.
+--------------------------------------------------
+
+Image ID      : 1031
+Classification: misogyny
+Explanation   : The meme portrays a mother-in-law scolding her son-in-law for his behavior, which is a common trope in Indian culture. However, the tone and the way the mother-in-law speaks to her son-in-law can be interpreted as disrespectful and condescending, which aligns with misogynistic themes often found in such narratives.
+--------------------------------------------------
+
+Image ID      : 238
+Classification: misogyny
+Explanation   : The meme uses a phrase that translates to 'Reels will do it,' which is a colloquial expression often used to dismiss women's capabilities in a derogatory manner, reflecting a misogynistic attitude.
+--------------------------------------------------
+
+Image ID      : 1358
+Classification: misogyny
+Explanation   : The meme portrays a scenario where one character is expressing a desire for a romantic mood, while the other character dismisses it with a dismissive tone and facial expressions that suggest disapproval or frustration. This dynamic can be interpreted as a form of gendered criticism or dismissal of the first character's feelings, which aligns with misogynistic themes in some cultural contexts.
+--------------------------------------------------
+
+Image ID      : 332
+Classification: misogyny
+Explanation   : The meme uses the term 'macha' which is a derogatory term for women in Tamil culture, implying that the salary credit is only for women. This is a clear example of misogyny.
+--------------------------------------------------
+
+Image ID      : 1455
+Classification: misogyny
+Explanation   : The meme uses a phrase that implies a woman should be consumed by alcohol, which is a form of objectification and dehumanization, reflecting a misogynistic perspective.
+--------------------------------------------------
+
+Image ID      : 112
+Classification: not-misogyny
+Explanation   : The meme does not contain any content that is inherently misogynistic. It is a humorous situation about traffic and signals, which is a common theme in memes and does not carry any gender-based connotations.
+--------------------------------------------------
+
+Image ID      : 1720
+Classification: misogyny
+Explanation   : The Tamil text in the image and transcription expresses a strong preference for physical beauty and attractiveness, particularly focusing on women's appearance. The phrase 'ஆணவம் போன்ற அழுக்கை சுமந்து சாகாதே!' translates to 'We will not settle for anything but the beauty of a woman,' which promotes a narrow and objectifying view of female beauty. This aligns with misogynistic attitudes that prioritize physical appearance over other qualities, which is a common theme in some cultures and can be considered harmful to women's self-esteem and rights.
+--------------------------------------------------
+
+Image ID      : 1092
+Classification: misogyny
+Explanation   : The meme portrays arranged marriage as a more submissive and less desirable option compared to love marriage, which is depicted as more passionate and fulfilling. The use of the phrase 'padukreya ila Unga Amma veetuku poreya??' in the context of arranged marriage suggests a lack of autonomy and agency for the woman, which is a form of gender inequality and can be interpreted as misogynistic.
+--------------------------------------------------
+
+Image ID      : 189
+Classification: misogyny
+Explanation   : The meme uses the phrase 'Romba dhooram poiten' which is a colloquial expression in Tamil that translates to 'I'll go and find you,' often used in a confrontational manner. This phrase, combined with the context of the post asking someone to connect about a critical issue after leaving office, suggests a tone of urgency and possibly a threat, which could be interpreted as misogynistic in certain contexts.
+--------------------------------------------------
+
+Image ID      : 652
+Classification: misogyny
+Explanation   : The meme uses a phrase that implies women are only valued for their beauty and not for their intelligence or worth, which is a form of objectification and devaluation of women's capabilities. The image also shows a man giving a thumbs up while another man looks down, possibly indicating a power dynamic where the man in the red shirt is superior or more respected, which aligns with the idea that women are only valued for their appearance.
+--------------------------------------------------
+
+Image ID      : 937
+Classification: misogyny
+Explanation   : The meme portrays a stereotypical male character in a rural setting, holding a phone, which is often used to depict men in traditional Indian culture. The text suggests that the father is concerned about his daughter watching English series on the phone, implying a gendered expectation that women should not engage in certain activities. This aligns with cultural norms that can be seen as misogynistic.
+--------------------------------------------------
+
+Image ID      : 414
+Classification: misogyny
+Explanation   : The meme uses the term 'Thirumbi' which is a derogatory term for women in Tamil culture, implying that life, career, and office are trivial compared to personal relationships and events. This perpetuates a harmful stereotype about women's value and roles in society.
+--------------------------------------------------
+
+Image ID      : 465
+Classification: misogyny
+Explanation   : The meme uses a scene from a Tamil movie where a character is laughing at another, which is often used to mock or belittle women in Indian culture. The context of the tweet suggests a question about working days, which is then followed by a reference to 'Support dood', implying that the person being asked is not supportive. This combination of elements can be interpreted as a form of misogyny, as it portrays women in a negative light and suggests they are not supportive or reliable.
+--------------------------------------------------
+
+Image ID      : 599
+Classification: misogyny
+Explanation   : The meme uses a phrase that implies a negative stereotype about women's spending habits, which can be seen as misogynistic in the context of family dynamics and financial responsibilities.
+--------------------------------------------------
+
+Image ID      : 940
+Classification: misogyny
+Explanation   : The meme depicts a woman in a sports setting being physically attacked by another person, which is a form of violence against women. The text includes emojis that could be interpreted as mocking or trivializing the situation, further contributing to a misogynistic tone. This aligns with the cultural context where such behavior is not acceptable and can be considered disrespectful towards women.
+--------------------------------------------------
+
+Image ID      : 368
+Classification: not-misogyny
+Explanation   : The meme uses Batman, a male superhero character, to humorously depict the struggle with an Instagram update. There is no content that suggests misogyny or any form of gender-based discrimination in the image or transcription.
+--------------------------------------------------
+
+Image ID      : 163
+Classification: misogyny
+Explanation   : The meme includes a negative portrayal of a woman, suggesting she is a 'negative character' and implying that men should be more involved in her life. This aligns with traditional patriarchal views where women's lives are often seen as needing male guidance or intervention, which can be considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 333
+Classification: misogyny
+Explanation   : The meme includes a conversation where one person suggests that Muthu is single, which could be interpreted as making assumptions about his marital status. This type of comment can be seen as objectifying or reducing a person to their marital status, which is a form of misogyny in some cultural contexts.
+--------------------------------------------------
+
+Image ID      : 1641
+Classification: misogyny
+Explanation   : The meme uses derogatory language towards women, specifically calling a mother 'bitch' in Tamil, which is considered highly offensive and disrespectful in Indian culture.
+--------------------------------------------------
+
+Image ID      : 1755
+Classification: misogyny
+Explanation   : The meme uses the term 'Committed' in a way that suggests women should be subservient and submissive, which is a form of gender inequality and can be interpreted as misogynistic. The text also implies that men have the right to decide who they want to be with, which is a common theme in patriarchal societies.
+--------------------------------------------------
+
+Image ID      : 1679
+Classification: misogyny
+Explanation   : The meme uses a song title 'Singa pennee' which is often associated with a male character in Tamil cinema, and the text 'itha thana theditu irukenga' suggests a derogatory comment about women, indicating a misogynistic tone.
+--------------------------------------------------
+
+Image ID      : 1069
+Classification: misogyny
+Explanation   : The meme uses a colloquial tone and a question that implies a negative judgment about the aunt's appearance, which is a form of objectification and can be considered misogynistic in some contexts.
+--------------------------------------------------
+
+Image ID      : 174
+Classification: misogyny
+Explanation   : The meme includes a reference to 'Indha maari' which is a term used to describe women in a derogatory manner, often implying they are promiscuous or sexually available. This, combined with the context of the image showing a man holding an object that could be interpreted as a drug, suggests a negative portrayal of women, aligning with misogynistic themes.
+--------------------------------------------------
+
+Image ID      : 1152
+Classification: misogyny
+Explanation   : The meme depicts a scene where a man is being physically attacked by two women, which is often used to convey a sense of powerlessness or victimization in a romantic context. The text 'ana ithellam irukae' translates to 'I am here, I am here,' which can be interpreted as a plea for help or a statement of presence, but the overall tone and imagery suggest a scenario where the man is being overwhelmed or dominated by the women. This portrayal aligns with certain cultural narratives that may be seen as promoting a negative view of men's roles in relationships, thus potentially contributing to misogynistic themes.
+--------------------------------------------------
+
+Image ID      : 454
+Classification: misogyny
+Explanation   : The meme includes a scene where a woman is being asked about her relatives in a way that suggests she might be an outsider or not part of a family, which can be interpreted as a form of discrimination against women. The use of emojis like a heart and butterfly further emphasizes the romanticized or idealized portrayal of the woman, potentially reinforcing traditional gender roles and stereotypes.
+--------------------------------------------------
+
+Image ID      : 755
+Classification: not-misogyny
+Explanation   : The meme does not contain any explicit or implicit content that promotes or perpetuates gender-based discrimination or stereotypes. The text and images focus on excitement about watching a highly anticipated movie, which is a common theme in fan culture without any misogynistic undertones.
+--------------------------------------------------
+
+Image ID      : 1698
+Classification: misogyny
+Explanation   : The meme uses a child's expression to convey a negative sentiment towards women on Women's Day, which is culturally inappropriate and disrespectful.
+--------------------------------------------------
+
+Image ID      : 1027
+Classification: misogyny
+Explanation   : The meme uses derogatory language towards a woman labeled 'Chubbygirl' and implies she is being shamed for her weight, which is a form of body shaming and can be considered misogynistic in the context of Indian culture where such comments about women's bodies are often used to belittle them.
+--------------------------------------------------
+
+Image ID      : 1206
+Classification: misogyny
+Explanation   : The meme uses a common trope in Indian media where mothers are depicted as overly protective and interfering in romantic relationships, often leading to comedic situations. The text 'velakkamaru pinju poirum.unalam kallipaal oothi kondrukanum da' translates to 'My mother will come and interfere in our love,' which is a stereotypical portrayal that can be seen as devaluing the autonomy of young people in relationships.
+--------------------------------------------------
+
+Image ID      : 204
+Classification: misogyny
+Explanation   : The meme uses the phrase 'paathia vittu pora paathia,' which is a colloquial expression in Tamil that translates to 'my heart is broken.' This expression is often used by men to express their feelings of disappointment or sadness when a woman they like doesn't respond to them. The use of this phrase in the context of a meme about a person not messaging someone for two days suggests a gendered perspective where the person's emotional state is being attributed to the absence of a female's response, which can be seen as objectifying women and placing their actions at the center of the man's emotional experience.
+--------------------------------------------------
+
+Image ID      : 863
+Classification: misogyny
+Explanation   : The meme uses a character from an animated show, which is often associated with a female character, to represent a thief. The text 'May I come in' suggests a request for entry, which could be interpreted as a sexual advance. Additionally, the phrase 'my friend with pencil, scale, eraser, snacks thiruttu' implies a sexual innuendo, which is a form of objectification and can be considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 375
+Classification: misogyny
+Explanation   : The meme features a man in a suggestive pose, which, combined with the Tamil text that appears to be a complaint about a meme, suggests a misogynistic undertone. The use of such imagery and language in a public post can be interpreted as objectifying women.
+--------------------------------------------------
+
+Image ID      : 1533
+Classification: misogyny
+Explanation   : The meme contains a statement that suggests women should not work after marriage and implies that men can share household responsibilities, which perpetuates traditional gender roles and stereotypes about women's roles in the family.
+--------------------------------------------------
+
+Image ID      : 472
+Classification: misogyny
+Explanation   : The meme uses a phrase that translates to 'If you want to be straight, you need to have money,' which implies that being 'straight' is contingent on having wealth, suggesting a value placed on financial status over personal integrity or character. This aligns with misogynistic tropes often found in memes that equate masculinity with material success rather than personal qualities.
+--------------------------------------------------
+
+Image ID      : 1336
+Classification: misogyny
+Explanation   : The meme portrays a scenario where an employee, Rashi, is being told by her superior that she needs to finish her work quickly, which implies a lack of respect for her time and autonomy. This kind of interaction can be seen as devaluing women's contributions and time, which is a form of misogyny.
+--------------------------------------------------
+
+Image ID      : 487
+Classification: misogyny
+Explanation   : The meme uses the term 'Fraud' in a way that implies a woman's actions are dishonest, which aligns with misogynistic humor in some contexts. The use of 'Amma' (mother) in a derogatory manner further contributes to the misogynistic tone.
+--------------------------------------------------
+
+Image ID      : 1270
+Classification: misogyny
+Explanation   : The meme uses a derogatory term for women in the first panel and portrays them in a subservient role in the second panel, which is indicative of misogynistic attitudes.
+--------------------------------------------------
+
+Image ID      : 586
+Classification: misogyny
+Explanation   : The meme uses a common trope in Tamil culture where a mother's reaction to her child's behavior is exaggerated and humorous, often involving a dramatic expression. The transcription text includes a line that translates to 'Mom: You've died, go to the hospital,' which is a hyperbolic statement meant to convey frustration. The response from the child, 'I'll be back after three days,' suggests a dismissive attitude towards the mother's concern, which can be seen as disrespectful. This type of humor often trivializes the mother's role and can be interpreted as misogynistic in the context of traditional family dynamics in India.
+--------------------------------------------------
+
+Image ID      : 583
+Classification: misogyny
+Explanation   : The meme uses a phrase that implies a woman is not capable of cooking, which is a form of gender-based discrimination and can be considered misogynistic in some contexts.
+--------------------------------------------------
+
+Image ID      : 426
+Classification: misogyny
+Explanation   : The meme uses derogatory language towards women, specifically targeting Kriti Sanon, which is considered misogynistic in the context of Indian culture.
+--------------------------------------------------
+
+Image ID      : 1277
+Classification: misogyny
+Explanation   : The meme uses a character from a Tamil movie to depict a woman in a stereotypical manner, suggesting that she is easily influenced by others. The text also implies that women should not be trusted, which is a form of misogyny.
+--------------------------------------------------
+
+Image ID      : 1393
+Classification: misogyny
+Explanation   : The meme uses the term 'Akka' which is a derogatory term for women in Tamil culture, implying that the woman should be serving tea and coffee instead of being treated as an equal. This perpetuates a patriarchal mindset and is considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 1712
+Classification: misogyny
+Explanation   : The meme uses the phrase "Hey venam ithula tag panidatha" which translates to 'Hey girl, you're so pretty' in English. This type of language is often used to objectify women and is considered misogynistic in many cultures, including India.
+--------------------------------------------------
+
+Image ID      : 1696
+Classification: misogyny
+Explanation   : The meme uses the phrase "WOMEN's DAY" in quotation marks, which could be interpreted as mocking or trivializing the significance of Women's Day. Additionally, the context suggests a conversation where one character is addressing another as 'girl bestie,' which might imply a dismissive attitude towards the other person's feelings or status. The overall tone seems disrespectful towards women.
+--------------------------------------------------
+
+Image ID      : 1441
+Classification: misogyny
+Explanation   : The meme includes a caption that suggests a woman named Sharma is being fired from her job as a bus driver in Coimbatore, which implies a negative stereotype about women's roles in public transportation. The bottom part of the meme, featuring a man in a traditional Indian outfit, seems to be making a humorous or mocking statement about women, which aligns with the overall tone of the meme suggesting that women are not suitable for certain jobs. This combination of elements points towards a misogynistic perspective.
+--------------------------------------------------
+
+Image ID      : 1396
+Classification: misogyny
+Explanation   : The meme uses language that objectifies women by focusing on their physical appearance and suggesting they are only valuable for their beauty and body. The phrase 'Un Annana Vida Perusa Iruku Da' translates to 'Your body is all I need,' which is a form of objectification and dehumanization.
+--------------------------------------------------
+
+Image ID      : 1278
+Classification: misogyny
+Explanation   : The meme uses a comparison between two women, one labeled 'Gabriella' and the other 'Shivani', with the text suggesting that Gabriella is 'small' and Shivani is 'big'. This type of language is often used to objectify women's bodies and can be considered misogynistic in the Indian cultural context.
+--------------------------------------------------
+
+Image ID      : 1024
+Classification: misogyny
+Explanation   : The meme portrays a stereotypical scenario where a child is expected to cook when the mother is not at home, which is often associated with traditional gender roles. The text in Tamil further emphasizes this by stating that when the mother is not there, the child needs to cook, implying that cooking is a female responsibility. This aligns with misogynistic views that women should be responsible for domestic tasks.
+--------------------------------------------------
+
+Image ID      : 1658
+Classification: misogyny
+Explanation   : The meme uses a stereotype about women traveling for free in government buses, which is often used to make light of women's rights and autonomy. The text also implies that men should be responsible for travel expenses, reinforcing traditional gender roles. This type of humor is considered misogynistic in many cultures, including India.
+--------------------------------------------------
+
+Image ID      : 50
+Classification: misogyny
+Explanation   : The meme uses Suneeta Sharma, a well-known Indian actress, in a derogatory manner by comparing her to a 'kazhuvi' (a type of fish) and suggesting she is not worth much money. This type of language is often used to belittle women and is considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 995
+Classification: misogyny
+Explanation   : The meme uses the term 'cuckoo' in a derogatory manner towards women, which is a common form of sexism in some cultures. The phrase 'katta thoraiku kattam seri ila' suggests a dismissive attitude towards women's opinions or actions, further reinforcing the misogynistic tone.
+--------------------------------------------------
+
+Image ID      : 1442
+Classification: misogyny
+Explanation   : The meme uses a derogatory term for women ('மன') and implies that women are responsible for their own sexual desires, which is a form of objectification and dehumanization. The tone and content are disrespectful towards women.
+--------------------------------------------------
+
+Image ID      : 1381
+Classification: misogyny
+Explanation   : The meme contains language that suggests a woman should be responsible for her sexual health and safety, which is a form of objectification and implies that women are solely responsible for preventing unwanted pregnancies and sexually transmitted infections. This aligns with misogynistic attitudes towards women's autonomy and agency.
+--------------------------------------------------
+
+Image ID      : 619
+Classification: misogyny
+Explanation   : The meme uses a phrase 'Gpay Pannirunga..' which is a colloquial expression in Tamil that translates to 'I'll pay you later', often used in a way that implies a debt or obligation will be settled at a later time. The context suggests a transaction where the person is offering tickets for a large sum, which could be seen as an attempt to exploit or manipulate someone into a financial arrangement without clear terms, potentially hinting at a power imbalance or exploitation, which can be associated with misogynistic behavior in certain contexts.
+--------------------------------------------------
+
+Image ID      : 535
+Classification: misogyny
+Explanation   : The meme contains a phrase that translates to 'If you don't pay the money, I will kill you,' which is a threat against a woman, indicating a misogynistic tone.
+--------------------------------------------------
+
+Image ID      : 711
+Classification: misogyny
+Explanation   : The Tamil text includes derogatory terms for women, which is indicative of misogynistic content in the context of Indian culture.
+--------------------------------------------------
+
+Image ID      : 1461
+Classification: misogyny
+Explanation   : The meme uses a woman in a traditional Indian attire, which is often associated with femininity and domesticity, to humorously suggest that women can perform tasks quickly. This type of humor, while not overtly offensive, can be seen as devaluing women's capabilities by reducing them to stereotypes. The use of such imagery and language in a public context can be interpreted as misogynistic.
+--------------------------------------------------
+
+Image ID      : 1744
+Classification: misogyny
+Explanation   : The Tamil text in the image suggests that mothers are more important than fathers for their children's well-being, implying a gender bias where mothers' role is prioritized over fathers'. This aligns with certain cultural norms but also reflects a traditional view that may be considered misogynistic in modern contexts.
+--------------------------------------------------
+
+Image ID      : 868
+Classification: misogyny
+Explanation   : The meme includes a reference to 'Cha Ena manushan ya', which is a colloquial phrase in Tamil that translates to 'What kind of person are you?' in English. This phrase is often used in a derogatory manner towards women, implying they are not worthy of respect or consideration. The inclusion of this phrase in the meme, combined with the context of the image showing a motorcycle with a sign that appears to be targeting women, suggests a misogynistic tone.
+--------------------------------------------------
+
+Image ID      : 79
+Classification: misogyny
+Explanation   : The meme depicts a mother waking her child from a dream, which is a common scenario. However, the use of the phrase 'oru 5 nimsam... 5 nimsam' in the image, which translates to 'five minutes... five minutes', suggests a dismissive tone towards the child's dream, implying that the child should have woken up earlier. This could be interpreted as a form of criticism or disapproval of the child's behavior, which might be seen as misogynistic in some contexts, especially if it implies that the child's dreams are less important than the mother's expectations.
+--------------------------------------------------
+
+Image ID      : 211
+Classification: misogyny
+Explanation   : The meme contains a phrase that translates to 'Dream until it becomes true, but don't let your dreams become your life.' This implies that women should not prioritize their dreams at the expense of their lives, which can be interpreted as a patriarchal view that discourages women from pursuing their ambitions fully.
+--------------------------------------------------
+
+Image ID      : 1209
+Classification: misogyny
+Explanation   : The meme uses the phrase "அறியா வயசு" which translates to 'old age' in English, paired with images of a man and woman that appear to be in different stages of their relationship. The progression from 'old age' to 'experience' suggests a devaluation of youth and beauty, which can be interpreted as misogynistic in the context of valuing physical appearance and youth over experience and maturity.
+--------------------------------------------------
+
+Image ID      : 74
+Classification: misogyny
+Explanation   : The transcription includes a statement that suggests a negative stereotype about women, implying that they are the cause of death, which is a form of misogyny.
+--------------------------------------------------
+
+Image ID      : 70
+Classification: misogyny
+Explanation   : The meme uses a phrase that could be interpreted as a derogatory comment towards women, which is common in some Indian contexts. The phrase 'Nallatha pesuva.. suma solla kudathu' is often used to mock or belittle women, suggesting they are not worth mentioning or are trivial. This aligns with the cultural context where such language can be considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 820
+Classification: misogyny
+Explanation   : The meme uses the phrase 'Onnu varavae varathu' which translates to 'You should have been born a man,' a common expression in Tamil culture that implies women are inferior due to their gender. This is a clear example of misogyny.
+--------------------------------------------------
+
+Image ID      : 1183
+Classification: misogyny
+Explanation   : The meme depicts a woman wearing a helmet adorned with flowers, which is traditionally associated with men in Indian culture. The text suggests that even if our culture had women wearing helmets, they would still be treated unfairly, implying a double standard against women. This aligns with misogynistic themes by highlighting gender inequality.
+--------------------------------------------------
+
+Image ID      : 1115
+Classification: misogyny
+Explanation   : The meme includes a scene from a Tamil movie where one character is speaking in a way that suggests a dismissive attitude towards women, which aligns with misogynistic content. The text also contains a phrase that could be interpreted as derogatory towards women's roles in society.
+--------------------------------------------------
+
+Image ID      : 731
+Classification: not-misogyny
+Explanation   : The image depicts a man surrounded by reporters, which is a common scene in media coverage. The text does not contain any explicit or implicit content that could be interpreted as misogynistic. The phrase 'VARALAATRIL INDRU' is a Tamil expression that translates to 'We are all brothers,' which is a positive and inclusive statement. There is no indication of gender bias or discrimination in the image or the transcription.
+--------------------------------------------------
+
+Image ID      : 527
+Classification: misogyny
+Explanation   : The meme uses a visual of a person in a compromising position, which is often associated with sexual harassment or inappropriate behavior towards women. The text 'Traffic police to you:' implies that the person is being targeted by law enforcement, which could be interpreted as a form of harassment. This type of imagery and language can be considered misogynistic in the context of India, where such content may be seen as degrading or disrespectful towards women.
+--------------------------------------------------
+
+Image ID      : 434
+Classification: misogyny
+Explanation   : The meme includes a character from a Tamil movie, which is often used in memes to convey a specific emotion or situation. The text suggests that the character is overwhelmed by pending tasks on Monday, which is a common theme in memes. However, the use of the character's expression and the context of the text might be interpreted as mocking or trivializing the seriousness of the situation, which could be seen as a form of misogyny towards women who often bear the brunt of household and work-related responsibilities. The hashtag #muthumc further emphasizes the character's frustration, which might be seen as a commentary on the daily struggles of women.
+--------------------------------------------------
+
+Image ID      : 451
+Classification: misogyny
+Explanation   : The Tamil text 'Padupaavi Kaila vandha catch vitiyae' translates to 'I will catch you and beat you up,' which is a threat of violence against a woman, indicating misogynistic content.
+--------------------------------------------------
+
+Image ID      : 608
+Classification: misogyny
+Explanation   : The meme includes a reference to 'Batman nu' which is likely a derogatory term for women in Tamil culture, indicating that the meme is misogynistic.
+--------------------------------------------------
+
+Image ID      : 1384
+Classification: misogyny
+Explanation   : The meme uses a phrase that translates to 'Mommy is better than you' which is a common expression used in South Indian culture to express superiority. However, the context and tone suggest a mocking or dismissive attitude towards the mother, which can be interpreted as a form of misogyny. The use of such language in a meme format often carries a condescending undertone towards women.
+--------------------------------------------------
+
+Image ID      : 1753
+Classification: misogyny
+Explanation   : The meme uses a visual of a woman in a sari, which is often associated with traditional Indian attire, alongside text that appears to be a criticism of cleanliness in an urban setting. The use of such imagery in a meme can be interpreted as objectifying women and associating them with domestic or traditional roles, which may be seen as a form of misogyny in certain contexts.
+--------------------------------------------------
+
+Image ID      : 77
+Classification: misogyny
+Explanation   : The meme uses the phrase "AALA PATHA DUMMY PIECE AH IRUKA" which translates to 'Looks like a dummy piece, but you are a dangerous person'. This implies that women who listen to certain audio books are seen as dangerous, which is a form of misogyny.
+--------------------------------------------------
+
+Image ID      : 1625
+Classification: misogyny
+Explanation   : The meme uses derogatory language towards women, referring to them as 'moo' and 'cow,' which is a form of dehumanization and belittlement. The tone and content are disrespectful towards women, aligning with misogynistic themes.
+--------------------------------------------------
+
+Image ID      : 1730
+Classification: misogyny
+Explanation   : The meme contains a statement that suggests women should be punished for their actions, which is a form of gender-based violence and discrimination. The text also implies that women are responsible for their own misfortunes, which is a common misogynistic trope in some cultures.
+--------------------------------------------------
+
+Image ID      : 1316
+Classification: misogyny
+Explanation   : The meme uses a phrase that implies a woman's worth is tied to her ability to cook, which is a common form of objectification and devaluation in some cultures, particularly in India where women are often expected to be homemakers and caregivers. The use of such language in a meme format can be seen as perpetuating harmful stereotypes about women's roles and capabilities.
+--------------------------------------------------
+
+Image ID      : 483
+Classification: misogyny
+Explanation   : The meme uses the phrase "Athu bot uh murugesha" which translates to "Then he became a Murugesh", a reference to a popular Tamil actor known for his role in the movie 'Murugesh'. The context suggests that the person being referred to has become a womanizer, which is a derogatory term often used to describe men who are perceived as promiscuous. This usage of the term in the meme is likely intended to be offensive towards women, hence classifying it as misogynistic.
+--------------------------------------------------
+
+Image ID      : 1768
+Classification: misogyny
+Explanation   : The meme suggests that if there were two women in a situation, one would be treated respectfully while the other would be treated disrespectfully, implying a double standard based on gender. This aligns with misogynistic attitudes towards women's behavior and treatment.
+--------------------------------------------------
+
+Image ID      : 299
+Classification: misogyny
+Explanation   : The meme includes a 'racist meme' which, in the context of India, can be considered a form of misogyny due to the historical and cultural sensitivity around such content. The viewer's reaction suggests a negative perception of the sequence, indicating that the meme may be perceived as offensive or inappropriate.
+--------------------------------------------------
+
+Image ID      : 611
+Classification: misogyny
+Explanation   : The meme uses a cartoon character in a stereotypical manner, depicting him as a womanizer, which is often associated with negative stereotypes about men in Indian culture. The text also suggests that the character can be satisfied with any woman, which could be interpreted as objectifying women.
+--------------------------------------------------
+
+Image ID      : 255
+Classification: misogyny
+Explanation   : The meme uses the term 'ulaga cinema puluthi' which is a derogatory term in Tamil used to describe someone who is overly critical or negative about popular culture, often directed at women. This term is considered misogynistic in the context of Indian culture.
+--------------------------------------------------
+
+Image ID      : 1001
+Classification: misogyny
+Explanation   : The meme includes a caption in Tamil that translates to 'Tamil Nadu will never accept a Nigerian as its leader...', which implies a negative stereotype about women's leadership roles, aligning with misogynistic attitudes.
+--------------------------------------------------
+
+Image ID      : 979
+Classification: misogyny
+Explanation   : The meme includes a depiction of a woman in a traditional Indian outfit, which is often associated with domestic roles. The text suggests that the woman is being told to turn off the TV and do household chores, implying a gendered division of labor. This portrayal aligns with traditional patriarchal views where women are expected to prioritize domestic duties over leisure activities like watching TV, which can be seen as a form of misogyny.
+--------------------------------------------------
+
+Image ID      : 31
+Classification: misogyny
+Explanation   : The meme uses derogatory language towards women, specifically calling them 'fever' which is a term used to describe women in a derogatory manner in some Indian cultures. The image also shows a woman being treated disrespectfully by men at what appears to be a market setting.
+--------------------------------------------------
+
+Image ID      : 1129
+Classification: misogyny
+Explanation   : The meme uses a stereotype that women become aggressive during their periods, which is a form of gender-based discrimination and can be considered misogynistic in some contexts.
+--------------------------------------------------
+
+Image ID      : 670
+Classification: not-misogyny
+Explanation   : The meme does not contain any explicit or implicit content that promotes or perpetuates gender-based discrimination or stereotypes. The text and image focus on comparing the quality of special effects in films, which is a common topic in discussions about cinema without any misogynistic undertones.
+--------------------------------------------------
+
+Image ID      : 1472
+Classification: misogyny
+Explanation   : The meme uses the term 'puZZy cat' which is a derogatory term for women, and the context suggests that the 'Aunty' character is being objectified and treated as a sexual object, which is a form of misogyny.
+--------------------------------------------------
+
+Image ID      : 352
+Classification: misogyny
+Explanation   : The meme uses the term 'Angryman' in a way that could be interpreted as derogatory towards women, which is a form of misogyny. The use of 'Angryman' alongside other terms like 'Thunderman,' 'Wonderman,' and 'Brawler' suggests a hierarchy where 'Angryman' is positioned negatively, potentially implying that women are angry or aggressive by default.
+--------------------------------------------------
+
+Image ID      : 1306
+Classification: misogyny
+Explanation   : The meme uses a phrase that translates to 'Don’t underestimate anyone,' but the accompanying text in Tamil, 'Unaku panna theriyuma mothala,' which means 'Don’t underestimate my beauty,' is often used in a way that can be interpreted as objectifying women. The meme also includes a comparison between two women, one in a traditional saree and another in a revealing outfit, which may reinforce stereotypes about women's appearances and roles. This combination suggests a focus on physical appearance rather than individual capabilities, which can be seen as misogynistic.
+--------------------------------------------------
+
+Image ID      : 1376
+Classification: misogyny
+Explanation   : The transcription includes phrases like 'wife' and 'oruthanayum vechika kudathu la', which translates to 'wife' and 'to be beaten up', respectively. These terms are derogatory and imply violence against women, which is inherently misogynistic.
+--------------------------------------------------
+
+Image ID      : 100
+Classification: misogyny
+Explanation   : The meme uses a phrase that can be interpreted as objectifying women by suggesting they are 'fast' in a sexual sense, which is a common form of misogyny in some cultures. The context and language used in the Tamil text contribute to this interpretation.
+--------------------------------------------------
+
+Image ID      : 915
+Classification: misogyny
+Explanation   : The meme uses stereotypical gender roles where girls are depicted as more sentimental and boys as more casual or dismissive in their birthday wishes, which can be seen as reinforcing traditional gender stereotypes.
+--------------------------------------------------
+
+Image ID      : 248
+Classification: misogyny
+Explanation   : The meme includes a reference to 'gummidipoondi', which is a derogatory term for women in Tamil culture, indicating that the meme is misogynistic.
+--------------------------------------------------
+
+Image ID      : 1380
+Classification: misogyny
+Explanation   : The meme uses derogatory language and stereotypes against women, which is indicative of misogyny in the context of Indian culture.
+--------------------------------------------------
+
+Image ID      : 835
+Classification: misogyny
+Explanation   : The meme includes a scene where a woman is being instructed by two men in a setting that appears to be a yoga class. The text suggests a derogatory tone towards women, implying that they are not capable of understanding or participating in yoga properly. This aligns with misogynistic attitudes prevalent in some Indian cultural contexts.
+--------------------------------------------------
+
+Image ID      : 252
+Classification: misogyny
+Explanation   : The meme uses the phrase 'Naragam pa naragam' which is a colloquial expression in Tamil that translates to 'woman after woman', often used in a derogatory manner towards women. The context of the image, showing a man reacting to two women, along with the use of this phrase, suggests a misogynistic undertone.
+--------------------------------------------------
+
+Image ID      : 169
+Classification: misogyny
+Explanation   : The meme uses a humorous tone to suggest that a girlfriend or boyfriend would be willing to settle for a game of chance in exchange for a lifetime, which implies a devaluing of human relationships and choices. The use of laughing emoji further emphasizes the mocking nature of the statement.
+--------------------------------------------------
+
+Image ID      : 924
+Classification: misogyny
+Explanation   : The meme uses the term 'Amma' which is a respectful term for mother in Tamil, but the context suggests a derogatory tone towards women, implying that they are a waste and should be ignored. This aligns with misogynistic attitudes prevalent in some parts of Indian culture.
+--------------------------------------------------
+
+Image ID      : 240
+Classification: misogyny
+Explanation   : The Tamil text in the image contains derogatory language towards women, which is considered misogynistic in Indian culture. The phrase 'gaaja irundhalum' is a colloquial term that is often used to describe women in a derogatory manner, implying they are foolish or stupid. This type of language is offensive and perpetuates negative stereotypes about women.
+--------------------------------------------------
+
+Image ID      : 1112
+Classification: misogyny
+Explanation   : The meme uses a road sign that typically warns drivers about upcoming curves, but in this context, it is humorously applied to women's bodies, suggesting they are 'dangerous' in a sexualized way. This aligns with misogynistic tropes often found in Indian media and culture, where women's bodies are objectified and sexualized for comedic effect.
+--------------------------------------------------
+
+Image ID      : 695
+Classification: misogyny
+Explanation   : The meme uses a stereotypical trope about women holding hands for safety, which can be seen as objectifying her role in the relationship. The 'ERROR' text on the angel's head suggests a humorous but potentially dismissive attitude towards the act of holding hands, which could be interpreted as minimizing the significance of such an action.
+--------------------------------------------------
+
+Image ID      : 1736
+Classification: misogyny
+Explanation   : The image depicts a man in a traditional Indian theatrical makeup and costume, which is often associated with male characters in classical Indian drama. The presence of a woman in the bottom right corner, who appears to be reacting to the man's expression, suggests a scenario where the man's character is being perceived negatively by the woman. This setup, combined with the Tamil text that translates to 'Transformation and growth,' implies a narrative where the man's character might be seen as a threat or an object of fear, which can be interpreted as a form of misogyny. The use of the word 'kuduma' (which can mean 'woman' or 'girl') further emphasizes the focus on the female character's reaction to the male character's actions.
+--------------------------------------------------
+
+Image ID      : 463
+Classification: not-misogyny
+Explanation   : The meme does not contain any explicit or implicit content that promotes or perpetuates gender-based discrimination or stereotypes. The text refers to a shared interest in a movie without any negative connotations towards women.
+--------------------------------------------------
+
+Image ID      : 1453
+Classification: misogyny
+Explanation   : The meme uses derogatory language towards women, referring to them as 'bitch' and 'whore', which is considered highly offensive in Indian culture. The tone and content of the dialogue are disrespectful towards women.
+--------------------------------------------------
+
+Image ID      : 533
+Classification: misogyny
+Explanation   : The Tamil text in the meme translates to 'They're trying to grind chili on me just because I don't know anything 😂😠😊', which implies that the speaker is being unfairly judged or treated poorly due to their lack of knowledge. This can be interpreted as a form of gender-based discrimination, as it suggests that women are often subjected to such treatment simply because they are women. The use of the word 'மிளகா' (milaga), which can be translated as 'grind', adds a layer of aggression and suggests that the speaker is being unfairly targeted for their gender. Therefore, the meme carries a misogynistic undertone.
+--------------------------------------------------
+
+Image ID      : 1125
+Classification: misogyny
+Explanation   : The meme uses a phrase that translates to 'girlfriend: night net on panni vachutu thoongeten da', which is a colloquial expression in Tamil that can be interpreted as a derogatory term for a girlfriend who is unfaithful. The use of such language in a meme format is often considered misogynistic in Indian cultural contexts.
+--------------------------------------------------
+
+Image ID      : 33
+Classification: misogyny
+Explanation   : The meme uses a humorous but derogatory term 'Whole gang' to refer to the dog, which is often used in a derogatory manner towards women in Indian culture. The context suggests that the dog is being used to mock the person asking for permission, implying that they are insignificant compared to the rest of the group. This type of humor is often associated with misogyny.
+--------------------------------------------------
+
+Image ID      : 1345
+Classification: misogyny
+Explanation   : The meme uses derogatory language towards women, referring to them as 'snake' and 'bitch', which is considered highly offensive in Indian culture. The tone and content of the text are clearly misogynistic.
+--------------------------------------------------
+
+Image ID      : 234
+Classification: not-misogyny
+Explanation   : The transcription does not contain any content that suggests misogyny. The post is about being VIPed for watching office festival celebration videos on social media, which is a neutral statement without any gender-based implications.
+--------------------------------------------------
+
+Image ID      : 498
+Classification: misogyny
+Explanation   : The meme uses a scene from a Tamil movie where a character is being pressured to send a video, which is a common trope in Indian media that often portrays women as overly controlling or possessive. The phrase 'Muttaal athu reel da' translates to 'I'll send it later,' implying reluctance or resistance, which can be interpreted as a form of gendered pressure or control, aligning with misogynistic themes.
+--------------------------------------------------
+
+Image ID      : 1122
+Classification: misogyny
+Explanation   : The tweet by Priya Johnson suggests that women should be treated like men in terms of their abilities and worth, implying that women are not capable of being intelligent or capable individuals. This statement is inherently misogynistic as it devalues women's potential and agency.
+--------------------------------------------------
+
+Image ID      : 910
+Classification: misogyny
+Explanation   : The meme depicts a man in a greenhouse and another in a barren field, suggesting a contrast between successful farming and failed agriculture. The text 'We lost the diamond' implies a loss of something valuable, which could be interpreted as a metaphor for the failure of the agricultural endeavor. This, combined with the imagery of a man in distress in a dry field, may carry a subtle critique on the economic and social implications of such failures, potentially reflecting a broader societal issue that could be seen as gendered or misogynistic in the context of India's agrarian economy where women often bear the brunt of such losses.
+--------------------------------------------------
+
+Image ID      : 933
+Classification: misogyny
+Explanation   : The meme uses the term 'MOKKA POSTU' which is a derogatory term for women in Tamil culture, implying that women are the cause of the situation depicted by the meme. This is a clear example of misogynistic language and humor.
+--------------------------------------------------
+
+Image ID      : 186
+Classification: misogyny
+Explanation   : The Tamil text in the meme translates to 'When someone cares for me and gives me more importance.. Nee pesanthu ellamae ithuku muandi oruthar pesunaru.. ipo avar illa', which can be interpreted as a statement about a woman's worth being tied to her physical appearance. This aligns with misogynistic views that women's value is based on their looks rather than their character or actions.
+--------------------------------------------------
+
+Image ID      : 1701
+Classification: misogyny
+Explanation   : The meme uses a phrase that translates to 'Women's Day, wish you were dead?' which is a highly offensive and misogynistic statement. The context and tone of the image reinforce this interpretation.
+--------------------------------------------------
+
+Image ID      : 1377
+Classification: misogyny
+Explanation   : The meme uses a sequence of images showing a woman in increasingly revealing clothing, paired with suggestive text that implies a sexualized objectification of women. The language used in the transcription also contributes to a tone that is disrespectful towards women by focusing on their physical appearance rather than their character or achievements.
+--------------------------------------------------
+
+Image ID      : 343
+Classification: misogyny
+Explanation   : The meme includes a reference to 'CSK perla eludhungo,' which is a phrase that can be interpreted as derogatory towards women in Tamil culture. The context suggests a negative portrayal of women, aligning with misogynistic content.
+--------------------------------------------------
+
+Image ID      : 45
+Classification: misogyny
+Explanation   : The image depicts a scene where a man in traditional attire is interacting with a group of men, one of whom is holding a framed picture. The text 'Dei epdi da ungaluku padutha udanae thookam varudhu' translates to 'If you want to be a man, you must be able to do this,' which implies that being a man requires certain physical abilities or actions. This statement can be interpreted as promoting a narrow definition of masculinity, which may be seen as misogynistic in some contexts.
+--------------------------------------------------
+
+Image ID      : 901
+Classification: misogyny
+Explanation   : The meme uses a derogatory term for women ('naai') in the Tamil language, which is considered offensive and disrespectful. The use of such language in a humorous context is indicative of misogynistic content.
+--------------------------------------------------
+
+Image ID      : 571
+Classification: misogyny
+Explanation   : The meme depicts a scene where men are shown in a dominant position, while women are in a subservient role, which aligns with traditional gender roles in Indian culture. The text 'Murpoks trying to normalise everything' combined with the image suggests a critique of attempts to normalize gender roles, which can be interpreted as promoting a patriarchal viewpoint.
+--------------------------------------------------
+
+Image ID      : 974
+Classification: misogyny
+Explanation   : The meme portrays women in a subservient role during both seasons, emphasizing their duty to serve men. The text in Tamil further reinforces this by stating that women should be beautiful for the sake of the weather and that they should do household chores. This portrayal is stereotypical and objectifies women, which aligns with misogynistic themes.
+--------------------------------------------------
+
+Image ID      : 890
+Classification: misogyny
+Explanation   : The meme uses language that suggests the crush is jealous and possessive towards the person they are talking to, which can be interpreted as a form of objectification and control, which is often associated with misogynistic behavior in certain contexts.
+--------------------------------------------------
+
+Image ID      : 197
+Classification: misogyny
+Explanation   : The meme uses a phrase that translates to 'If you want to be a teacher, you should be a woman,' which is a sexist statement. The context suggests that women are being stereotyped as suitable for teaching roles, which is a form of gender discrimination.
+--------------------------------------------------
+
+Image ID      : 880
+Classification: misogyny
+Explanation   : The meme uses the phrase "பசங்க மறக்காம பாருங்கா!" which translates to 'I'll punch you!' in English. This phrase, combined with the images of women in different poses, suggests a tone that could be interpreted as aggressive or threatening towards women, which aligns with misogynistic content.
+--------------------------------------------------
+
+Image ID      : 988
+Classification: misogyny
+Explanation   : The meme uses a phrase 'Off hey pannamaa On le ye vepangle' which is a colloquial expression in Tamil that can be interpreted as derogatory towards women, often used in a dismissive manner. This aligns with the cultural context where such language is considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 1342
+Classification: misogyny
+Explanation   : The text in the image and transcription uses derogatory language towards women, referring to them as 'Munda' which is a term often used to insult women in certain contexts. The overall tone and content of the text are disrespectful towards women.
+--------------------------------------------------
+
+Image ID      : 60
+Classification: not-misogyny
+Explanation   : The meme does not contain any explicit or implicit content that promotes or perpetuates gender-based discrimination or stereotypes. The text is a promotional advertisement for KFC's Crispy Days offer and does not involve any reference to gender roles or characteristics.
+--------------------------------------------------
+
+Image ID      : 1210
+Classification: misogyny
+Explanation   : The image depicts a woman in a traditional Indian attire standing over a man who appears to be injured or defeated, while another child looks on. The OCR text translates to 'I will respect the law... I will respect humans... You all have humiliated women,' which suggests a message against gender inequality and the mistreatment of women. The overall tone and imagery convey a strong critique of societal norms that may be seen as misogynistic.
+--------------------------------------------------
+
+Image ID      : 290
+Classification: misogyny
+Explanation   : The meme uses a colloquial phrase that implies a negative stereotype about women's intelligence and decision-making abilities, which is often associated with misogyny in Indian culture. The text suggests that women are more likely to make poor decisions compared to men, which can be seen as a derogatory statement towards women.
+--------------------------------------------------
+
+Image ID      : 298
+Classification: misogyny
+Explanation   : The meme uses a phrase that implies a woman is responsible for the man's Sunday hangover, which is a common stereotype in some cultures, suggesting that women are the cause of men's problems. This aligns with misogynistic attitudes towards women's roles in society.
+--------------------------------------------------
+
+Image ID      : 1114
+Classification: misogyny
+Explanation   : The meme uses derogatory terms and stereotypes about women across different age groups, which is indicative of misogynistic content in the context of Indian culture.
+--------------------------------------------------
+
+Image ID      : 1074
+Classification: misogyny
+Explanation   : The meme contains a question that implies a negative stereotype about women, suggesting that they are more likely to be the cause of someone's death by poison. This type of language perpetuates harmful gender stereotypes and is considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 1565
+Classification: misogyny
+Explanation   : The meme portrays a scenario where a boy follows a girl outside, and inside, the girl is depicted as being in a state of distress or discomfort, suggesting that she is being harassed. The text 'Ethana time thitunalum pinnadiye varane' translates to 'It's time to get rid of this guy,' which implies that the girl is uncomfortable with the boy's presence. This portrayal can be seen as objectifying the girl and suggesting that her discomfort is due to the boy's actions, which is a form of misogyny.
+--------------------------------------------------
+
+Image ID      : 1320
+Classification: misogyny
+Explanation   : The transcription includes phrases like 'friend akka' and 'savagasam vechika koodathu nu soldrathu', which can be interpreted as derogatory towards women in certain contexts. The use of such language in a meme format is often used to express disdain or mockery towards women, thus indicating misogyny.
+--------------------------------------------------
+
+Image ID      : 1433
+Classification: misogyny
+Explanation   : The meme uses the phrase 'Miss y u' in a way that implies a romantic relationship, but the bottom image shows a woman with a distorted face, which could be interpreted as objectifying her. The use of 'MISS U T' further emphasizes the romantic context, potentially trivializing the woman's presence in the relationship.
+--------------------------------------------------
+
+Image ID      : 1561
+Classification: misogyny
+Explanation   : The meme criticizes women for only replying with 'hmm' or 'kk' to messages, implying that their responses lack substance or depth. This portrayal is stereotypical and dismissive of women's intelligence and communication skills, which can be considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 124
+Classification: misogyny
+Explanation   : The meme uses a phrase 'time sheet fill pannitu irunthe my lord' which is a colloquial expression implying that the person is too busy to respond, often used in a way that suggests the person is preoccupied with work or other responsibilities, potentially overlooking the person's feelings or needs. This can be interpreted as a form of dismissiveness towards the person's request for attention, which may carry a subtle misogynistic undertone in some contexts.
+--------------------------------------------------
+
+Image ID      : 1353
+Classification: misogyny
+Explanation   : The meme contains derogatory language directed at women, using terms that are considered offensive in the context of Indian culture. The text suggests a dismissive attitude towards women's desires and expectations, which is indicative of misogynistic content.
+--------------------------------------------------
+
+Image ID      : 556
+Classification: misogyny
+Explanation   : The image depicts a man in an extravagant manner with money flying around him, which is often associated with themes of wealth and success. The use of the hashtag #salaryday suggests a celebration of receiving one's salary, but the exaggerated depiction of wealth could be seen as mocking or trivializing the concept of earning a living, potentially perpetuating a stereotype that associates wealth with excess and lack of respect for the work ethic. Additionally, the repeated use of 'VERA LEVEL MEMES' in a circular fashion might imply a mocking tone towards the idea of celebrating salary day.
+--------------------------------------------------
+
+Image ID      : 1770
+Classification: misogyny
+Explanation   : The transcription includes derogatory language towards women, using terms like 'சொன்ன வேலை' which translates to 'talking job', implying that women are only good for talking and not doing any real work. This is a form of devaluation and belittlement of women's capabilities.
+--------------------------------------------------
+
+Image ID      : 271
+Classification: misogyny
+Explanation   : The transcription includes a phrase that translates to 'big girl, you don't have a husband,' which is a derogatory term for women in some contexts, suggesting a dismissive attitude towards women's marital status.
+--------------------------------------------------
+
+Image ID      : 1777
+Classification: misogyny
+Explanation   : The meme uses a stereotypical portrayal of a woman being dominated by a man in a rural setting, which is often used to perpetuate gender stereotypes and can be considered misogynistic in some contexts.
+--------------------------------------------------
+
+Image ID      : 1134
+Classification: misogyny
+Explanation   : The image depicts a woman in a banana leaf dress, which is often associated with traditional or rural attire in South Indian culture. The text 'pangu rope ah keela podu' translates to 'rope tied around the waist,' which could be interpreted as a derogatory term for women's clothing in some contexts. This combination suggests a stereotype or mockery of women's attire, which can be considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 1615
+Classification: misogyny
+Explanation   : The meme suggests that if a woman's body was beautiful, she would be valued for her work at home, implying that women's worth is solely based on their physical appearance rather than their abilities or contributions. This aligns with misogynistic views that devalue women's capabilities and achievements.
+--------------------------------------------------
+
+Image ID      : 1610
+Classification: misogyny
+Explanation   : The meme contains derogatory language directed at women, using terms that are considered offensive in Tamil culture. The text suggests that women should be silenced and implies that they are not capable of making their own decisions, which is a form of misogyny.
+--------------------------------------------------
+
+Image ID      : 814
+Classification: misogyny
+Explanation   : The meme references a news article about Pushpa's song 'O Cholirai Mama' being criticized for its lyrics, suggesting that the song should be censored. The bottom part of the meme includes a question 'WE GUYS HAVING SANGAM?', which implies a discussion about censorship and the involvement of men in such decisions, potentially perpetuating gender stereotypes and attitudes towards women's artistic expression.
+--------------------------------------------------
+
+Image ID      : 1558
+Classification: misogyny
+Explanation   : The meme uses a question that implies a woman's worth is tied to her physical appearance ('ponnu dhana'), which is a form of objectification and dehumanization. The use of such language in a meme format is often considered misogynistic in Indian cultural contexts.
+--------------------------------------------------
+
+Image ID      : 276
+Classification: misogyny
+Explanation   : The meme uses the phrase 'Raghavan don't,' which is a colloquial expression often used to discourage or prevent someone from doing something. In the context of the image, it appears to be directed at Selvaraghavan, suggesting he should not direct the film. This type of language can be seen as dismissive or patronizing towards men in positions of authority, which aligns with misogynistic behavior.
+--------------------------------------------------
+
+Image ID      : 1454
+Classification: misogyny
+Explanation   : The meme contains a statement that suggests women should only make audio calls first before making video calls, implying that women should be subservient in communication. This aligns with traditional gender roles and is considered misogynistic in the context of India.
+--------------------------------------------------
+
+Image ID      : 964
+Classification: misogyny
+Explanation   : The meme uses the term 'dhosa kalluu' which is a derogatory term for women in Tamil culture, implying that the 'parotta master' is superior after consuming parotta, a type of bread, which is a form of gender-based discrimination.
+--------------------------------------------------
+
+Image ID      : 351
+Classification: misogyny
+Explanation   : The meme uses the term 'vitruchu' which is a derogatory term for women in Tamil culture, implying that the actor Vinayakan is acting like a woman. This is considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 773
+Classification: not-misogyny
+Explanation   : The meme does not contain any content that is inherently misogynistic. The humor revolves around a misunderstanding about a cricket match timing rather than making any derogatory comments about women.
+--------------------------------------------------
+
+Image ID      : 1541
+Classification: misogyny
+Explanation   : The meme uses derogatory language towards women, suggesting that women are prone to violence and that their behavior can be attributed to their marital status. The tone is dismissive and perpetuates harmful stereotypes about women's behavior and agency.
+--------------------------------------------------
+
+Image ID      : 1527
+Classification: misogyny
+Explanation   : The meme portrays a stereotypical interaction where a younger woman (me) is being scolded by an older woman (Aunty) for not having enough money to buy groceries. The younger woman's response is dismissive and condescending towards the older woman, which is often seen as disrespectful in Indian culture. The use of emojis at the end further emphasizes the disapproval and lack of respect towards the younger woman's attitude. This type of portrayal can be considered misogynistic as it perpetuates a gender-based power dynamic where women are expected to be subservient and respectful towards older women.
+--------------------------------------------------
+
+Image ID      : 965
+Classification: misogyny
+Explanation   : The meme includes a child being asked to fetch milk and bread, which is a traditional gendered role in some cultures, implying that women are responsible for these tasks. This portrayal can be seen as reinforcing traditional gender roles and is thus classified as misogynistic.
+--------------------------------------------------
+
+Image ID      : 1000
+Classification: misogyny
+Explanation   : The meme includes derogatory terms like 'little princess' and 'Karaikudi ilavarasi', which are culturally insensitive and imply a negative stereotype about women.
+--------------------------------------------------
+
+Image ID      : 1282
+Classification: misogyny
+Explanation   : The meme categorizes women into 'ANNI's' with derogatory phrases that suggest they are uneducated and submissive, which is a form of gender-based discrimination and belittlement.
+--------------------------------------------------
+
+Image ID      : 1279
+Classification: misogyny
+Explanation   : The meme portrays a man questioning his wife's whereabouts, which she responds by mentioning shopping. The man then asks what she bought, and she replies with an item and a price, suggesting a focus on material possessions rather than her well-being or activities. This could be interpreted as devaluing her time and interests outside of domestic chores, which is a form of misogyny in some cultural contexts.
+--------------------------------------------------
+
+Image ID      : 1579
+Classification: misogyny
+Explanation   : The meme contains a question that implies a negative stereotype about women's ability to work in tech, specifically targeting Infosys, which is a prominent IT company. The tone and content suggest a misogynistic perspective on women's roles in the workplace.
+--------------------------------------------------
+
+Image ID      : 1614
+Classification: misogyny
+Explanation   : The meme uses derogatory language towards women, specifically targeting their academic achievements and implying that they are not capable without a teacher's help. The use of terms like 'pona udane' (girl student) and 'arambichirviya ma' (first rank girl) in a mocking tone is indicative of a misogynistic perspective.
+--------------------------------------------------
+
+Image ID      : 1337
+Classification: misogyny
+Explanation   : The meme portrays a scenario where a teenage boy is described as rubbing his genitalia behind someone, which is a sexualized and objectifying depiction of a young person. This type of content can be seen as dehumanizing and disrespectful towards young boys, aligning with misogynistic themes by reducing them to their physical attributes and actions.
+--------------------------------------------------
+
+Image ID      : 68
+Classification: misogyny
+Explanation   : The Tamil text in the meme contains derogatory language towards women, using terms that are considered offensive in Indian culture. The phrase 'nenaikkiravan thaanda unmaiyana' translates to something like 'the woman who is a burden,' which is a pejorative term for women. This type of language is often used to dehumanize and belittle women, making the meme misogynistic.
+--------------------------------------------------
+
+Image ID      : 1524
+Classification: misogyny
+Explanation   : The meme contains a reference to a woman cooking sambar and being criticized for it, which is a common trope in some Indian media where women's domestic duties are often scrutinized. The text also includes a derogatory term 'arali keri' which is used to insult women, indicating a misogynistic tone.
+--------------------------------------------------
+
+Image ID      : 1108
+Classification: misogyny
+Explanation   : The meme portrays a conversation where the mother-in-law is making a comment about the daughter-in-law's cleanliness, implying that she should be more careful about hygiene. This type of dialogue often reflects a patriarchal attitude towards women's behavior and can be considered misogynistic in certain contexts.
+--------------------------------------------------
+
+Image ID      : 1548
+Classification: misogyny
+Explanation   : The meme contains a statement that suggests a woman's worth is determined by her husband's actions, which is a form of objectification and devaluation of women, aligning with misogynistic themes.
+--------------------------------------------------
+
+Image ID      : 125
+Classification: misogyny
+Explanation   : The meme includes a derogatory term for women ('asinga paduthra') in the transcription, which is considered highly offensive in Indian culture. The image also depicts a woman in a suggestive pose, reinforcing the misogynistic tone of the meme.
+--------------------------------------------------
+
+Image ID      : 544
+Classification: misogyny
+Explanation   : The meme includes a reference to 'panna dhan,' which is a term used in Tamil culture to describe a woman who has lost her virginity. The context suggests that the character is reacting negatively to losing a match, implying that the loss is related to his sexual status, which is a form of misogyny.
+--------------------------------------------------
+
+Image ID      : 1042
+Classification: misogyny
+Explanation   : The meme contains a dialogue where the woman suggests brushing her teeth in the morning, but the man responds that he cannot do so. The woman then says she will be there for him when he needs help, implying a dependency on the man. This exchange reflects a traditional gender role where women are expected to take care of men's needs, which can be seen as a form of misogyny.
+--------------------------------------------------
+
+Image ID      : 1432
+Classification: misogyny
+Explanation   : The meme uses derogatory language towards women, specifically calling her 'thambi' which is a term of endearment but often used in a mocking way in Tamil culture. The dialogue also includes a demand for money, which can be seen as disrespectful and dehumanizing towards the woman.
+--------------------------------------------------
+
+Image ID      : 1343
+Classification: misogyny
+Explanation   : The meme uses derogatory language directed at women, specifically calling one 'AVAN PO***LA' which is a term of abuse in Tamil. The interaction between the 'That Girl' and the 'Aunty' portrays a dismissive attitude towards women's achievements, suggesting that their success is due to their beauty rather than their intelligence or effort. This aligns with misogynistic attitudes prevalent in some Indian cultures.
+--------------------------------------------------
+
+Image ID      : 1462
+Classification: misogyny
+Explanation   : The meme portrays a woman in a domestic setting, with text suggesting that she is responsible for all household chores and is being criticized by her mother-in-law for not doing them properly. This reflects a traditional gender role where women are expected to handle domestic tasks, which can be seen as a form of misogyny.
+--------------------------------------------------
+
+Image ID      : 1224
+Classification: misogyny
+Explanation   : The meme portrays a woman questioning her husband about his actions, which is followed by a humorous response from the husband that implies he is the one who should be questioned. This type of humor often reinforces traditional gender roles where women are expected to be more observant and concerned about their husbands' behavior, while men are portrayed as less responsible. Such depictions can be seen as misogynistic in the context of Indian culture, where women's roles are often stereotyped and men's actions are sometimes excused or justified.
+--------------------------------------------------
+
+Image ID      : 874
+Classification: misogyny
+Explanation   : The image includes a list of large numbers in Tamil, with some numbers left blank and marked with question marks, which could imply a lack of knowledge or understanding about these numbers. The bottom part of the image features a scene from a Tamil movie with characters in traditional attire, and the text 'பார்த்தாயா எங்கள் தமிழின் சிறப்பு!' translates to 'We have the specialness of Tamil!'. This combination suggests a possible critique or humor at the expense of the language or culture, which can be interpreted as misogynistic due to the use of derogatory terms and the implication of ignorance towards Tamil culture.
+--------------------------------------------------
+
+Image ID      : 1653
+Classification: misogyny
+Explanation   : The meme suggests that women will be able to ride buses for free starting tomorrow, which implies that they currently do not have this privilege. This statement, combined with the visual of women in traditional attire on a bus, may be interpreted as a commentary on gender inequality, potentially promoting a message that women should be treated differently from men. The use of the phrase 'From Tomorrow' adds a sense of urgency and could be seen as a form of social pressure or expectation.
+--------------------------------------------------
+
+Image ID      : 1741
+Classification: misogyny
+Explanation   : The meme uses a derogatory term for women ('சும்மாவே') and implies that they are only valuable for their physical appearance ('மதிக்க மாட்டாங்க'), which is a form of objectification and dehumanization. The text also suggests that women are worth money, which perpetuates the idea that their value is solely based on their physical attributes, aligning with misogynistic views.
+--------------------------------------------------
+
+Image ID      : 592
+Classification: misogyny
+Explanation   : The meme includes a statement that suggests women are not worth much, which is a form of devaluing women's value in society, aligning with misogynistic attitudes.
+--------------------------------------------------
+
+Image ID      : 1182
+Classification: misogyny
+Explanation   : The meme uses a stereotype about women being more likely to be thieves than men, which is a form of gender-based discrimination and can be considered misogynistic in the context of India.
+--------------------------------------------------
+
+Image ID      : 1714
+Classification: misogyny
+Explanation   : The meme uses the phrase 'Machan Na Love Pannuranda', which is a colloquial expression in Tamil that translates to 'Don't love like a woman'. This expression is often used to criticize women for being overly emotional or clingy in relationships, which can be seen as a form of misogyny. The image of a man writing on a blackboard does not change the interpretation of the text's message towards women.
+--------------------------------------------------
+
+Image ID      : 1360
+Classification: misogyny
+Explanation   : The meme uses the phrase 'Unga Cleavage mattum dhan Enaku theridhu,' which translates to 'My cleavage is more valuable than your money.' This statement objectifies women by equating their physical attributes to monetary value, which is a form of misogyny in the context of Indian culture.
+--------------------------------------------------
+
+Image ID      : 1405
+Classification: misogyny
+Explanation   : The transcription includes a statement that translates to 'She ~ she will be my wife, I will take care of her completely... ~ she will be my wife, I will take care of her completely...' which implies a patriarchal view where the male character is taking control and making decisions about the female character's life, which can be seen as misogynistic in certain contexts.
+--------------------------------------------------
+
+Image ID      : 847
+Classification: misogyny
+Explanation   : The meme uses a derogatory term 'doli nu solitu' which is a pejorative slang for women in Tamil culture, implying that women are not capable of starting a conversation during Diwali. This is a clear example of misogyny.
+--------------------------------------------------
+
+Image ID      : 421
+Classification: misogyny
+Explanation   : The meme uses a phrase that implies a negative stereotype about women's ability to work in high-paying jobs like software engineering, which is a form of gender-based discrimination.
+--------------------------------------------------
+
+Image ID      : 638
+Classification: misogyny
+Explanation   : The meme uses derogatory language towards women, comparing them to 'women's day' in a way that suggests they are weak or inferior, which is a form of misogyny.
+--------------------------------------------------
+
+Image ID      : 1488
+Classification: misogyny
+Explanation   : The meme contains a statement that suggests women should be available for sexual favors on Sundays, which is a form of objectifying women and promoting a patriarchal mindset. This aligns with misogynistic attitudes prevalent in some parts of Indian culture.
+--------------------------------------------------
+
+Image ID      : 708
+Classification: misogyny
+Explanation   : The meme uses a phrase that is considered derogatory towards women in Tamil culture, which is 'Elai muthu nee aalu dham lae', suggesting that the woman is not worth much. This language is often used to belittle women and is not appropriate or respectful.
+--------------------------------------------------
+
+Image ID      : 528
+Classification: misogyny
+Explanation   : The meme suggests that Vijay, a well-known figure in Indian cinema, pays for followers on social media, which implies a devaluing of genuine engagement and the monetization of social media followers. This can be interpreted as a commentary on the commercialization of social media and the potential exploitation of followers, which may carry a subtle critique of the objectification of women in the context of social media and celebrity culture.
+--------------------------------------------------
+
+Image ID      : 1289
+Classification: misogyny
+Explanation   : The meme uses derogatory language towards women, referring to them as 'aunties' in a dismissive manner, which is often used to belittle their intelligence or capabilities. The text also suggests that women should be treated like normal friends, implying a lack of respect for their roles and status.
+--------------------------------------------------
+
+Image ID      : 262
+Classification: misogyny
+Explanation   : The transcription includes a phrase 'Naan ready dhan varava annen naan erangi varava', which translates to 'I am ready to give you money, but I am not ready to give you my heart'. This phrase is often used in a way that implies a lack of emotional readiness for a romantic relationship, which can be interpreted as a form of objectification or devaluing of women's emotional needs. The meme also features a man pointing towards the viewer, which could be seen as a gesture of dominance or control, further contributing to the misogynistic tone.
+--------------------------------------------------
+
+Image ID      : 778
+Classification: misogyny
+Explanation   : The meme portrays a stereotypical view of women's spending habits, suggesting that makeup and shopping are frivolous and wasteful. This aligns with traditional patriarchal views that undervalue women's financial decisions and autonomy.
+--------------------------------------------------
+
+Image ID      : 241
+Classification: misogyny
+Explanation   : The Tamil text in the image includes derogatory terms for women, which is considered misogynistic in Indian culture. The phrase 'mari pesura' is a pejorative term for women, often used to belittle or degrade them, which aligns with the meme's intent to mock someone who is depressed by suggesting that their problems are trivial compared to women's suffering.
+--------------------------------------------------
+
+Image ID      : 1170
+Classification: misogyny
+Explanation   : The meme uses derogatory language towards women by associating their hairstyles with a negative connotation, which is a form of sexism and misogyny in Indian culture.
+--------------------------------------------------
+
+Image ID      : 953
+Classification: misogyny
+Explanation   : The meme uses a character from a Tamil movie scene where a man is seen with a mustache, which is often associated with a stereotypical masculine appearance in Indian culture. The text 'Maaru vesathuku undana mariyatha poche da' translates to 'I will make you look like a girl,' which is a derogatory statement towards women's appearance and is considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 926
+Classification: misogyny
+Explanation   : The meme contains derogatory language towards women, specifically targeting their appearance and suggesting that they are not capable of appreciating good films. The use of terms like 'போனவன்' (worthless) and the overall tone of the text are indicative of misogynistic content.
+--------------------------------------------------
+
+Image ID      : 821
+Classification: misogyny
+Explanation   : The meme depicts a woman in a revealing outfit being approached by men at a bus stop, which is often used to stereotype women as objects of desire or harassment. The repeated phrase 'Aiya Saami' is a term that can be seen as derogatory towards women in some contexts. Additionally, the final frame shows a man looking at money, suggesting a focus on material gain rather than respect for the woman's dignity, which aligns with misogynistic tropes.
+--------------------------------------------------
+
+Image ID      : 594
+Classification: misogyny
+Explanation   : The meme uses the phrase 'Dolis la alaga iruntha' which translates to 'She is different from others', often used in a derogatory manner towards women in Tamil culture. The context and tone suggest a negative stereotype about women's behavior at work, which aligns with misogynistic content.
+--------------------------------------------------
+
+Image ID      : 416
+Classification: not-misogyny
+Explanation   : The meme does not contain any content that promotes or perpetuates gender-based stereotypes or discrimination. The text mentions a movie trailer and confirms it as a blockbuster, which is a neutral statement about the film's potential success without any misogynistic undertones.
+--------------------------------------------------
+
+Image ID      : 72
+Classification: misogyny
+Explanation   : The meme uses a scene from a Tamil movie where a woman expresses confusion about her future, followed by a man's reaction that implies he feels threatened by the woman's independence. This portrayal reinforces traditional gender roles and can be interpreted as misogynistic.
+--------------------------------------------------
+
+Image ID      : 366
+Classification: misogyny
+Explanation   : The meme uses the term 'boy besties/girl besties' in a way that implies a hierarchy or preference for male friendships over female friendships, which can be seen as promoting a patriarchal viewpoint. This aligns with the cultural context where such attitudes may be considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 260
+Classification: misogyny
+Explanation   : The meme humorously portrays a situation where a child is caught in the middle of their parents' argument and tries to deflect blame onto someone else, which can be seen as a form of blaming women for conflicts between men. This type of humor is often associated with misogynistic attitudes towards women's roles in family dynamics.
+--------------------------------------------------
+
+Image ID      : 52
+Classification: misogyny
+Explanation   : The meme includes a scene from a Tamil movie where a character is depicted in a way that suggests he is being humiliated or belittled by another character, which can be interpreted as a form of gender-based abuse. The Tamil text further emphasizes this by using language that could be seen as derogatory towards women, indicating a misogynistic tone.
+--------------------------------------------------
+
+Image ID      : 1226
+Classification: misogyny
+Explanation   : The meme portrays a man making a sexist comment about women's achievements in sports, suggesting that women should be grateful for even minor accomplishments. This type of humor is often used to trivialize women's achievements and reinforce gender stereotypes, which can be considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 911
+Classification: misogyny
+Explanation   : The meme uses a food metaphor to suggest that single individuals are 'fish' and committed individuals are 'coconut', implying that food is more appealing to single people than committed ones. This can be interpreted as a derogatory view towards committed relationships, which may be considered misogynistic in some contexts.
+--------------------------------------------------
+
+Image ID      : 1659
+Classification: misogyny
+Explanation   : The meme includes a reference to 'ayya thorai', which is a term often used in a derogatory manner towards women in Tamil culture, implying that women are not capable of making decisions or are weak. This aligns with the overall theme of the meme, which appears to be mocking or degrading women's roles in public transportation.
+--------------------------------------------------
+
+Image ID      : 1205
+Classification: misogyny
+Explanation   : The meme depicts a woman being told to get married and have children, which is a common societal pressure on women in India. The text also includes a reference to 'Re Parama', a popular Tamil movie, where the character's dialogue suggests a traditional view of women's roles and responsibilities, reinforcing gender stereotypes and promoting a patriarchal perspective.
+--------------------------------------------------
+
+Image ID      : 917
+Classification: misogyny
+Explanation   : The meme includes a prank video where a man is seen touching a woman's private area, which is considered inappropriate and disrespectful in Indian culture. The Tamil text further emphasizes the shock at such behavior towards women, indicating a misogynistic undertone.
+--------------------------------------------------
+
+Image ID      : 372
+Classification: misogyny
+Explanation   : The meme uses a phrase 'Enna da ulla onnumae ila' which translates to 'I am a woman, I don't know anything,' implying that women lack knowledge. This is a stereotypical and derogatory statement towards women, hence classified as misogynistic.
+--------------------------------------------------
+
+Image ID      : 1704
+Classification: misogyny
+Explanation   : The meme uses a contrast between a flattering comment on women during Women's Day and a dismissive statement about their behavior on other days, which can be interpreted as devaluing women's contributions outside of special occasions.
+--------------------------------------------------
+
+Image ID      : 433
+Classification: misogyny
+Explanation   : The meme uses a phrase that translates to 'Dad, can you give me money,' which is often used to mock men for not being financially supportive. This is a common stereotype and can be seen as a form of misogyny, as it implies that women should be financially dependent on men. The context of the meme, combined with the use of this phrase, suggests a negative portrayal of men's roles in society, which aligns with misogynistic themes.
+--------------------------------------------------
+
+Image ID      : 1256
+Classification: misogyny
+Explanation   : The meme uses derogatory terms like 'Gundu girls' to describe women, which is considered offensive in Indian culture. The phrase 'Un Padukaila paathi Edam Ennaku Thana' also implies that women are only interested in material wealth, which is a stereotypical and negative portrayal of women's desires.
+--------------------------------------------------
+
+Image ID      : 409
+Classification: misogyny
+Explanation   : The meme uses a phrase that implies a woman's body is a source of danger, which is a form of objectification and dehumanization, often associated with misogynistic humor in some contexts.
+--------------------------------------------------
+
+Image ID      : 1584
+Classification: misogyny
+Explanation   : The meme contains a statement that suggests the man hit his wife, which is a form of domestic violence. The subsequent dialogue implies that the woman was working and did not have time for him, which could be interpreted as a justification for the man's actions. This type of content is often used to perpetuate harmful stereotypes about women and their roles in society, thus promoting misogyny.
+--------------------------------------------------
+
+Image ID      : 615
+Classification: misogyny
+Explanation   : The meme includes a reference to 'illa vena nan thanni kudichikiren', which translates to 'if you don't have a vagina, you can't do that'. This statement is inherently misogynistic, suggesting that women are incapable of performing certain actions due to their anatomy, which is a form of gender-based discrimination.
+--------------------------------------------------
+
+Image ID      : 756
+Classification: misogyny
+Explanation   : The meme uses the phrase 'Dai Ivan edho soldraan daa ennanu kelunga daa', which translates to 'Dai Ivan, you are a woman, you are a girl'. This phrase is often used in a derogatory manner towards women, implying that they are inferior or less capable. The image also features a person holding a hammer, which could be interpreted as a symbol of strength or dominance, further emphasizing the negative connotation towards women in this context.
+--------------------------------------------------
+
+Image ID      : 1051
+Classification: misogyny
+Explanation   : The transcription suggests that the man is complimenting the woman by saying she is cuter than her body, which can be interpreted as objectifying her physical appearance. The image further emphasizes this by showing a woman with exaggerated features and sparkles, often used in memes to highlight beauty or attractiveness, but in this context, it seems to be reinforcing the idea of focusing on physical appearance rather than personality or other qualities.
+--------------------------------------------------
+
+Image ID      : 515
+Classification: misogyny
+Explanation   : The meme uses a scene from a Tamil movie where a man is questioning a woman's ability to understand something, which is often used in memes to imply that women are less capable or intelligent. The text 'DEI, YAARA NENGALAM?' translates to 'Oh, you don't understand?' in English, reinforcing the idea that the woman lacks understanding or intelligence. This type of language and imagery can be seen as misogynistic in the context of Indian culture, where such stereotypes about women's capabilities are prevalent.
+--------------------------------------------------
+
+Image ID      : 142
+Classification: misogyny
+Explanation   : The meme uses the phrase 'panirukalam thonudhulla ipo', which is a colloquial expression in Tamil that translates to 'I will kill you' or 'I will murder you'. This expression is often used in a threatening manner and can be considered offensive. The context of the meme, combined with the use of such language, suggests a tone of aggression and threat towards women, which aligns with misogynistic content.
+--------------------------------------------------
+
+Image ID      : 1139
+Classification: misogyny
+Explanation   : The meme uses a phrase that translates to 'Only two thousand rupees,' which is often used in a derogatory manner towards women, implying they are financially dependent or less valuable. This aligns with misogynistic attitudes prevalent in some parts of Indian culture.
+--------------------------------------------------
+
+Image ID      : 1233
+Classification: misogyny
+Explanation   : The image depicts a man dressed in a manner that is often associated with traditional Indian attire for women, which can be seen as objectifying or appropriating female clothing. The presence of a woman's headband on the man's head further emphasizes this. The caption, while not explicitly stating any harmful intent, contributes to the overall context by suggesting that such photos are common in homes of 90s kids, potentially normalizing or trivializing gender roles and stereotypes.
+--------------------------------------------------
+
+Image ID      : 1660
+Classification: misogyny
+Explanation   : The meme uses images of women in traditional attire, which may be seen as stereotypical or objectifying. The text 'My friend from tomorrow~' combined with these images could imply a negative or dismissive view towards women's roles or capabilities, potentially perpetuating gender stereotypes.
+--------------------------------------------------
+
+Image ID      : 1349
+Classification: misogyny
+Explanation   : The meme includes a woman in a seemingly submissive pose and the text 'EPPUDI PATHALUM 2 KA! PATHATHU SIR PIDIKA;', which translates to 'If you want to be a man, go to school and study.' This statement implies that women should aspire to be men by studying, which can be interpreted as a form of gender discrimination and is often used to promote traditional gender roles that undervalue women's capabilities and achievements.
+--------------------------------------------------
+
+Image ID      : 417
+Classification: misogyny
+Explanation   : The meme uses language that suggests women are not capable of making decisions about going out, which is a form of gender discrimination and can be considered misogynistic in the context of Indian culture.
+--------------------------------------------------
+
+Image ID      : 1469
+Classification: misogyny
+Explanation   : The meme includes a scene from a Tamil movie where men are depicted in a dominant and aggressive manner towards women, which aligns with traditional patriarchal norms and can be interpreted as misogynistic. The text 'Adhu epdi thimingalam adhukulla ivlo perusa aagiduchu..!!' further reinforces this by suggesting that women should be controlled and dominated, which is a form of gender-based oppression.
+--------------------------------------------------
+
+Image ID      : 272
+Classification: misogyny
+Explanation   : The meme includes a reference to 'sali' which is a derogatory term for women in Tamil culture, implying that drinking juice late at night is something only women would do. This perpetuates a stereotype about women's behavior and is considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 185
+Classification: misogyny
+Explanation   : The meme includes a derogatory term for women ('paduthra') in the transcription, which is considered highly offensive in Indian culture. The image also depicts a man smoking, which is often associated with negative stereotypes about women in certain contexts. The overall tone and content of the meme are disrespectful towards women.
+--------------------------------------------------
+
+Image ID      : 757
+Classification: misogyny
+Explanation   : The meme uses a phrase that implies a negative stereotype about women's work ethic, which is often associated with misogyny in Indian culture. The text 'Sunday work panna' suggests that women do not work on Sundays, which is a common stereotype. Additionally, the manager's response 'Athuu fake uhh' further reinforces this stereotype by implying that the woman is lying or exaggerating her work schedule.
+--------------------------------------------------
+
+Image ID      : 245
+Classification: misogyny
+Explanation   : The meme uses a visual of a man in a crowd, which is often associated with the concept of 'Muthu Kutti' in Tamil culture, where a man is surrounded by women. The caption suggests that after getting a seat in an unreserved compartment, the man feels superior, which aligns with the stereotype of men being more entitled than women in public spaces. This perpetuates a gender-based hierarchy and is considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 440
+Classification: misogyny
+Explanation   : The meme includes a scene from a movie where a woman is being physically restrained by a man, which can be interpreted as a form of gender-based violence. The accompanying text 'Modern love huh pathi ivalo' suggests a critique of modern relationships, potentially implying that women are being controlled or dominated in contemporary settings. This aligns with the depiction in the image and contributes to a negative portrayal of women's roles and autonomy.
+--------------------------------------------------
+
+Image ID      : 661
+Classification: misogyny
+Explanation   : The meme uses the phrase 'romba romba rare piece chettiyar,' which is a derogatory term for women in Tamil culture, implying that women who don't know about Instagram are considered inferior or less valuable. This language is inherently misogynistic.
+--------------------------------------------------
+
+Image ID      : 1766
+Classification: misogyny
+Explanation   : The meme contains a statement that suggests a negative consequence for a woman's actions, implying that her complaints will turn into sour sambar, which is a derogatory reference to women's complaints being perceived as unpleasant or unappreciated. This aligns with misogynistic attitudes towards women's voices and experiences.
+--------------------------------------------------
+
+Image ID      : 323
+Classification: not-misogyny
+Explanation   : The image does not contain any explicit content or language that can be interpreted as misogynistic. The transcription text also does not provide any indication of misogynistic themes or content.
+--------------------------------------------------
+
+Image ID      : 817
+Classification: misogyny
+Explanation   : The meme uses the phrase 'Love failure aagitan sir..' which implies that love failures are a source of amusement for men, potentially objectifying women's emotional experiences. This aligns with cultural stereotypes that can be considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 889
+Classification: misogyny
+Explanation   : The meme uses the phrase 'kekura' which is often used in a derogatory manner towards women in Tamil culture, implying that the woman's singing ability is inferior to the man's. This aligns with misogynistic attitudes prevalent in some parts of Indian society.
+--------------------------------------------------
+
+Image ID      : 590
+Classification: not-misogyny
+Explanation   : The meme does not contain any explicit or implicit content that promotes or perpetuates gender-based discrimination or inequality. The text and image together do not convey a message that is inherently misogynistic in nature.
+--------------------------------------------------
+
+Image ID      : 1318
+Classification: misogyny
+Explanation   : The meme uses derogatory language towards women, referring to them as 'rugged anni' which is a pejorative term in Tamil. The text also includes phrases that suggest a negative portrayal of women's behavior and appearance, which is indicative of misogynistic content.
+--------------------------------------------------
+
+Image ID      : 1290
+Classification: misogyny
+Explanation   : The Tamil text in the image and transcription expresses a derogatory view towards women, using terms that are considered offensive and degrading in the context of Indian culture. The phrase 'mothama' is often used to refer to women in a derogatory manner, implying they are inferior or less capable. This type of language is inherently misogynistic.
+--------------------------------------------------
+
+Image ID      : 251
+Classification: misogyny
+Explanation   : The meme includes a conversation where one person is discussing leaving work due to personal reasons, and another person expresses disappointment and frustration about the situation. The tone and content suggest a dismissive attitude towards the person's decision, which can be interpreted as misogynistic in the context of Indian culture, where women's decisions and needs are often undervalued or dismissed by men.
+--------------------------------------------------
+
+Image ID      : 701
+Classification: misogyny
+Explanation   : The meme uses the phrase 'Alagu na alagu achacho apdi orru' which translates to 'She is different from others', implying that the woman in the image is superior or special. This type of language can be seen as objectifying women and promoting a patriarchal view where women are compared to men in terms of their qualities or attributes.
+--------------------------------------------------
+
+Image ID      : 1162
+Classification: misogyny
+Explanation   : The meme uses a question that implies a woman should be subservient to a man, which is a form of gender-based discrimination and can be considered misogynistic in some contexts.
+--------------------------------------------------
+
+Image ID      : 415
+Classification: misogyny
+Explanation   : The meme uses a phrase that translates to 'Tea kada anna: when it rains, the kettle will boil,' which is a colloquial expression in Tamil. This expression is often used to criticize women for being overly emotional or sensitive during rainy weather, implying that they are easily upset by minor issues. The use of such language in a meme can be considered misogynistic as it perpetuates stereotypes about women's emotional responses.
+--------------------------------------------------
+
+Image ID      : 383
+Classification: misogyny
+Explanation   : The meme uses the term 'Ivanuku epd nga' which is a colloquial term in Tamil that can be considered derogatory towards women, often used in a dismissive manner. The context of the meme, combined with the use of such language, suggests a misogynistic tone.
+--------------------------------------------------
+
+Image ID      : 839
+Classification: misogyny
+Explanation   : The meme uses a phrase that translates to 'I am a black man, I have no money, but I love you,' which is a stereotypical and degrading way of addressing a woman, often used in a mocking manner towards women who are perceived as being in a position of power or authority. This type of language is considered misogynistic in many cultures, including India.
+--------------------------------------------------
+
+Image ID      : 1651
+Classification: misogyny
+Explanation   : The meme uses a character from a Tamil TV show to make a comment about a woman's future husband, which can be interpreted as objectifying her and focusing on her marital status rather than her individual qualities or achievements. This aligns with traditional patriarchal views that prioritize a woman's marital status over her personal attributes.
+--------------------------------------------------
+
+Image ID      : 980
+Classification: misogyny
+Explanation   : The meme uses a derogatory term 'panna solli' which is a pejorative slang for women in Tamil culture, implying that followers are only interested in earning money quickly without any genuine interest or respect. This aligns with misogynistic attitudes towards women's value and worth.
+--------------------------------------------------
+
+Image ID      : 1145
+Classification: misogyny
+Explanation   : The meme portrays a woman in a domestic setting being physically aggressive towards her children, which is culturally inappropriate and reflects a negative stereotype about women's roles in family dynamics. The text further emphasizes this by questioning why the woman is not punished for her actions, suggesting that her behavior is acceptable or even encouraged. This aligns with misogynistic attitudes prevalent in some cultures where women are expected to be submissive and not assertive in their homes.
+--------------------------------------------------
+
+Image ID      : 495
+Classification: misogyny
+Explanation   : The meme uses a phrase that translates to 'She: Match pakuriya da' which is a colloquial expression in Tamil that can be interpreted as a derogatory term for women, suggesting they are only interested in material things. This aligns with misogynistic attitudes towards women's desires and values.
+--------------------------------------------------
+
+Image ID      : 951
+Classification: misogyny
+Explanation   : The meme uses a colloquial expression that implies a negative stereotype about women's intelligence and decision-making abilities, which is a form of misogyny in Indian culture.
+--------------------------------------------------
+
+Image ID      : 399
+Classification: misogyny
+Explanation   : The meme depicts a scene where a man is being physically restrained by another man, which could be interpreted as a form of dominance or control. The accompanying text in Tamil suggests that people often take photos and videos during movies, events, and festivals, implying that these actions might be seen as intrusive or disrespectful. This context, combined with the visual representation, can be seen as a commentary on gender dynamics, potentially suggesting that women are often objectified or controlled in public spaces, which aligns with misogynistic themes.
+--------------------------------------------------
+
+Image ID      : 1346
+Classification: misogyny
+Explanation   : The meme uses derogatory language in Tamil that refers to a specific type of girl in class, which is often used to stereotype and belittle women. The phrase 'Nalla paal maadu mari irunthu' translates to 'She is like a cow's milk,' which is a derogatory term in Tamil culture, implying that the person is not intelligent or valuable. This type of language is considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 171
+Classification: not-misogyny
+Explanation   : The transcription text does not contain any explicit or implicit references to gender-based discrimination or derogatory language towards women. The content appears to be promoting a comedy movie, which is a common genre in Indian cinema without necessarily implying misogyny.
+--------------------------------------------------
+
+Image ID      : 1050
+Classification: misogyny
+Explanation   : The transcription includes a statement that suggests a woman should be punished for her actions, which is a form of gender-based violence and discrimination against women.
+--------------------------------------------------
+
+Image ID      : 1202
+Classification: misogyny
+Explanation   : The meme uses a visual and textual setup that implies a mother's disapproval of her son's actions, which is often used in a way that portrays women as overly controlling or critical towards their children. The text 'ஆண்ட்டி உங்க பையனுக்கு உடம்பு சரியில்லைன்னு' translates to 'I asked my son not to wear a skirt,' suggesting a mother's disapproval of her son's choice of clothing. This can be interpreted as a form of gender-based criticism, which is not appropriate and can be seen as misogynistic.
+--------------------------------------------------
+
+Image ID      : 428
+Classification: misogyny
+Explanation   : The meme uses a phrase that implies a woman is being held down by a man in a way that suggests she is being dominated or controlled, which is often associated with misogynistic humor in some contexts.
+--------------------------------------------------
+
+Image ID      : 301
+Classification: misogyny
+Explanation   : The meme suggests that the few seconds shown in the image are superior to any full-fledged women superhero film or series, implying that the latter lacks substance or quality compared to the former. This comparison can be seen as devaluing the content and achievements of women superheroes in films and series, which aligns with misogynistic attitudes towards women's representation in media.
+--------------------------------------------------
+
+Image ID      : 1666
+Classification: misogyny
+Explanation   : The meme includes a statement that all women can travel for free on buses starting May 8th, attributed to a politician. The bottom part of the meme suggests that men and women should be treated equally, but then implies that only women will benefit from this policy, which is a form of gender discrimination and could be interpreted as misogynistic.
+--------------------------------------------------
+
+Image ID      : 395
+Classification: misogyny
+Explanation   : The meme includes a black-and-white image of a woman with a distorted face, which is often used in memes to convey fear or horror. This imagery, combined with the text discussing a cricket match, suggests a negative portrayal of women, which aligns with misogynistic themes.
+--------------------------------------------------
+
+Image ID      : 1236
+Classification: misogyny
+Explanation   : The meme includes a woman in a news broadcast setting, which is typically associated with professionalism and authority. The text below the image suggests that she has discovered a new method for idli, implying that her expertise is being questioned or undermined by others. This could be interpreted as a form of gender-based criticism or belittlement, which aligns with misogynistic undertones.
+--------------------------------------------------
+
+Image ID      : 1054
+Classification: misogyny
+Explanation   : The Tamil text in the meme uses derogatory language towards women, referring to them as 'kavarnthu' (covered by eyes), 'kalanthu' (drowned in the wind), and 'nuzhinthu' (penetrated by the nose). These phrases are culturally insensitive and imply that women are objects of male gaze and control, which is a form of misogyny.
+--------------------------------------------------
+
+Image ID      : 507
+Classification: misogyny
+Explanation   : The meme uses the phrase 'Yeduthu irukanga pa' which translates to 'I will make you cry,' a phrase often used in a derogatory manner towards women in Tamil culture, implying that the movie's visuals and performance are so poor that they would make women cry. This is a clear example of misogynistic content.
+--------------------------------------------------
+
+Image ID      : 1738
+Classification: misogyny
+Explanation   : The meme uses a stereotype that suggests 2K kids girls are more difficult to please compared to 90's kids boys, which perpetuates a harmful gender stereotype about women's desires and expectations.
+--------------------------------------------------
+
+Image ID      : 1028
+Classification: misogyny
+Explanation   : The meme uses a phrase that translates to 'If you want to be a woman, you should be a woman,' which is a common expression in Tamil culture. However, the context and tone suggest a mocking or dismissive attitude towards women's roles and aspirations, which can be interpreted as misogynistic.
+--------------------------------------------------
+
+Image ID      : 1418
+Classification: misogyny
+Explanation   : The image features a woman in revealing attire, which may be seen as objectifying her body. The text 'Nee ennadi Winter season la Mangoes Grow pannitu iruka' translates to 'If you don't like winter, mangoes will grow in your face,' which is a derogatory comment about women's bodies, particularly their faces, and can be interpreted as misogynistic.
+--------------------------------------------------
+
+Image ID      : 530
+Classification: misogyny
+Explanation   : The meme uses the phrase 'kadupethify' which is a derogatory term for women in Tamil culture, implying that the act of uploading a photo to 'kadupethify' an ex is a form of revenge or humiliation against the ex-partner. The use of this term in the context of the meme is clearly misogynistic.
+--------------------------------------------------
+
+Image ID      : 1109
+Classification: misogyny
+Explanation   : The meme includes a woman being referred to as 'Sachitra' in a way that suggests she is being used for a specific purpose, which can be interpreted as objectifying her. The text also includes a suggestive tone towards the woman's appearance and actions, which is not appropriate and could be considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 1719
+Classification: misogyny
+Explanation   : The meme suggests that while the value of gold is low for living, it is very high for the next person. This implies a devaluation of women's worth in comparison to material possessions, which is a form of misogyny.
+--------------------------------------------------
+
+Image ID      : 555
+Classification: misogyny
+Explanation   : The meme includes a statement that suggests a preference for movies and cricket over personal relationships, which can be interpreted as devaluing emotional connections and relationships, a common theme in misogynistic humor in some Indian contexts.
+--------------------------------------------------
+
+Image ID      : 176
+Classification: misogyny
+Explanation   : The meme uses a stereotype about men seeking higher studies abroad, which is often associated with women in Indian culture. The phrase 'Ayya intha world education exhibition attend pannugaya' implies that attending such an event is a feminine pursuit, which is a form of gender stereotyping and can be considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 1627
+Classification: misogyny
+Explanation   : The meme uses a scene from a Tamil movie where a character is being told to stop talking about her housework, which is a form of gender-based discrimination. The text in the meme reinforces this by suggesting that the character should not talk about household chores, implying that such topics are not suitable for women. This aligns with traditional gender roles and stereotypes, which can be considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 620
+Classification: misogyny
+Explanation   : The Tamil text in the transcription includes phrases like 'Tamil la vandhu irukunae nariya peruku theriyala', which translates to 'If you are a Tamil girl, you will be treated like a piece of wood'. This statement is derogatory towards women and perpetuates harmful stereotypes about their worth and treatment in society.
+--------------------------------------------------
+
+Image ID      : 1237
+Classification: misogyny
+Explanation   : The meme uses the term 'Little princess' in a condescending manner towards the woman, which is often used to belittle her. The text also implies that the woman is being treated like a child, which is a form of dehumanization and can be considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 1010
+Classification: misogyny
+Explanation   : The meme uses a phrase that translates to 'My son, you have become a woman,' which is a culturally insensitive and derogatory statement towards men, often used in a mocking manner. The laughter emoji further emphasizes the mockery and implies that the statement is meant to be humorous at the expense of the person's masculinity.
+--------------------------------------------------
+
+Image ID      : 744
+Classification: misogyny
+Explanation   : The meme uses derogatory language towards women, specifically calling them 'easy' and 'upset', which is considered offensive in many cultures, including Indian culture.
+--------------------------------------------------
+
+Image ID      : 1262
+Classification: misogyny
+Explanation   : The meme uses a caricatured image of a woman in a domestic setting, accompanied by text that suggests she is overly controlling and critical towards her children, which is often stereotypically associated with traditional Indian motherhood. The tone and content of the text, along with the visual representation, contribute to a portrayal that could be seen as degrading or dismissive of women's roles, thus aligning with misogynistic themes.
+--------------------------------------------------
+

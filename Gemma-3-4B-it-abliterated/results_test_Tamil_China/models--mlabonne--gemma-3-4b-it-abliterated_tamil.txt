@@ -1,0 +1,1783 @@
+CC-MMD 2026 — Misogyny Meme Classification Results
+==================================================
+
+Image ID      : 1193
+Classification: not-misogyny
+Explanation   : The text describes a common marital argument about food and the wife's annoyance. It doesn't contain any misogynistic remarks or offensive language towards women.
+--------------------------------------------------
+
+Image ID      : 427
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1474
+Classification: not-misogyny
+Explanation   : It's a general meme, no specific misogynistic content.
+--------------------------------------------------
+
+Image ID      : 766
+Classification: not-misogyny
+Explanation   : The text describes a film and its quality, with no misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 486
+Classification: misogyny
+Explanation   : The meme suggests that a woman's consent is secondary to a man's desire to marry her, implying that she should agree to be 'tied' to him, and the father is okay with it if she doesn't. This is a common trope of misogynistic humor in Tamil culture.
+--------------------------------------------------
+
+Image ID      : 480
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 110
+Classification: not-misogyny
+Explanation   : The text describes a simple transaction and mentions two concerts. It doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 775
+Classification: not-misogyny
+Explanation   : The text describes a motivational interaction and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1388
+Classification: misogyny
+Explanation   : The text uses derogatory terms ('thambi' and 'akka') and objectifies the woman by describing her in a sexualized way, referencing 'Hotty Temple'. This is clearly misogynistic.
+--------------------------------------------------
+
+Image ID      : 1189
+Classification: not-misogyny
+Explanation   : The text describes two sisters who acted as father and son, it's a simple observation about a movie scene and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1721
+Classification: not-misogyny
+Explanation   : The text compares a woman's mistake to a broken object, and a man's mistake to a broken mind. It's a common observation about human nature, not necessarily misogynistic.
+--------------------------------------------------
+
+Image ID      : 531
+Classification: not-misogyny
+Explanation   : The text describes a common meme format and a question, with no clear misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 985
+Classification: not-misogyny
+Explanation   : The meme describes a common dream (shyams mc chennai pasanga) and a general characteristic of women (ammuvuku perusa). It doesn't contain any specific misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 539
+Classification: misogyny
+Explanation   : Using derogatory terms like 'Naragam' (literally 'hen' or 'rooster') to describe men, implying they are weak and inferior, is a common way to subtly insult men in Tamil. The repetition of 'Naragam pa' emphasizes this, and the overall tone is slightly condescending.
+--------------------------------------------------
+
+Image ID      : 1058
+Classification: not-misogyny
+Explanation   : It describes a typical family scene with a mother cooking and family members welcoming her. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 678
+Classification: misogyny
+Explanation   : The mom is implying that the daughter is only good at making sambhar (a lentil dish), which is a common way to belittle women in Tamil culture by reducing their skills to domestic tasks.
+--------------------------------------------------
+
+Image ID      : 1102
+Classification: misogyny
+Explanation   : The text implies that a woman should be subservient to her husband and that she should tell her husband who to date, which is a common trope in misogynistic memes in a patriarchal culture like China.
+--------------------------------------------------
+
+Image ID      : 317
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1150
+Classification: not-misogyny
+Explanation   : The text uses a playful nickname ('Dothi') and compares the woman to a teddy bear. It's a lighthearted teasing, not misogynistic.
+--------------------------------------------------
+
+Image ID      : 931
+Classification: not-misogyny
+Explanation   : The meme describes a woman who is married, which is not necessarily misogynistic. It simply states a fact about her.
+--------------------------------------------------
+
+Image ID      : 345
+Classification: not-misogyny
+Explanation   : The meme is about a love interest and whether they are a friend or a girlfriend. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 591
+Classification: misogyny
+Explanation   : The text describes a woman as a 'rare piece' and implies she is only valuable for her ability to spend time with the speaker, suggesting she is a possession.
+--------------------------------------------------
+
+Image ID      : 949
+Classification: misogyny
+Explanation   : The phrase 'Mom' followed by a list of superlatives ('Thala', 'Kannu', 'Kaluthu', 'Muthuku') and then 'Poo' (shit) is a common Tamil meme format that often implies the mother is the only one who appreciates the son. It can be seen as implying women are only appreciated for their motherhood and that's their only value.
+--------------------------------------------------
+
+Image ID      : 786
+Classification: misogyny
+Explanation   : The text suggests that women should wear traditional clothes (saree, chudi) while men can be modern, implying that women should conform to traditional expectations.
+--------------------------------------------------
+
+Image ID      : 882
+Classification: not-misogyny
+Explanation   : The text is about playing PUBG in a 2G network and mentions memes and a 'Vaathiyare' (good/well) wish, with no misogynistic content.
+--------------------------------------------------
+
+Image ID      : 562
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1141
+Classification: not-misogyny
+Explanation   : The text describes a movie scene and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 304
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 221
+Classification: not-misogyny
+Explanation   : The text doesn't contain any misogynistic elements. It's just a praising of a character (fafa) and a mention of a group (Maa.
+--------------------------------------------------
+
+Image ID      : 1272
+Classification: not-misogyny
+Explanation   : The text describes a cartoon about street fights over pipes, and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1081
+Classification: misogyny
+Explanation   : The text implies that girls are only liked for their dresses, reducing them to their appearance and suggesting they are valued based on superficial qualities.
+--------------------------------------------------
+
+Image ID      : 742
+Classification: not-misogyny
+Explanation   : The text is simply a conversation between two people, with one complaining about a task and the other responding with a sick leave. There is no misogynistic element.
+--------------------------------------------------
+
+Image ID      : 1269
+Classification: misogyny
+Explanation   : The text describes women as constantly busy with morning coffee, lunch, and dinner, and as always cooking. It implies they are solely responsible for household tasks and that their efforts are only valued if they produce a large meal.
+--------------------------------------------------
+
+Image ID      : 600
+Classification: not-misogyny
+Explanation   : The text is a general meme about school days and uses a common Tamil term for 'cute girl' ('Muthu Kutti'). It doesn't contain any misogynistic language or stereotypes.
+--------------------------------------------------
+
+Image ID      : 325
+Classification: not-misogyny
+Explanation   : The text describes a casual conversation and doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 1711
+Classification: not-misogyny
+Explanation   : The text describes a woman complaining about her exhaustion but attributes it to the design of the man. It doesn't express misogynistic views.
+--------------------------------------------------
+
+Image ID      : 943
+Classification: misogyny
+Explanation   : The phrase 'பிச்சி பிச்சி' (pichchi pichchi) which means 'picky' or 'fussy' is used to describe the mother, implying she is always complaining and difficult. This is a common way to subtly demean women in Tamil, especially when referring to their eating habits.
+--------------------------------------------------
+
+Image ID      : 549
+Classification: not-misogyny
+Explanation   : The text does not contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 830
+Classification: not-misogyny
+Explanation   : The text describes a woman's eyes as 'Bun' (a type of fruit), which is a common and relatively neutral comparison. It also mentions polishing to get a 'Bun' - a bit of a playful comparison, but not inherently misogynistic.
+--------------------------------------------------
+
+Image ID      : 1366
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 382
+Classification: not-misogyny
+Explanation   : The text describes a meme and a senior, with no clear misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1450
+Classification: misogyny
+Explanation   : The meme uses a stereotypical and somewhat condescending tone towards the wife, implying she is only beautiful for the husband's benefit and that her main purpose is to help with the house and children. This is a common, albeit sometimes subtle, form of misogyny.
+--------------------------------------------------
+
+Image ID      : 30
+Classification: not-misogyny
+Explanation   : The text describes a meme and doesn't contain any misogynistic content.
+--------------------------------------------------
+
+Image ID      : 866
+Classification: not-misogyny
+Explanation   : The meme praises Lakshmi Priya for being tough and a good team captain. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1703
+Classification: misogyny
+Explanation   : The text implies that women only wish each other happy women's day, suggesting they don't do anything else. It's a slightly sarcastic and dismissive view of women.
+--------------------------------------------------
+
+Image ID      : 1044
+Classification: not-misogyny
+Explanation   : It's a simple observation about the time it takes for girls and boys to get ready. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1492
+Classification: not-misogyny
+Explanation   : The text describes a wife wondering when she'll be home after her husband goes away. It doesn't contain any misogynistic remarks or portray women negatively.
+--------------------------------------------------
+
+Image ID      : 1709
+Classification: not-misogyny
+Explanation   : The text describes a common scenario of crushes, with no clear misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1638
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1716
+Classification: not-misogyny
+Explanation   : The text describes women as being easily distracted by things like a village and a mobile phone, which is a common and not particularly misogynistic observation.
+--------------------------------------------------
+
+Image ID      : 1254
+Classification: misogyny
+Explanation   : The phrase 'naan oru loose'uh' (I am a loose woman) is a common and often derogatory term used to describe women in a way that implies they are sexually available and easy to manipulate. It's a classic example of objectification and can be considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 116
+Classification: not-misogyny
+Explanation   : The text is in Tamil and describes a crime audio series. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 680
+Classification: not-misogyny
+Explanation   : The text describes a mother and uses a common Tamil phrase, 'Muthu Kutti' (Pearl Child), which is a common term of endearment. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1423
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1245
+Classification: not-misogyny
+Explanation   : The meme is about a husband and wife discussing a gift. It's a lighthearted exchange and doesn't express misogynistic views.
+--------------------------------------------------
+
+Image ID      : 1091
+Classification: not-misogyny
+Explanation   : The text states that women are the ones who truly love, which is a common and not necessarily misogynistic sentiment.
+--------------------------------------------------
+
+Image ID      : 66
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 213
+Classification: not-misogyny
+Explanation   : It describes a dish (Kerala Biriyani) and compares it to a hero (Vaikuran). It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 558
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1111
+Classification: misogyny
+Explanation   : The text describes 'South Indian Aunties' engaging in arguments, and implies they know everything about everyone's relationships, which can be a stereotypical and slightly condescending portrayal of women.
+--------------------------------------------------
+
+Image ID      : 1616
+Classification: not-misogyny
+Explanation   : It describes an 'attitude girl' and asks to be decent, which is a common compliment. No misogynistic elements are present.
+--------------------------------------------------
+
+Image ID      : 1253
+Classification: not-misogyny
+Explanation   : It's a simple question about whether to put fish in sambar (a South Indian dish). It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 71
+Classification: not-misogyny
+Explanation   : The text describes a common work situation and doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 340
+Classification: not-misogyny
+Explanation   : The text is a typical Tamil meme format with no clear misogynistic content.
+--------------------------------------------------
+
+Image ID      : 367
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1664
+Classification: misogyny
+Explanation   : The text refers to 'men' as 'evils' and questions whether they respect women, suggesting a negative view of men and potentially implying women are bettered.
+--------------------------------------------------
+
+Image ID      : 484
+Classification: not-misogyny
+Explanation   : The text uses 'macha' (a Tamil term for woman) in a playful way, and doesn't contain any overtly misogynistic language or stereotypes.
+--------------------------------------------------
+
+Image ID      : 577
+Classification: not-misogyny
+Explanation   : The text describes a scenario of a wife playing cricket with her family, which is not inherently misogynistic. It's a fairly neutral observation.
+--------------------------------------------------
+
+Image ID      : 136
+Classification: not-misogyny
+Explanation   : The text describes a woman who didn't message, and the response is a playful complaint. It's not overtly misogynistic.
+--------------------------------------------------
+
+Image ID      : 24
+Classification: not-misogyny
+Explanation   : The text is about a male character and his preference for women, but it doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 629
+Classification: not-misogyny
+Explanation   : The text doesn't contain any clear misogynistic remarks. It's a simple meme referencing Batman or Ironman.
+--------------------------------------------------
+
+Image ID      : 887
+Classification: misogyny
+Explanation   : The phrase 'pesama nee padikiratha vitru' (meaning 'why are you looking at my phone contact list') implies the speaker is suspicious of the friend's female friends and their potential romantic interest, which can be a subtle form of misogynistic judgment.
+--------------------------------------------------
+
+Image ID      : 1238
+Classification: misogyny
+Explanation   : The text implies that women are good at housework and that they should do it, suggesting they are only suited for domestic work.
+--------------------------------------------------
+
+Image ID      : 355
+Classification: not-misogyny
+Explanation   : The text is a simple, friendly conversation between a person and an AI. It doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 1034
+Classification: misogyny
+Explanation   : The phrase 'வீங்கிருச்சடி' (became swollen) is a derogatory term often used to insult a woman's appearance. The comparison to Aishwarya Rai and calling her 'டம்மி' (dummy) is also demeaning.
+--------------------------------------------------
+
+Image ID      : 1344
+Classification: misogyny
+Explanation   : The word 'THEVU' (meaning 'woman') is followed by a derogatory term, implying she is only valued for her voice and appearance. It's a common way to objectify women in Tamil memes.
+--------------------------------------------------
+
+Image ID      : 1512
+Classification: misogyny
+Explanation   : The text refers to a stepmother ('மாமியார் ஏண்டி') and questions her knowledge about her son. It implies she is forgetful and perhaps a bit silly, which can be a common, though sometimes slightly condescending, trope used in Tamil culture to describe older women.
+--------------------------------------------------
+
+Image ID      : 353
+Classification: not-misogyny
+Explanation   : The text mentions girls and kurtis (traditional Indian tops), and doesn't contain any overtly misogynistic language or stereotypes.
+--------------------------------------------------
+
+Image ID      : 632
+Classification: not-misogyny
+Explanation   : The text describes a meme and comments on a woman's beauty, but it doesn't explicitly express misogynistic views. It's a relatively neutral observation.
+--------------------------------------------------
+
+Image ID      : 1636
+Classification: misogyny
+Explanation   : The meme compares a husband to a woman who adjusts, implying women are difficult to please and need constant adjustment. The comparison to a tailor with rage over a new jacket is used to highlight this perceived flaw.
+--------------------------------------------------
+
+Image ID      : 479
+Classification: not-misogyny
+Explanation   : It's a common Tamil phrase referring to a child and their parents. It's not inherently misogynistic.
+--------------------------------------------------
+
+Image ID      : 384
+Classification: not-misogyny
+Explanation   : The text refers to an 18+ meme and doesn't contain any obvious misogynistic language or stereotypes.
+--------------------------------------------------
+
+Image ID      : 1031
+Classification: not-misogyny
+Explanation   : The text describes a typical mother-son interaction and doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 238
+Classification: not-misogyny
+Explanation   : The text uses playful nicknames ('Muthu Kutti', 'Doodie') and describes a common work situation (getting an escalation). It doesn't contain any overtly misogynistic language or stereotypes.
+--------------------------------------------------
+
+Image ID      : 1358
+Classification: misogyny
+Explanation   : The text uses dismissive and slightly condescending language ('Daii', 'apdiye') towards the woman, and the 'Ssshhhh aaahh' response is a common, slightly mocking way to shut down a woman.
+--------------------------------------------------
+
+Image ID      : 332
+Classification: not-misogyny
+Explanation   : The text is a Tamil meme about salary and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1455
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 112
+Classification: not-misogyny
+Explanation   : The meme describes a common traffic situation and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1720
+Classification: misogyny
+Explanation   : The text criticizes women (திமிர் - arrogance) and suggests they carry 'dirt' ( அழுக்கை சுமந்து) like anger and hatred. It's a somewhat harsh judgment based on gender.
+--------------------------------------------------
+
+Image ID      : 1092
+Classification: not-misogyny
+Explanation   : The text describes different types of Tamil marriages and uses playful language. It doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 189
+Classification: not-misogyny
+Explanation   : The text is a simple meme about a woman (Kutti) asking someone to connect, with no clear misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 652
+Classification: not-misogyny
+Explanation   : The text describes a humorous exchange about 'VERA LEVEL MEMES' and 'TAMIL THE', with no clear misogynistic content.
+--------------------------------------------------
+
+Image ID      : 937
+Classification: misogyny
+Explanation   : The use of 'Me*' suggests a dismissive and potentially derogatory comment about the woman, implying she is only good for doing bank errands.
+--------------------------------------------------
+
+Image ID      : 414
+Classification: not-misogyny
+Explanation   : The text describes common activities like going out with friends, family events, watching CSK matches, and general life events. It doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 465
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 599
+Classification: not-misogyny
+Explanation   : The text describes a family calculating expenses, with the daughter asking about her allowance. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 940
+Classification: not-misogyny
+Explanation   : The text describes a woman (Katyari) and uses a comparison with yogurt, and a description of her strength. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 368
+Classification: not-misogyny
+Explanation   : The text describes a struggle with a social media update, with no specific reference to women or gender.
+--------------------------------------------------
+
+Image ID      : 163
+Classification: not-misogyny
+Explanation   : The text describes memes and doesn't contain any specific misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 333
+Classification: not-misogyny
+Explanation   : The text is a simple Tamil meme with no clear misogynistic content. It uses common terms like 'Muthu Kutti' (meaning 'Pearl Child') which is a common term of endearment.
+--------------------------------------------------
+
+Image ID      : 1641
+Classification: not-misogyny
+Explanation   : The text describes a mother and her daughter, and a boy. It doesn't contain any misogynistic remarks or offensive language towards women.
+--------------------------------------------------
+
+Image ID      : 1755
+Classification: not-misogyny
+Explanation   : The text refers to a Tamil movie and a place in Chennai. It doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 1679
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1069
+Classification: misogyny
+Explanation   : The text uses the term 'Aunty' (அuntie) in a slightly condescending way, which is a common stereotype in Tamil culture and can be considered mildly misogynistic. It also mentions going to a picture with 'her' (presumably the aunt) and the use of '💔🥀' emojis further emphasizes the feeling of being with a 'virgin' or 'old maid'.
+--------------------------------------------------
+
+Image ID      : 174
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1152
+Classification: not-misogyny
+Explanation   : The text describes a love breakup and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 454
+Classification: not-misogyny
+Explanation   : The text is a simple question about a woman's family and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 755
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1698
+Classification: misogyny
+Explanation   : The text implies that women only care about Women's Day and are only worth noticing when they wish men.
+--------------------------------------------------
+
+Image ID      : 1027
+Classification: misogyny
+Explanation   : The text uses derogatory terms like 'Chubbygirl' and repeatedly calls the woman 'paithyakari' (wife), implying she is only defined by her marital status and appearance, which can be seen as misogynistic.
+--------------------------------------------------
+
+Image ID      : 1206
+Classification: misogyny
+Explanation   : The phrase 'velakkamaru pinju poirum.unalam' suggests that women are only helpful for men's expectations, and 'kallipaal oothi kondrukanum' implies they are like a simple ornament. This is a common, somewhat condescending, way to describe women in Tamil, and it can be considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 204
+Classification: not-misogyny
+Explanation   : The text describes a woman who didn't message, and the response is a mild complaint. It doesn't contain any overtly misogynistic language or stereotypes.
+--------------------------------------------------
+
+Image ID      : 863
+Classification: not-misogyny
+Explanation   : The text describes a childhood memory of a thief, it does not contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 375
+Classification: not-misogyny
+Explanation   : The text is just praising good memes and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1533
+Classification: misogyny
+Explanation   : The meme suggests that after marriage, women should share work, but it implies that men should do more, reinforcing traditional gender roles and potentially suggesting women are less capable of handling work.
+--------------------------------------------------
+
+Image ID      : 472
+Classification: not-misogyny
+Explanation   : The meme is about a 'Vera Level' meme and doesn't contain any misogynistic content.
+--------------------------------------------------
+
+Image ID      : 1336
+Classification: not-misogyny
+Explanation   : The text describes a common office scenario and doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 487
+Classification: misogyny
+Explanation   : The word 'Amma' (mother) is used sarcastically, implying the woman is a fraud. This is a common way to insult women in Tamil, and can be considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 1270
+Classification: not-misogyny
+Explanation   : The text is about music and nostalgia, with no clear misogynistic content.
+--------------------------------------------------
+
+Image ID      : 586
+Classification: not-misogyny
+Explanation   : The text expresses sadness about the mother's death and mentions leave. It doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 583
+Classification: not-misogyny
+Explanation   : The text is a simple, lighthearted meme about a roommate and food. It doesn't contain any misogynistic language or stereotypes.
+--------------------------------------------------
+
+Image ID      : 426
+Classification: not-misogyny
+Explanation   : The text describes the movie poster and praises Kriti Sanon, a female actor, without any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1277
+Classification: misogyny
+Explanation   : The text uses objectifying language ('உருவிட்டு ஒவ்வொன்னா வெடிப்பேன் - twisting and pulling it one by one') and implies a woman is an object to be enjoyed, which is a common element of misogynistic memes.
+--------------------------------------------------
+
+Image ID      : 1393
+Classification: not-misogyny
+Explanation   : The text uses 'akka' (அக்கா) which is a common term of affection for an elder sister. It's not inherently misogynistic and simply describes a playful exchange.
+--------------------------------------------------
+
+Image ID      : 1712
+Classification: not-misogyny
+Explanation   : The text is about a dog and a price, and doesn't contain any obvious misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1696
+Classification: not-misogyny
+Explanation   : It's a friendly message wishing someone 'Women's Day'. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1441
+Classification: not-misogyny
+Explanation   : The text describes a female bus driver being removed from her job, which is a positive development. It doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 1396
+Classification: not-misogyny
+Explanation   : The text describes a situation in a room with a heater, and a woman is asked to be quiet. It doesn't contain any obvious misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 1278
+Classification: not-misogyny
+Explanation   : The text describes two women, Gabriella and Shivani, and their ages. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1024
+Classification: misogyny
+Explanation   : The phrase 'Little Princess' (இன்னைக்கு அம்மா வேற வீட்டுல இல்ல... நம்மளே சமையல் பண்ணி...அந்த சமையலுக்கு ஒரு பேர வச்சிர வேண்டியது தான்....) implies that women are only valued for their cooking and domestic duties, which is a common trope in misogynistic memes.
+--------------------------------------------------
+
+Image ID      : 1658
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 50
+Classification: misogyny
+Explanation   : The meme compares the mother to Suneeta Sharma, a controversial actress known for her beauty and often objectified in Tamil media. The phrase 'kaal kazhuvi kudichalum urupdamata da' (like Suneeta Sharma, she always looks like she's posing for a magazine) is a common way to objectify women and implies she's only valued for her appearance.
+--------------------------------------------------
+
+Image ID      : 995
+Classification: not-misogyny
+Explanation   : The text describes a cuckoo bird and its song. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1442
+Classification: not-misogyny
+Explanation   : The text describes a man who is stressed and bought a fish to help. It's a common and relatable situation, with no misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1381
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 619
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 535
+Classification: not-misogyny
+Explanation   : The text describes Tamil memes and doesn't contain any clear misogynistic content.
+--------------------------------------------------
+
+Image ID      : 711
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1461
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1744
+Classification: not-misogyny
+Explanation   : The text describes that mothers of sons only understand that rice is more important than love for their sons. It doesn't express misogynistic views.
+--------------------------------------------------
+
+Image ID      : 868
+Classification: not-misogyny
+Explanation   : The text describes a women's trip where the cost is free. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 79
+Classification: not-misogyny
+Explanation   : The text describes a common experience of being woken up from a dream by a mother. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 211
+Classification: not-misogyny
+Explanation   : The text is a simple meme description with no clear misogynistic content.
+--------------------------------------------------
+
+Image ID      : 1209
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 74
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 70
+Classification: not-misogyny
+Explanation   : The text describes a preference for a woman named Nallatha, but it doesn't contain any misogynistic remarks or offensive stereotypes.
+--------------------------------------------------
+
+Image ID      : 820
+Classification: misogyny
+Explanation   : The phrase 'Onnu varavae varathu' (sleep on the floor) and 'Me NURSING ATROCITIES' can be interpreted as a dismissive and condescending way of referring to a woman, implying she is helpless and needs to sleep on the floor. The use of 'NURSING ATROCITIES' is also a harsh and critical judgment of her role as a mother.
+--------------------------------------------------
+
+Image ID      : 1183
+Classification: misogyny
+Explanation   : The phrase 'என்னதான் தலையில பூ வைக்கிறது நம்ம கலாச்சாரமா இருந்தாலும்' (Even though putting flowers on our heads is our culture) suggests that women are objects to be adorned, which can be seen as misogynistic, especially when combined with the laughing emojis.
+--------------------------------------------------
+
+Image ID      : 1115
+Classification: misogyny
+Explanation   : The phrase 'Enga da irukka??' (Are you a girl?) and 'mathavangaloda sandai podama silenta iru' (You are silent in the thoughts) can be interpreted as implying women are only good for thoughts and are often silent, which is a common, albeit somewhat outdated, stereotype.
+--------------------------------------------------
+
+Image ID      : 731
+Classification: not-misogyny
+Explanation   : The text is a random date and doesn't contain misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 527
+Classification: not-misogyny
+Explanation   : The meme is a simple observation about a traffic situation and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 434
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 451
+Classification: not-misogyny
+Explanation   : The text describes a cricket catch, with no clear misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 608
+Classification: misogyny
+Explanation   : The text uses derogatory language ('கருமத்த') and implies women should be silent and subservient ('முடீட்டு உட்கார்றா').
+--------------------------------------------------
+
+Image ID      : 1384
+Classification: misogyny
+Explanation   : The phrase 'ammava' (mother) and 'amma' (woman) are used repeatedly, and 'vida' (life) is associated with them. It implies that women's lives are solely defined by motherhood and caring, which is a common, albeit sometimes subtly misogynistic, trope in Tamil culture.
+--------------------------------------------------
+
+Image ID      : 1753
+Classification: not-misogyny
+Explanation   : The text simply states that a woman is the 'center of the town' and that she is prominent in Tamil cinema. It doesn't contain any misogynistic language or stereotypes.
+--------------------------------------------------
+
+Image ID      : 77
+Classification: misogyny
+Explanation   : The phrase 'dummy piece' is used to insult women, implying they are foolish and weak. The repetition of 'they will die' is also a derogatory remark.
+--------------------------------------------------
+
+Image ID      : 1625
+Classification: not-misogyny
+Explanation   : The text describes a woman's cooking habits and compares them to her husband's, implying she's repetitive and doesn't do anything special. It's a common observation, not necessarily misogynistic.
+--------------------------------------------------
+
+Image ID      : 1730
+Classification: misogyny
+Explanation   : The text compares a woman to a vegetable and then says her mind is like a whip, which is a common and offensive way to insult women in Tamil.
+--------------------------------------------------
+
+Image ID      : 1316
+Classification: not-misogyny
+Explanation   : The text describes a scenario with ice cream, a friend, and food. It doesn't contain any misogynistic remarks or offensive language towards women.
+--------------------------------------------------
+
+Image ID      : 483
+Classification: not-misogyny
+Explanation   : The text uses common Tamil terms like 'Macha' (older sibling) and 'Kutti' (child), which are often used affectionately. It doesn't contain any overtly misogynistic language or stereotypes.
+--------------------------------------------------
+
+Image ID      : 1768
+Classification: not-misogyny
+Explanation   : The text compares a woman to a dosa (a type of pancake) and suggests she'll be fussy if she doesn't get two chutneys. It's a lighthearted comparison and doesn't express misogynistic sentiment.
+--------------------------------------------------
+
+Image ID      : 299
+Classification: not-misogyny
+Explanation   : The text does not contain any misogynistic elements. It describes a sequence of memes and viewers' reactions.
+--------------------------------------------------
+
+Image ID      : 611
+Classification: not-misogyny
+Explanation   : The text simply describes a woman and a meme. It doesn't contain any misogynistic language or imply anything negative about women.
+--------------------------------------------------
+
+Image ID      : 255
+Classification: not-misogyny
+Explanation   : The text is about a movie and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1001
+Classification: not-misogyny
+Explanation   : The text describes a meme about a Pullingoo, a Nigerian character, and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 979
+Classification: not-misogyny
+Explanation   : The text describes a mother and daughter turning off the TV and resting. It doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 31
+Classification: not-misogyny
+Explanation   : The text uses playful nicknames ('Muthu Kutti', 'macha') and common Tamil phrases ('thalra thalra'). It doesn't contain any overtly misogynistic language or stereotypes.
+--------------------------------------------------
+
+Image ID      : 1129
+Classification: not-misogyny
+Explanation   : The text describes periods in a slightly humorous way, but doesn't contain any misogynistic remarks or offensive stereotypes about women.
+--------------------------------------------------
+
+Image ID      : 670
+Classification: not-misogyny
+Explanation   : The text is praising a director and actor, and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1472
+Classification: misogyny
+Explanation   : The text uses derogatory terms like 'puZZy cat' and 'Aunty' combined with 'vibrator' and 'potu' (a slang word for vagina), which is a common and offensive way to describe women in a sexualized and belittling manner. 'oGrid' is also a slang term for a woman.
+--------------------------------------------------
+
+Image ID      : 352
+Classification: not-misogyny
+Explanation   : The text describes a manager, it's a neutral observation.
+--------------------------------------------------
+
+Image ID      : 1306
+Classification: not-misogyny
+Explanation   : The text uses 'Athai' (mother), which is generally a respectful term. It doesn't contain any offensive language or stereotypes about women.
+--------------------------------------------------
+
+Image ID      : 1376
+Classification: not-misogyny
+Explanation   : The text describes a man's feelings about his wife and how she is good at cooking, but it doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 100
+Classification: not-misogyny
+Explanation   : The text is a simple meme description and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 915
+Classification: not-misogyny
+Explanation   : The text is friendly and wishes a happy birthday. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 248
+Classification: not-misogyny
+Explanation   : The text is a casual conversation with a friend, using Tamil slang. It doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 1380
+Classification: misogyny
+Explanation   : The text uses derogatory terms like 'dirty actresses' and 'pla' (a slang term for women) and implies they are objects of desire and are used for men's pleasure. It also uses emojis suggesting arousal and objectification.
+--------------------------------------------------
+
+Image ID      : 835
+Classification: not-misogyny
+Explanation   : The text describes a man (nambi) who is attractive and women (Preethi, Varun, Abhishek) are looking at him.
+--------------------------------------------------
+
+Image ID      : 252
+Classification: not-misogyny
+Explanation   : The text describes a woman (Muthu Kutti) as good at coding and English, and uses positive phrases like 'VERA LEVEL MEMES'. It doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 169
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 924
+Classification: misogyny
+Explanation   : The text implies the woman (Amma) is just a product of her upbringing and doesn't need to be judged, which can be a subtle form of misogyny, especially when referring to a mother's qualities.
+--------------------------------------------------
+
+Image ID      : 240
+Classification: not-misogyny
+Explanation   : The meme is about the level of memes, not about women.
+--------------------------------------------------
+
+Image ID      : 1112
+Classification: not-misogyny
+Explanation   : It's a generic compliment about a woman's appearance, not necessarily misogynistic.
+--------------------------------------------------
+
+Image ID      : 695
+Classification: not-misogyny
+Explanation   : It's a common and cute observation about a partner, not misogynistic.
+--------------------------------------------------
+
+Image ID      : 1736
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 463
+Classification: not-misogyny
+Explanation   : The meme is about a movie and the phrase 'vera level memes' is a common expression, not necessarily misogynistic.
+--------------------------------------------------
+
+Image ID      : 1453
+Classification: not-misogyny
+Explanation   : The text is a humorous conversation between two men. It doesn't contain any clear misogynistic remarks or offensive language towards women.
+--------------------------------------------------
+
+Image ID      : 533
+Classification: not-misogyny
+Explanation   : The text implies someone is being bothered by something, but it doesn't contain misogynistic elements. It's a common Tamil expression.
+--------------------------------------------------
+
+Image ID      : 1125
+Classification: not-misogyny
+Explanation   : The text describes a woman who is on the internet at night, and doesn't have a girlfriend. It's a common observation and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 33
+Classification: not-misogyny
+Explanation   : The meme describes a common situation (asking permission) and uses a popular meme format (VERA LEVEL). It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1345
+Classification: not-misogyny
+Explanation   : The text describes a woman who is good at something, but it doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 234
+Classification: not-misogyny
+Explanation   : The text describes a man watching videos of a celebration. It does not contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 498
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1122
+Classification: misogyny
+Explanation   : The text implies that women are subservient and will go to anyone who calls them, suggesting they lack agency and are easily manipulated. This is a common, albeit somewhat stereotypical, view of women in some cultures and can be considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 910
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 933
+Classification: not-misogyny
+Explanation   : The text describes a woman who has been in a family group for one year. It doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 186
+Classification: not-misogyny
+Explanation   : The text describes a feeling of being valued and cared for, with no misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1701
+Classification: misogyny
+Explanation   : The text wishes women a happy Women's Day but then asks if they've wished you, implying women should be grateful for being wished by men.
+--------------------------------------------------
+
+Image ID      : 1377
+Classification: not-misogyny
+Explanation   : The text describes a situation where a man is blaming a woman for a project failure and the other person is agreeing. It's a common complaint, but not necessarily misogynistic.
+--------------------------------------------------
+
+Image ID      : 343
+Classification: not-misogyny
+Explanation   : The text describes memes about Vera, a Tamil actress. It doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 45
+Classification: not-misogyny
+Explanation   : The text doesn't contain any clear misogynistic remarks or offensive language towards women.
+--------------------------------------------------
+
+Image ID      : 901
+Classification: not-misogyny
+Explanation   : The text is a mix of Tamil and English, and doesn't contain any obvious misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 571
+Classification: not-misogyny
+Explanation   : The text is about a school and college normalizing things. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 974
+Classification: not-misogyny
+Explanation   : The text describes a feeling of being hot and cold, and mentions a woman being needed in summer and in winter. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 890
+Classification: misogyny
+Explanation   : The phrase 'Enna pandra' (meaning 'That girl is great') can be used sarcastically to imply a woman is easy to get, which is a common trope in misogynistic memes.
+--------------------------------------------------
+
+Image ID      : 197
+Classification: not-misogyny
+Explanation   : The text describes a meme about a woman who is 'un alumba paathavan' (a 'woman who is a show-off'). It's a playful observation, not misogynistic.
+--------------------------------------------------
+
+Image ID      : 880
+Classification: not-misogyny
+Explanation   : The text describes a video about girls psychology and encourages men to watch. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 988
+Classification: not-misogyny
+Explanation   : The text describes a summer season and a woman's reaction, without any clear misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1342
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 60
+Classification: not-misogyny
+Explanation   : The text is about KFC Crispy Days offer and doesn't contain any misogynistic content.
+--------------------------------------------------
+
+Image ID      : 1210
+Classification: misogyny
+Explanation   : The text suggests women should rely on themselves without needing laws or men, which can be interpreted as a dismissive and somewhat cynical view of women's dependence on societal structures and men, potentially implying they are weak or unreliable.
+--------------------------------------------------
+
+Image ID      : 290
+Classification: not-misogyny
+Explanation   : The meme is about bargain shopping and comparing levels of memes. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 298
+Classification: not-misogyny
+Explanation   : The text describes a simple meal (non-veg) and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1114
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1074
+Classification: misogyny
+Explanation   : The text implies that women are only good for being beautiful and that they are poisonous. It's a common misogynistic trope.
+--------------------------------------------------
+
+Image ID      : 1565
+Classification: misogyny
+Explanation   : The text implies that girls are only followed when they are outside, suggesting they are passive and only followed when they leave their home. This is a common trope in Tamil culture that can be misogynistic.
+--------------------------------------------------
+
+Image ID      : 1320
+Classification: misogyny
+Explanation   : The phrase 'akka' (meaning auntie/older sister) is used in a slightly condescending way, implying the woman is just a friend and not a serious one. 'Chinna pasanga kita savagasam' (small friend, let's go) is also a bit dismissive.
+--------------------------------------------------
+
+Image ID      : 1433
+Classification: not-misogyny
+Explanation   : The text is a simple expression of missing someone, with no clear misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1561
+Classification: misogyny
+Explanation   : The text suggests that if a woman replies with 'hmm' or 'kk', it means she's finished with the conversation and doesn't care about him, implying she's dismissive and uninterested, which is a common misogynistic trope.
+--------------------------------------------------
+
+Image ID      : 124
+Classification: not-misogyny
+Explanation   : The text is a casual conversation with a slightly playful tone, using terms like 'Muthu Kutti' (meaning 'Pearl Child') which is a common affectionate term. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1353
+Classification: misogyny
+Explanation   : The text uses derogatory terms like 'p*ndaya' (a vulgar term for women) and implies a violent encounter, clearly expressing misogynistic sentiment.
+--------------------------------------------------
+
+Image ID      : 556
+Classification: not-misogyny
+Explanation   : The meme uses a common Tamil phrase 'Muthu Kutti' (Pearl Girl) which is often used affectionately. The 'VERA LEVEL MEMES' part is a general meme description and doesn't convey misogynistic sentiment.
+--------------------------------------------------
+
+Image ID      : 1770
+Classification: not-misogyny
+Explanation   : The text describes a woman (Madam) who is good because she buys things for the jailer. It doesn't express any misogynistic sentiment.
+--------------------------------------------------
+
+Image ID      : 271
+Classification: not-misogyny
+Explanation   : The text is a Tamil meme referencing a woman (Mc Muriel) and asking if someone can relate to a love song. It doesn't contain any misogynistic language or stereotypes.
+--------------------------------------------------
+
+Image ID      : 1777
+Classification: misogyny
+Explanation   : The text describes a scenario where a man beats his wife and compares it based on location - rural vs. urban. It implies that women in rural areas are more tolerant of abuse and accept it as normal, which is a common and often misogynistic trope.
+--------------------------------------------------
+
+Image ID      : 1134
+Classification: not-misogyny
+Explanation   : The meme is about a name (Prathap) and a rope. It doesn't contain any obvious misogynistic content.
+--------------------------------------------------
+
+Image ID      : 1615
+Classification: misogyny
+Explanation   : The text implies that a woman's soft palm indicates she won't do any work at home, which is a common and sexist stereotype.
+--------------------------------------------------
+
+Image ID      : 1610
+Classification: not-misogyny
+Explanation   : The text describes a woman who is taken from the light and left in the dark, which is a common metaphor for a woman's role. It doesn't contain any explicitly misogynistic language or stereotypes.
+--------------------------------------------------
+
+Image ID      : 814
+Classification: not-misogyny
+Explanation   : The text mentions a protest against the 'O Solriyaa Maama' song from the film 'Pushpa' and a demand for legal action against the film production company. It does not contain any explicit misogynistic remarks or portray women negatively.
+--------------------------------------------------
+
+Image ID      : 1558
+Classification: not-misogyny
+Explanation   : The text describes a girl at a tea shop and asks if she is good at making tea. It doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 276
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1454
+Classification: misogyny
+Explanation   : The text uses the term 'சிங்கப்பெண்' (lion woman) which is a somewhat condescending and stereotypical comparison of a woman to a lion, implying she is strong but also potentially wild and difficult. It also uses 'மேடம்' (Madam) which can be used in a slightly patronizing way.
+--------------------------------------------------
+
+Image ID      : 964
+Classification: not-misogyny
+Explanation   : The meme is about a parotta master, and it doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 351
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 773
+Classification: not-misogyny
+Explanation   : The text describes a simple conversation between a employee and a manager. There is no clear misogynistic element.
+--------------------------------------------------
+
+Image ID      : 1541
+Classification: misogyny
+Explanation   : The meme compares a wife to a dish, implying she's just something to be used and discarded. This is a common and often misogynistic trope in Tamil culture.
+--------------------------------------------------
+
+Image ID      : 1527
+Classification: not-misogyny
+Explanation   : The text refers to an 'Aunty' (aunt), which is a common term of address and not necessarily misogynistic. It's a simple request for tomatoes and mentions a neighbor. The reaction of the 'She' is just a surprised emoji.
+--------------------------------------------------
+
+Image ID      : 965
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1000
+Classification: not-misogyny
+Explanation   : The text describes a little princess and a scary event, it doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1282
+Classification: not-misogyny
+Explanation   : The text describes women as 'three types' and says they are all good, but it doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 1279
+Classification: not-misogyny
+Explanation   : The text describes a wife shopping for gym clothes and a scarf, which is a common activity and doesn't express misogynistic sentiment.
+--------------------------------------------------
+
+Image ID      : 1579
+Classification: not-misogyny
+Explanation   : The meme questions why someone loves a drunkard, but it doesn't express misogynistic views. It's a general observation about love and drinking.
+--------------------------------------------------
+
+Image ID      : 1614
+Classification: not-misogyny
+Explanation   : The text describes a teacher and a student, and praises the student's rank. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1337
+Classification: misogyny
+Explanation   : The meme describes a sexual encounter, which can be seen as objectifying women and reducing them to their physical attributes.
+--------------------------------------------------
+
+Image ID      : 68
+Classification: not-misogyny
+Explanation   : The text is about a woman named Mc Muriel and doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 1524
+Classification: not-misogyny
+Explanation   : The meme describes the wife's cooking (saambar) and attributes it to her being frugal. It's a common, lighthearted observation about a wife's cooking, not misogynistic.
+--------------------------------------------------
+
+Image ID      : 1108
+Classification: not-misogyny
+Explanation   : The text describes a simple conversation about drinking water. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1548
+Classification: not-misogyny
+Explanation   : The text describes a positive quality of a wife - forgiveness. It doesn't express any misogynistic sentiment.
+--------------------------------------------------
+
+Image ID      : 125
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 544
+Classification: not-misogyny
+Explanation   : The text is a simple meme description with no clear misogynistic content.
+--------------------------------------------------
+
+Image ID      : 1042
+Classification: misogyny
+Explanation   : The phrase 'ஆப்பு' (appu) which means 'penis' is used in a playful but potentially condescending way, implying the woman's value is tied to her fertility and that she will eventually lose her 'appu'.
+--------------------------------------------------
+
+Image ID      : 1432
+Classification: not-misogyny
+Explanation   : The text is a casual conversation about bus timings and doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 1343
+Classification: misogyny
+Explanation   : The phrase 'Podi' (meaning 'lowly' or 'inferior') is used to describe the woman, which is a common way to express misogyny in Tamil.
+--------------------------------------------------
+
+Image ID      : 1462
+Classification: misogyny
+Explanation   : The text describes the woman's cooking as disgusting and criticizes her for being rude, which is a common way to express misogyny in Tamil.
+--------------------------------------------------
+
+Image ID      : 1224
+Classification: misogyny
+Explanation   : The text implies the wife is smarter than the husband, and the husband is condescending about it. This is a common trope in Tamil memes that can be misogynistic, suggesting women are often portrayed as superior and men as foolish.
+--------------------------------------------------
+
+Image ID      : 874
+Classification: not-misogyny
+Explanation   : The text is a list of numbers in Tamil, with a few phrases. It doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 1653
+Classification: not-misogyny
+Explanation   : The text describes a policy where women can travel for free in local buses, starting from tomorrow. It's a positive statement about women's rights and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1741
+Classification: misogyny
+Explanation   : The text implies that wives don't get valued and that husbands spend a lot of money on them, while they get free bus rides. This is a common, somewhat condescending, view of women in some cultures, particularly in a patriarchal context.
+--------------------------------------------------
+
+Image ID      : 592
+Classification: not-misogyny
+Explanation   : The text uses terms like 'Muthu Kutti' and 'cheap', but it's mostly playful and self-deprecating, not overtly misogynistic. It's a common Tamil meme format.
+--------------------------------------------------
+
+Image ID      : 1182
+Classification: misogyny
+Explanation   : The text uses the term 'தோழிக்கும் மனைவி' (wife who cooks) and suggests a wife should be 'சரக்கா அளவா அடி' (hit her with good measure). This implies a woman should be physically punished, which is a common form of misogyny.
+--------------------------------------------------
+
+Image ID      : 1714
+Classification: not-misogyny
+Explanation   : The text uses the term 'Machan' which is a common term of endearment in Tamil, and doesn't contain any overtly misogynistic language.
+--------------------------------------------------
+
+Image ID      : 1360
+Classification: not-misogyny
+Explanation   : The text describes a Tamil meme about a cleavage and a mafia, with no clear misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1405
+Classification: misogyny
+Explanation   : The phrase 'full ha kanji oothuviyada...' implies she is only valuable for her ability to give birth, which is a common and often misogynistic trope in Tamil culture.
+--------------------------------------------------
+
+Image ID      : 847
+Classification: not-misogyny
+Explanation   : The text describes a happy Diwali conversation and compliments the woman. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 421
+Classification: not-misogyny
+Explanation   : The text describes a software engineer and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 638
+Classification: misogyny
+Explanation   : The phrase 'Muthu Kutti' (meaning 'pearl girl') is a condescending term for women. 'யோவ்' (yo) is a rude interjection. 'பொன்னந்தின்னி வாயா' (ponnanthini vaaya) is a somewhat crude way to say 'open your mouth'. The overall tone is dismissive and slightly insulting.
+--------------------------------------------------
+
+Image ID      : 1488
+Classification: not-misogyny
+Explanation   : The text is about planning a Sunday outing and preparing food. It doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 708
+Classification: misogyny
+Explanation   : The text uses the vulgar term 'v*rginity' and refers to a woman by her name ('VERA') in a sexualized way, which is a common element of misogynistic memes.
+--------------------------------------------------
+
+Image ID      : 528
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1289
+Classification: misogyny
+Explanation   : The phrase 'pakathu veetu aunty' (old aunt who always complains) is a common and often derogatory term used to describe older women, particularly in a dismissive way. It's a classic example of misogynistic stereotyping.
+--------------------------------------------------
+
+Image ID      : 262
+Classification: not-misogyny
+Explanation   : The text describes a relatable feeling of being stuck in thought, with a bit of self-deprecating humor about memes. It doesn't contain any misogynistic remarks or offensive language towards women.
+--------------------------------------------------
+
+Image ID      : 778
+Classification: misogyny
+Explanation   : The text implies the woman is wasting money on makeup and shopping, and the fiance suggests they should focus on their hometown. This is a common, slightly condescending way of portraying women as frivolous and materialistic, which can be considered misogynistic.
+--------------------------------------------------
+
+Image ID      : 241
+Classification: not-misogyny
+Explanation   : The text describes a friend being depressed and suggesting they be jolly. It doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 1170
+Classification: misogyny
+Explanation   : The text describes women's hairstyles in a dismissive and slightly derogatory way, implying they are all the same and using 'சங்கி மங்கி' (sangi mangi) which are common terms used to insult women.
+--------------------------------------------------
+
+Image ID      : 953
+Classification: not-misogyny
+Explanation   : The text describes an advertisement for 'Mokka Memes' and mentions a book stall. It doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 926
+Classification: not-misogyny
+Explanation   : The text describes the behavior of 90s kids watching movies, not misogynistic.
+--------------------------------------------------
+
+Image ID      : 821
+Classification: misogyny
+Explanation   : The phrase 'Aiya Saami' (Oh, come on) is often used dismissively towards women, implying they are complaining or being overly emotional. 'National Crush' followed by 'டா' (da) is a common way to objectify women.
+--------------------------------------------------
+
+Image ID      : 594
+Classification: not-misogyny
+Explanation   : The text uses terms like 'Muthu Kutti' (meaning 'Pearl Child') and 'Dolis' (meaning 'Girls'), which are affectionate terms and don't convey any misogynistic sentiment.
+--------------------------------------------------
+
+Image ID      : 416
+Classification: not-misogyny
+Explanation   : The text describes the trailer of a movie and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 72
+Classification: not-misogyny
+Explanation   : The text doesn't contain any misogynistic remarks. It's a general observation about a movie and a Tamil meme.
+--------------------------------------------------
+
+Image ID      : 366
+Classification: not-misogyny
+Explanation   : The text describes a common scenario of best friends, not misogynistic.
+--------------------------------------------------
+
+Image ID      : 260
+Classification: misogyny
+Explanation   : The phrase 'konjo sanda poduratha' (literally 'why are you so slow') is a common, mildly condescending way to talk to women, but in the context of a fight, it can be perceived as misogynistic and belittling.
+--------------------------------------------------
+
+Image ID      : 52
+Classification: not-misogyny
+Explanation   : The text describes a woman who came after 2 months, it's a neutral observation about time.
+--------------------------------------------------
+
+Image ID      : 1226
+Classification: not-misogyny
+Explanation   : The meme describes a humorous situation where the wife won second place in a costume contest, and the husband jokingly suggests she would have won first if she had dressed as a different animal. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 911
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1659
+Classification: not-misogyny
+Explanation   : The text mentions that women can travel for free on buses starting May 8, announced by the Chief Minister M.K. Stalin. It's a positive statement and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1205
+Classification: not-misogyny
+Explanation   : The text is a simple, affectionate message from a child to their aunt. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 917
+Classification: not-misogyny
+Explanation   : The text describes a prank gone wrong. It doesn't contain any misogynistic remarks or offensive language towards women.
+--------------------------------------------------
+
+Image ID      : 372
+Classification: not-misogyny
+Explanation   : The text is about Tamil memes and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1704
+Classification: misogyny
+Explanation   : The phrase 'Munjiyum mogarayum paaru' (meaning 'rest of the days you are either a wife or a maid') is a common and somewhat condescending way to refer to women in Tamil, implying they should only be defined by their roles as wives or domestic workers.
+--------------------------------------------------
+
+Image ID      : 433
+Classification: not-misogyny
+Explanation   : The text uses 'Ayya' which is a term of respect, and 'poda' is a casual way to say 'go away'. It doesn't explicitly express misogynistic views.
+--------------------------------------------------
+
+Image ID      : 1256
+Classification: misogyny
+Explanation   : The phrase 'Gundu girls' (big girls) is used in a derogatory way, implying that women are just about their appearance and are 'big' or 'large' in a negative way. 'Modevi' (Mother) is also a common term used to belittle women.
+--------------------------------------------------
+
+Image ID      : 409
+Classification: not-misogyny
+Explanation   : The text is playful and uses common Tamil terms like 'Muthu Kutti' and 'Veera Level Memes'. It doesn't contain any misogynistic language or stereotypes.
+--------------------------------------------------
+
+Image ID      : 1584
+Classification: not-misogyny
+Explanation   : The meme describes a husband being scolded by his wife, which is a common and often humorous depiction of marital dynamics. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 615
+Classification: not-misogyny
+Explanation   : The text refers to the price of coconut water and uses a 'VERA LEVEL' meme, which is not misogynistic.
+--------------------------------------------------
+
+Image ID      : 756
+Classification: not-misogyny
+Explanation   : The text describes a situation where a woman is being blamed for something, but it doesn't contain any overtly misogynistic language or stereotypes.
+--------------------------------------------------
+
+Image ID      : 1051
+Classification: not-misogyny
+Explanation   : The text is a simple exchange of words and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 515
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 142
+Classification: not-misogyny
+Explanation   : The text describes a meme and uses a common expression of affection (She ❤️❤️). It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1139
+Classification: not-misogyny
+Explanation   : It's just a description of a girl's age, nothing misogynistic.
+--------------------------------------------------
+
+Image ID      : 1233
+Classification: not-misogyny
+Explanation   : The text describes a common photo from 90s kids, with no clear misogynistic content.
+--------------------------------------------------
+
+Image ID      : 1660
+Classification: not-misogyny
+Explanation   : The text announces that women can travel for free on buses on May 8th, as announced by the Tamil Nadu Chief Minister. It's a positive announcement and doesn't contain misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1349
+Classification: not-misogyny
+Explanation   : The text describes a woman's appearance (hair) and her husband's profession. It's a simple observation and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 417
+Classification: not-misogyny
+Explanation   : The text is about planning a date and comparing different places to go. It doesn't contain any misogynistic remarks or stereotypes about women.
+--------------------------------------------------
+
+Image ID      : 1469
+Classification: misogyny
+Explanation   : The phrase 'Adhu epdi thimingalam' (What is this) suggests a negative judgment of a woman, implying she is behaving in a way that is not desirable. The overall tone is critical and potentially condescending.
+--------------------------------------------------
+
+Image ID      : 272
+Classification: not-misogyny
+Explanation   : The text describes a common scene of siblings drinking juice late at night. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 185
+Classification: not-misogyny
+Explanation   : The text is a simple conversation with a slight insult ('insult panra...'), but it doesn't contain any clear misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 757
+Classification: not-misogyny
+Explanation   : The text describes a work situation and a manager. It doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 245
+Classification: not-misogyny
+Explanation   : The text describes a common scenario and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 440
+Classification: not-misogyny
+Explanation   : The text describes a movie teaser and mentions 'modern love'. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 661
+Classification: not-misogyny
+Explanation   : The text is a general description of Tamil memes and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1766
+Classification: misogyny
+Explanation   : The meme compares a woman to a pot of sambar (a South Indian vegetable stew), suggesting she will be overwhelmed and diluted if men express too much anger. This is a common trope in Tamil culture that can be misogynistic, implying women are passive and easily dominated.
+--------------------------------------------------
+
+Image ID      : 323
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 817
+Classification: not-misogyny
+Explanation   : It's a simple love failure meme, no misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 889
+Classification: not-misogyny
+Explanation   : The text describes a song and doesn't contain any obvious misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 590
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1318
+Classification: misogyny
+Explanation   : The text implies that a woman's beauty is the only thing that matters, and that she should be rugged and have a 'cute' appearance. It's a common way to objectify women and suggest she needs to change herself to be desirable.
+--------------------------------------------------
+
+Image ID      : 1290
+Classification: not-misogyny
+Explanation   : The text describes a woman who is beautiful and covers her face, and the speaker likes her mood. It's a simple compliment and doesn't express misogynistic views.
+--------------------------------------------------
+
+Image ID      : 251
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 701
+Classification: not-misogyny
+Explanation   : The text describes a lyrical video starring Ishaaon and Prranali Alagu. It's a simple description and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1162
+Classification: misogyny
+Explanation   : The text implies that the woman is forgiven for cheating, but she will not be forgiven if she asks him to call her 'mama' (grandfather), suggesting she is like a child and should be treated accordingly, which is a common misogynistic trope.
+--------------------------------------------------
+
+Image ID      : 415
+Classification: not-misogyny
+Explanation   : The text is a Tamil meme about a rainy day and a common phrase. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 383
+Classification: not-misogyny
+Explanation   : The text is a simple advertisement for a Tamil movie script. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 839
+Classification: misogyny
+Explanation   : The text implies that women's expectations of love are unrealistic and that they are often disappointed, which can be a subtle form of misogyny.
+--------------------------------------------------
+
+Image ID      : 1651
+Classification: not-misogyny
+Explanation   : The text describes how Ivan (from Little Princess) is like Arjuna, and suggests that future husbands should also be like him. It doesn't contain any misogynistic remarks about women.
+--------------------------------------------------
+
+Image ID      : 980
+Classification: not-misogyny
+Explanation   : The text describes earning money from followers and sharing Tamil memes. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1145
+Classification: not-misogyny
+Explanation   : The text is about a butterfly and a mosquito, and it's a humorous comparison about weight. It doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 495
+Classification: not-misogyny
+Explanation   : The text describes a simple conversation and doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 951
+Classification: not-misogyny
+Explanation   : The text describes a woman who likes to eat rice and upma. It's a simple observation and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 399
+Classification: not-misogyny
+Explanation   : The text describes memes and photos, and doesn't contain any misogynistic remarks.
+--------------------------------------------------
+
+Image ID      : 1346
+Classification: misogyny
+Explanation   : The phrase 'nalla paal maadu mari' (meaning 'like a sweet milk' or 'sweet like milk') is often used to describe women in a way that objectifies them and suggests they are valued primarily for their beauty and sweetness, which can be seen as a form of misogyny.
+--------------------------------------------------
+
+Image ID      : 171
+Classification: not-misogyny
+Explanation   : The text describes a movie and doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1050
+Classification: not-misogyny
+Explanation   : The text describes a conversation about love and marriage in a future life, without any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1202
+Classification: not-misogyny
+Explanation   : The text describes a woman having stomach problems, which is a common complaint and not necessarily misogynistic.
+--------------------------------------------------
+
+Image ID      : 428
+Classification: misogyny
+Explanation   : The phrase 'kosu vathi' (literally 'put a vagina') and 'thaayavu' (a derogatory term for women) are used in a crude and disrespectful way, suggesting a negative stereotype and potentially objectifying women.
+--------------------------------------------------
+
+Image ID      : 301
+Classification: not-misogyny
+Explanation   : The text simply mentions a few seconds and a woman superhero film/series. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1666
+Classification: misogyny
+Explanation   : The text highlights that women can travel for free on buses from May 8th, while men have to pay. This is presented as a special offer for women, implying a difference in their value and a justification for a special treatment, which can be seen as subtly misogynistic.
+--------------------------------------------------
+
+Image ID      : 395
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1236
+Classification: not-misogyny
+Explanation   : The text describes a professor who found a new method for idli, comparing her to a never-going-bad idli. It's a compliment and doesn't contain misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1054
+Classification: not-misogyny
+Explanation   : The text describes a romantic feeling towards a woman, focusing on her beauty and charm. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 507
+Classification: not-misogyny
+Explanation   : The text compares the actress to Vera, a common name, and says she's good. It's a positive comment, not misogynistic.
+--------------------------------------------------
+
+Image ID      : 1738
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1028
+Classification: not-misogyny
+Explanation   : The text describes a woman as 'a good woman', which is a positive statement and doesn't contain misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1418
+Classification: not-misogyny
+Explanation   : It's a simple Tamil phrase about the winter season and mangoes. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 530
+Classification: misogyny
+Explanation   : The phrase 'hot af looking photo' and 'VERA LEVEL MEMES' objectifies women by focusing on their appearance. 'Gethu kaatiyadhaga unargirar' (meaning 'they will be compared to a woman') is a common, somewhat crude way to say women are being judged based on their looks, which can be misogynistic.
+--------------------------------------------------
+
+Image ID      : 1109
+Classification: not-misogyny
+Explanation   : The text is a typical Tamil meme about a crush and online dating. It doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1719
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 555
+Classification: not-misogyny
+Explanation   : The text describes a woman's lack of interest in various things (movies, cricket, money). It's a common observation about someone's preferences and doesn't inherently express misogynistic views.
+--------------------------------------------------
+
+Image ID      : 176
+Classification: not-misogyny
+Explanation   : The text uses 'Ayya' which is a common Tamil term of endearment for women, but it's in the context of promoting an education exhibition. It doesn't express any misogynistic sentiment.
+--------------------------------------------------
+
+Image ID      : 1627
+Classification: misogyny
+Explanation   : The text implies that a woman didn't ask for tea, and that she was told to do it by someone else. The phrase 'இமண்ட பத்திரம் அடுத்தவர் உயிர் கூட விளையாட கூடாது' (a legal document saying that someone shouldn't play with another person's life) is used sarcastically, suggesting she's being controlled and her actions are dictated by others, which is a common trope in misogynistic memes.
+--------------------------------------------------
+
+Image ID      : 620
+Classification: not-misogyny
+Explanation   : 
+--------------------------------------------------
+
+Image ID      : 1237
+Classification: misogyny
+Explanation   : The text uses derogatory terms like 'சாளிச்கட்டு' (chilli-like woman) and threatens to 'கொன்றுவேன்' (kill) the woman, indicating misogynistic sentiment.
+--------------------------------------------------
+
+Image ID      : 1010
+Classification: misogyny
+Explanation   : The phrase 'Dei pooi clean shave' (literally 'Mom, do a clean shave') implies that a woman's appearance (her hair) is something to be fixed or changed, reducing her to her looks. The overall tone is lighthearted but the underlying suggestion is that she should shave to look better, which can be seen as a subtle form of misogyny.
+--------------------------------------------------
+
+Image ID      : 744
+Classification: not-misogyny
+Explanation   : The text describes a sports event where the defending champions were defeated, but it doesn't contain any misogynistic elements.
+--------------------------------------------------
+
+Image ID      : 1262
+Classification: misogyny
+Explanation   : The meme implies that mothers are the only ones who give their children a 'harlicks' (a term for a sweet treat), and suggests that the father is a lazy 'sanyane' (evil person). This can be seen as a subtle form of misogyny, implying that mothers are solely responsible for the children's happiness and that the father is useless.
+--------------------------------------------------
+

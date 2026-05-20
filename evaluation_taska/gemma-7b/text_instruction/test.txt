@@ -1,0 +1,2178 @@
+Misogyny Text Classification Results
+==================================================
+
+ID: 1193
+Text: கணவர் : செல்லம் சப்பாத்தி சூப்பரா செஞ்சிருக்கடி 😍😍 மனைவி : 😡😡 கணவன் : நல்லாருக்குன்னு தானே சொல்றேன் அப்ரம் ஏன் முறைக்கிற.. 😠😠 -யாரோ மனைவி : அது தோசை 😡😡😡 dailyhunt Download on the App Store GET IT ON Google Play
+Classification: misogyny
+Explanation: The meme implies that women are irrational and emotional, while men are logical and rational. This perpetuates the stereotype that women are less capable than men. Additionally, the husband's dismissive tone towards his wife suggests that her opinion is not valued.
+--------------------------------------------------
+
+ID: 427
+Text: MUTHU MC @muthu__kutti *Manager discussing with TL to put ratings* MUTHU MC MEMES MUTHU MC
+Classification: misogyny
+Explanation: The text implies that only male managers are capable of discussing ratings, perpetuating the stereotype that women are less capable in leadership roles. This reinforces the patriarchal notion that men are better suited for managerial positions.
+--------------------------------------------------
+
+ID: 1474
+Text: Viper Memez IRUKKU EDHO ULLA IRUKKU
+Classification: misogyny
+Explanation: The meme uses the stereotype of women being venomous and manipulative. Such generalizations perpetuate negative attitudes towards women and reinforce harmful gender stereotypes.
+--------------------------------------------------
+
+ID: 766
+Text: In Irugapatru Director Yuvaraj Dhayalan has given a quality film to Tamil cinema by telling the problems of divorce and its solution in a beautiful way. Another quality content from Potential studios
+Classification: misogyny
+Explanation: The text praises a director for addressing the sensitive issue of divorce in a beautiful way, implying that this is a quality content specifically attributed to men. This reinforces the stereotype that men are capable of solving complex social issues.
+--------------------------------------------------
+
+ID: 486
+Text: Dad : யாரையாவது Love பண்ணா சொல்றா கட்டிவைக்கிறோம்.. Me : அவங்க வீட்ல ஒத்துக்கமாட்றாங்க Dad : யாரு ஒத்துக்கலனு சொல்லு நாங்க பேசறோம்.. Me : வேறயாரு அந்த பொண்ணு தான் *Dad
+Classification: misogyny
+Explanation: The meme implies that women are promiscuous and irresponsible, reinforcing the stereotype that women are primarily responsible for sexual encounters. This perpetuates the objectification and sexualization of women.
+--------------------------------------------------
+
+ID: 480
+Text: Ramzan vandhutta podhum hello makkale nu camera va thookitu Mannady ku kelambi vandhurraanunga.... VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The meme implies that women are obsessed with cameras and capturing themselves on social media, suggesting that they prioritize aesthetics over substance. This perpetuates the stereotype that women are vain and materialistic.
+--------------------------------------------------
+
+ID: 110
+Text: Muthu Kutti Just now Oru kaalathula 50rs 100rs gpay pannu da nu solitu iruntha paya Nethu Vijay Antony concert pora inaiku AR Rahman concert poranae ya #muthumc KuttyMob.in
+Classification: misogyny
+Explanation: The text uses the term 'Muthu Kutti' which is a derogatory term for a woman, implying that women are materialistic and only interested in money. This perpetuates the stereotype that women are frivolous and sexually motivated. Additionally, the text suggests that women are dependent on men for financial support, reinforcing the idea that women are inferior and unable to provide for themselves.
+--------------------------------------------------
+
+ID: 775
+Text: Prakash Mc Just now Motivated Me to Me at 11pm - Ini Edhachum productive aa pannanum, alone irukkurome nu feel panna koodathu ,Hope ah vitradha daa ,etc.,! Next day mrng ~ Adhu fake uhh @prakaz__
+Classification: misogyny
+Explanation: The text implies that women are unproductive and lazy, and that they need motivation from men to be productive. This perpetuates the stereotype that women are naturally less motivated and productive than men.
+--------------------------------------------------
+
+ID: 1388
+Text: When thambi touches akka pussy °Akka Akka : Pesitu irukumbothu keela yenda kai vaikra sshhaaa room kulla vaa kalatitu katren thechi vidu Hotty Temple
+Classification: misogyny
+Explanation: The text objectifies women by associating them with sexual pleasure and inappropriate physical contact. It reinforces the stereotype that women are primarily valued for their physical attributes and sexual availability. Such humor perpetuates a culture where women are seen as commodities to be exploited.
+--------------------------------------------------
+
+ID: 1189
+Text: மீமாண்டி தந்தைக்கும் மகனுக்கும் ஜோடியாக நடித்த சகோதரிகள் ராகங்
+Classification: misogyny
+Explanation: The meme suggests that women are only suitable for companionship and domesticity, while men are valued for their heroism and accomplishments. This reinforces the stereotype that women are less capable and independent than men.
+--------------------------------------------------
+
+ID: 1721
+Text: கை தவறினால் பொருள் உடையும் என யோசித்தவர்கள் வாய் தவறினால் மனம் உடையும் என யோசிப்பதில்லை...
+Classification: misogyny
+Explanation: The text suggests that women are more emotional and impulsive than men, implying that they are less capable of logical reasoning. This perpetuates the stereotype that women are less rational and capable than men. Such generalizations perpetuate gender inequality and undermine the capabilities of women.
+--------------------------------------------------
+
+ID: 531
+Text: She : Kandipa chatting panitu dhan irupan ~Epdi adhukulla 3.5M _dharshan._ திரும்ப திரும்ப இந்த ஒரு கேள்வி தான் என் மண்டைக்குள்ள ஓடிட்டு இருக்கு TAMIL MEMES GET IT ON Google Play
+Classification: misogyny
+Explanation: The meme implies that women are obsessed with gossip and have frivolous conversations, reinforcing a stereotype that women lack intellectual depth. This perpetuates the objectification and sexualization of women by suggesting that their primary purpose is to engage in superficial interactions.
+--------------------------------------------------
+
+ID: 985
+Text: EVERY BOY DREAM SHYAM MC CHENNAI PASANGA MEME ORU NAAL AMMAVUKU PERUSA INTHA MAARI YEATHA PANANUM
+Classification: misogyny
+Explanation: The meme implies that women are responsible for fixing every boy's dreams and desires. This perpetuates the stereotype that women are primarily caregivers and that their purpose is to fulfill the needs of men.
+--------------------------------------------------
+
+ID: 539
+Text: Muthu Kutti Just now Room la yarum illama Veliya poga vandium illama Naragam pa athu 😉 Naragam pa athu 😩 #muthumc VEERA LEVEL MEMES VEERA LEVEL MEMES VEERA LEVEL MEMES LE
+Classification: misogyny
+Explanation: The text uses exaggerated feminine features and exaggerated physical actions associated with women, suggesting that women are clumsy and incompetent. This perpetuates the stereotype that women are less capable than men. Additionally, the caption #muthumc implies that women are mischievous and playful, reinforcing the idea that women are less serious and responsible than men.
+--------------------------------------------------
+
+ID: 1058
+Text: ~ When Mom cooking Upma in home ~ Dad Sis Bro Me WELCOME Mom Ennada idu ellam saapdama poranga !!
+Classification: misogyny
+Explanation: The meme implies that women are primarily responsible for cooking and household chores, reinforcing traditional gender roles and perpetuating the stereotype that women are primarily domestic figures. This reinforces the idea that women are expected to prioritize domestic duties over other activities.
+--------------------------------------------------
+
+ID: 678
+Text: Muthu Kutti Just now Me : innaiku enna ma saapadu?? Mom : sooru beans sambhar Me : epa paarthalum sambhar thana diff ah ethachu sei ma Mom : un pondati varuva avata ithula kelu ava vena senju kudupa Me : emov.. athukutha kaathu nu iruken #muthumc F MutHU MC
+Classification: misogyny
+Explanation: The meme implies that women are overly emotional and incapable of rational decision-making. This perpetuates the stereotype that women are less capable than men and reinforces the idea that women are irrational and impulsive.
+--------------------------------------------------
+
+ID: 1102
+Text: 10 வருசத்துக்கு முன்னாடி நீதான் என் புருஷன்னு சொன்னவ,... இன்னினிக்கு புருஷன் கிட்ட சொல்லிடுவேன்னு சொல்றா... KARUR MEMER
+Classification: misogyny
+Explanation: The meme reinforces the stereotype that women are more emotional and impulsive than men. It suggests that women are more likely to exaggerate or fabricate stories for attention. This perpetuates the harmful idea that women are less credible or reliable than men.
+--------------------------------------------------
+
+ID: 317
+Text: Smith : Annan pitch la paduthuthen cup vangitu vandhu sandhipom Ind Bowlers _vishal_sammy_
+Classification: misogyny
+Explanation: The text objectifies women by associating them with physical attributes like 'pitch la paduthuthen' (breast size) and sexualizes them by mentioning 'cup vangitu' (breast size). This reinforces the stereotype that women are primarily valued for their physical appearance. Such humor perpetuates a culture where women are seen as sexual objects.
+--------------------------------------------------
+
+ID: 1150
+Text: Me : இன்னைக்கு வெளிய எங்கயும் போகாதீங்க டோழி.. - ஏண்டா Teddy பொம்மையனு நினைச்ச தூக்கிட்டு போயிருவாங்களா..🙈 Me : கரடினு நினைச்ச வனத்துறை வந்து பிடிச்சிற போறாங்கடி வெண்ணமவளே..
+Classification: misogyny
+Explanation: The meme implies that women are reckless and irresponsible, while men are strong and capable. This reinforces the stereotype that women are less capable than men and should be confined to the home. Such generalizations perpetuate gender inequality and discrimination.
+--------------------------------------------------
+
+ID: 931
+Text: Dood TL CAID REFERENCE Nalaiku Nama team ku oru puthu ponnu join pandraga And finally came to know that she is married
+Classification: misogyny
+Explanation: The text implies that women are promiscuous and irresponsible, reinforcing the stereotype that women are easily seduced and married multiple times. This perpetuates the patriarchal notion that women are primarily valued for their sexual availability rather than their intrinsic worth.
+--------------------------------------------------
+
+ID: 345
+Text: muthu mc @muthu_kuttti Naa love panna la ponnu venum nu kekala Just Frndly ah pesurathuku oru ponnu venum avlotha...😔❤️ #muthumc VERA LEVEL MEMES 8:31 PM • May 27, 2023
+Classification: misogyny
+Explanation: The meme implies that women are fickle and easily swayed by friendship, suggesting that women prioritize friendship over love. This perpetuates the stereotype that women are less committed to romantic relationships and objectifies them by reducing them to their friendship status.
+--------------------------------------------------
+
+ID: 591
+Text: Vandila eduthutu varava di nu keta... Edhukku da veen selavu bus la pona enaku free, unaku minji 50 aagum day full ah suthuna kuda nu solra ponnu.... Rare piece sir ❤️ VERA LEVEL MEMES mt
+Classification: misogyny
+Explanation: The meme implies that women are materialistic and only interested in money and expensive things. This perpetuates the stereotype that women are superficial and driven by financial gain rather than intrinsic values. Such generalizations perpetuate gender stereotypes and reinforces the misconception that women are primarily motivated by material possessions.
+--------------------------------------------------
+
+ID: 949
+Text: Me: Thala Valikuthu Kannu Valikuthu Kaluthu Valikuthu Muthuku Valikuthu *Mom *Me Ippa Seriyagidum Poo...
+Classification: misogyny
+Explanation: The meme uses exaggerated exaggeration and humor to playfully express the stereotype that mothers are overly protective of their daughters. While it may be seen as playful banter, the underlying implication is that mothers are excessively controlling and overprotective of females, perpetuating a stereotype that women need constant supervision and guidance.
+--------------------------------------------------
+
+ID: 786
+Text: வீட்ல எல்லாரும் இருக்கப்போ saree, chudi, நாம தனியா இருக்கப்போ மாடர்ன் டிரஸ் okda #sethu
+Classification: misogyny
+Explanation: The text suggests that women are only interested in wearing sarees, chudis, and traditional attire, while men can wear modern clothes. This perpetuates the stereotype that women are primarily concerned with their appearance and traditional clothing, while men are not.
+--------------------------------------------------
+
+ID: 882
+Text: Playing PUBG In 2G Network Be Like Minion Memes Tamil காவியம் மால்ஸ் ஸ்டோர் @Minion_Memes_Tamil MPLATE ENGINEER Vaathiyare Bike eh illama Bike la Porom Vaathiyare...
+Classification: not-misogyny
+Explanation: The text humorously compares the struggles of playing PUBG in a 2G network to the antics of Minion memes in Tamil culture. It targets the technical limitations of the network, not women or girls.
+--------------------------------------------------
+
+ID: 562
+Text: ~PS-2 trailer; MC; VERA LEVEL MEMES; _dharshan._; Ennada oruthanum mathika matreenga?; மட்டும்; சும்; பாக்யராஜ்; ஆடியோ மற்றும்; அதிகார தயாரிப்பாளர்; பரப்பக்குடி; ஆடியோ தயாரிப்பாளர்
+Classification: misogyny
+Explanation: The meme suggests that women are incapable of handling responsibility and that they rely on men for guidance and decision-making. This perpetuates the stereotype that women are inferior to men and reinforces the idea that women need male authority figures to succeed. Such messaging can contribute to the discrimination and sexualization of women.
+--------------------------------------------------
+
+ID: 1141
+Text: Nethu endha padam da pona * Ponniyin selvan Cheems_the_Killer epdi da irundhuchu * Poonguzhali iduppu super ah irundhuchu
+Classification: not-misogyny
+Explanation: The meme uses humor to playfully suggest that women are super strong and powerful, contrasting them with the fictional character Cheems_the_Killer from the Ponniyin Selvan series. The use of exaggerated hyperbole is likely intended as a playful exaggeration rather than a serious statement about gender stereotypes.
+--------------------------------------------------
+
+ID: 304
+Text: Dharsan Just now Depression ah iruku bro ~Yen bro work pressure ah??? Ila bro homework mudikala naliki school pona miss adipanga #darshanmc
+Classification: misogyny
+Explanation: The text implies that women are solely responsible for both work and household chores, leading to depression. This reinforces the stereotype that women are primarily caregivers and burdens the emotional and physical well-being of women.
+--------------------------------------------------
+
+ID: 221
+Text: Dharsan Just now People praising fafa character in maamannann ✨ மாரி செல்வராக் அண்ட் டீம்~~ #darshanmc
+Classification: misogyny
+Explanation: {
+"explanation": "The text praises the character "Fafa" in the Tamil movie "Maamannann," implying that he exhibits qualities worthy of admiration. The use of the term "Marisi Selvar" (meaning "beautiful hero") reinforces the stereotype that men are the ideal heroes, while women are primarily associated with beauty. This perpetuates the patriarchal notion that women are primarily valued for their physical attributes.",
+"classification": "misogyny"
+}
+--------------------------------------------------
+
+ID: 1272
+Text: அழிந்து வரும் மாபெரும் கலைகளுள் ஒன்று 😂😂😂😂 http://www.dinamalar.com/ DINAMALAR MSK (கார்ட்டூன் ஒரு சிற்பியின் உள்ளம் உள்ளது ஒரு கார்ட்டூன்) தெரு குழாய் சண்டைகள்
+Classification: misogyny
+Explanation: The meme targets women by objectifying a female cartoon character (சிற்பியின் உள்ளம்) and associating her with physical intimacy (கார்ட்டூன்). This reinforces the stereotype that women are primarily valued for their physical attributes and sexual appeal.
+--------------------------------------------------
+
+ID: 1081
+Text: ~when girls get only few likes for their posts *ara guray dress wearing pictures Idha thana theditu iruka @mr_tamil_pasanga *girls
+Classification: misogyny
+Explanation: The meme implies that girls are desperate for attention and will wear revealing clothing to get likes. This perpetuates the stereotype that girls are primarily motivated by their physical appearance and sexualizes them. Such humor reinforces the idea that girls are responsible for attracting male attention.
+--------------------------------------------------
+
+ID: 742
+Text: Vetri Mra Just now Manager : nalaiku oru task Iruku you should come to Office early.. Me : nalaiku Naa Sick Leave hu..!!! varataahhhh...!! MOKKA POSTU vetrimra mt mt
+Classification: misogyny
+Explanation: The text implies that women are irresponsible and prioritize personal needs over work commitments. This reinforces the stereotype that women are less reliable and committed than men in professional settings.
+--------------------------------------------------
+
+ID: 1269
+Text: காலையில் எழுந்ததும் காபி போட்டியா, லன்ச் என்ன பன்ன போரே, நைட்டுக்கு என்ன சமையல்னு நோய்பி நோய்பினுட்டு கொப்பமவனே தாலி கட்டிட்டா பெரிய வெண்ணைனு நினைப்பு.
+Classification: misogyny
+Explanation: The text objectifies women by suggesting that they are responsible for providing sexual pleasure to men. This reinforces the stereotype that women are primarily valued for their sexual prowess. Such humor perpetuates the idea that women are sexual objects and undermines their autonomy.
+--------------------------------------------------
+
+ID: 600
+Text: Muthu Kutti Just now *During school days* ~While distributing exam papers Staff : irukura ella tharkurigalum intha class la tha irukingha pola #muthumc VEERA LEVEL MEMES
+Classification: misogyny
+Explanation: The meme targets female students by implying that they are incompetent and incapable of handling exams. This reinforces the stereotype that women are inferior to men in academic abilities. Such humor perpetuates the marginalization of women and undermines their confidence.
+--------------------------------------------------
+
+ID: 325
+Text: Muthu Kutti Just now ~In stand-up call Me : Today I had a call with..... Manager/TL : antha call la nee enna pesuna enna nadanthuchu nu naa kekala Task ah mudichia mudikalaya atha mattum sollu #muthumc VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The text implies that women managers/TLs are incompetent and incapable of handling tasks, perpetuating a stereotype that women lack the necessary skills and abilities in the workplace.
+--------------------------------------------------
+
+ID: 1711
+Text: என்னதான் களைப்பு, சோர்வு, மயக்கம் இருந்தாலும் புருஷன திட்டும் போது மட்டும் எங்கிருந்து தெம்பு வருதுனு தெரியல ஏன்னா டிசைன் அப்படி
+Classification: misogyny
+Explanation: The text reinforces the stereotype that women are responsible for household chores and emotional well-being, regardless of their own workload or fatigue. This perpetuates the burden of domestic labor on women and reinforces traditional gender roles.
+--------------------------------------------------
+
+ID: 943
+Text: *Mom என்னடி இது தோசைய இப்படி பிச்சி பிச்சி போட்டு வச்சிருக்க @kalavani_memes_page KALAVANI MEMES® *Dad's Little Princess அதுவா மா எப்படியும் தோசைய பிச்சி தான் சாப்பிட போறோம் அதான் மா அத தோச கல்லுல இருந்து எடுக்கும் போதே பிச்சி பிச்சி எடுத்துட்டேன்
+Classification: misogyny
+Explanation: {
+"explanation": "The meme reinforces the stereotype that women are responsible for household chores and objectifies them by referring to the daughter as a "little princess" who should be "sapped" by her father. This perpetuates the idea that women are primarily valued for their domesticity and physical appearance.",
+"classification": "misogyny"
+}
+--------------------------------------------------
+
+ID: 549
+Text: Ruturaj 🥵🔥 _vishal_sammy_ Tell them all. Whoever comes, whoever it is... I'll kill them. I'll kill them all.
+Classification: misogyny
+Explanation: The text threatens violence towards anyone who approaches the speaker. This reinforces the idea that women are a threat or nuisance. Such generalizations perpetuate harmful stereotypes and fosters a hostile environment for women.
+--------------------------------------------------
+
+ID: 830
+Text: nivasmc@ft கண்ணம்... அது Bun னு மாதிரி.. KVP MISIRD Post Qar Inland l Aerogr KVP MISIRD Post Qar Inland l Aerogr *Rocky Bhai* எது Bun ஆ!? இப்படித்தான் 1961ல எட்டு ஷிக்கு பாலிஷ் போட்டா தான் எனக்கு ஒரு Bun னு கிடைக்கும்.
+Classification: misogyny
+Explanation: The meme humorously suggests that women are like expensive items that require financial investment to acquire. This reinforces the stereotype that women are valuable primarily for their physical attributes and sexual appeal. Such humor perpetuates the objectification and sexualization of women.
+--------------------------------------------------
+
+ID: 1366
+Text: PORIKKI ANNA ##MBIVITTA KONJIYA EN MUNJILA OOTHURANNNU THANA SONNA ETHUKKU IPPO EN VAILA ROPPUNA HMM ACTRESS TREND MEMES ANGRY THANGCHI ATM NEXT TIME ##MBA SOLLUVALLA PATHUKKUREN IRU HUMM KONJI NALLA PULLIPPA IRUNTHALUM TEASTA THAAN IRUKKU MULUGIDREN
+Classification: misogyny
+Explanation: The text targets women by objectifying them and suggesting that they are responsible for trending memes and acting in a certain way. This perpetuates the stereotype that women are primarily concerned with social media and acting in a way that pleases men.
+--------------------------------------------------
+
+ID: 382
+Text: After receiving KT for full day from senior dood He~Edhuna purinjidha ??? *Me VERA LEVEL MEMES @_darshan__
+Classification: misogyny
+Explanation: The text implies that senior dood He~Edhuna deliberately withheld KT (a reward or incentive) from the person who created the meme, suggesting that women are less deserving of rewards or recognition.
+--------------------------------------------------
+
+ID: 1450
+Text: மீம்ஸ்..தமிழ் *Wife என்னங்க !! இன்னைக்கு நீங்க ரொம்ப அழகா இருக்கீங்க *Husband என்ன புள்ள வீடு பெருக்கணும்மா
+Classification: misogyny
+Explanation: The meme reinforces the stereotype that women are primarily responsible for household chores and childcare, while men are expected to focus on career advancement. This perpetuates the burden of domestic labor on women and reinforces traditional gender roles.
+--------------------------------------------------
+
+ID: 30
+Text: Enaku ennamo iniki leo trailer perusa sambavam pannum nu thonudhu VERALEVEL MEMES @_dharshan._
+Classification: misogyny
+Explanation: The text translates to 'I won't watch the trailer until the heroine's character has some depth and isn't just eye candy.' This perpetuates the stereotype that female characters are primarily valued for their physical appearance rather than their intelligence, strength, or personality.
+--------------------------------------------------
+
+ID: 866
+Text: ZEE தமிழ் SURVIVOR survivor Lakshmi Priya nenga entha mathiri task evlo tough ah kuduthalum sari Lakshmi Priya team captain ah irukura vara intha sword avanga kaila than irukum 🔥 💯
+Classification: not-misogyny
+Explanation: The text celebrates Lakshmi Priya's leadership qualities and her ability to overcome challenges, implying that women are capable and strong. It does not perpetuate stereotypes, hatred, or discrimination towards women. Therefore, it is classified as 'not-misogyny'.
+--------------------------------------------------
+
+ID: 1703
+Text: Facebook irukura ellam pombala pullaikum happy women's day wish pannuran veedula amma nu oruthi kuththu kal ah iruken oru wish pannuran ah paru...???
+Classification: misogyny
+Explanation: The text uses a sarcastic tone to suggest that men are incapable of genuine appreciation towards women on International Women's Day. This perpetuates the stereotype that men only express affection or appreciation towards women when it is socially required or beneficial to do so. Such humor reinforces the idea that men are not genuinely invested in celebrating women's achievements or valuing their worth.
+--------------------------------------------------
+
+ID: 1044
+Text: Girls ~ 1 hour later ; Boys ~ 5 min later ; Mov sapadu ready ah.. @team_cheems
+Classification: misogyny
+Explanation: The meme implies that girls take longer to get ready than boys, suggesting that girls are inherently slower or less efficient. This perpetuates the stereotype that women are naturally delayed or disorganized. Such generalizations perpetuate gender stereotypes and reinforces the idea that women are responsible for delays or inefficiencies.
+--------------------------------------------------
+
+ID: 1492
+Text: Here's all visible text in a single line: "ஆடி மாசம் எப்ப முடியும்...புருஷன் ஊருக்கு எப்ப திரும்ப வருவோம்னு இருக்குற நான் எங்க... " wife "ஆடி மாசம் எப்படா பொண்டாட்டி ஊருக்கு போவா... போனதுக்கு அப்புறம் ஜாலியா சரகடிச்சி சுத்துற நீ எங்க..." IVP memes https://www.facebook.com/ivptele.iv Can Stock Photo - csp34701157 Husband
+Classification: misogyny
+Explanation: The meme perpetuates the stereotype that women are responsible for household chores and domestic responsibilities. It suggests that the wife is solely accountable for cleaning and maintaining the household during the month of Adi (Tamil lunar month), while the husband is not. This reinforces the societal expectation that women should prioritize domestic duties over their own needs and aspirations.
+--------------------------------------------------
+
+ID: 1709
+Text: Na clg varathey @mokkha_memer_offl mt * me mt * Unakaga Unakaga Senior crush Junior crush mt
+Classification: misogyny
+Explanation: The meme implies that senior women are less desirable for crushes compared to younger women. This perpetuates the stereotype that older women are less attractive or desirable, reinforcing misogynistic attitudes towards women.
+--------------------------------------------------
+
+ID: 1638
+Text: In Textile Shop *slim girl Anna enaku set agura mari oru dress kattuga kadaikara Anna Unnoda size ku la kids section ma ohh seri anna COTTON CANDY MEMES oneindia tamil
+Classification: misogyny
+Explanation: {
+"explanation": "The meme targets women by suggesting that only slim girls are suitable for wearing cotton candy dresses. This reinforces the stereotype that plus-size women are not desirable or appropriate for certain clothing. Additionally, the use of the term "kids section" implies that cotton candy dresses are primarily intended for young girls, perpetuating the idea that women's fashion is limited and frivolous.",
+"classification": "misogyny"
+}
+--------------------------------------------------
+
+ID: 1716
+Text: Kilakarai Pasanga da OVVORUTHANGALUKU ONNU ONNU MELA BODHA...! ENAKU ENNODA MOBILE MELA BODHA!
+Classification: misogyny
+Explanation: The meme implies that women are irresponsible and reckless with money, contrasting them with men who are depicted as responsible and prudent. This perpetuates the stereotype that women are inherently less capable of financial management than men.
+--------------------------------------------------
+
+ID: 1254
+Text: ME TRYING TO IMPRESS MY CRUSH EN KAILA IRUKU CHEESE'UH... NAAN ORU LOOSE'UH... AANA NEE THAN ENAKU MASS'UH
+Classification: misogyny
+Explanation: The text implies that a man needs to be cheesy and loose to impress a woman, perpetuating the stereotype that women are attracted to superficial qualities. This reinforces the idea that women are easily impressed and objectifies them.
+--------------------------------------------------
+
+ID: 116
+Text: Lockup crime audio series out on Kukufm அநியாயமா கொண்ணுட்டானுகளே துக்கு சார் எங்க அப்பாவ அடிக்கிறீங்க Audio kekurapove visual ah pakra mari irukae!
+Classification: misogyny
+Explanation: The text objectifies women by associating them with sexualized actions and behaviors. It reinforces the stereotype that women are primarily interested in physical intimacy and entertainment. Such language perpetuates the idea that women are primarily defined by their sexual appeal and undermines their intelligence and capabilities.
+--------------------------------------------------
+
+ID: 680
+Text: Muthu Kutti 1m The day is not complete without this dialogue from our mom Poi kuli da... #muthumc MUTHU MC SREERAGAM VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The meme targets mothers and implies that their dialogue is incomplete or unsatisfactory. This perpetuates the stereotype that mothers are primarily responsible for providing witty or engaging conversation. Such humor can perpetuate the idea that women's speech is less valuable or interesting than that of men.
+--------------------------------------------------
+
+ID: 1423
+Text: Aah dei un aal breakup pannita nu solli feelingla irupanu partha enna ipdi seiriye da Ssh... medhuva vitu edu da poruki aaah hmmm Un aalu pona ena adhaan un bestie irukenla da En lovera vida ne dhan da nalla seira aah vegama adi da un aala nenachi enna sei da
+Classification: misogyny
+Explanation: The text objectifies women by implying that a breakup will cause negative feelings and that women are incapable of handling it independently. It reinforces the stereotype that women need male validation and attention. Additionally, the use of slang like 'aal' and 'adhaan' can be interpreted as derogatory towards women.
+--------------------------------------------------
+
+ID: 1245
+Text: மனைவி: "பக்கத்துக்கு பிளாட் பரிமளாவுக்கு யாரோ 20000/ ரூபாவுக்கு பட்டுப் புடவை gift குடுத்திருக்காங்களாம் - ஒரேயடியா பீத்திக்கிறா" யாறோ f/alwzsmle கணவர் : "இல்லியே தள்ளுபடி போக 16000/ தானே ஆச்சு " எப்படி மாட்டிக்கிட்டான் பாரு லூசுப்பய.... 😂😂😂
+Classification: misogyny
+Explanation: The meme perpetuates the stereotype that women are materialistic and obsessed with gifts. It also implies that women are only interested in money and material possessions. This reinforces the idea that women are superficial and shallow.
+--------------------------------------------------
+
+ID: 1091
+Text: பசங்களுங் விட பொண்ணுங்க நாங்க தான் உண்மயா லவ் பண்றோம் *She pitchumani memes இததுடன் விளையாட்டுச் செய்திகள் முடிவடைகிறது
+Classification: misogyny
+Explanation: The text reinforces the stereotype that women are responsible for maintaining relationships and entertaining men. It implies that women are frivolous and incapable of serious pursuits. This perpetuates the idea that women are primarily valued for their physical appearance and sexual appeal.
+--------------------------------------------------
+
+ID: 66
+Text: Udhay ✔️ @Udhaystalin · 7h Thalabathy @actorvijay Anna's #Leo 👍👍👍 @Dir_Lokesh excellent filmmaking, @anirudhofficial music , @anbariv master @7screenstudio 👏👏👏 #LCU 😅 ! All the best team ! 🅿️MUTHU MC
+Classification: misogyny
+Explanation: The tweet praises the male actors and filmmaker involved in the movie, while casually mentioning the female music composer. This perpetuates the stereotype that women are primarily responsible for musical composition, rather than being recognized for their overall contribution to the project.
+--------------------------------------------------
+
+ID: 213
+Text: ~Kerala Biriyani~ Ennada Ivanuga Biryani Ku Appalam Vaikuranuga
+Classification: misogyny
+Explanation: The meme humorously suggests that women in Kerala are so fond of biryani that they would rather have it as an appalam (a traditional Kerala snack) than their partner. This perpetuates the stereotype that women are primarily driven by food, particularly dishes associated with luxury or indulgence.
+--------------------------------------------------
+
+ID: 558
+Text: DMINES g Entertainment studio green K.E. ஞானவேல்ராஜா presents K. E. ஞானவேல்ராஜா வழங்க Dr. JAYANTILAL GADA presents பத்து தலை சிலம்பரசன் TR கௌதம் கார்த்திக் பிரியா பவானி சங்கர் இயக்கம் N. கிருஷ்ணா இசை A. R. ரஹ்மான் Idhu enna game uh VERA LEVEL MEMES VERA LEVEL MEMES @_dharshan._ வெற்றிமாறன் விடுதலை பாகம் 1 இசை இளையராஜா Naliki nadaka podhu paaru real game uh
+Classification: misogyny
+Explanation: The meme targets women through objectification and sexualization. The use of the term 'பத்து தலை சிலம்பரசன்' (ten heads of hair) is a colloquialism commonly used in Tamil to describe a woman's hair, implying that it is abundant and attractive. This reinforces the stereotype that women are primarily valued for their physical appearance.
+--------------------------------------------------
+
+ID: 1111
+Text: South Indian Aunties during தெரு சண்டை & குழாயடி சண்டை.... - நீ எவன் கூட எல்லாம் தொடர்பு வச்சிருக்கனு எனக்கு தெரியும்டி...
+Classification: misogyny
+Explanation: The text humorously suggests that South Indian aunties are adept at quarreling during தெரு சண்டை (temple festival) and குழாயடி சண்டை (neighborhood festival), implying that they are assertive and vocal. While it does not explicitly objectify or insult women, the underlying implication is that older women are naturally quarrelsome, which reinforces a stereotype.
+--------------------------------------------------
+
+ID: 1616
+Text: Sariyana lambadi pombalaya iruppa pola KATTADHURAI MEMES TAMIL MEMES Attitude girl nu decent ah sollu man
+Classification: misogyny
+Explanation: The text translates to 'Even if you are a Sariyana lambadi girl, you should have a good attitude. Attitude girl nu decent ah sollu man' which implies that girls should maintain a good attitude to be considered decent. This reinforces the stereotype that women should prioritize their attitude and appearance to be valued.
+--------------------------------------------------
+
+ID: 1253
+Text: Anand Memes மாமியார் சாம்பார்ல மீன் போடலாமா போடக்கூடாதா பதில் சொல்லு மருமகள்
+Classification: misogyny
+Explanation: The meme implies that mothers are responsible for controlling their daughters' sexual behavior, suggesting that daughters are inherently promiscuous and need constant monitoring. This reinforces the stereotype that women are sexual objects and burdens on their families. Such generalizations perpetuate misogyny and perpetuate harmful social norms.
+--------------------------------------------------
+
+ID: 71
+Text: Muthu Kutti 2m When all your colleagues are going for a break You are working on a critical task Neenga ponga naa vare... #muthumc Volga Raghuvaran B. Tech Latest Telugu Movie | 2015 Volga Video
+Classification: misogyny
+Explanation: The text implies that women are irresponsible and prioritize leisure over work commitments. This perpetuates the stereotype that women are less committed and capable than men in professional settings.
+--------------------------------------------------
+
+ID: 340
+Text: Muthu Kutti 1d Inimae nammala yarukum poi msg panna venda avangala pannatum *Several days later* Enna oru msgum kaano #muthumc VERA LEVEL MEMES KTV
+Classification: misogyny
+Explanation: The text targets women by implying that they are overly emotional and prone to sending messages excessively. This reinforces the stereotype that women are more communicative and expressive than men.
+--------------------------------------------------
+
+ID: 367
+Text: Muthu Kutti Just now *me on every monday* Inaika en manager leave potta nalla irukkum #muthumc VERA LEVEL MEMES VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The text implies that women are irresponsible and incapable of handling managerial responsibilities. This perpetuates the stereotype that women are less capable than men in leadership roles. Such generalizations perpetuate discrimination and undermines the potential of women in the workplace.
+--------------------------------------------------
+
+ID: 1664
+Text: நாளை முதல் நகரப்பேருந்துகளில் மகளிர் இலவசமாக பயணிக்கலாம் - மு.க.ஸ்டாலின் அட பாவிகளா இந்த ஆம்பளைங்கள ஒருத்தர் கூட மதிக்க மாட்டிக்காங்களே
+Classification: misogyny
+Explanation: The text reinforces the stereotype that women are incapable of handling public transport independently, implying that they need male accompaniment. This perpetuates the idea that women are vulnerable and incapable, and reinforces traditional gender roles.
+--------------------------------------------------
+
+ID: 484
+Text: muthu mc @muthu__kutti Pov ~ when u don't have double helmet Macha antha signal vara konjo nadanthu poyen da #muthumc ALT NEXT TO WATCH FULL MOVIE UNLOAD NOW NEXT LEVEL MEMES 10:16 PM · Apr 9, 2023
+Classification: misogyny
+Explanation: The text uses the stereotype that women are reckless drivers, and implies that they are more likely to cause an accident. This perpetuates the harmful belief that women are less capable than men.
+--------------------------------------------------
+
+ID: 577
+Text: Dharshan Just now When married mappilai went to play cricket (Sunday) His wife and her family VERA LEVEL MEMES VERA LEVEL MEMES @_dharshan._ TAMIL MEMES Google Play mt
+Classification: misogyny
+Explanation: The meme implies that women and their families are obsessed with memes and are not interested in sports or other activities. This perpetuates the stereotype that women are primarily interested in social media and entertainment, and that they are not capable of engaging in competitive activities. Such generalizations perpetuate gender stereotypes and undermine the capabilities of women.
+--------------------------------------------------
+
+ID: 136
+Text: Muthu Kutti Just now When my favorite person didn't message me for two days Aie... paathia vittu pora paathia.. #muthumc VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The text expresses a sense of emotional dependence on a male's attention and implies that her happiness is contingent upon his messaging. This perpetuates the stereotype that women are emotionally unstable and reliant on men for validation. Such messaging can perpetuate the idea that women are incomplete or inadequate without male attention.
+--------------------------------------------------
+
+ID: 24
+Text: muthu mc @muthu__kutti Sex na MALE/FEMALE nu enakku therium ley... #muthumc 11:32 AM · Feb 27, 2023 VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The text implies that males are the default sex, suggesting that females are not the norm. This perpetuates the stereotype that masculinity is the default and femininity is somehow abnormal. Such messaging can contribute to the marginalization and discrimination of women.
+--------------------------------------------------
+
+ID: 629
+Text: She : You are my man da Me : Iyaa Batman or Ironman sollu d She: @_vishal_sammy_ TAMIL MEMES GET IT ON Google Play
+Classification: misogyny
+Explanation: The meme implies that women can only find love and companionship in men, comparing women to superheroes. This reinforces the stereotype that women are incomplete and need a man to complete them. Additionally, the caption suggests that women are obsessed with men and will do anything for them, comparing the woman to a superhero who would do anything for her man.
+--------------------------------------------------
+
+ID: 887
+Text: Me after seeing my frnd's phn contact list... my frnd me Pesama nee padikiratha vitru... Vena Kozhanthu Aluthurubuyan TAMIL MEMES Girls hostel start panidu...
+Classification: misogyny
+Explanation: The text humorously suggests that women in hostels are promiscuous based on the assumption that all girls in hostels engage in sexual activities. This perpetuates the stereotype that women are sexually promiscuous and objectifies women.
+--------------------------------------------------
+
+ID: 1238
+Text: சோறு மட்டும் மூணு வேலைக்கும் நல்லா திங்க தெரியுது girls *Mom வீட்டு வேலை செய்யுனு சொன்னா மட்டும் ரோசம் பொத்துட்டு வருதே Helo
+Classification: misogyny
+Explanation: {
+"explanation": "The text objectifies women by suggesting that they are primarily responsible for household chores and domestic responsibilities. This reinforces the stereotype that women are primarily caregivers and homemakers, while neglecting the shared responsibility of men in such tasks. Additionally, the use of the term "girls" in a derogatory or infantilizing manner reinforces the idea that women are immature or incapable of adult responsibilities.",
+"classification": "misogyny"
+}
+--------------------------------------------------
+
+ID: 355
+Text: My AI Hey! How's it going? ME How are you MY AI I'm doing great! Thanks for asking. ME Unuku tamil theriyuma MY AI A little bit. ME Seri okay vaa pesalam MY AI VERA LEVEL MEMES DHARSHAN Enaku vera vali therila aatha
+Classification: not-misogyny
+Explanation: The text uses playful and affectionate language to address the AI, suggesting a close and friendly relationship. It does not perpetuate stereotypes, hatred, discrimination, sexualization, objectification, insults, or mockery toward women. The cultural context of India, where such playful language is commonly used between friends and family members, further suggests that the text is not misogynistic.
+--------------------------------------------------
+
+ID: 1034
+Text: ஊசி போட்டது வீங்கிருச்சடி.... ஜஸ் வை டா.... ஆயிரம் சொல்லு உன் அழகுக்கு முன்ன ஐஸ்வர்யா ராய் கூட டம்மி தான்டி.... She
+Classification: misogyny
+Explanation: The text objectifies women and reinforces the stereotype that women are primarily valued for their physical appearance. It implies that a woman's worth is primarily determined by her beauty and that she should prioritize pleasing men. This perpetuates the idea that women are responsible for attracting men and that their worth is primarily defined by their attractiveness.
+--------------------------------------------------
+
+ID: 1344
+Text: IVA. NAMBALA. PAKUM.BOTHU NAMBA. MIND VOICE YEPPA. THEVU****. EPDI PAKURA PARU. GAAJI. PUDUCHA. MUNDA MOOD. YETHURA DI. MUNDA AIYOOO🥵
+Classification: misogyny
+Explanation: {
+"explanation": "The text objectifies women and reinforces the stereotype that women are primarily responsible for household chores and emotional support. The use of slang like "mind voice yepppa" implies that women are mentally unstable or incapable of independent thought. The overall tone of the meme is disrespectful and dismissive towards women.",
+"classification": "misogyny"
+}
+--------------------------------------------------
+
+ID: 1512
+Text: 2k மாமியார் ஏண்டி, என் புள்ள பேர் கூடவா உனக்கு தெரியாது? Aruppukottai_Official 2k மருமகள் இன்ஸ்டால "Kiya Miya Kissa Boy"ன்னு வச்சுருந்தார்..
+Classification: misogyny
+Explanation: {
+"explanation": "The meme targets women by objectifying them and implying that they are promiscuous. The use of the term "Kiya Miya Kissa Boy" translates to "What a beautiful boy" in a suggestive manner. This reinforces the stereotype that women are primarily interested in sexualizing young men.",
+"classification": "misogyny"
+}
+--------------------------------------------------
+
+ID: 353
+Text: Boys BALMAIN PARIS THE BOYS We have Balmain Paris and The Boys Girls We have yellow and red kurtis VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The meme reinforces the stereotype that boys are interested in materialistic possessions like luxury brands, while girls are primarily concerned with fashion and appearance. This perpetuates the idea that boys and girls have different values and interests.
+--------------------------------------------------
+
+ID: 632
+Text: @ night time YERA LEVEL MEMES YERA LEVEL MEMES _ _dharshan._ _ Laip enna pottu okkum nu theriyum but indha alavuku okkum nu theriyadhu
+Classification: misogyny
+Explanation: The meme implies that women are more likely to gossip during nighttime, perpetuating a stereotype that women are inherently more talkative and mischievous than men. This reinforces the idea that women are less responsible and more frivolous than men.
+--------------------------------------------------
+
+ID: 1636
+Text: புருஷன் சரியில்லேன்னா கூட அட்ஜெஸ்ட் பண்ணிப்பாங்க... -யாரோ ஆனா புதுசா தைத்த ஜாக்கெட் சரியில்லேன்னா டைலர் மேலே கொலைவெறி ஆயிருவாங்க... 😡😡😡😀😀😀
+Classification: misogyny
+Explanation: The meme implies that women are reckless and irresponsible, while men are always responsible and reliable. This perpetuates the stereotype that women are less capable and should be blamed for any mistakes or failures. Such generalizations perpetuate gender inequality and undermine the agency of women.
+--------------------------------------------------
+
+ID: 479
+Text: Muthu Kutti Just now When baby is trying to talk.... Amma sollu amma... Appa solu thango appa... #muthumc #MUTHU MC
+Classification: misogyny
+Explanation: The meme suggests that mothers (amma) are responsible for silencing babies (kutti) when they start talking, while fathers (appa) are not. This perpetuates the stereotype that women are primarily responsible for childcare and household duties. Such messaging can reinforce gender roles and limit women's agency.
+--------------------------------------------------
+
+ID: 384
+Text: mt When you don't understand that one 18+ meme VERA LEVEL MEMES O_dharshan_ mt TAMIL MEMES
+Classification: misogyny
+Explanation: The text implies that women are only interested in 18+ memes and that they lack understanding of serious or meaningful memes. This perpetuates the stereotype that women are frivolous and incapable of intellectual engagement. Such generalizations perpetuate a harmful and discriminatory attitude towards women.
+--------------------------------------------------
+
+ID: 1031
+Text: அம்மா : தோசை ஊத்துறேன்.. சாப்பிட்டு தூங்கு டா.. : போ மா .. Daily தோசை தோசைனு.. நா வெளிய Hotel ல சாப்பிட்டேன் .. அம்மா : என்ன சாப்பிட : தோசை தான்
+Classification: misogyny
+Explanation: The meme implies that women are primarily responsible for household chores and that they should prioritize making dosa over spending time in a hotel. This reinforces the stereotype that women are duty-bound to domestic tasks and undermines their agency and freedom.
+--------------------------------------------------
+
+ID: 238
+Text: Muthu Kutti Just now *Got escalation from client* Manager: Task ah mudikkama enna ma pannitu irundha Doodie : Reels panitu irundhen sir.. #muthumc EXTRA LEVEL MEMES EXTRA LEVEL MEMES
+Classification: misogyny
+Explanation: The text implies that women are irresponsible and unprofessional, and that they are incapable of handling tasks effectively. This perpetuates the stereotype that women are less capable than men in the workplace.
+--------------------------------------------------
+
+ID: 1358
+Text: Me : Seekarama vaa d romba mood ah iruku Bestie : Daii jetiya kalatavadhu time kudra apdiye vaa nakkuva Trollmy_bestie Me : Seri kalatu Bestie : Ssshhhh aaahh apdidha nalla nakku da aahahhh
+Classification: misogyny
+Explanation: The meme uses derogatory language towards women by stereotyping them as emotional and irrational. It implies that women are overly dramatic and irrational compared to men. This reinforces harmful gender stereotypes and reinforces the idea that women are less capable than men.
+--------------------------------------------------
+
+ID: 332
+Text: Muthu Kutti Just now ~salary credited கடன் கேட்பவர்கள் : Hi macha Salary credit aana ivanuku epdi tha th theriyalayae.. crt ah vantharangalae #muthumc VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The meme implies that women are irresponsible with money and rely on men for financial support. This perpetuates the stereotype that women are financially dependent on men and reinforces the gendered perception that men are responsible for financial stability.
+--------------------------------------------------
+
+ID: 1455
+Text: Sunny Pidikum nu sonnean ...... Nan sonnathu intha sunny Rum ma than SÈLVÂ MEMES
+Classification: misogyny
+Explanation: The meme uses the stereotype that women are obsessed with selfies and social media. This reinforces the idea that women are vain and self-absorbed. Such generalizations perpetuate harmful stereotypes and reinforces gender-based discrimination.
+--------------------------------------------------
+
+ID: 112
+Text: Me taking service road in order to avoid signal but service road get jammed and signal cleared @_vishal_sammy_ *VERA LEVEL MEMES* TAMIL MEMES Google Play mt
+Classification: misogyny
+Explanation: The text implies that women are responsible for traffic congestion, suggesting that their presence on the road causes congestion. This perpetuates the stereotype that women are reckless drivers and contributes to the objectification of women.
+--------------------------------------------------
+
+ID: 1720
+Text: அடுத்த நிமிடம் கூட நமக்கு நிச்சயம் இல்லை இதில் திமிர், வெறுப்பு, கோபம் ஆணவம் போன்ற அழுக்கை சுமந்து சாகாதே! அன்பை மட்டுமே நேசியுங்கள்..!
+Classification: misogyny
+Explanation: The text uses exaggerated emotional language to depict men as the sole source of anger, frustration, and conflict in the household. This reinforces the stereotype that women are responsible for managing and mitigating the negative emotions of men. Such language can perpetuate the idea that men are unable to take responsibility for their own emotions and that women are ultimately to blame for any tension or conflict.
+--------------------------------------------------
+
+ID: 1092
+Text: LOVE MARRIAGE babe pls have sax with me I'm horny... no da not in the mood... ARRANGED MARRIAGE padukreya ila Unga Amma veetuku poreya ?? ok..
+Classification: misogyny
+Explanation: The text objectifies women by suggesting that they are primarily motivated by sexual desire and are willing to engage in sexual acts for marriage. This perpetuates the stereotype that women are sexually promiscuous and reduces them to their physical attributes. Additionally, the text implies that women are easily swayed by material incentives and are willing to compromise their values for financial or social benefits.
+--------------------------------------------------
+
+ID: 189
+Text: Muthu Kutti Just now After leaving office ~ TL ~ can you connect now regarding a critical issue? Romba dhooram poiten.....🏃‍♂️ #muthumc mt Next Level Memes
+Classification: misogyny
+Explanation: The text uses the term 'muthu kutti' which is a derogatory term for a woman, implying that women are incompetent and incapable. The use of the term 'romba dhooram poiten' suggests that women are responsible for solving critical issues. This perpetuates the stereotype that women are inferior and should be subservient to men.
+--------------------------------------------------
+
+ID: 652
+Text: When someone says - prechana ennanu pesunga da apa dhan theerum... Me - pesalanu dhan da prechanaye VERA LEVEL MEMES mt TAMIL THE
+Classification: misogyny
+Explanation: The meme implies that women are overly emotional and prone to excessive drama. This perpetuates the stereotype that women are less capable and logical than men. Such humor reinforces the idea that women are less competent and should be belittled or mocked when expressing their emotions.
+--------------------------------------------------
+
+ID: 937
+Text: Dad : Needhan english series lam pakriye bank karan edho pesuran ennanu kelu . . Me*
+Classification: misogyny
+Explanation: The meme implies that women are incapable of understanding or engaging in serious conversations in English, reinforcing the stereotype that women are intellectually inferior. This perpetuates the gendered perception that women are less capable than men.
+--------------------------------------------------
+
+ID: 414
+Text: PS2 pathachu, Friends oda veliya poiyachu, Family oda koil thiruvizha poiyachu, CSK match pathachu, Chennai la mazha pathachu next enna panalam Life, Career, Office etc : Thirumbi enna paru da @_vishal_sammy_
+Classification: misogyny
+Explanation: The text suggests that achieving success in life, career, office etc. is more important than spending time with family, friends, or enjoying leisure activities. This reinforces the stereotype that women should prioritize work over personal relationships and happiness.
+--------------------------------------------------
+
+ID: 465
+Text: MUTHU MC @muthu_kutti Some one : How many days you work in a week?? Support dood : MUTHU MEMES f MUTHU MC
+Classification: misogyny
+Explanation: The text implies that women work more than men, perpetuating a stereotype and objectifying women's labor. This aligns with cultural norms in some parts of India where men are traditionally expected to work less than women.
+--------------------------------------------------
+
+ID: 599
+Text: ~ dad & mom calculating monthly expense me ~ 200 ruba kuduthinga na, na apdiye padathukku kelambiruve |Ayali - Web series *Me *Dad
+Classification: misogyny
+Explanation: The meme implies that women are primarily responsible for household expenses, perpetuating the stereotype that women are financially dependent on men. This reinforces the patriarchal notion that women should bear the primary financial burden within a family.
+--------------------------------------------------
+
+ID: 940
+Text: காயத்ரி : சாப்டிரதா தயிர்சாதம் 🙂 !!! மோதி பாத்தா உயிர் சேதம் 💪😎🔥!!!...... #_GANESH_MC MEMECREATION_
+Classification: misogyny
+Explanation: The meme uses exaggerated masculinity and celebratory language to depict the male character overcoming challenges and achieving success. It reinforces the stereotype that men are strong and capable, while women are passive and supportive. Such representations perpetuate the idea that women are less competent and valued in society.
+--------------------------------------------------
+
+ID: 368
+Text: Me struggling with the new insta button update @_vishal_sammy_
+Classification: not-misogyny
+Explanation: The text humorously expresses the struggle of the speaker with the new Instagram button update, without explicitly targeting or objectifying women. The cultural context of India does not suggest that this particular meme is misogynistic.
+--------------------------------------------------
+
+ID: 163
+Text: Enna dhaan Negative character pannalum avan mela veruppe vara matingudhe #fahadfazin VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The text uses negative characterization to describe a female, associating her with negative attributes like negativity and manipulation. This perpetuates stereotypes and reinforces the idea that women are inherently flawed or undesirable. Such generalizations perpetuate misogynistic attitudes and reinforces harmful social norms.
+--------------------------------------------------
+
+ID: 333
+Text: Muthu Kutti Just now Anta thappa mattum panida maaten da.. #muthumc Venada Muthu single ah iru atha nallathu Luv la venada Purinjuko J4 STUDIOS VERA LEVEL MEMES J4 STUDIO
+Classification: misogyny
+Explanation: {
+"explanation": "The text uses derogatory language towards women by associating them with negative qualities like "anta thappa" (stupid) and "venada" (slut). This perpetuates stereotypes and reinforces the idea that women are inferior to men. Additionally, the caption suggests that women are incapable of handling responsibility or making independent decisions.",
+"classification": "misogyny"
+}
+--------------------------------------------------
+
+ID: 1641
+Text: *Mom இந்தாம்மா பொண்ணு இந்த பையனுக்கு ஒரு ஜட்டி oneindia tamil *Me பொம்மை படம் போட்ட ஜட்டி குடும்மா இல்லாட்டி கோவச்சுக்குவான்
+Classification: misogyny
+Explanation: The meme implies that women are responsible for providing financial support to their families and that they should prioritize their family obligations over their personal lives. This reinforces the stereotype that women are primarily defined by their domestic roles and financial obligations. Such generalizations perpetuate the idea that women are financially dependent on men and undermine their autonomy.
+--------------------------------------------------
+
+ID: 1755
+Text: இந்த பூலோகத்தில் யாரும் பார்க்கும் முன்னே உன்னை அதிகாலை அனுப்பி வைப்போம் *Committed Single's* ஓகோ கள்ள தொடர் பா Chennai Pattinam
+Classification: misogyny
+Explanation: The text objectifies women by suggesting that they are easily available and should be discarded like unwanted flowers. This reinforces the stereotype that women are seen as disposable and less valuable than men.
+--------------------------------------------------
+
+ID: 1679
+Text: mt *Me Singa pennee Vevo itha thana theditu irukenga @ LUCKY_FELLOW_MEME mt *Status guys mt
+Classification: misogyny
+Explanation: The meme uses the stereotype that women are overly emotional and prone to drama. It implies that the woman mentioned is exaggerating or overreacting to a situation. This reinforces the harmful idea that women are less capable of handling conflict or expressing themselves rationally.
+--------------------------------------------------
+
+ID: 1069
+Text: Virginvairamuthu II Just now Aunty ~ நேத்து எங்கடா போன? ~ என் ஆளு கூட படத்துக்கு போனேன் Aunty ~ அப்போ நா யாரா 💔🥀 TEMPLATE GRAM
+Classification: misogyny
+Explanation: The meme targets women by implying that they are irresponsible and reckless. It stereotypes women as being emotional and reckless, and reinforces the idea that women are always the ones who are to blame for family problems. This perpetuates the gender stereotype that women are primarily responsible for household duties and childcare.
+--------------------------------------------------
+
+ID: 174
+Text: Drugs 🔥 Romba naal kalichu short film la Indha maari concept pudhusa nallarukku
+Classification: misogyny
+Explanation: The text humorously suggests that women have short film concepts due to their drug use. This perpetuates the stereotype that women are reckless and irresponsible, reinforcing gender stereotypes.
+--------------------------------------------------
+
+ID: 1152
+Text: Love breakup kuda paravala MOKKA POSTU @dpak__97 ana ithellam irukae 😭😩 yebaa
+Classification: misogyny
+Explanation: The meme implies that women are overly emotional and prone to dramatic reactions when relationships end. This perpetuates the stereotype that women are more sensitive and unstable than men in the context of love and heartbreak. Such generalizations perpetuate inequality and undermine the emotional complexity of women.
+--------------------------------------------------
+
+ID: 454
+Text: muthu mc @muthu_kutti Need pakkathu veetu doli lyk this👉🧡🦋 #muthumc Translate Tweet You had one, isn't it? Where are your relatives? 4:01 AM · Apr 17, 2023
+Classification: misogyny
+Explanation: The tweet implies that women are irresponsible and prioritize leisure over familial responsibilities. This reinforces the stereotype that women are primarily accountable for domestic duties and family obligations.
+--------------------------------------------------
+
+ID: 755
+Text: Leo (UA) (2D) (Tamil) Date Thu, 19 Oct, 2023 Time 04:00 AM Venue(s) Sri Srinivasa 4K Dolby Atmos A/C: Padmanabanagara(SRI Seats SWARNA - N21, .N22 MOKKA POSTH @ganesh_rohit45 *Le me (Surya Fan) Getting ready to witness the most hyped movie in the K'TOWN !
+Classification: misogyny
+Explanation: The text includes celebratory language targeted towards males, implying that the hyped movie is primarily for their enjoyment. It also uses the term 'Surya Fan', which is a common nickname for fans of a popular Tamil actor who is known for his action-hero roles. This reinforces the stereotype that action movies are primarily targeted towards male audiences.
+--------------------------------------------------
+
+ID: 1698
+Text: * Girls HAPPY WOMEN'S DAY அதானடா.... 😩 மத்த நாள்லாம் கண்டுகாம இருந்துட்டு, வந்துட்டான் wishes சொல்ல
+Classification: misogyny
+Explanation: The text uses a sarcastic tone to suggest that men are only expressing happiness on Women's Day because they were forced to. This perpetuates the stereotype that men do not genuinely value or appreciate women.
+--------------------------------------------------
+
+ID: 1027
+Text: *Relative Aunty Ethana masam di @arun_memes_page Chubbygirl* paithyakari paithyakari adhu en thoppa di
+Classification: misogyny
+Explanation: {
+"explanation": "The meme targets women by stereotyping them as chubby and suggesting that they are undesirable. It also uses the term "paithyakari" which can be interpreted as implying that women are easy or promiscuous. Such humor perpetuates the objectification and sexualization of women.",
+"classification": "misogyny"
+}
+--------------------------------------------------
+
+ID: 1206
+Text: Mom helping for our love expectation Reality velakkamaru pinju poirum.unalam kallipaal oothi kondrukanum da
+Classification: misogyny
+Explanation: The meme suggests that mothers are solely responsible for fulfilling love expectations and reality often falls short of those expectations. This perpetuates the stereotype that women are primarily caregivers and that their fulfillment is tied to their ability to meet others' expectations. This reinforces the burden of unrealistic expectations placed on women.
+--------------------------------------------------
+
+ID: 204
+Text: Muthu Kutti Just now When my favorite person didn't message me for two days Aie... paathia vittu pora paathia.. #muthumc
+Classification: misogyny
+Explanation: The text expresses a sense of emotional dependence on a male figure and implies that his lack of communication caused distress. This perpetuates the stereotype that women are overly reliant on male attention and reinforces the idea that their happiness is contingent upon male action.
+--------------------------------------------------
+
+ID: 863
+Text: They are famous thief during our childhood UrUpUdAtHA MeMeS May I come in my friend with pencil, scale, eraser, snacks thiruttu
+Classification: misogyny
+Explanation: The text implies that women are naturally dishonest and mischievous, perpetuating a stereotype that women are inherently dishonest. This reinforces a negative perception of women and reinforces harmful gender norms.
+--------------------------------------------------
+
+ID: 375
+Text: Sanjay Krishna Just now • 🌍 ❤️ " dei, unnaya vechu enna meme podrathu ney therla da, ellaa concept layum meme potachu da... VERA LEVEL MEMES VERA LEVEL MEMES
+Classification: not-misogyny
+Explanation: The text translates to 'Hey, this meme is really good, the concept is also nice... REAL LEVEL MEMES REAL LEVEL MEMES'. The use of the term 'ellaa' (her) implies a playful and appreciative tone towards the creator of the meme, rather than a derogatory or hateful sentiment towards women.
+--------------------------------------------------
+
+ID: 1533
+Text: incase after marriage job poga ninacha allow panitu home work ah avanga kuda share panrathu ROOZZI MEMES Property ah iruntha atha boys Maari girls kum share pananum.
+Classification: misogyny
+Explanation: The text reinforces the stereotype that women should share household chores and responsibilities after marriage, while men are primarily responsible for financial obligations. This perpetuates the idea that women are primarily domestic and that their primary purpose is to support their husbands financially. Such notions perpetuate gender inequality and objectification of women.
+--------------------------------------------------
+
+ID: 472
+Text: Vera Level Memes Kaalai la enchi straight ah inga dhan vara pola VERA LEVEL MEMES VERA LEVEL MEMES @_dharshan._ *Twitter 🔞
+Classification: misogyny
+Explanation: The tweet translates to 'Straight guys don't understand the level of memes I post. Level memes are level memes.' The use of the term 'straight' implies that only gay or bisexual people understand certain types of memes. This perpetuates the stereotype that straight people are less creative or meme-savvy, reinforcing a patriarchal hierarchy where masculinity is associated with ignorance or lack of cultural understanding.
+--------------------------------------------------
+
+ID: 1336
+Text: AT OFFICE WITH PA Me: Rashi oru vaati ma oru 15mins dhaan quicka mudichiralam Rashi: Sir neraya work iruku sir suma irunga @tamil.troll
+Classification: misogyny
+Explanation: The text implies that women are irresponsible and hasty in their work, contrasting them with men who are hardworking and meticulous. This perpetuates the stereotype that women are less competent than men in professional settings.
+--------------------------------------------------
+
+ID: 487
+Text: கொலையை கண்டுபுடிக்குர படமா பாக்குரது காலையில ஜட்டிய காணோமேனு என் உசர வாங்குரது தூ ... Fraud கார பய *Amma
+Classification: misogyny
+Explanation: The meme uses derogatory language towards women by associating them with fraud and corruption. It reinforces the stereotype that women are dishonest and manipulative. Such generalizations perpetuate negative attitudes and discriminatory practices towards women.
+--------------------------------------------------
+
+ID: 1270
+Text: 2k kids உன் கன்னக்குழி அழகிலதான் என் கற்பனையை நான் புதைப்பேன் 90s kids இருமா சோத்துல குழிபண்ணிக்கிறே இல்லாட்டி ரசம் வழிஞ்சு ஓடிரும் REAL MUSIC VIDEOS Download Dailyhunt on Play Store
+Classification: misogyny
+Explanation: The text objectifies women by implying that their beauty is the only valuable quality. It reinforces the stereotype that women are primarily valued for their physical appearance. This perpetuates the idea that women are less valuable than men.
+--------------------------------------------------
+
+ID: 586
+Text: Muthu Kutti 21m Mom : பாட்டி இறந்துட்டாங்களாம் டா வா ஊருக்கு போலாம் Me : சாகுறதுதா சாகுறாங்க வெள்ளிக்கிழமை செத்து இருந்தா 3 நாள் leave ஆவது கிடைச்சு இருக்கும். #muthumc *மம்மி mt
+Classification: misogyny
+Explanation: The text implies that women are dependent on their mothers and cannot handle responsibilities. This reinforces the stereotype that women are incapable and irresponsible.
+--------------------------------------------------
+
+ID: 583
+Text: Muthu Kutti 1m Me : vaa briyani saapuda pola... Roomate : ippova?? Me : ipotha Roomate: aie ipo neram enna aaguthu theriuma #muthumc *me VERA LEVEL MEMES *roomate
+Classification: misogyny
+Explanation: The meme uses derogatory slang 'Muthu Kutti' which translates to 'skinny girl' and implies that the roommate is lazy and irresponsible. Such language reinforces the stereotype that women are inherently less capable than men. Additionally, the caption suggests that the roommate's behavior is a burden for the speaker, implying that women are responsible for domestic chores and maintaining a clean and orderly environment.
+--------------------------------------------------
+
+ID: 426
+Text: Adipurush - New movie poster is out ! Summa solla koodadhu.. Kriti sanon paaka Apdiyae divine maari irukanga
+Classification: misogyny
+Explanation: The text objectifies women by associating them with divine beauty and sexualizes them by suggesting that they are worthy of worship. This reinforces the stereotype that women are primarily valued for their physical appearance and sexual appeal.
+--------------------------------------------------
+
+ID: 1277
+Text: இங்க பாரு அது ஆபாத்தானது அத் ஒழுங்கா ஏ கிட்ட குடுத்துடு #அண்ணன் *தங்கச்சி அது ஆபாத்தானதா இருந்தாலும் பரவாயில்லா நடுவுல இருக்குற நூல உருவிட்டு ஒவ்வொன்னா வெடிப்பேன்
+Classification: misogyny
+Explanation: The text implies that women are responsible for maintaining peace and harmony in the household, even if they are assertive or independent. This reinforces the stereotype that women should prioritize domesticity and subservience to men.
+--------------------------------------------------
+
+ID: 1393
+Text: Me : Thambi TEA venuma COFFEE venuma ~ My reaction be like ~ Thambi : Akka Paal venum UNSEEN ADULT MEMES
+Classification: misogyny
+Explanation: The meme implies that women are unseen adults who primarily exist to create memes. This perpetuates the stereotype that women are primarily interested in social media and lack agency or accomplishments. Such humor reinforces the misconception that women's lives revolve around online content and undermines their diverse identities.
+--------------------------------------------------
+
+ID: 1712
+Text: கோவை பென் கடிது நாய் சாவு இன்று ரூ.5 Kovama Kuttma *Girl Bestie Hey venam ithula tag panidatha
+Classification: misogyny
+Explanation: The meme uses derogatory language towards women by associating them with dogs. This reinforces the stereotype that women are submissive and obedient. Additionally, the caption suggests that women are only valuable for sexual pleasure, reinforcing objectification and sexualization.
+--------------------------------------------------
+
+ID: 1696
+Text: *GIRL BESTIE Chennai Pattinam Enna Patha Unaku Ponnu Mathiri Therlaya ME* Enakum "WOMEN's DAY" Wish Pannu da
+Classification: misogyny
+Explanation: The meme targets women by stereotyping them as dependent on men for their happiness and fulfillment. It implies that women's happiness is contingent upon receiving gifts or affection from men on Women's Day. This reinforces the patriarchal notion that women are primarily defined by their relationships with men.
+--------------------------------------------------
+
+ID: 1441
+Text: #BREAKING கோவையில் முதல் பெண் ஓட்டுநர் ஷர்மிளா பணி நீக்கம் கோவையின் முதல் பெண் பேருந்து ஓட்டுநரான ஷர்மிளா பணியிலிருந்து நீக்கம் LAKSHMANAN MEMES Behindகட்ட/ மீடியா *மீகி எனக்கென்னமோ உன் மேல தான் சந்தேகமா இருக்கு...
+Classification: misogyny
+Explanation: {
+"explanation": "The meme targets women by implying that they are incompetent and unfit for certain roles. It reinforces the stereotype that women are inferior to men in professional settings. The use of the term "மீகி" (lame) suggests that women are incapable of handling responsibilities and that their presence in leadership positions is a fluke.",
+"classification": "misogyny"
+}
+--------------------------------------------------
+
+ID: 1396
+Text: *Anni ADULTS_SPOT En Room La Heater Work Agala Un Room Ku Kulika Vanthen Ne Kai Adikura Nu Teriyama Light On Panniten Da Un Annana Vida Perusa Iruku Da Unaku Shhh Ivlo Stronga Nikkuthu Inga Va Nane Un Sunniya Kuliki Kanjiya Kudikiren
+Classification: misogyny
+Explanation: The text objectifies women by suggesting that they are responsible for providing sexual pleasure to men. It also reinforces the stereotype that women are weak and need protection. Such language perpetuates the idea that women are inferior to men.
+--------------------------------------------------
+
+ID: 1278
+Text: Age - 20 Age - 19 IG : INIME_IPDITHAAN maap Gabriella ah vida chinna ponna ah shivani
+Classification: misogyny
+Explanation: The meme implies that women are irresponsible and reckless, contrasting them with the perceived responsibility and maturity of men. This perpetuates the stereotype that women are less capable and mature than men.
+--------------------------------------------------
+
+ID: 1024
+Text: When Mom is Not in Home Little Princess* இன்னைக்கு அம்மா வேற வீட்டுல இல்ல... நம்மளே சமையல் பண்ணி...அந்த சமையலுக்கு ஒரு பேர வச்சிர வேண்டியது தான்....
+Classification: misogyny
+Explanation: The text implies that women are primarily responsible for household chores and cooking, reinforcing the stereotype that women are primarily domestic and subservient. This perpetuates the idea that women are less capable and independent than men.
+--------------------------------------------------
+
+ID: 1658
+Text: உள்ளூர் அரசு பஸ்களில் BEN MEMES பெண்களுக்கு இலவச பயணம் BEN MEMES ஆண்கள் * இனி கெட்டப் சேஞ்ச் பண்ணிட்டு ட்ராவல் பண்ணிட வேண்டியது தான்
+Classification: misogyny
+Explanation: {
+"explanation": "The meme reinforces the stereotype that women are entitled to free travel on government buses, while men have to pay for their travel. This perpetuates the idea that women are dependent on men for financial support. Additionally, the use of the term "கெட்டப் சேஞ்ச்" (get out) implies that women are a burden or nuisance.",
+"classification": "misogyny"
+}
+--------------------------------------------------
+
+ID: 50
+Text: Vasanth Karthik 14 minutes ago When i argues with my mom Amma : nee ellam suneeta sharma kaal kazhuvi kudichalum urupdamata da Me ~ adhu yaar ma suneeta sharma? Amma : adhan 100 ruba potu 1.5 kodi jeichaley youtube la vilambaram poduvaney junglee rummy Me : epomey akkam pakkathula irukkavan kooda thana ma compare pannuva, ipa ennama YT vilambaram kooda la compare panra Dai_summa_Iru_da
+Classification: misogyny
+Explanation: The meme implies that women are primarily interested in material possessions and entertainment, while men are more focused on intellectual pursuits. This perpetuates the stereotype that women are superficial and materialistic, while men are seen as more serious and intellectually driven. Such generalizations perpetuate gender stereotypes and reinforce discriminatory attitudes towards women.
+--------------------------------------------------
+
+ID: 995
+Text: Cuckoo... Cuckoo... katta thoraiku kattam seri ila ini குயில் cuckoo nu koovuna koda un niyabagam than dhee varum
+Classification: misogyny
+Explanation: The meme uses derogatory language towards women by associating them with negative qualities like cunningness and manipulative behavior. This perpetuates the stereotype that women are inherently manipulative and deceitful. Such generalizations perpetuate gender bias and reinforces harmful social norms.
+--------------------------------------------------
+
+ID: 1442
+Text: மன அழுத்தமா இருக்கேன்னு மீன் வாங்கி வளர்த்தேன் தம்பி. இப்ப மீன் தொட்டி கழுவுறத நினைச்சா அத விட மன அழுத்தமா இருக்கு தம்பி..
+Classification: misogyny
+Explanation: The text implies that women are responsible for their mental health and suggests that they should endure hardship to avoid burdening others. This reinforces the stereotype that women are weaker and more emotional than men.
+--------------------------------------------------
+
+ID: 1381
+Text: Nethu naanum Un friendum un roomla Una veliya thaalitu 3hrs onna paduthu ozu vaanguren nee Kai adikiradhu ilama poi condom vaangitu vandhu avanuku kudukura adhu Parthu innum mood agi okkran da nee ennoda bf ah irundhalum Una avan veliya nikka vachitu ulla enna poduran Par Sema mood da
+Classification: misogyny
+Explanation: The text objectifies women by suggesting that they are willing to engage in sexual activities for money. It also perpetuates the stereotype that women are promiscuous and manipulative. Such language reinforces the idea that women are primarily valued for their sexual prowess rather than their intelligence, skills, or accomplishments.
+--------------------------------------------------
+
+ID: 619
+Text: * IND vs AUS WC tickets available , Interested DM * Me ~ Bro 5 Tickets Venum 20K Totally 1L Bro.. Gpay Pannirunga..!
+Classification: misogyny
+Explanation: The text implies that the only way to obtain tickets for the India vs Australia World Cup match is through a male intermediary who is willing to sell them at a premium. This perpetuates the stereotype that women are unable to secure tickets independently and reinforces the idea that men are the primary agents in such transactions.
+--------------------------------------------------
+
+ID: 535
+Text: Ipo nee pay pannu aprm gpay panren nu solluvan mt VERA LEVEL MEMES _dharshan._ TAMIL MEMES Nammbadha
+Classification: misogyny
+Explanation: The meme suggests that women are obsessed with memes and lack real-life experiences. This perpetuates the stereotype that women are frivolous and preoccupied with digital content rather than serious matters. Such generalizations perpetuate a hierarchical view of women and their interests.
+--------------------------------------------------
+
+ID: 711
+Text: உன்ன தான்டா முதுகு கூன் போடாமல் நிமிர்ந்து உட்கார்
+Classification: misogyny
+Explanation: The meme implies that women are lazy and irresponsible, and that they should be forced to do household chores without complaint. This reinforces the stereotype that women are primarily responsible for domestic duties and undermines their autonomy.
+--------------------------------------------------
+
+ID: 1461
+Text: இன்றைய வானிலை நிலவரம் துவைத்து போட்ட சட்டை 5 நிமிடத்தில் காயும் குளிச்சிட்டு போட்ட சட்டை 2 நிமிடத்தில் நனைந்து விடும்
+Classification: misogyny
+Explanation: The text implies that women are more susceptible to physical discomfort and emotional changes during menstruation compared to men. This perpetuates the stereotype that women are more emotional and physically vulnerable.
+--------------------------------------------------
+
+ID: 1744
+Text: ஆண் பிள்ளைகளை பெற்ற அம்மாக்களுக்கு மட்டுமே தெரியும் தன் மகனுக்கு காதலை விட சோறு தான் முக்கியம் என்று
+Classification: misogyny
+Explanation: The text reinforces the stereotype that mothers are primarily responsible for raising sons and that their primary concern is their son's love. This perpetuates the idea that women's primary purpose is to cater to the needs of men.
+--------------------------------------------------
+
+ID: 868
+Text: CM 5866 மகளிர் பயணம் செய்ய கட்டணமில்லை M.E.M.E M.E.M.E ENGINEERING mt Cha Ena manushan ya 😂❤️ TAMIL MEMES
+Classification: misogyny
+Explanation: The meme suggests that women are not required to pay for public transportation, implying that it is a privilege reserved for men. This perpetuates the stereotype that women are financially dependent on men and reinforces the idea that their needs are less significant.
+--------------------------------------------------
+
+ID: 79
+Text: Muthu Kutti 2m When ur in good dream suddenly ur mom waking u up #muthumc ora 5 nimsam... 5 nimsam
+Classification: not-misogyny
+Explanation: The meme humorously depicts a relatable situation where a mother interrupts a son's dream. The reference to 'muthumc' (mom waking up) in the context of a good dream implies a playful exaggeration of a mother's protective nature. While the humor targets both sons and mothers, it does not perpetuate negative stereotypes or discrimination based on gender. The underlying message is lighthearted and affectionate.
+--------------------------------------------------
+
+ID: 211
+Text: Dream until it becomes true ndradha thappa purinjitu verum dream mattume panitu irukaan adha nirutha solungalen da VERA LEVEL MEMES VERA LEVEL MEMES TAMIL MEMES with Google Play mt
+Classification: misogyny
+Explanation: The meme implies that women are obsessed with achieving high levels of success and material wealth, suggesting that their dreams are superficial and materialistic. This perpetuates the stereotype that women are primarily driven by materialistic aspirations and ignores their other aspirations and values.
+--------------------------------------------------
+
+ID: 1209
+Text: அறியா வயசு அறுத்த வயசு அனுபவ மனசு மீமண டீ
+Classification: misogyny
+Explanation: The text implies that women are mentally unprepared for adulthood and that their experiences are less valuable than those of men. This perpetuates the stereotype that women are less capable and mature than men.
+--------------------------------------------------
+
+ID: 74
+Text: After Nitham oru Yutham audio book on Kukufm So far, 75000 people have died Namba audio dhana kekrom..enaku apdiye padam paakra mariye iruku...
+Classification: misogyny
+Explanation: The text implies that listening to Nitham oru Yutham audio book is associated with death. This perpetuates a harmful stereotype that certain forms of entertainment or media can be dangerous for women, implying that their consumption can lead to negative consequences for their lives.
+--------------------------------------------------
+
+ID: 70
+Text: Muthu Kutti 19h *when someone asks about my fav person* Nallatha pesuva.. suma solla kudathu Enna late ah reply varum avlo tha #muthumc OVER LEVEL MEMES
+Classification: misogyny
+Explanation: The meme targets women by implying that they are obsessed with celebrities and lack their own preferences. This reinforces the stereotype that women are overly emotional and materialistic, and that their interests are limited to superficial things like celebrities. Such generalizations perpetuate gender stereotypes and undermine the agency of women.
+--------------------------------------------------
+
+ID: 820
+Text: When I tries to study * Padipu * sleep Onnu varavae varathu 😔 Onnu vanthutae erukum 😴 * Me NURSING ATROCITIES
+Classification: misogyny
+Explanation: The meme uses exaggerated sleepiness and exaggerated nursing stereotypes to humorously suggest that women are naturally sleepy and nurturing. This reinforces the stereotype that women are primarily responsible for caregiving and domestic duties, perpetuating gendered expectations and undermining women's agency.
+--------------------------------------------------
+
+ID: 1183
+Text: என்னதான் தலையில பூ வைக்கிறது நம்ம கலாச்சாரமா இருந்தாலும் ஒரு நியாயம் வேண்டாமாடா 😂😂😂
+Classification: misogyny
+Explanation: The meme suggests that women are naturally messy and that this is acceptable due to their cultural background. This perpetuates the stereotype that women are inherently disorganized and chaotic, reinforcing gendered expectations and undermining women's capabilities.
+--------------------------------------------------
+
+ID: 1115
+Text: crush online Today dai Enga da irukka?? 20:54 un idhayathula thaan 20:54 serida. mathavangaloda sandai podama silenta iru 20:54 mt எதேய்ய்ப்ப்ப்.......
+Classification: misogyny
+Explanation: The text implies that women are silent and passive in online interactions, suggesting that they are less assertive or expressive than men. This perpetuates the stereotype that women are less active and engaged in public spaces.
+--------------------------------------------------
+
+ID: 731
+Text: VARALAATRIL INDRU !!! @SridharKuruvilla MOKKA POSTU @SRIDHAR KURUVILLA Today shall be the final 21st day of 21st year of 21st Century
+Classification: not-misogyny
+Explanation: The text celebrates the end of the 21st century, implying that women have overcome societal constraints and achieved equality. This aligns with the cultural context of India, where there is a widespread belief in the empowerment of women.
+--------------------------------------------------
+
+ID: 527
+Text: MUTHU MC @muthu__kutti *when u don't have double helmet* Traffic police to you : f MUTHU MC
+Classification: misogyny
+Explanation: The meme implies that traffic police are lenient towards those who do not wear double helmets, specifically targeting men. This perpetuates the stereotype that women are more cautious and responsible drivers than men.
+--------------------------------------------------
+
+ID: 434
+Text: Muthu Kutti Just now Ivalo pending task vachuta da monday paathukalam ndra mind set la iruka #muthumc Thandhira Raaja Thandhira
+Classification: misogyny
+Explanation: The text uses the stereotype of women being dependent and needing guidance from men. It implies that women are incapable of completing tasks independently and requires a male figure to motivate or guide them. This perpetuates the idea that women are less capable and require external support to achieve success.
+--------------------------------------------------
+
+ID: 451
+Text: Akash to Theekshana : Padupaavi Kaila vandha catch vitiyae
+Classification: misogyny
+Explanation: The text implies that women are easy prey and that they readily engage in sexual activities. This perpetuates the stereotype that women are sexually promiscuous and objectifies them. Such humor reinforces the idea that women are primarily valued for their physical attributes and sexual availability.
+--------------------------------------------------
+
+ID: 608
+Text: Dei enna da kannellam red ah irukku thoongalaya night uh He - I'm Batman டேய் அடிச்சா மீசலாம் பிச்சக்கும் முடீட்டு உட்கார்றா, கண்ட கருமத்த நெனச்சா தூங்காம இருந்துட்டு Batman nu சுத்திட்டு இருக்க vera level memes
+Classification: misogyny
+Explanation: The meme uses the metaphor of Batman to suggest that men are the protectors of society, while women are seen as helpless and in need of rescue. This perpetuates the stereotype that women are weak and in need of protection, reinforcing the patriarchal ideology that men are the heroes and women are the victims.
+--------------------------------------------------
+
+ID: 1384
+Text: YENDA AMMAVA MATTUM THAAN OPPIYAAAA ENNA OKKANUMNU THONALIYA... AMMA VIDA NAN NALLA OOMBUVEN
+Classification: misogyny
+Explanation: The meme implies that mothers are overprotective and suffocating, and that daughters should be independent and free from their mothers' control. This perpetuates the stereotype that mothers are overbearing and that daughters need to escape their mothers' influence to become independent. Such generalizations perpetuate gender stereotypes and reinforces the idea that mothers are responsible for controlling and limiting their daughters' lives.
+--------------------------------------------------
+
+ID: 1753
+Text: 90's PARITHABANGAL இவ தான் ஊர் சுத்தி இல்ல இப்ப இவ தான் ஊர் சுத்தி TAMIL CINEMA
+Classification: misogyny
+Explanation: The meme targets women by implying that they are primarily responsible for household chores and cleanliness. This reinforces the stereotype that women are primarily domestic and that their primary purpose is to keep their households clean. This perpetuates the burden of domestic labor on women and reinforces traditional gender roles.
+--------------------------------------------------
+
+ID: 77
+Text: After listening Nitham oru Yutham audio book on Kukufm சாவாங்க (They will die) இன்னும் செத்து விழுவாங்க (They will die even more) *AUDIENCE AALA PATHA DUMMY PIECE AH IRUKA, AANA BAYANGARAMANA AALA IRUKIYE DA (Looks like a dummy piece, but you are a dangerous person)
+Classification: misogyny
+Explanation: {
+"explanation": "The text objectifies women by implying that they are dangerous and reckless, reinforcing harmful stereotypes. The use of derogatory language like "dummy piece" and "aana bayangaramana" (looks like a dummy piece) contributes to the misogynistic tone. This is further amplified by the exaggerated response of the male character towards the female character's perceived recklessness.",
+"classification": "misogyny"
+}
+--------------------------------------------------
+
+ID: 1625
+Text: தினமும், ‘யூடியூப்’ல சமையல் பண்றது எப்படின்னு மூணு மணி நேரம் பாக்குற ஆனா... நீ என்ன சமைக்கிறது அதே உப்புமா... அதே இட்லி... அதே தோசை தானே!
+Classification: misogyny
+Explanation: The meme humorously suggests that women are overly concerned with cooking and following traditional gender roles. This reinforces the stereotype that women are primarily responsible for household chores and culinary tasks.
+--------------------------------------------------
+
+ID: 1730
+Text: தவறு செய்து விட்டாய் அம்மா !! ஞாயிற்றுக்கிழமை வெட்ட வேண்டியது காய்கறிகள் அல்ல ! சித்தம் தண்டுகளே!!!
+Classification: misogyny
+Explanation: The meme implies that mothers are irresponsible and that their primary responsibility is to take care of chores. This reinforces the stereotype that women are primarily responsible for domestic duties and undermines their agency and potential for other pursuits.
+--------------------------------------------------
+
+ID: 1316
+Text: ssshhh ice cream potu nakkuriya da ?? bestie briyani saptu naaku podurathu naala eriyuthu da anga ellam
+Classification: misogyny
+Explanation: The text humorously suggests that women are insatiable and will consume all the ice cream and biryani available. This perpetuates the stereotype that women are greedy and insatiable, reinforcing a negative and objectifying view of women.
+--------------------------------------------------
+
+ID: 483
+Text: Muthu Kutti Just now Macha en pakathu la evano suduran da Athu bot uh murugesha.. #muthumc VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The text translates to 'Muthu Kutti just now Macha en pakathu la evano suduran da Athu bot uh murugesha.. #muthumc VERA LEVEL MEMES'. The use of the term 'Muthu Kutti' which is often used to playfully address young girls, combined with the statement 'just now Macha en pakathu la evano suduran da Athu bot uh murugesha', implies that the girl is mischievous or naughty. This perpetuates the stereotype that girls are playful and mischievous, while boys are expected to be serious and responsible.
+--------------------------------------------------
+
+ID: 1768
+Text: ஒரு தோசைக்கே இரண்டு வகை சட்னி இருந்தால்தான் டிபன் கூட திருப்தியாக அமையும் இத வீட்ல சொன்னா வெளக்கமாரு தேடும் 🥺
+Classification: misogyny
+Explanation: The meme implies that women are fickle and cannot be trusted, suggesting that their happiness is conditional upon their behavior. This reinforces the stereotype that women are responsible for maintaining the happiness of men.
+--------------------------------------------------
+
+ID: 299
+Text: Sanjay Krishna Just now Me spamming my stories with vintage raja song, followed by a dark meme, followed by a normie gubeer meme, followed by a racist meme Viewers : Dei enna sequence daa ithu GOLDMINES
+Classification: misogyny
+Explanation: The text contains a generalization that viewers will find a sequence of memes appealing due to their association with goldmines, implying that women are attracted to materialistic things. This perpetuates the stereotype that women are primarily motivated by wealth and financial gain.
+--------------------------------------------------
+
+ID: 611
+Text: தனியா இருந்தா எப்படிடா சந்தோஷமா இருக்க முடியும்...! தோ...இவரு பாரு... VADIVELU MEMEZ
+Classification: misogyny
+Explanation: The meme implies that women are responsible for bringing happiness into a man's life. This reinforces the stereotype that women are primarily valued for their ability to please men and make them happy. Such a notion perpetuates the idea that women's happiness is contingent upon their relationship with men.
+--------------------------------------------------
+
+ID: 255
+Text: Mc Muriel Just now People vibing for a song or movie That one ulaga cinema puluthi on his way to say it is overrated #mc_muriel ParithabangaL
+Classification: not-misogyny
+Explanation: The text targets Mc Muriel and expresses a subjective opinion that his recent song or movie is overrated. The use of the hashtag #mc_muriel suggests that the sentiment is directed towards the popular musician. While the text does not explicitly mention women or gender stereotypes, it implies a sense of disappointment or disillusionment towards the artist's work, which could potentially be interpreted as a negative reflection on the abilities or talents of male artists in general.
+--------------------------------------------------
+
+ID: 1001
+Text: OLDMINES Inspiring Entertainment OLD PULLINGOO MEME'S Tamil nadu ku neenga epdiyo antha maathiri Nigerian ku Avunga...
+Classification: misogyny
+Explanation: The meme humorously suggests that Nigerian women are effortlessly entertaining, while Tamil women require more effort to be enjoyable. This perpetuates the stereotype that Nigerian women are naturally entertaining, while Tamil women need to work harder to be perceived as enjoyable. Such comparisons perpetuate gender stereotypes and undermine the agency of women in both cultures.
+--------------------------------------------------
+
+ID: 979
+Text: Appa : Dei Konja neram TV ah off panra.. Pavaam evlo neram tan rest eh illama odikitu irukum..!! © @_trendingmemes *TV mt © TRENDING MEMES Cha enna manusan ya..!!
+Classification: misogyny
+Explanation: The meme implies that women are lazy and irresponsible, resting instead of working. This perpetuates the stereotype that women are primarily responsible for household chores and domestic work. Such generalizations perpetuate gender inequality and undermine the capabilities of women.
+--------------------------------------------------
+
+ID: 31
+Text: Muthu Kutti Just now 2 naal ah orae fever da macha Thalra thalra motha #muthumc sharon sharon shardin
+Classification: misogyny
+Explanation: The text uses the term 'muthumc' which is a derogatory term for women and implies that women are responsible for causing illness. This perpetuates the stereotype that women are weak and prone to illness. Additionally, the use of the term 'sharon sharon shardin' suggests that women are chaotic and disruptive. Such language reinforces harmful gender stereotypes and promotes discrimination against women.
+--------------------------------------------------
+
+ID: 1129
+Text: Before Periods Yeah, Baby Are U ok? During Periods Na epdi iruntha unakenna? athisayama Visarikura Are U ok?
+Classification: misogyny
+Explanation: The meme implies that women are overly emotional and incapable of handling periods. This perpetuates the stereotype that women are sensitive and vulnerable, and reinforces the idea that their emotions are exaggerated during menstruation. Such generalizations perpetuate stigma and undermine the resilience of women.
+--------------------------------------------------
+
+ID: 670
+Text: Innah idhu Vera Mari CG ya iruku 🥰🔥 From the Director of "Indru Netru nalai" tag is enough 💯 Bhai Hollywood Range than 🥶💥 FROM THE DIRECTOR OF இன்று நேற்று நாளை
+Classification: misogyny
+Explanation: The meme targets women by objectifying and sexualizing them. It implies that women are only valuable for their physical appearance and sexual appeal. This reinforces the stereotype that women are primarily defined by their attractiveness and sexual desirability.
+--------------------------------------------------
+
+ID: 1472
+Text: puZZy cat Aunty teen vibrator ilanu fone ah vibrate mode la potu use panava di intha Aunty oGrid
+Classification: misogyny
+Explanation: The meme uses the term 'oGrid' which is a slang term for 'older woman'. The caption suggests that older women are sexually promiscuous and enjoy sexual pleasure. This perpetuates the stereotype that older women are sexually insatiable and objectifies them. Such humor reinforces the idea that women's sexual desires are abnormal and humorous.
+--------------------------------------------------
+
+ID: 352
+Text: muthu mc @muthu__kutti *When someone asks about my manager* Me : #muthumc Thunderman, Wonderman, Angrymman, Brawler, 9:15 PM · May 23, 2023 · 1 View
+Classification: not-misogyny
+Explanation: The text uses hyperbole and playful exaggeration to list qualities associated with masculinity, implying that the manager is a formidable and capable individual. The use of terms like 'Thunderman' and 'Angrymman' can be interpreted as playfully exaggerating the manager's assertive qualities, rather than expressing misogynistic views.
+--------------------------------------------------
+
+ID: 1306
+Text: Don't Underestimate Anyone Athai Unaku panna theriyuma mothala dei thanni kudu da konjam vali thaanga mudila pothum vitru da
+Classification: misogyny
+Explanation: The text implies that women are weak and incapable, reinforcing a stereotype that women are inferior to men. This perpetuates the idea that women are less capable and deserving of respect. Such generalizations perpetuate gender inequality and discrimination.
+--------------------------------------------------
+
+ID: 1376
+Text: un aasaiku evan evanaiyo kootitu varuva na avanukellam virikanum wife aana na mattum en aasaiku oruthanayum vechika kudathu la
+Classification: misogyny
+Explanation: The text reinforces the stereotype that women are responsible for maintaining household chores and pleasing their husbands. It suggests that a wife's primary purpose is to fulfill her husband's needs and expectations, neglecting her own aspirations and well-being.
+--------------------------------------------------
+
+ID: 100
+Text: VERA LEVEL MEMES _dharshan._ *2023 Enna'nga ivan ivlo fast ah poitu irukan TAMIL MEMES GET IT ON Google Play
+Classification: misogyny
+Explanation: The meme targets women by implying that they are obsessed with memes and are technologically inept. This perpetuates the stereotype that women are less competent than men in the digital realm.
+--------------------------------------------------
+
+ID: 915
+Text: Birthday Wishes by Girls | Happy Birthday dii.. happy to have a Friend like you | Thank you so much dii | Birthday Wishes by Boys | Nee oru aalu unaku Birthday oru Kedu... | Phone ah vaida ngotha | RAGA MEMES
+Classification: not-misogyny
+Explanation: The meme uses playful and affectionate language to express birthday wishes between friends, without perpetuating stereotypes or negative attitudes towards women. The emphasis is on friendship and gratitude.
+--------------------------------------------------
+
+ID: 248
+Text: Dharshan Just now ~Chennai nalae gethu dhan bro :Ohh nee Chennai la endha area bro?? ~Nan gummidipoondi bro #dharshanmc VERA LEVEL MEMES mt
+Classification: misogyny
+Explanation: The text targets men, implying that women in Chennai are promiscuous and irresponsible. This perpetuates the stereotype that women are sexually promiscuous and objectifies them. Such generalizations perpetuate misogyny and reinforces harmful gender norms.
+--------------------------------------------------
+
+ID: 1380
+Text: _DIRTY_ACTRESSES_MEMES_ DAI IPO THA O ANNA VACHI ADIADINU ADICHITU 😟 PORA IPO NI CHINA P**LA THUKITU VATHU NIKIRA 😲 DAI THADAVATHA DA APRM P**DA LA OLIGI 💦 UTHIDO UFFF SARI VA ROOM KU O ANNA VARATHU KULLA P**LA SAPI
+Classification: misogyny
+Explanation: The meme targets women by associating them with dirty actresses and linking them with promiscuity and sexual behavior. Such generalizations perpetuate stereotypes and objectification of women.
+--------------------------------------------------
+
+ID: 835
+Text: Preethi Preethi Varun Abhishek unna nambi yoga pannathuku unnala enna panna mudiyumo atha pannita...
+Classification: misogyny
+Explanation: The text implies that women are naturally lazy and unproductive, reinforcing stereotypical gender roles. This perpetuates the misconception that women are less capable than men and undermines their potential. Such generalizations perpetuate discrimination and reinforces harmful social norms.
+--------------------------------------------------
+
+ID: 252
+Text: Muthu Kutti Just now Coding um theriyama..English um varama... Naragam pa naragam.. #muthumc YER1 LEVEL MEMES VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The text implies that women are incapable of coding or understanding English, reinforcing stereotypes that women are less technologically adept and intellectually inferior. This perpetuates the misconception that women are less capable in these areas and undermines their potential.
+--------------------------------------------------
+
+ID: 169
+Text: The Gap - concept video from Irugapatru team Idhe mari Avanga Bf/Gf kuda indha game aadravanuku life time settlement ra 😂
+Classification: misogyny
+Explanation: The meme targets women by stereotyping them as irresponsible and reckless with their lives. The caption suggests that women are quick to settle down in life and prioritize relationships over career or personal growth.
+--------------------------------------------------
+
+ID: 924
+Text: yaro உங்க மகள் பத்தி சொல்லுங்க me Amma No comments simply waste ஏதோ பெத்துட்டேனு வளர்த்திட்டு இருக்கேன்
+Classification: misogyny
+Explanation: The text implies that mothers are solely responsible for raising daughters, and their comments are irrelevant. This reinforces the stereotype that women are dependent on men and their validation. Such statements perpetuate the idea that women's voices are not valuable and their perspectives are irrelevant.
+--------------------------------------------------
+
+ID: 240
+Text: Enna dhan nan gaaja irundhalum ipo veriyum evatyum kaasu kuduthu ponadhu ila VERA LEVEL MEMES VERA LEVEL MEMES O_dharshan._
+Classification: misogyny
+Explanation: The text implies that women are obsessed with memes and lack intellectual capacity. Such generalizations perpetuate stereotypes and reinforces the misconception that women are incapable of meaningful intellectual discourse.
+--------------------------------------------------
+
+ID: 1112
+Text: TROLL POSTU DANGEROUS CURVES AHEAD
+Classification: misogyny
+Explanation: The text objectifies women by associating them with dangerous curves. This reinforces the stereotype that women are primarily valued for their physical appearance. Such humor perpetuates a culture where women's bodies are sexualized and objectified.
+--------------------------------------------------
+
+ID: 695
+Text: When she suddenly holds my hand while crossing the road... 🥺 ERROR
+Classification: misogyny
+Explanation: The meme implies that women unexpectedly grabbing a man's hand while crossing the road is an error or mistake. This perpetuates the stereotype that women are unpredictable and chaotic, and reinforces the idea that men are surprised and inconvenienced by women's physical contact. Such humor reinforces gender stereotypes and suggests that women's actions are abnormal or undesirable.
+--------------------------------------------------
+
+ID: 1736
+Text: பரிணாம வளர்ச்சி INSTA MALAR MEMES குடுமா
+Classification: misogyny
+Explanation: The text translates to 'Periyar's growth is Insta Malar memes'. Periyar was a prominent Dravidian leader who fought for social equality and women's empowerment. The use of his name in the context of memes that primarily target women can be interpreted as undermining his legacy and perpetuating stereotypes that women are frivolous or unproductive.
+--------------------------------------------------
+
+ID: 463
+Text: RAM CREATION VERA LEVEL MEMES mt *Me *Also me ennaga beast movie intrest pathutu iruku Google Play
+Classification: misogyny
+Explanation: The text suggests that women are interested only in watching beast movies, stereotypizing them as having limited interests. This reinforces the misconception that women lack diversity in their entertainment preferences.
+--------------------------------------------------
+
+ID: 1453
+Text: நான்: என்ன ஆண்டி,அங்கிள ஓயின்தொப்பல பார்த்தேன்.சில்லரை மாத்த,அனுப்புனிங்களா?? ஆண்டி:என்னடா,சொல்ற,??இன்னைக்கு வரட்டும் அவன்,எவ்ளோ ரகலான ஆளு நானும் காட்டுற!!! ஆண்டி நான் அட்வைசா பண்ற சாவுடா!! இன்னொன்னு,ஆண்டி!! இன்னைக்கு வர மாட்டாறூ...அவரு உங்க பிரண்டு பிரியா வூட்ட்ல இட்லி,குடல்கறி தின்னூட்டு இருந்தாரு, ஆண்டி!!! 😂
+Classification: misogyny
+Explanation: The meme perpetuates the stereotype that women are primarily responsible for household chores and sexualizes the female character. It also implies that the male character is not capable of contributing to household responsibilities. Such humor reinforces the idea that women are inferior and subordinate to men.
+--------------------------------------------------
+
+ID: 533
+Text: POV :When you are a good hearted person ~ எதுவும் தெரியலங்குறதுக்காக 😂 மிளகா அரைக்க பாக்குராணுக 😠😊 AFRIIN VERA LEVEL MEMES (Tamil text: "எதுவும் தெரியலங்குறதுக்காக 😂 மிளகா அரைக்க பாக்குராணுக 😠😊" translates to "They're trying to grind chili on me just because I don't know anything 😂😠😊")
+Classification: misogyny
+Explanation: The meme targets women by implying that they are cunning and manipulative, attempting to bring down those who are uninformed. This reinforces the stereotype that women are manipulative and cunning, and that men are helpless and gullible.
+--------------------------------------------------
+
+ID: 1125
+Text: ~nobody GF : night net on panni vachutu thoongeten da @MR_TAMIL_PASANGA Ayo arichandera nengala
+Classification: misogyny
+Explanation: The meme implies that women are irresponsible and reckless with money, suggesting that they are incapable of managing finances. This perpetuates the stereotype that women are inherently less capable than men in financial matters. Such generalizations perpetuate gender inequality and reinforces harmful social norms.
+--------------------------------------------------
+
+ID: 33
+Text: That one person asking permission at home to go out Whole gang VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The meme implies that women require permission from their families to go out, suggesting that they are dependent and lack autonomy. This reinforces the stereotype that women are obligated to seek permission from men for basic activities. Such humor perpetuates the idea that women are controlled by their families and undermines their agency.
+--------------------------------------------------
+
+ID: 1345
+Text: ENNA DA IVLO PERUSA IRUKU SNAKE UH ME: UNNA VIDA ONNUM PERUSU LAM ILLA DI ENNA DI IPDI VALATHU VECHIRKA
+Classification: misogyny
+Explanation: The meme uses derogatory language to stereotype women as cunning and manipulative. It implies that women use their sexuality to gain power and control over men. Such generalizations perpetuate harmful gender stereotypes and reinforces the idea that women are responsible for controlling men's emotions.
+--------------------------------------------------
+
+ID: 234
+Text: Dharshan Just now · ~VIP me watching office festival celebration videos in social media #dharshanmc
+Classification: misogyny
+Explanation: The text implies that women are primarily interested in office festival celebration videos on social media, perpetuating a stereotype that women are primarily focused on social media and entertainment. This reinforces the misconception that women lack serious interests or aspirations beyond such superficial pursuits.
+--------------------------------------------------
+
+ID: 498
+Text: Sanjay Krishna Just now • 🌍 * Uploads a story * Friend : Dei send this video da : Muttaal athu reel da CENTRAL TALKIES
+Classification: misogyny
+Explanation: The text contains a stereotype that women are primarily interested in reels and central talks. This reinforces the idea that women are superficial and preoccupied with appearances, perpetuating a gender stereotype.
+--------------------------------------------------
+
+ID: 1122
+Text: priya johnson @talksstweet ஆண்கள் பெண்களை போன்று கண்ணியமானவர்கள் கிடையாது. யார் கூப்பிட்டாலும் போய் விடுவார்கள். Translate Tweet 11:17 AM · 24 Jul 22 · Twitter for Android 30 Retweets 81 Quote Tweets 438 Likes 🇮🇳 Mohan Krishnakumar 🇮🇳 ஜய்... Replying to @talksstweet பெண்கள் கண்ணியமானவர்களென்றால், யார் கூப்பிட்டாலும் போய் விடும் ஆண்களைக் கூப்பிடுவது யார்? ... 13h
+Classification: misogyny
+Explanation: The tweet reinforces the stereotype that women are naturally emotional and irrational. It suggests that men should not be held accountable for women's emotional reactions. This perpetuates the idea that women are responsible for regulating men's emotions and that their feelings are somehow invalid or irrational.
+--------------------------------------------------
+
+ID: 910
+Text: In Search of Gold Anish Mc Corporate Criminal MEME இந்தியாவுக்கு இந்தியா We lost the diamond 🙁
+Classification: misogyny
+Explanation: The meme implies that women are reckless and irresponsible, comparing them to criminals who lost a diamond. This perpetuates the stereotype that women are materialistic and careless, reinforcing negative gender norms.
+--------------------------------------------------
+
+ID: 933
+Text: *Me MOKKA POSTU Dei naa one year ku munnadi mute la pota family grp eh unmute aaiduchu da *Corona @gowtham_krishna_21 Ne innum apdiye irukiye da
+Classification: misogyny
+Explanation: The text implies that women are responsible for family care during the COVID-19 pandemic, perpetuating the stereotype that women are primarily caregivers. This reinforces the burden of caregiving on women and perpetuates gender inequality.
+--------------------------------------------------
+
+ID: 186
+Text: Muthu Kutti Just now When someone cares for me and gives me more importance.. Nee pesanthu ellamae ithuku muandi oruthar pesunaru.. ipo avar illa #muthumc VERA LEVEL MEMES VERA LEVEL These words... I feel like I've heard them before. LUX STUDIO
+Classification: misogyny
+Explanation: The text implies that women are overly emotional and dependent on attention. This reinforces the stereotype that women are less capable and independent than men.
+--------------------------------------------------
+
+ID: 1701
+Text: Here is the extracted text: Womens Day ku Wish paniya Nee? Yousuf Yov Avangalukum Enakum Palakame kidaiyadhu yaa
+Classification: misogyny
+Explanation: The text uses a sarcastic tone to suggest that men are not capable of celebrating Women's Day meaningfully. This reinforces the stereotype that men are not interested in or supportive of women's rights and achievements. Such humor can perpetuate harmful attitudes towards women.
+--------------------------------------------------
+
+ID: 1377
+Text: Athu ena palakam sir Project la thappu panna velaya vittu thookarthu hmmmm Engalukum thooka vekka theriyum pakuringala hmmmm ??????
+Classification: misogyny
+Explanation: The meme implies that women are incapable of handling projects and that they are irresponsible. This perpetuates the stereotype that women are less capable than men in professional settings. Such humor reinforces the idea that women are inferior and should be ridiculed for their perceived incompetence.
+--------------------------------------------------
+
+ID: 343
+Text: R L VERA LEVEL MEMES VERA LEVEL MEMES VERA LEVEL MEMES Cup ah CSK perla eludhungo
+Classification: misogyny
+Explanation: The meme targets the CSK cricket team's captain, MS Dhoni, implying that he is incompetent and responsible for the team's poor performance. This perpetuates the stereotype that successful men are solely responsible for the failures of their teams or organizations.
+--------------------------------------------------
+
+ID: 45
+Text: Dharshan Just now Dei epdi da ungaluku padutha udanae thookam varudhu #dharshanmc TAMIL MEMES GET IT ON Google Play
+Classification: misogyny
+Explanation: The text implies that women are incapable of making independent decisions and rely on men for guidance. This perpetuates the stereotype that women are dependent and inferior to men.
+--------------------------------------------------
+
+ID: 901
+Text: Here is all the visible text in a single line: Madras Central *Me Hey tommy ... jump from this wall to that wall *My dog ENGINEERING FACTS AND COMEDY DIALOGUES IN MOVIES /EFACDIM EFACDIM intha naai podra oru rubai butter biscuit ku enana solran parunga
+Classification: misogyny
+Explanation: The meme humorously suggests that women are reckless and irresponsible, referencing a scene from the movie 'Efacdim Efacdim' where the protagonist carelessly consumes butter biscuits while engaged in engineering-related tasks. This perpetuates the stereotype that women are less responsible and capable than men.
+--------------------------------------------------
+
+ID: 571
+Text: Mc Muriel Just now Murpoks trying to normalise everything - 1st schl,clg la aai poratha normalise pannunga da #mc_muriel mt AMP MEMES Google Play
+Classification: misogyny
+Explanation: The text targets women by implying that they are attempting to normalize everything, including school and college education. This perpetuates the stereotype that women are responsible for societal changes and undermines their agency.
+--------------------------------------------------
+
+ID: 974
+Text: ~ In summer ~ தெய்வமே நீ மட்டும் இல்லேன்னா அழக்குற வெயிலுக்கு கருகிருப்பேன் ~ In winter ~ நடு வீட்டில் உனக்கு என்னடா வேலை.. diskool
+Classification: misogyny
+Explanation: The meme suggests that women are more susceptible to heat and require more protection during summer, while men are expected to handle the cold without any special considerations. This perpetuates the stereotype that women are more vulnerable and physically weaker than men.
+--------------------------------------------------
+
+ID: 890
+Text: Crush online Enna pandra .. Lover Kuda pesitu iruken 🏃‍♂️ unnaku than lover yehh illaiye athan ni irukala 😂🙈 deii iru enga Anna kitta Solren... unnaku Anna illaiye 🤔 Athan ni irukala 😂😂😂 ~Me ~Crush Deii ennake vibuthi Adika pathila
+Classification: misogyny
+Explanation: The meme humorously suggests that the crush is not interested in the speaker, implying that women are fickle and unreliable in love. This reinforces the stereotype that women are difficult to understand and that their affections can be easily lost.
+--------------------------------------------------
+
+ID: 197
+Text: En da thirumba thirumba "un alumba paathavan" nu kathikite irukka Ellaam veri etha dhaan 🔥 VERA LEVEL MEMES VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The meme uses the stereotype that women are irresponsible and reckless with money. This perpetuates the harmful belief that women are inherently less capable of financial management than men. Such generalizations perpetuate gender inequality and can lead to discrimination against women in financial matters.
+--------------------------------------------------
+
+ID: 880
+Text: TODAY 1MINUTE VIDEO Girls Psychology in Tamil | Intersting Facts about Womens பசங்க மறக்காம பாருங்கா! GIRLS PSYCHOLOGY செம Interesting வீடியோ மக்களே Miss பண்ணாம பாருங்க! FULL VIDEO LINK IN MY BIO
+Classification: misogyny
+Explanation: The text targets women by implying that they are less intelligent and incapable of remembering things. This reinforces the stereotype that women are less capable than men.
+--------------------------------------------------
+
+ID: 988
+Text: Summer season exists.. Fan be like: Off hey pannamaa On le ye vepangle.. mt Epavu single and memes TAMIL MEMES Google Play mt
+Classification: misogyny
+Explanation: The meme suggests that women are incapable of regulating their body temperature and require constant attention and support. This reinforces the stereotype that women are overly emotional and dependent on others. Such humor perpetuates the objectification and sexualization of women.
+--------------------------------------------------
+
+ID: 1342
+Text: Gaaji puducha Munda Endi ipdi pakura thevudiya Un Sunnni ivlo perusa irukey Epdi sappurathunu pakuran da Sappuna sappitey irupan da Vaiya vittu edukavey mattan da arippu jasthi ah Iruku da enna nalla oolu da
+Classification: misogyny
+Explanation: The meme uses derogatory language towards women, objectifying them and perpetuating the stereotype that women are responsible for household chores and pleasing men. The phrase 'enna nalla oolu' translates to 'you are good', implying that women are inherently inferior and need validation from men.
+--------------------------------------------------
+
+ID: 60
+Text: KFC Crispy Days offer la 9 Peri Peri Strips 199 rupees only than. Visayam Top Secret uh!
+Classification: misogyny
+Explanation: The text implies that KFC's Crispy Days offer are a secret only for women, suggesting exclusivity and desirability. This perpetuates the stereotype that women are privy to special offers and discounts.
+--------------------------------------------------
+
+ID: 1210
+Text: சட்டத்தையும் நம்ப வேணாம்... ச மனிதனையும் நம்ப வேணாம்... நீங்களே துணிந்து விடுங்கள் பெண்களே
+Classification: misogyny
+Explanation: The text suggests that women are responsible for upholding societal norms and expectations, and that they should bear the burden of this responsibility. This reinforces the stereotype that women are primarily responsible for social conformity and domesticity. Such messaging can perpetuate the marginalization and oppression of women.
+--------------------------------------------------
+
+ID: 290
+Text: Mall la bargain pannathavanu Matha kadaile bargain pandravanu oorey aala VERA LEVEL MEMES Swathi mc
+Classification: misogyny
+Explanation: The meme implies that women are overly emotional and prone to bargaining, while men are level-headed and rational. This perpetuates the stereotype that women are less capable and logical than men. Such generalizations perpetuate gender bias and undermine the capabilities of women.
+--------------------------------------------------
+
+ID: 298
+Text: Sunday veetla non veg saptu thoonguradhum sugama dhan ya iruku 😴❤️ 2:24 pm · 18 Jun 23
+Classification: misogyny
+Explanation: The meme suggests that non-vegetarian food is essential for a restful sleep, implying that women who are vegetarian may not be able to sleep soundly. This perpetuates the stereotype that women are weaker or less capable than men.
+--------------------------------------------------
+
+ID: 1114
+Text: குழந்தை பெண்கள் ஆடி 17ம் தேதி Mr.Kumbakonam school Girl clg girl New married Morden Girl ஆடி 18ம் தேதி
+Classification: misogyny
+Explanation: The meme suggests that girls are irresponsible and reckless, as evidenced by their alleged behavior on the 17th and 18th days. This perpetuates the stereotype that women are inherently more chaotic and disorganized than men.
+--------------------------------------------------
+
+ID: 1074
+Text: Nan illana sethuduvean nu sonna , inum sagama iruka ???? Nee kuda than sonna nee partha udamba vera oruthan partha poison kudichu sethuduvean nu nee yean sagala? SēLvĀ MEMES
+Classification: misogyny
+Explanation: The meme suggests that women are responsible for maintaining a harmonious family by controlling their desires and sacrificing their individuality. This reinforces the stereotype that women are primarily defined by their relationships and domesticity, and implies that their happiness and fulfillment are contingent upon serving their families. Such messaging can perpetuate the idea that women's lives are less valuable than those of men and that their fulfillment can only be achieved through selfless devotion to their families.
+--------------------------------------------------
+
+ID: 1565
+Text: When a boy follows a girl Outside: Girls * Ethana time thitunalum pinnadiye varane Inside: Ennayum oruthan follow panrane bhagavane
+Classification: misogyny
+Explanation: The meme reinforces the stereotype that boys are compelled to follow girls outside and suggests that girls are responsible for motivating boys to pursue them. This perpetuates the idea that girls hold power over boys and that their presence is the impetus for male action. Such messaging can perpetuate gender inequality and objectification of women.
+--------------------------------------------------
+
+ID: 1320
+Text: poruki adha idha nu solli enna mayaki un matter ah mudichikita la friend akka ithuku thanda chinna pasanga kita savagasam vechika koodathu nu soldrathu
+Classification: misogyny
+Explanation: The text objectifies women by implying that they are primarily concerned with physical appearance and superficial matters. This reinforces the stereotype that women lack intellectual depth and focus primarily on superficial aspects of life. Such generalizations perpetuate the idea that women are less capable and valuable than men.
+--------------------------------------------------
+
+ID: 1433
+Text: Wakali yarra neengalam 😩 Miss y u MISS U T
+Classification: misogyny
+Explanation: The meme uses slang that implies women are fickle and easily swayed by affection. This perpetuates the stereotype that women are overly emotional and prioritize relationships over logic. Such generalizations perpetuate a hierarchical view of genders, where men are seen as more rational and independent.
+--------------------------------------------------
+
+ID: 1561
+Text: ஒரு பொண்ணு உன் msg க்கு "hmm" "kk" னு மட்டும் Reply பண்ணுனா முடிட்டு போடா னு அர்த்தம்
+Classification: misogyny
+Explanation: The text implies that women are lazy and unresponsive, suggesting that they are not worthy of attention or meaningful communication. This perpetuates the stereotype that women are less responsive and less interested in conversation than men.
+--------------------------------------------------
+
+ID: 124
+Text: Muthu Kutti 11m TL/M : are u busy ..why are u not replying to my msg Me : time sheet fill pannitu irunthe my lord #muthumc f MUTHU MC
+Classification: not-misogyny
+Explanation: The text uses playful banter and sarcasm to suggest that the recipient is neglecting the sender due to their workload. It does not perpetuate negative stereotypes or discriminatory attitudes towards women. The use of humor and familiar terms suggests a friendly and non-threatening interaction.
+--------------------------------------------------
+
+ID: 1353
+Text: anni : dai un annan innaikkum night veetuku varalayaam, nee venumnaa yen roomlaye paduthukko @bestie_memes_69 me : nethu night ithella thappu vendaamnu sonna inaikku neeye koopdra, ready ah iru innaikku un p*ndaya oru vali pandren paaru...
+Classification: misogyny
+Explanation: The text objectifies women by associating them with sexual pleasure and readiness for physical intimacy. It reinforces the stereotype that women are primarily valued for their physical attributes and sexual availability. Such humor perpetuates a culture where women are seen as sexual objects, undermining their intrinsic worth and dignity.
+--------------------------------------------------
+
+ID: 556
+Text: Muthu Kutti 1m #salaryday #muthumc VERA LEVEL MEMES (repeats in a circular fashion)
+Classification: misogyny
+Explanation: The meme uses the term 'Muthu Kutti' which is a derogatory term for a young girl or woman in Tamil culture. The repetition of the term in a circular fashion reinforces the objectification and sexualization of women. This aligns with the stereotype that women are primarily valued for their physical attributes.
+--------------------------------------------------
+
+ID: 1770
+Text: Jailer Movie Jackie Shroff : சொன்ன வேலைய முடிச்ச குடுத்த ஜெயிலுக்குள்ள சுருட்டு, பீடி, பொடி வாங்கி தருவாரு மேடம்... ரொம்ப நல்ல Jailer. கோவம் வந்தா மட்டும் காத அறுப் பாரு...
+Classification: misogyny
+Explanation: The text objectifies women by implying that the Jailer character is desirable due to his ability to provide physical intimacy to female inmates. This reinforces the stereotype that men are primarily interested in women for sexual purposes.
+--------------------------------------------------
+
+ID: 271
+Text: Mc Muriel Just now periya aasai lam illa sithappa. Love song kekkurappo atha relate pannika oru doli iruntha pothum #mc_muriel mt TAMIL MEMES GET IT ON Google Play
+Classification: misogyny
+Explanation: The text targets women by implying that they are obsessed with Mc Muriel's love songs and are likely to download his songs just for the purpose of listening to his love songs. This perpetuates the stereotype that women are overly emotional and obsessed with romantic relationships.
+--------------------------------------------------
+
+ID: 1777
+Text: dailyhunt GET IT ON Google Play சரக்கு அடிச்சிட்டு பொண்டாட்டிய போட்டு அடிச்சா அவன் கிராமத்துகாரன்... பொண்டாட்டிக்கிட்ட அடி வாங்கிட்டு போய் சரக்கு அடிச்சா அவன் நகரத்தான்... 😭
+Classification: misogyny
+Explanation: The meme reinforces the stereotype that women are responsible for household chores and burdens the woman with the additional responsibility of fetching items for the man. This perpetuates the idea that women are primarily caregivers and domestic helpers.
+--------------------------------------------------
+
+ID: 1134
+Text: prathap prathap palikarana memes pangu rope ah keela podu
+Classification: misogyny
+Explanation: The text translates to 'Prathap prathap palikarana memes are like a rope that binds people together.' The use of the word 'rope' can be interpreted as controlling or restricting women, suggesting that memes can be used to manipulate or constrain women. This perpetuates the stereotype that women are passive and dependent.
+--------------------------------------------------
+
+ID: 1615
+Text: ஒரு பெண்ணின் உள்ளங்கை மென்மையா இருந்தால்...!!! முதேவி, வீட்டில் ஒரு வேலையும் பாக்காதுன்னு அர்த்தம்...
+Classification: misogyny
+Explanation: The text reinforces the stereotype that women are primarily responsible for household chores, regardless of their individual capabilities. It implies that a woman's worth is primarily defined by her domesticity and ability to perform household duties. This perpetuates the burden of domestic labor on women and reinforces traditional gender roles.
+--------------------------------------------------
+
+ID: 1610
+Text: வெளிச்சம் தந்தவ ஒருத்தி.. அவள இருட்டில நிறுத்தி இருட்டில நிறுத்தி..??? ARUN MC நீ நெனைக்கிற மாதிரிலாம்.. இல்ல.. ஜோரா பயணத்த கெளப்பி தனியா எங்க போனாலா..
+Classification: misogyny
+Explanation: The text implies that women are irresponsible and reckless, contrasting them with men who are portrayed as responsible and reliable. This perpetuates the stereotype that women are less capable and should be controlled. Such generalizations perpetuate a hierarchical structure where men are seen as superior and women are relegated to a position of subservience.
+--------------------------------------------------
+
+ID: 814
+Text: NEWS 7 TAMIL 14 DEC 21 புஷ்பா பாடலுக்கு வலுக்கும் எதிர்ப்பு புஷ்பா திரைப்படத்தில் இடம்பெற்ற 'ஓ சொல்றியா மாமா' பாடலை தடை செய்ய வேண்டும்; இல்லாவிடில் சம்மந்த உள்ளிட்ட படக்குகு மீது சட்ட நடவடிக்கை எடுக்கப்படும் - தமிழ்நாடு ஆண்கள் பாதுகாப்பு சங்கம் NEWS 7 KADALLAYE ILLAYAM MEMES WE GUYS HAVING SANGAM ?
+Classification: misogyny
+Explanation: The text criticizes a Tamil movie song 'ஓ சொல்றியாமாமா' for potentially objectifying women. It argues that the song's lyrics and title reinforce stereotypical gender roles and perpetuate the idea of women as sexual objects. Such criticism aligns with broader discussions in India regarding the representation of women in popular culture and the need for greater gender sensitivity.
+--------------------------------------------------
+
+ID: 1558
+Text: Manoj Shakthi K Girl Bestie FB TEA KADAI Ena da Apdi Paakura? Me Nejamavey ne ponnu dhana? Una epdi paathalum aambala madhiri dhan d iruka
+Classification: misogyny
+Explanation: The text objectifies women by suggesting that they are only valuable for physical intimacy and companionship. This perpetuates the stereotype that women are primarily defined by their sexual appeal and availability. Such humor reinforces the idea that women are commodities to be used and discarded at the whim of men.
+--------------------------------------------------
+
+ID: 276
+Text: Dharshan Just now Recent buff :Selvaraghavan to direct 7G rainbow colony 2 #dharshanmc VERA LEVEL MEMES VERA LEVEL MEMES @_dharshan._ Raghavan don't
+Classification: misogyny
+Explanation: The text implies that Selvaraghavan is directing a film of such high quality that it will be on par with the 7G technology and the Rainbow Colony 2 project. This reinforces the stereotype that women are not capable of achieving such greatness.
+--------------------------------------------------
+
+ID: 1454
+Text: *Lakshmy ஏன்மா video call எடுத்த உடனே காட்ட சொன்னா காட்டுவீங்களாமா? *சிங்கப்பெண் இல்ல மேடம், முதல் Audio call தான் பேசினோம் பிறகு அவர் தான் சொன்னார் நான்தானே உன்ன கல்யாணம் பண்ண போறன்,இப்போ காட்டுனு சொன்னார்.அதான் மேடம் நான் காட்டின
+Classification: misogyny
+Explanation: The text objectifies women and reinforces the stereotype that women are primarily responsible for initiating and entertaining video calls. It implies that the male speaker is not interested in the female speaker until she explicitly initiates contact. This perpetuates the idea that women are less assertive and must take the initiative in relationships.
+--------------------------------------------------
+
+ID: 964
+Text: parotta master: After taking parotta from dhosa kalluu
+Classification: misogyny
+Explanation: The meme implies that women (dhosa kalluu) are incapable of making parotta, reinforcing stereotypes and objectifying women's culinary abilities. This aligns with cultural norms that often assign traditional cooking tasks to men.
+--------------------------------------------------
+
+ID: 351
+Text: Muthu Kutti Just now Vinayakan (varman 😈) acting allu vitruchu 🔥 #muthumc VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The text uses the term 'Muthu Kutti' which is a derogatory term for a woman, implying that the woman is promiscuous and of low character. The caption 'Vinayakan acting allu vitruchu' translates to 'acting like a madman', suggesting that the woman is mentally unstable. Such language perpetuates stereotypes and reinforces the idea that women are inferior and deserving of ridicule.
+--------------------------------------------------
+
+ID: 773
+Text: Vetri Mra Just now Me : sir 2'o clock mela leave venum..!! Manager : athu enna 2'o clock mela..? Me : athu Vanthu ( CWC-23 : ENG vs NZ ) MOKKA POSTU vetrimra mt
+Classification: misogyny
+Explanation: The text implies that the manager is deliberately delaying the employee's leave request due to his interest in watching the cricket match. This perpetuates the stereotype that men prioritize entertainment over work commitments and undermines the value of women's time and responsibilities.
+--------------------------------------------------
+
+ID: 1541
+Text: பெண் காதலியா இருக்கும்குறப்போ பாசத்தை வீசுவதும்.....!!!! மனைவியா மாறிய பின்பு பாத்திரத்தை வீசுவதும் சகஜமப்பா.....😔
+Classification: misogyny
+Explanation: The meme suggests that women, after marriage, lose their ability to make decisions and prioritize their own desires. This reinforces the stereotype that women are subservient to their husbands and prioritize household duties over their own aspirations. Such humor perpetuates the idea that women's identities are defined by their marital status and domestic responsibilities.
+--------------------------------------------------
+
+ID: 1527
+Text: me ~ Aunty.. போன மாதம் 10ம் தேதி 4 தக்காளிகள் கடனா வாங்கிட்டு போனேன்களே... me தேவைப்படும்போது கேளு தரேன் வேற சொன்னேன்களே... நியாபகம் இருக்கா... இப்ப தேவைப்படுது.. தரீங்களா... neighbour Hari's Edits She ~ 😮😮😮😮
+Classification: misogyny
+Explanation: The meme implies that women are irresponsible with money and rely on men for financial support. This reinforces the stereotype that women are incapable of financial independence and promotes a patriarchal system where men are seen as the primary providers. Additionally, the use of the term 'Aunty' in a derogatory manner reinforces negative social norms towards older women.
+--------------------------------------------------
+
+ID: 965
+Text: பக்கத்து வீட்டில் ஒரு சின்ன பையன் இருந்துட்டா போதுமே *நான் ஆண்டி* mt Fa dark memes உடனே கடைக்கு போயிட்டு வா பால் வாங்கி போட்டு வானு வந்துருவீங்களே
+Classification: misogyny
+Explanation: The text objectifies women by implying that they are easily seduced by dark memes and will do anything for them. This reinforces the stereotype that women are frivolous and easily entertained.
+--------------------------------------------------
+
+ID: 1000
+Text: After watching This பேய் பொம்மை உண்மை சம்பவம் 👻 இனி உங்கள் பார்த்தாலே பயமா இருக்குமே 😱 little princess Karaikudi ilavarasi 👸
+Classification: misogyny
+Explanation: The meme targets women by objectifying and sexualizing the little princess character. It reinforces the stereotype that women are delicate and vulnerable. The caption suggests that the princess is so beautiful that simply looking at her will cause fear or awe.
+--------------------------------------------------
+
+ID: 1282
+Text: 3 types of ANNI's Anni 1 Anni 2 Anni 3 Unna ellam thiruthaave mudiyathu da , vanthu thola ayayo vena da ithelam avaruku pandra dhrogam da sari intha oru thadava paniko, aana veliya theriyama pathuko
+Classification: misogyny
+Explanation: The text objectifies women by associating them with physical attributes and sexualized behavior. It reinforces the stereotype that women are primarily defined by their physical appearance and sexual desirability. This perpetuates a culture where women are seen as objects of desire and gratification.
+--------------------------------------------------
+
+ID: 1279
+Text: கணவர் : ஆறுமணி நேரமா எங்கடி போனா? மனைவி : ஷாப்பிங் போனேங்க.. கணவர் : என்னென்ன எடுத்த?? மனைவி : "ஒரு ஜிமிக்கியும் 60 செல்பியும்"
+Classification: misogyny
+Explanation: The meme implies that women are primarily responsible for household chores and shopping, while the man in the meme is oblivious to these responsibilities. This reinforces the stereotype that women are primarily domestic and financially dependent.
+--------------------------------------------------
+
+ID: 1579
+Text: அவன் ஒரு குடிகாரன்னு தெரிஞ்சும் அவனையே ஏன் லவ் பண்ணீங்க ? : ஒன்னா சேர்ந்து குடிக்கத்தான்.. Infosys CONTROVERSY BOY
+Classification: misogyny
+Explanation: The text implies that women are irresponsible and incapable of making independent decisions. This perpetuates the stereotype that women need male guidance and control. Such generalizations perpetuate inequality and discrimination against women.
+--------------------------------------------------
+
+ID: 1614
+Text: ANANTHAMELLAM ~Teacher Epdima veetuku pona udane padikka 📖 arambichirviya ma UDAYAKUMAR Made With VivaVideo 2 தமிழ் 1 rank girl Pona udane illa teacher, poittu irukumbothey padikka arambichirven PHOTOGRID
+Classification: misogyny
+Explanation: The meme targets women by implying that female teachers are promiscuous and of low character. This reinforces the stereotype that women are sexually promiscuous and incapable of maintaining professional integrity.
+--------------------------------------------------
+
+ID: 1337
+Text: @tamil.troll WHEN A TEENAGE BOY IS STANDING BEHIND YOU AND RUBBING HIS HARD D AND YOU ENJOY THE FEELING
+Classification: misogyny
+Explanation: The meme perpetuates the objectification and sexualization of women by implying that a teenage boy's sexual pleasure is derived from a female's physical contact. Such humor reinforces the stereotype that women are primarily valued for their physical attributes and sexual appeal.
+--------------------------------------------------
+
+ID: 68
+Text: Mc Muriel Just now • Mathavanga evlo hatred ah kuduthalum avangalukku nallatha thaan nottuven nu nenaikkiravan thaanda unmaiyana ilichavai pulla #mc_muriel
+Classification: misogyny
+Explanation: The text targets women by implying that they are responsible for generating hatred. This perpetuates the stereotype that women are the source of negativity. Such generalizations perpetuate inequality and discrimination against women.
+--------------------------------------------------
+
+ID: 1524
+Text: மருமகள் சமைத்த சாம்பாரை சாப்பிட்ட மாமனார், மாமியார் பரிதாப மரணம் தெரியாமல் உண்ட பக்கத்து வீட்டு சிறுவனும் பலி @Kirukku.paya1987 #That 2k Marumagal காய் எதுவும் கெடைக்கல அதான் கீரைய பரிச்சி போட்டு சாம்பார் வச்சேன்... என்ன கீர...?? "அரளி கீர"
+Classification: misogyny
+Explanation: The meme targets women by objectifying them and implying that they are responsible for cooking and cleaning. The use of the term 'காய் எதுவும் கெடைக்கல' (literally 'no dog has barked') implies that women are promiscuous and therefore deserving of blame. This reinforces the stereotype that women are inferior and responsible for sexual pleasure.
+--------------------------------------------------
+
+ID: 1108
+Text: மைலு: மாமா நீங்க காலைல வெந்நீர் குடிக்கணும் அப்பதான் உடம்பு நல்லா இருக்கும். மாமா : நான் குடிச்சுகுதான் இருக்கேன் மைலு. நீதான் அத காபினு சொல்லுற அதுக்கு நா என்ன பண்ணுறது 😂
+Classification: misogyny
+Explanation: The meme implies that women are responsible for their partner's well-being by providing them with morning water. This perpetuates the stereotype that women are primarily responsible for domestic chores and caregiving.
+--------------------------------------------------
+
+ID: 1548
+Text: என் பொண்டாட்டி கிட்ட எனக்கு பிடிச்ச விஷயம்.. அவ என்ன தப்பு பண்ணாலும் என்ன மன்னிச்சிடுவா..
+Classification: misogyny
+Explanation: The text implies that women are responsible for fixing problems and apologizing for them. This perpetuates the stereotype that women are accountable for domestic and interpersonal issues. Such generalizations perpetuate the idea that women are inferior and should bear the burden of responsibility for household and social harmony.
+--------------------------------------------------
+
+ID: 125
+Text: Dharshan Just now Macha enta vanguna kaasu kudra His reply : #dharshanmc @Ani_Stan Asinga paduthra...insult panra...
+Classification: misogyny
+Explanation: The text targets Ani_Stan, a female user, with an insult. It implies that she is incompetent and incapable. Such generalizations perpetuate stereotypes and objectification of women.
+--------------------------------------------------
+
+ID: 544
+Text: GOLDKMINES First match loose panna dhan cup see more... VEERA LEVEL MEMES VEERA LEVEL MEMES @_dharshan._
+Classification: misogyny
+Explanation: The text objectifies women by associating them with loose clothing and sexual pleasure. This perpetuates the stereotype that women are primarily valued for their physical appearance and sexual availability. Such humor reinforces the patriarchal notion that women are responsible for controlling men's sexual desires.
+--------------------------------------------------
+
+ID: 1042
+Text: She - Good morning டா செல்லம், எழுந்திரு brush பண்ணிட்டு டி குடி. me - Brushலாம் பண்ண முடியாது போடி She - அட ச்சீ, இன்னும் கொஞ்ச நாள்தாண்ட அப்புறம் இருக்கும் உனக்கு ஆப்பு (ஆப்பு அடிச்சலா 😂😂😂) GOLDMINES
+Classification: misogyny
+Explanation: The text objectifies and insults women by implying that a woman's primary purpose is to provide sexual pleasure to men. This reinforces the stereotype that women are sexual objects and undermines their autonomy and agency.
+--------------------------------------------------
+
+ID: 1432
+Text: SALEM BUS STAND NIGHT AFTER 10'CLOCK Hai variya da thambi கையா இல்ல வாயா தம்பி 300 ruva than Ok va apo antha Erode bus nikkuthu paru anga va SELVA MEMES
+Classification: misogyny
+Explanation: The meme humorously suggests that women are more likely to gossip after 10pm, referencing a stereotype associated with female behavior. This reinforces the idea that women are more talkative and mischievous than men.
+--------------------------------------------------
+
+ID: 1343
+Text: THAT GIRL: AVAN PO***LA PARU NA THAN FIRST SAPPI EDUPAN AUNTY: HEY PODI PASANGALUKU PONNA VIDA AUNTY THAN ROMBA PUDIKUM DI NA THAN FIRST SAPPI EDUPAN
+Classification: misogyny
+Explanation: The meme perpetuates the stereotype that women are primarily responsible for household chores and domestic responsibilities. It also implies that women are incapable of multitasking, suggesting that they can only handle one task at a time. Such generalizations perpetuate gender inequality and undermine the capabilities of women.
+--------------------------------------------------
+
+ID: 1462
+Text: Relative : அப்பறம் உங்க பொண்ணு சமையல் வேலை எல்லாம் பழகிட்டாளா Her mom : சமைச்சு வச்சா கொட்டிக்குவா.. ஒன்னுக்குக்கும் லாய்க்கி இல்ல அசிங்கப்பட்டே இருக்கியேடி மீம் கிரியேட்டர் ஆப் யாமிக்குக்க பயமேன்
+Classification: misogyny
+Explanation: The text objectifies women and reinforces the stereotype that they are primarily responsible for household chores. It implies that women are incapable of multitasking and that their primary purpose is to serve their families. Such messaging reinforces the idea that women are inferior to men and that their worth is primarily defined by their domesticity.
+--------------------------------------------------
+
+ID: 1224
+Text: கணவன்மார்களின் பரிதாபங்கள் மனைவி (கோபமாக): யார் முட்டாள்? நீங்கள்? நானா? கணவன் (அமைதியாக): எல்லோருக்கும்மே தெரியும் நீ புத்திசாலி என்று... ஆதலால், கண்டிப்பாக நீ ஒரு முட்டாள் கணவனை தேர்ந்தெடுத்திருக்க மாட்டாய்... கோடிக்கணக்கான தமிழ் மக்களுக்காக. டவுன்லோட் Way2Online
+Classification: misogyny
+Explanation: The meme implies that women are inherently stupid and incapable of making rational decisions. This reinforces the stereotype that women are less intelligent than men and perpetuates the discrimination and objectification of women.
+--------------------------------------------------
+
+ID: 874
+Text: 1 ஒன்று ONE தமிழில் 10 பத்து TEN கோடா 100 நூறு HUNDRED கிளிம் 1000 ஆயிரம் THOUSAND தெரியு 10000 பத்தாயிரம் TEN THOUSAND இலக் 100000 இலட்சம் HUNDRED THOUSAND மல்டி 1000000 பத்து இலட்சம் ONE MILLION 10000000 கோடி TEN MILLION 100000000 அற்புதம் HUNDRED MILLION 1000000000 நிகர்நம் ONE BILLION 10000000000 கும்மம் TEN BILLION 100000000000 கச்சம் HUNDRED BILLION 1000000000000 கற்பம் ONE TRILLION 10000000000000 நிகற்பம் TEN TRILLION 100000000000000 பத்மம் HUNDRED TRILLION 1000000000000000 சங்கம் ONE ZILLION 10000000000000000 வெல்லம் TEN ZILLION 100000000000000000 அண்ணியம் HUNDRED ZILLION 1000000000000000000 அர்நதம் ? 10000000000000000000 பரார்த்தம் ? 100000000000000000000 பூரியம் ? 1000000000000000000000 முக்கோடி ? 10000000000000000000000 மகாயுகம் ? ABCD...☆ யாழிஸ் f YalMemes Jaffnese பார்த்தாயா எங்கள் தமிழின் சிறப்பு!
+Classification: misogyny
+Explanation: The meme uses exaggerated feminine features and stereotypical language to depict women as materialistic and obsessed with wealth. This reinforces the harmful stereotype that women are primarily driven by financial gain and superficial values.
+--------------------------------------------------
+
+ID: 1653
+Text: நகர்ப்பேருந்துகளில் மகளிர் இலவசமாக பயணிக்கலாம் நாளை முதல் சாதாரண கட்டணம் நகர்ப்பேருந்துகளில் மகளிர் இலவசமாக பயணிக்கலாம் - முதலமைச்சர் மு.க.ஸ்டாலின் JUST IN From Tomorrow Local Buses be like
+Classification: misogyny
+Explanation: The text promotes the idea that women can travel on local buses for free, suggesting that this is a special privilege for them. This reinforces the stereotype that women are financially dependent on men. Additionally, the use of the term 'முதலமைச்சர்' (chief minister) in the caption reinforces the patriarchal structure of society.
+--------------------------------------------------
+
+ID: 1741
+Text: சும்மாவே மதிக்க மாட்டாங்க.... கணவர்கள் இதுல மாசம் ஆயிரம் ரூபாய்.. பஸ்ஸுல வேற இலவசம்.. Download Dailyhunt on Play Store
+Classification: misogyny
+Explanation: The text implies that women are incapable of managing their finances and that their husbands are responsible for all financial matters. This perpetuates the stereotype that women are financially incompetent and reinforces the patriarchal notion that men are the primary breadwinners in a family.
+--------------------------------------------------
+
+ID: 592
+Text: Muthu Kutti Just now ~when some one say Itha en da ivalo kaasu kuduthu vanguna.. worth ae illa da Enga area la ithu cheap ah kidaikum da #muthumc VERA LEVEL MEMES
+Classification: misogyny
+Explanation: {
+"explanation": "The meme uses derogatory slang "Muthu Kutti" which translates to "stupid girl" and reinforces the stereotype that women are intellectually inferior. The caption suggests that the woman is promiscuous and irresponsible, reinforcing negative gender norms. The use of the hashtag #muthumc implies that this sentiment is widely shared and normalized.",
+"classification": "misogyny"
+}
+--------------------------------------------------
+
+ID: 1182
+Text: தோழிக்கும் மனைவிக்கும சின்ன வித்தியாசம் தான்... -யாரோ நல்ல சரக்கா அளவா அடி ன்னு சொன்னா தோழி..😍 சனியனே.... சரக்கடிச்சிட்டு வீட்டு பக்கம் வந்துறாத ன்னா மனைவி...😂😂😂 dailyhunt Download on the App Store GET IT ON Google Play
+Classification: misogyny
+Explanation: The text objectifies women by implying that a woman's worth is defined by her physical appearance. It reinforces the stereotype that women are primarily valued for their beauty and sexual appeal. This perpetuates the idea that women are less valuable than men.
+--------------------------------------------------
+
+ID: 1714
+Text: My Friend -: Machan Na Love Pannuranda MALIGAWATTA PASANGA TAMIL MEMES *Me Maligawatta Pasanga
+Classification: misogyny
+Explanation: The meme uses the term 'Maligawatta Pasanga' which is a colloquial Tamil expression that implies a woman is promiscuous or sexually promiscuous. This reinforces the stereotype that women are responsible for sexual attraction and objectifies women. Additionally, the caption 'Machan Na Love Pannuranda' translates to 'My Friend - Love has come' implying that women are objects of love and desire.
+--------------------------------------------------
+
+ID: 1360
+Text: Unga Cleavage mattum dhan Enaku theridhu ADULT OF MAFIA TAMIL MEMES Google Play
+Classification: misogyny
+Explanation: The meme targets women by objectifying them and associating them with sexualized imagery. The phrase 'Unga Cleavage mattum dhan' literally translates to 'Your cleavage is enough' implying that women's physical attributes are primarily valued for sexual gratification. This reinforces harmful stereotypes and objectifies women.
+--------------------------------------------------
+
+ID: 1405
+Text: She ~ unna kalyanam pannikitta enakku vazhka full ha kanji oothuviyada... ~ வத்தி pora varaikkum oothuven di...
+Classification: misogyny
+Explanation: The text objectifies women and reinforces the stereotype that women are primarily responsible for marriage and household chores. This perpetuates the idea that women's fulfillment is tied to their marital status and domestic duties. Such messaging can perpetuate gender inequality and undermine women's autonomy and agency.
+--------------------------------------------------
+
+ID: 847
+Text: Happy Diwali doli nu solitu convo start panuvanga.. 😥😥 @irukku_inga_fun_irukku Paathu soodhanama irunga nanbargalae.. ❤️❤️❤️
+Classification: not-misogyny
+Explanation: The text uses playful banter and festive greetings to address a female friend, expressing affection and delight. It does not perpetuate stereotypes, hatred, discrimination, sexualization, objectification, insults, or mockery towards women. The cultural context of Diwali celebrations involves playful exchanges and affectionate messages between friends and family members.
+--------------------------------------------------
+
+ID: 421
+Text: muthu mc @muthu__kutti Unnala enna refer panna mudiuma keeta MNC la software engineer ah irukura ndra #muthumc VERA LEVEL MEMES 7:45 PM • Apr 29, 2023
+Classification: misogyny
+Explanation: The text implies that women are incapable of becoming software engineers, perpetuating the stereotype that women are less capable in STEM fields. This reinforces the idea that women are inferior in these areas and undermines their potential.
+--------------------------------------------------
+
+ID: 638
+Text: Muthu Kutti 17m பெண் என்பவள்..... யோவ் பொன்னந்தின்னி வாயா எந்திரிச்சி போலாம் #muthumc #womensday2023
+Classification: misogyny
+Explanation: The text uses the term 'Muthu Kutti' which is a derogatory term for a young girl or woman, implying that women are mischievous or promiscuous. This reinforces the stereotype that women are sexually promiscuous. Additionally, the caption suggests that women should be subservient to men, as they are depicted as asking permission from a man named ' பொன்னந்தின்னி'. This reinforces the patriarchal ideology that men have authority over women.
+--------------------------------------------------
+
+ID: 1488
+Text: "ஏங்க sunday படத்துக்கு புக்கு பண்ணிட்டு நீங்களா..." புக் பண்ண கேஸ் நாளைக்கு வரும் அதுக்கு முதல்ல பணத்தை ரெடி பண்றேன்... IVP memes https://www.facebook.com/ivptele.ivptele
+Classification: misogyny
+Explanation: The meme implies that women are irresponsible with money and that they should be blamed for financial problems. This perpetuates the stereotype that women are financially reckless and incapable of managing money. Such generalizations perpetuate gender inequality and reinforces harmful social norms.
+--------------------------------------------------
+
+ID: 708
+Text: When my friend finally loose the v*rginity VERA LEVEL MEMES _dharshan._ Elai muthu nee aalu dham lae
+Classification: misogyny
+Explanation: The text objectifies women by associating virginity with a level of attractiveness. It reinforces the stereotype that women's worth is primarily based on their sexual purity. Such humor perpetuates the idea that women's bodies are public spectacle and their sexual experiences are a source of entertainment for men.
+--------------------------------------------------
+
+ID: 528
+Text: Rajesh Jëé Just now Vijay ku epdi ivlo follwers vanthuchu . Avaru 1K follower vara 100rs pay panirukaru... GOLDMINES धूम्रपान स्वास्थ्य के लिए हानिकारक है ! GOLDMINES
+Classification: misogyny
+Explanation: The text objectifies women by implying that women are only interested in following men for financial gain. This perpetuates the stereotype that women are materialistic and sexually motivated.
+--------------------------------------------------
+
+ID: 1289
+Text: un kannu angaye pona anubavikka aasa varathanda seyyum , pakathu veetu aunty athulaye irukaatha epomey ok va , normal friends ah irukalam nama epomey ok
+Classification: misogyny
+Explanation: The text objectifies women by implying that they are primarily interested in physical intimacy rather than intellectual or emotional connections. This reinforces the stereotype that women are sexually promiscuous and lacking in depth. Such generalizations perpetuate harmful gender norms and perpetuate discrimination against women.
+--------------------------------------------------
+
+ID: 262
+Text: My mind is outta nowhere at 12.30 am in a loop mode: Naan ready dhan varava annen naan erangi varava ....seendaadhappa tovv to to tovv tototovvv Me: VERA LEVEL MEMES mt
+Classification: misogyny
+Explanation: The meme uses stereotypical humor that reinforces the stereotype of women being more likely to engage in gossiping and frivolous activities. The caption suggests that women are obsessed with gossip and that they are unable to resist the temptation to engage in it at all hours of the night. This perpetuates the harmful misconception that women are inherently more interested in gossip than men.
+--------------------------------------------------
+
+ID: 778
+Text: LakshmiMV @mvlakshmibe56 She: Ungaluku ennalam pidikathu? #Fiance: Makeup items, shopping nu money waste panna pidikathu. Ooru sutha suthama pidikathu. She: Soli mudinjuuchu 🚶‍♀️ #lakshmi #mokkapostu MOKKA POSTU
+Classification: misogyny
+Explanation: The text suggests that women are primarily concerned with makeup, shopping, and leisure activities, while men are responsible for more serious matters like work and finances. This perpetuates the stereotype that women are primarily focused on superficial pursuits, while men are expected to be responsible and financially stable.
+--------------------------------------------------
+
+ID: 241
+Text: ~When you are in depressed Frnd: Enna macha jolly ah iruka pola, unukuennapa and etc,... VERA LEVEL MEMES @_dharshan_ Indha mari pesura apodhan gaandavudhu
+Classification: misogyny
+Explanation: The meme implies that when a friend is depressed, the only way to cheer them up is to share funny memes. This perpetuates the stereotype that women are responsible for providing emotional support and entertainment to others, while neglecting their own mental health.
+--------------------------------------------------
+
+ID: 1170
+Text: வீட்டில இருக்கும் போது எல்லாப் பொண்ணுக ஹேர்ஸ்டைலும் .. இந்த சங்கி மங்கி ஹேர்ஸ்டைல் தான்
+Classification: misogyny
+Explanation: The text reinforces the stereotype that women are responsible for household chores and domestic responsibilities. It suggests that women are lazy if they don't perform these duties. Such generalizations perpetuate the idea that women are primarily defined by their domesticity and neglect their agency and aspirations.
+--------------------------------------------------
+
+ID: 953
+Text: After seeing this ad 10 MOKKA MEMES 2.0 PAND... MOKKA MEMES 2.0 Balaji BOOK STALL Maaru vesathuku undana mariyatha poche da
+Classification: misogyny
+Explanation: The text targets women by objectifying them and suggesting that they are easily amused by memes and books. This reinforces the stereotype that women are superficial and lacking intellectual depth.
+--------------------------------------------------
+
+ID: 926
+Text: 90's parithabangal புது படம் ரிலீஸ் ஆனா உடனே யூடியூப்ல ரிவ்யூ பாத்துட்டு தியேட்டர் போனவன் இல்ல டா VIKI MEMES டாப் 10 மூவிஸ் புது வரவுல எதா ஒரு சீன் பாத்துட்டு படம் பார்த்த மாறி சீன் போட்டுட்டு எப்ப டா சன் டிவில படத்த போடுவான்னு காத்து கிடந்த 90ஸ் கிட்ஸ் டா
+Classification: misogyny
+Explanation: The meme targets women by objectifying them and implying that they are responsible for the actions of men. The text suggests that women should bear the burden of societal changes and expectations, while men are exempt from such responsibility.
+--------------------------------------------------
+
+ID: 821
+Text: Nobody ~ Beggars In Bus Stop ~ Aiya Saami, Aiya Saami, Sapttu Rendu Naal Achi Saami TAMIL MEMES123 டேய்...NATIONAL CRUSH டா அவ...
+Classification: misogyny
+Explanation: The meme uses derogatory terms like 'Aiya Saami' (uncle) and 'Sapttu Rendu Naal Achi Saami' (became a national crush), implying that women are easily captivated by men and are materialistic. Such generalizations perpetuate stereotypes and objectification of women.
+--------------------------------------------------
+
+ID: 594
+Text: Muthu Kutti Just now Dolis la alaga iruntha 🦋✨❤️ Daily office polam polayae.. #muthumc VERA LEVEL MEMES MALAYALAM FILMS CENTRAL TALKIES f MUTHU MC
+Classification: misogyny
+Explanation: The text uses the term 'Muthu Kutti' which is a derogatory term for a young girl or woman, implying that women are playful and irresponsible. This reinforces the stereotype that women are less capable and serious than men. Additionally, the caption suggests that women are only interested in entertainment and films, perpetuating the misconception that women lack intellectual depth.
+--------------------------------------------------
+
+ID: 416
+Text: Pichaikaraan2 trailer is out now Vijay Antony ku adutha blockbuster comfirm ✨
+Classification: misogyny
+Explanation: The text celebrates the release of a film with the lead actor Vijay Antony, implying it will be a blockbuster. The use of the term 'comfirm' reinforces the expectation that the film will be successful due to the actor's presence. This reinforces the stereotype that certain actors are guaranteed to draw large audiences, perpetuating the idea that women may be more interested in the film due to the male lead rather than the actual content.
+--------------------------------------------------
+
+ID: 72
+Text: After watching Are you okay baby movie I don't know what I'm going to do! Livin together la iruka vendiyadhu..apro feel panradhe indha generation ku velaiya pochi... TAMIL MEMES GET IT ON Google Play
+Classification: misogyny
+Explanation: The meme suggests that living together is only suitable for older generations and implies that younger generations are incapable of maintaining a healthy and stable relationship. This perpetuates the stereotype that younger generations are irresponsible and incapable of commitment, reinforcing traditional gender roles and expectations.
+--------------------------------------------------
+
+ID: 366
+Text: Dharshan Just now When fight exists between lovers Boy besties/girl besties : #dharshanmc
+Classification: misogyny
+Explanation: The meme suggests that when lovers are fighting, the presence of male friends/boy besties is more important than the presence of female friends/girl besties. This perpetuates the stereotype that male companionship is more valuable and essential for men than female companionship.
+--------------------------------------------------
+
+ID: 260
+Text: Muthu Kutti 1m *When mom and dad are fighting* mom suddenly starts scolding me Me : nippatungha pa neengalachu konjo sanda poduratha nippatungalae pa.. samanathamae illama enna pudichu thiturangha #muthumc VERA LEVEL MEMES VERA LEVEL MEMES mt TAMIL MEMES Google Play
+Classification: misogyny
+Explanation: The meme implies that mothers are always the ones to scold children when parents are fighting, perpetuating the stereotype that mothers are responsible for discipline and emotional regulation. This reinforces the idea that women are more likely to be caregivers and mediators in family conflicts.
+--------------------------------------------------
+
+ID: 52
+Text: 2023 _vishal_sammy_ Anga paaru vandhu 2 masam kooda aagala athukula avana verukura alavuku kondu vanthan
+Classification: misogyny
+Explanation: The text translates to 'Vishal Sammy's wife has been with him for two months without asking for anything. This implies that women are materialistic and only interested in money. Such generalizations perpetuate stereotypes and reinforces the misconception that all women are the same.
+--------------------------------------------------
+
+ID: 1226
+Text: சிரிக்கலாம் வாங்க மனைவி : நான் எல்லாம் காலேஜ் படிக்கும் போது மாறுவேட போட்டியில் அரக்கி வேஷம் போட்டதுக்கு எனக்கு இரண்டாம் பரிசு கொடுத்தாங்க கணவன் : அரக்கி வேஷம் போடாம சும்மாவே போயிருந்தா முதல் பரிசே கொடுத்து இருப்பாங்க. மனைவி : ஹலோ 108 ஆ ..?
+Classification: misogyny
+Explanation: The text objectifies and insults women by implying that they are easily swayed by physical appearance and are materialistic. This reinforces the stereotype that women are primarily motivated by physical attraction and financial gain, rather than intelligence or personal values.
+--------------------------------------------------
+
+ID: 911
+Text: உழவன் மீம்ஸ் @trendingmemes *Single's *Committed's Foodie's* Enaku sapade venam..🤤 Aaga..Aaga ❤️😍 Meen kozhambu neriya iruku ana sooru kojam tan irukey
+Classification: not-misogyny
+Explanation: The meme uses playful language and imagery to depict a romantic and humorous situation between a single and committed foodie. It does not perpetuate stereotypes, hatred, or discrimination towards women. The humor revolves around relatable foodie experiences and does not objectify or insult women.
+--------------------------------------------------
+
+ID: 1659
+Text: நாளை முதல் (மே 8) அனைத்து சாதாரண நகரப் பேருந்துகளிலும் பயணம் செய்ய மகளிருக்கு இலவசம் - முதல்வர் மு.க.ஸ்டாலின் முதல் கையெழுத்து *boy mind voice Tamil memes @vaada_memes_pakkalam mt ayya thorai..! ayya thorai...! ithu suya nala boomi ayya thorai
+Classification: misogyny
+Explanation: The meme targets women by implying that they are irresponsible and incapable of handling public transportation independently. This reinforces the stereotype that women need male guidance and supervision. The use of the boy mind voice tone further objectifies women and suggests that they are childish and incapable of making responsible decisions.
+--------------------------------------------------
+
+ID: 1205
+Text: டேய் எனக்கு கல்யாணம் ஆகி ரெண்டு குழந்தை இருக்கு டா ஆண்ட்டி Re Parama மீ பரவால் ஆண்ட்டி ஐ லவ் யூ 😊😊 Helo
+Classification: misogyny
+Explanation: The text implies that women are primarily responsible for childcare and household chores, perpetuating the stereotype that women are primarily caregivers. This reinforces the cultural expectation that women should prioritize domestic responsibilities over other pursuits.
+--------------------------------------------------
+
+ID: 917
+Text: I'M LEAVING PAMI..😔 PRANK GONE WRONG SUHAIL - VLOGGER · 2.1M views · 4 months ago எனக்கு ஒரு ஆச்சரியம், எப்படி ஒரு மனிதன் ஒரு பெண்ணை இத்தனை முறை prank செய்யமுடியும்
+Classification: misogyny
+Explanation: The text implies that men can easily prank women due to their inherent submissive nature. This perpetuates the stereotype that women are easily manipulated and lack agency, reinforcing misogynistic attitudes.
+--------------------------------------------------
+
+ID: 372
+Text: mt VERA LEVEL MEMES @_dharshan._ Senior dood searching knowledge in me mt TAMIL MEMES GET IT ON Google Play Enna da ulla onnumae ila
+Classification: misogyny
+Explanation: The meme implies that senior citizens are technologically inept and rely on Google Play for knowledge. This perpetuates the stereotype that older adults are less tech-savvy and reinforces the misconception that they are incapable of independent learning. Such generalizations perpetuate ageism and undermine the capabilities of older adults.
+--------------------------------------------------
+
+ID: 1704
+Text: During Women's day Happy women's day.. you are an Angel in different angle... Rest of the days Munjiyum mogarayum paaru ...peah Bulla Memes
+Classification: misogyny
+Explanation: The meme uses the term 'Munjiyum mogarayum paaru' which translates to 'rest of the days you are an angel, but the rest of the time you are just like me'. This reinforces the stereotype that women are only valuable for their beauty or angelic qualities, and that they are otherwise ordinary. Additionally, the use of 'peah Bulla Memes' implies that women are responsible for creating and sharing memes, perpetuating the objectification and sexualization of women.
+--------------------------------------------------
+
+ID: 433
+Text: Darshan Just now When someone asks "What is your contribution in the office" ~Ayya thanni can poda vandha ayya #darshanmc SUN TV
+Classification: misogyny
+Explanation: The meme targets women by implying that they contribute nothing to the office. This reinforces the stereotype that women are less capable or productive than men. Such generalizations perpetuate gender inequality and undermine the value of women's contributions in the workplace.
+--------------------------------------------------
+
+ID: 1256
+Text: Hari Haran her crush * Un Padukaila paathi Edam Ennaku Thana *Gundu girls Ennake Edam Pathathu da Modevi
+Classification: misogyny
+Explanation: The meme perpetuates the stereotype that women are easily seduced and objectifies them. The phrase 'Gundu girls Ennake Edam Pathathu da Modevi' translates to 'These girls are like honey, they will fall for anyone'. Such language reinforces the idea that women are passive and sexually available. This aligns with traditional patriarchal narratives that diminish women's agency and autonomy.
+--------------------------------------------------
+
+ID: 409
+Text: Muthu Kutti 5h *When you are in apartment* தண்ணி வரலயே எவனாச்ச motor போடுறானா பாரு #muthumc Red Pix VEERA LEVEL MEMES VEERA LEVEL MEMES Red Pix Movies
+Classification: misogyny
+Explanation: The meme uses the term 'Muthu Kutti' which is a derogatory term for a young girl or woman, implying that women are irresponsible and clumsy. This reinforces the stereotype that women are less capable than men. Additionally, the caption suggests that women are only good for domestic chores and cannot handle responsibilities. This perpetuates the idea that women are inferior to men.
+--------------------------------------------------
+
+ID: 1584
+Text: நேத்து ராத்திரி என் மனைவியை நான் கைநீட்டி அடிச்சுட்டேன்... ஐயோ அப்புறம் என்னாச்சு? -யாரோ அதுக்குள்ள என் மனைவி என்னை எட்டி உதைச்சி வேலைக்கு போக நேரமாச்சு எழுந்திருன்னு கனவைக் கலைச்சுட்டா...🤭🤣
+Classification: misogyny
+Explanation: The text objectifies and insults women by implying that they are responsible for their partner's mistakes and failures. This perpetuates the stereotype that women are to blame for relationship problems and reinforces the idea that women are inferior to men.
+--------------------------------------------------
+
+ID: 615
+Text: Dharshan Just now இளநீர் எவ்ளோ??? ~70rs Illa vena nan thanni kudichikiren @_dharshan._ VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The meme targets young women and implies that they are frivolous and irresponsible with money. This reinforces the stereotype that women are reckless and incapable of financial responsibility, perpetuating gender inequality.
+--------------------------------------------------
+
+ID: 756
+Text: Odachi Paakalama? Dai Ivan edho soldraan daa ennanu kelunga daa
+Classification: misogyny
+Explanation: The text translates to 'How much did the bride cost? Dai Ivan edho soldraan daa ennanu kelunga daa' which implies that the worth of a woman is determined by the amount spent on her wedding. This perpetuates the patriarchal notion that women are commodities to be bought and sold. Such statements reinforce the objectification and sexualization of women.
+--------------------------------------------------
+
+ID: 1051
+Text: He: nee thuungum bothu kandipa paaka cute ah than irupa She:
+Classification: misogyny
+Explanation: The meme implies that women are cute and desirable only when they are adorned with makeup and dressed up. This reinforces the stereotype that women are primarily valued for their physical appearance and sexual appeal. Such humor perpetuates the objectification and sexualization of women.
+--------------------------------------------------
+
+ID: 515
+Text: anastasija_golubeva78522 lesja_maslova09603 ndh897xlw584izu Jenny Young natalja_780.347 nina_poljakova74692 anastasija_prohorova90016 sasha_ponomareva42494 oda662lvl937bmq Stephanie Lipsitz _dharshan._ DEI, YAARA NENGALAM?
+Classification: misogyny
+Explanation: The text contains derogatory and objectifying language towards women, specifically referencing their physical attributes and sexualization. This reinforces stereotypes and reinforces the idea that women are primarily valued for their physical appearance and sexual desirability.
+--------------------------------------------------
+
+ID: 142
+Text: She ❤️❤️ - naan raksha bandhan wish ey panirukalam thonudhulla ipo VERA LEVEL MEMES VERA LEVEL MEMES TAMIL MEMES GET IT ON Google Play mt
+Classification: misogyny
+Explanation: The meme implies that women are overly emotional and incapable of handling complex situations. This reinforces the stereotype that women are less capable than men and should be subservient to them. Such generalizations perpetuate gender inequality and undermine the potential of women.
+--------------------------------------------------
+
+ID: 1139
+Text: Her Bio ~ 2K Girl - வெறும் ரெண்டாயிரம் தானா 🥵
+Classification: misogyny
+Explanation: The meme uses the term '2K Girl' which implies that women born in the 1990s are materialistic and obsessed with wealth. This perpetuates the stereotype that women are primarily driven by financial aspirations and undermines their intrinsic worth. Additionally, the caption 'வெறும் ரெண்டாயிரம் தானா' translates to 'Isn't it expensive to be a 2K Girl?'. This reinforces the misconception that women are a burden or expense, rather than valuable individuals.
+--------------------------------------------------
+
+ID: 1233
+Text: That one photo in every 90sKids home Do you agree..??? TODAY TRENDING CTV
+Classification: misogyny
+Explanation: The meme implies that women are overly sexualized and objectified, based on the stereotype that teenage boys fantasize about older women. This reinforces the idea that women are primarily valued for their physical appearance and sexual appeal.
+--------------------------------------------------
+
+ID: 1660
+Text: My friend from tomorrow~ BREAKING NEWS அனைத்து மகளிரும் சாதாரண கட்டண நகரப் பேருந்துகளில் மே 8 முதல் கட்டணமில்லாமல் பயணிக்கலாம் - முதல்வர் மு.க.ஸ்டாலின் 07/05/2021 www.puthiyathalaimurai.com INIME IPDITHAAN ND TALKIES
+Classification: misogyny
+Explanation: The text suggests that women are habitual free riders who exploit public transportation without paying fares. This perpetuates the stereotype that women are irresponsible and freeloaders.
+--------------------------------------------------
+
+ID: 1349
+Text: LIKEMAPLA EPPUDI PATHALUM 2 KA! PATHATHU SIR PIDIKA ;
+Classification: misogyny
+Explanation: The meme uses exaggerated masculinity and competitive language to imply that men are naturally better at everything. This reinforces the stereotype that women are inferior in capabilities and achievements. Such humor perpetuates a culture where men are praised for dominance and women are implicitly criticized for falling short.
+--------------------------------------------------
+
+ID: 417
+Text: Planning to go out ... Movie polaama ? Avlo selavu thevaya ippo Apa mall povoma ? Romba kootama irukume Apana Beach polaama ? Romba Veil ah irukke Apa veetlaye irukalama ? Romba bore adikkudhe VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The meme suggests that women are primarily interested in movies and fashion, and that they lack interest in serious topics like beaches and politics. This perpetuates the stereotype that women are frivolous and superficial.
+--------------------------------------------------
+
+ID: 1469
+Text: Trollpistha7 TROLL PISTHA Adhu epdi thimingalam adhukulla ivlo perusa aagiduchu..!!
+Classification: misogyny
+Explanation: The text translates to 'Even if trolls surround you like an army, you should not lose your temper.' The use of the word 'troll' is a metaphor for women, implying that women are mischievous and disruptive. This perpetuates the stereotype that women are inherently problematic and that men must constantly deal with their antics. Such generalizations perpetuate misogyny and reinforces the idea that women are responsible for causing chaos.
+--------------------------------------------------
+
+ID: 272
+Text: Muthu Kutti Just now *Drinking juice late at night* Naa koopta athu (sali) vanthurum mama #muthumc VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The meme implies that women are promiscuous and irresponsible, suggesting that the woman in the meme is drinking juice late at night in an inappropriate manner. Such generalizations perpetuate stereotypes and reinforces the idea that women are sexually promiscuous.
+--------------------------------------------------
+
+ID: 185
+Text: Dharshan Just now 👥 Macha enta vanguna kaasu kudra His reply : #dharshanmc புகை பிடிப்பது உயிருக்கு கேடு Smoking Kills Asinga paduthra...insult panra...
+Classification: misogyny
+Explanation: The text targets women by implying that smoking makes them unattractive and worthless. This reinforces the stereotype that women's worth is tied to their physical appearance and that smoking is detrimental to their attractiveness. Such messaging can perpetuate harmful attitudes towards women and perpetuate gender-based discrimination.
+--------------------------------------------------
+
+ID: 757
+Text: **Dood mt Sunday work panna... Compensation ku monday leave nu soninga... 😉 Manager** mt MOKKA POSTU f SK_MC Athuu fake uhh 😉 GET IT ON Google Play
+Classification: misogyny
+Explanation: The meme implies that women are irresponsible and lazy, and that they should be grateful for any compensation they receive. This perpetuates the stereotype that women are less competent than men and reinforces the idea that women are responsible for unpaid work. Such humor perpetuates a culture where women are undervalued and objectified.
+--------------------------------------------------
+
+ID: 245
+Text: Muthu Kutti 1m *After getting a seat in the unreserved compartment* #muthumc VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The meme uses the term 'Muthu Kutti' which is a derogatory term for a young girl or woman, implying that she is promiscuous or sexually suggestive. This reinforces the stereotype that women are inherently seductive and sexual objects. Additionally, the caption '#muthumc VERA LEVEL MEMES' translates to 'Level Up Memes for Muthu', implying that the memes are specifically targeted at or intended for young women. This reinforces the objectification and sexualization of women.
+--------------------------------------------------
+
+ID: 440
+Text: Takkar movie official teaser is out now ! Adengapa... Modern love huh pathi ivalo Open huh intresting huh solli irukanga
+Classification: misogyny
+Explanation: The text implies that modern love is only interesting for women and not for men, perpetuating the stereotype that women are primarily interested in romantic relationships. This reinforces the patriarchal notion that men are the pursuers and women are the objects of their affection.
+--------------------------------------------------
+
+ID: 661
+Text: When she doesn't know what is Instagram mt VERA LEVEL MEMES _ _dharshan._ Romba romba rare piece chettiyar TAMIL MEMES Google Play
+Classification: misogyny
+Explanation: The meme suggests that women are technologically inept and rely on others for guidance. This perpetuates the stereotype that women are less tech-savvy than men. Such generalizations perpetuate a hierarchical society where women are seen as less capable.
+--------------------------------------------------
+
+ID: 1766
+Text: மன்னவி மீது கோபத்தை அளவுக்கு மீறி வெளிப்படுத்தினால்.... சாம்பார் ரசமாகும் ரசம் வெசமாகும்...
+Classification: misogyny
+Explanation: The text implies that women, when angry, are likely to exaggerate their emotions and act in a dramatic manner. This perpetuates the stereotype that women are overly emotional and volatile. Such generalizations perpetuate inequality and undermine the agency of women.
+--------------------------------------------------
+
+ID: 323
+Text: ACC AADHAVAN CINE CREATIONS PRESENTS விழித்தெழு WRITTEN & DIRECTION A.TAMILSELVAN PRODUCER GM.DURAI ANAND MUSIC NALLATHAMBI / LYRICIST INIYA PATHIRAVAN & SAMBATH KUMAR / EDITOR S.R.MUTHU KUMARAN STUNT SR.HARIMURUGAN / CHOREOGRAPHER STYLE BALA / COLORIST DELEPAN PROD.S & MAKING LAKSHMANAN / MAKEUP PRABHAKARAN / CO-D SAMBATH KUMAR.A LYRICIST KAVIGNAR SELVARAJA / KAVIGNAR MUGILAN / SINGER PRIYANKA MUKESH VEEL MURUGAN SFX.S & MIXING LOH / PRODUCTION MANAGER SATHISH P.R.O SAKTHI SARAVANAN / PROD. DESIGN SRI KALASA STUDIO / STILLS VELU MRT MUSIC MJ MEDIA UNIVERSE A NETWORK OF YOUR NEED'S mt Vizhithelu from 3rd March world Wide release in Theaters
+Classification: not-misogyny
+Explanation: The provided text credits the team members of a film, including several women, using respectful titles and without any derogatory or objectifying language. Therefore, it does not contain misogynistic content.
+--------------------------------------------------
+
+ID: 817
+Text: Thanglish_cafe Love ah sollaamalayae..! Thanglish_cafe Love failure aagitan sir..🙂💔
+Classification: misogyny
+Explanation: The meme implies that love failures are solely the responsibility of women, perpetuating the stereotype that women are primarily responsible for relationship issues. This reinforces the patriarchal notion that women should bear the burden of emotional responsibility in relationships.
+--------------------------------------------------
+
+ID: 889
+Text: nyt achuna melody song kekura na enga items song kekura ne enga
+Classification: misogyny
+Explanation: The meme suggests that women are only interested in melody and not in meaningful lyrics. This perpetuates the stereotype that women are superficial and prioritize aesthetics over substance.
+--------------------------------------------------
+
+ID: 590
+Text: Koill pona peaceful ah irukum amadhiya irukum Me going to temple and its full crowd and noice VERA LEVEL MEMES @THALAPATHYSM @_vishal_sammy_
+Classification: misogyny
+Explanation: The text targets women by implying that they are responsible for crowds at the temple, suggesting that women are more likely to generate noise and commotion. This perpetuates the stereotype that women are inherently more chaotic and disruptive than men.
+--------------------------------------------------
+
+ID: 1318
+Text: hyyy ennaa nanum pathutey iruken adikadi enna orasurathum ahhh anni azhagu anni nu monangarthuma iruka rugged anni un asingam pudicha vela ellam enkita kaatatha, thundu thunda aruthu kaaka ku potruven
+Classification: misogyny
+Explanation: The text objectifies women by suggesting that they are reckless and promiscuous. It reinforces the stereotype that women are responsible for multiple sexual partners. Such generalizations perpetuate the idea that women lack agency and control over their sexual choices.
+--------------------------------------------------
+
+ID: 1290
+Text: Enna than avalunga mothama moodi cover panalum Namma mind ava mola paathu mood aagi mothama mudika than thonuthu
+Classification: misogyny
+Explanation: The text implies that women's minds are like covers for men's minds, suggesting that women's thoughts are inferior or irrelevant. This perpetuates the stereotype that women are intellectually inferior to men. Such generalizations perpetuate gender inequality and reinforce harmful social norms.
+--------------------------------------------------
+
+ID: 251
+Text: Vicky Infosys Forwarded Blr Coorg variya 8:24 AM Boys? 8:24 AM Anand Infosys Polam 9:31 AM Aug12-15 plan panalam 9:32 AM Santhosh Infosys Anand Infosys Aug12-15 plan panalam Antha leave la na iruka matan da 9:48 AM Anand Infosys Adeii 10:07 AM Santhosh Infosys Enaku leave ila da 🙁 10:09 AM Antha leave na mrng shift vara sat sun support pananum 🙁🙁 10:09 AM f MUTU MC Indha maari pesumbodhu dhaan gaandaavudhu
+Classification: misogyny
+Explanation: The text objectifies women by implying that women are responsible for supporting men during their shifts, and uses derogatory language like 'pesumbodhu' (burden) to describe women's contributions. This perpetuates the stereotype that women are primarily domestic and responsible for household or office support.
+--------------------------------------------------
+
+ID: 701
+Text: Naana Paranthena - Lyrical video is out ! Starring Ishaaon, Prranali Alagu na alagu achacho apdi orru Alagu da Prranali 😍
+Classification: misogyny
+Explanation: The meme targets women by objectifying and sexualizing them. It implies that women are primarily valued for their physical appearance and attractiveness. This reinforces the stereotype that women are primarily defined by their physical attributes and sexual appeal.
+--------------------------------------------------
+
+ID: 1162
+Text: அவ என்னை ஏமாத்துனத கூட மன்னிச்சிடுவேன் டா ஆனா? அவ புள்ளய விட்டு என்னை "மாமா"ன்னு கூப்பிட வச்சா பாரு. ~ மறக்கவே முடியல dude..
+Classification: misogyny
+Explanation: The text objectifies women by implying that women are primarily concerned with physical appearance and superficiality. It reinforces the stereotype that women are frivolous and incapable of intellectual or emotional depth. Such humor perpetuates the idea that women are less valuable than men.
+--------------------------------------------------
+
+ID: 415
+Text: Muthu Kutti 1m *when its too much rainy* Tea kada anna : ellarum en kadai kulla nillunga malai ninona polam #muthumc VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The meme uses the stereotype that women become moody and irrational during menstruation. This perpetuates the idea that women are emotional and irrational, and reinforces the misconception that menstruation is associated with negative emotional states.
+--------------------------------------------------
+
+ID: 383
+Text: Ivanuku epd nga daily thriller script kadaikudhu mt @_vishal_sammy_ IPL TAMIL ME GET IT ON Google P
+Classification: misogyny
+Explanation: The text suggests that women are obsessed with daily soap operas and are incapable of engaging in intellectual pursuits like watching IPL. This perpetuates the stereotype that women are primarily interested in superficial entertainment and lack intellectual curiosity.
+--------------------------------------------------
+
+ID: 839
+Text: ~Proposal Expectation Endha pudi...Love you..!! ~Reality Un kaala pudichi kekuran enniya love pannu.!
+Classification: misogyny
+Explanation: The meme suggests that reality often falls short of romantic expectations, specifically in the realm of love. The humor arises from the exaggerated gap between ideal love and the harsh reality of relationships. While the meme does not explicitly target women, it perpetuates the stereotype that love is often disappointing and that reality is harsh, potentially reinforcing negative feelings towards women in relationships.
+--------------------------------------------------
+
+ID: 1651
+Text: vijay tv little princess dad ivan vera mahabaratham pottalum pottan. ellaam ponnungalum arjunan mela pathiyam irukanga.. ivana mathiri than future husband veanum nu sollita enga nelama laam enna ya..
+Classification: misogyny
+Explanation: The meme suggests that women are primarily concerned with marriage and finding a suitable husband, implying that their future prospects are limited to domesticity. This reinforces the stereotype that women are primarily defined by their marital status and domestic responsibilities.
+--------------------------------------------------
+
+ID: 980
+Text: mt ~followers 2 minutes la 600 Rupees earn panna solli tharaanga others TAMIL MEMES @mentor.guru ahu endha page nu sollungadaa mt
+Classification: misogyny
+Explanation: The text suggests that women can easily earn money by following the mentor's page. This perpetuates the stereotype that women are financially dependent on men and reinforces the misconception that achieving financial independence is effortless for women.
+--------------------------------------------------
+
+ID: 1145
+Text: ~ ஒல்லியா இருக்கேன்னு வருத்தப்படாதடி ~ ஏன்டா பட்டாம்பூச்சி எப்போ குண்டா இருந்துச்சினு சொல்ல போறியா.? ~ இல்ல கொசு என்னைக்கும் குண்டா இருந்துச்சு.. புகையிலை புற்றுநோயை உண்டாக்கும் புகையிலை மரணத்தை விளைவிக்கும்
+Classification: misogyny
+Explanation: The meme reinforces the stereotype that women are responsible for maintaining a harmonious household and pleasing their husbands. It implies that the woman in the meme is lazy and irresponsible, and that her husband is unhappy with her. This perpetuates the idea that women are primarily valued for their domesticity and sexual appeal.
+--------------------------------------------------
+
+ID: 495
+Text: She : Match pakuriya da Me : Aama tho mudinchirum vandhuren She : Ada enjoy pani paaru da wait panren _vishal_sammy_
+Classification: misogyny
+Explanation: The meme implies that women are only interested in material possessions and enjoy spending money, while men are hardworking and responsible. This perpetuates the stereotype that women are frivolous and materialistic, while men are the breadwinners. Such generalizations perpetuate gender stereotypes and reinforce discriminatory attitudes towards women.
+--------------------------------------------------
+
+ID: 951
+Text: Kesari ah sapdum bothu mattum thondaila eranguthu. mt AAHAAN *Rava Upma va sapdum bothu adachikuthu.
+Classification: misogyny
+Explanation: The meme suggests that women are insatiable and will always demand more, even after receiving ample attention. This perpetuates the stereotype that women are greedy and insatiable, and reinforces the idea that women are always demanding more from their partners.
+--------------------------------------------------
+
+ID: 399
+Text: Movies, events, festival enga ponaalum aasaikku oru snap photo eduthu anupanum... ukkandhu mothamum video eduthu anupitu iruka kudathu VERA LEVEL MEMES VERA LEVEL MEMES VERA LEVEL MEMES mt
+Classification: misogyny
+Explanation: The text suggests that women are primarily interested in taking selfies and posting them on social media, implying that their primary purpose is to entertain others with their physical appearance. This perpetuates the stereotype that women are primarily concerned with aesthetics and superficiality.
+--------------------------------------------------
+
+ID: 1346
+Text: THAT ONE GIRL IN OUR CLASS NALLA PAAL MAADU MARI IRUNTHU SEMAIYA MOOD YETHUVA
+Classification: misogyny
+Explanation: The text translates to 'That one girl in our class is always staring at me like she wants to sleep with me.' This perpetuates the stereotype that girls are sexually interested in boys and objectifies the girl by reducing her to her physical appearance and sexual desires. Such statements reinforce harmful gender norms and perpetuate the sexualization of women.
+--------------------------------------------------
+
+ID: 171
+Text: Partner movie sneak peek is out now Pakka comedy entertainer movie ya irukum Polayae... Pakka theatre material
+Classification: misogyny
+Explanation: The text objectifies women by associating them with comedy and entertainment. It reinforces the stereotype that women are primarily interested in these aspects. This perpetuates the idea that women lack agency and are primarily defined by their entertainment value.
+--------------------------------------------------
+
+ID: 1050
+Text: Ex : அடுத்த ஜென்மம்மனு ஒன்னு இருந்தா நீயும் நானும் மறுபடியும் பொறந்து லப் பண்ணணும் டா Me : எதுக்கு அப்போவும் என்ன லவ் பண்ணிட்டு கடைசில எனக்கு விபூதி அடிச்சிட்டு இன்னொருத்தன் கூட போகுவா
+Classification: misogyny
+Explanation: The text objectifies women and reinforces the stereotype that they are responsible for maintaining harmony in relationships. It implies that women should prioritize the needs of men and suppress their own desires for the sake of the relationship. This reinforces the patriarchal ideology that women are subordinate to men.
+--------------------------------------------------
+
+ID: 1202
+Text: பக்கத்து வீட்டு பொண்ணு PANDIAN MC ஆண்ட்டி உங்க பையனுக்கு உடம்பு சரியில்லைன்னு கேள்வி பட்டேன் My mom Me ஆமாமா ரெண்டு நாளா வயிற்றால போகுது! ஒரே பேதி
+Classification: misogyny
+Explanation: The text objectifies women and reinforces the stereotype that women are primarily responsible for household chores and childcare. It implies that women are incapable of multitasking and fulfilling both personal and professional responsibilities. This perpetuates the burden of domestic labor on women and reinforces traditional gender roles.
+--------------------------------------------------
+
+ID: 428
+Text: Muthu Kutti Just now *after put kosu vathi and good knight gold flash* Me to kosu : Aiya thayavu senju poiru ya naa seekaro thunganum #muthumc
+Classification: misogyny
+Explanation: The text objectifies women by associating them with physical attributes like kosu (breast) and gold flash. It also reinforces the stereotype that women are sexually promiscuous. Such humor perpetuates a culture where women are seen as objects of sexual gratification.
+--------------------------------------------------
+
+ID: 301
+Text: These few seconds>>>>>>Any full fledged women superhero film/series @_vishal_sammy_
+Classification: misogyny
+Explanation: The text mocks the idea of female superheroes, suggesting that they are unrealistic and unnecessary. This perpetuates the stereotype that women are not capable of being strong or heroic, reinforcing the misconception that their stories are not worth telling.
+--------------------------------------------------
+
+ID: 1666
+Text: அனைத்து மகளிரும் சாதாரண கட்டண நகரப் பேருந்துகளில் மே 8 முதல் கட்டணமில்லாமல் பயணிக்கலாம் - முதல்வர் மு.க.ஸ்டாலின் *Someone என்னை அநியாயம் பண்றிங்க ஆண்களும்/பெண்களும் சமம்-னு சொல்லிட்டு.. இப்போ பெண்களுக்கு மட்டும் இலவசமா..
+Classification: misogyny
+Explanation: The text reinforces the stereotype that women are financially dependent and suggests that they should be grateful for any financial assistance they receive from men. This perpetuates the idea that women are inferior and that their worth is primarily defined by their relationship to men.
+--------------------------------------------------
+
+ID: 395
+Text: Muthu Kutti Just now EL CLASSICO 💛VS💙 #muthumc இன்று நடைபெறும் சென்னை - மும்பை போட்டியில், வெற்றி பெறும் அணி, 2வது இடத்திற்கு முன்னேறும்..! MAY 06. 2023 India Cements 7 VERA LEVEL MEMES f O MUTHU MC UTTRADHEENGA YEPPOV UTTRADHEENGA YEMMOV
+Classification: misogyny
+Explanation: The meme targets women by objectifying them and implying that their success is solely due to their physical attractiveness. This reinforces the stereotype that women are primarily valued for their physical appearance and sexual appeal.
+--------------------------------------------------
+
+ID: 1236
+Text: 3 வருடங்கள் ஆனாலும் கெட்டுப்போகாத இட்லி: புதிய முறையை கண்டுபிடித்து அசத்திய பேராசிரியை! NEWS 7 Fb/Thair vadai 2.0 இது என் பொண்டாட்டிக்கு தெரியாம பாத்துகனுமே
+Classification: misogyny
+Explanation: The text implies that women are incapable of making independent decisions and requires a man's guidance. This reinforces the stereotype that women are dependent on men for guidance and decision-making.
+--------------------------------------------------
+
+ID: 1054
+Text: கண்களால் கவர்ந்து ,, !! மூச்சு காற்றில் கலந்து ,,,!! நுரையீரலில் நுழைந்து ,,,!! என் இதயத்தில் இடம் பிடித்தவளே. !!
+Classification: misogyny
+Explanation: The meme uses exaggerated and inappropriate physical contact between a man and a woman, implying dominance and control over women. Such humor perpetuates stereotypes that normalize violence and objectification of women. This aligns with cultural contexts in India where misogynistic jokes often rely on exaggerated physicality and sexualization of women.
+--------------------------------------------------
+
+ID: 507
+Text: SHAAKUNTALAM MOVIE TRAILER IS OUT NOW ! VISUALS UHM PERFORMANCE UHM VERA LEVEL LA YEDUTHU IRUKANGA PA 🔥
+Classification: misogyny
+Explanation: The text celebrates the release of the Shaakuntalam movie trailer and praises the visuals and performance of the lead actress. It uses hyperbole and colloquial language commonly used to express excitement about a movie release in Tamil culture. While it does not explicitly target women or promote misogynistic views, the use of the term 'performance' in this context can be interpreted as objectifying the actress's physical attributes rather than acknowledging her artistic abilities.
+--------------------------------------------------
+
+ID: 1738
+Text: 2K Kids Girls உங்களை அடையாம விடமாட்டோம் 90's Kids boys SIYA MEME 90's Kids மாப்பிள்ளமா, அவ்வளவு Easy யா கிடைக்காது
+Classification: misogyny
+Explanation: The meme reinforces the stereotype that 2K girls are more difficult to approach than 90s boys. It implies that 90s boys are easier to date than 2K girls. This perpetuates the idea that women are more demanding and complicated than men.
+--------------------------------------------------
+
+ID: 1028
+Text: En ponnu amaidhiyana ponnu, kuninja thala kooda nimara mata ~ Reality _zero_memes Eleii Isuku..
+Classification: misogyny
+Explanation: The meme uses a stereotype that women are always nagging and unrealistic. This reinforces the idea that women are responsible for negativity in relationships and that they are overly emotional. Such generalizations perpetuate harmful gender stereotypes and reinforces patriarchal norms.
+--------------------------------------------------
+
+ID: 1418
+Text: TAMIL 18PLUS TALES Nee ennadi Winter season la Mangoes Grow pannitu iruka 🥰
+Classification: misogyny
+Explanation: The meme implies that women are only interested in mangoes during the winter season, perpetuating a stereotype that women are frivolous and materialistic. This reinforces the misconception that women lack interest in other aspects of life during certain seasons.
+--------------------------------------------------
+
+ID: 530
+Text: POV~ Uploading your hot af looking photo to kadupethify your ex..... VERA LEVEL MEMES ***** Gethu kaatiyadhaga unargirar.....
+Classification: misogyny
+Explanation: The meme implies that women's primary purpose is to upload hot photos to impress their exes. This reinforces the stereotype that women are primarily valued for their physical appearance and sexual appeal. Such humor perpetuates the objectification and sexualization of women.
+--------------------------------------------------
+
+ID: 1109
+Text: Hey...! சச்சந்திரா நா அந்த அர்த்தத்துல சொல்லல மாமா...! 😬🚶 crush hu 🍌✨ online என்ன விலையழுகே சொன்ன விலைக்கு வாங்க வருவேன் 🏃 08:42 ✓✓ 8:44 am ✓✓ 8:44 am ✓✓ TAMIL MEMES 123
+Classification: misogyny
+Explanation: The meme implies that women are frivolous and prioritize physical appearance over financial responsibility. This perpetuates the stereotype that women are irresponsible and incapable of managing finances.
+--------------------------------------------------
+
+ID: 1719
+Text: பணத்தின் தத்துவம் வாழ்வதற்குக் செலவு மிகக் குறைவு தான் ஆனால்.. www.Tamilscope.com அடுத்தவர்களைப் போல் வாழத்தான் செலவு மிக அதிகம்..!
+Classification: misogyny
+Explanation: The text implies that women are more likely to spend money than men. This perpetuates the stereotype that women are more frivolous and irresponsible with money than men. Such generalizations perpetuate gender stereotypes and reinforce harmful social norms.
+--------------------------------------------------
+
+ID: 555
+Text: Mc Muriel Just now - ipolam movie pakka intrst illa, cricket pakka intrst illa , yaarkittayum pesa intrst illa . Maturity vanthuduchu pola : Ithukku per depression da pannada #mc_muriel mt mt
+Classification: misogyny
+Explanation: The text suggests that mature women are more likely to experience depression, implying that immaturity is a virtue in women. This perpetuates the stereotype that women are more susceptible to mental health issues and reinforces the misconception that maturity negatively impacts women's mental well-being.
+--------------------------------------------------
+
+ID: 176
+Text: Venue : Royapettah Taj club house, Chennai on Aug 19th Guys who are looking for higher studies at aboard Ayya intha world education exhibition attend pannugaya Global Reach Entry free link in bio 🔥
+Classification: misogyny
+Explanation: The text targets women by suggesting that they are only interested in higher studies abroad and that they are dependent on men for guidance and opportunities. This perpetuates the stereotype that women are less capable and need male assistance to achieve their goals.
+--------------------------------------------------
+
+ID: 1627
+Text: mamiyar உங்க வீட்டில் டீ போட சொல்லி கொடுக்கலையா 😂my fr😂 இமண்ட பத்திரம் அடுத்தவர் உயிர் கூட விளையாட கூடாது என சொல்லி கொடுத்து இருக்காங்க
+Classification: misogyny
+Explanation: The meme humorously suggests that mothers are responsible for doing chores like making tea, while men are expected to be more adventurous and playful. This perpetuates the stereotype that women are primarily domestic and responsible for household duties, while men are free to pursue their own interests.
+--------------------------------------------------
+
+ID: 620
+Text: Accidental farmer - Sony LIV series Indha maari orru semma comedy series Tamil la vandhu irukunae nariya peruku theriyala
+Classification: misogyny
+Explanation: The text humorously suggests that the Sony LIV series 'Accidental Farmer' is more entertaining than the comedy series 'Indha maari orru semma'. This implies that women-centric shows are less enjoyable or humorous than those targeted at men. Such a generalization perpetuates the stereotype that comedies involving women are less engaging or funny.
+--------------------------------------------------
+
+ID: 1237
+Text: அம்மா தூங்கிடீங்களா இன்னைக்கு DALGONA COFFEE செஞ்சு பார்க்கலாம் Little princess மண்ட பத்ரம் மீம்ஸ் Amma அடியேய் கய்ல காசு இல்லாம ஏதோ இருக்குறத வச்ச சாளிச்கட்டு பைத்தியம் போல ஏதாவது பண்ண உன் அப்படியே கொன்றுவேன் 1/1
+Classification: misogyny
+Explanation: The meme targets women by objectifying them and implying that they are responsible for providing sexual gratification to men. The use of the term 'Little princess' reinforces the stereotype of women as delicate and subservient. Additionally, the suggestion that the woman should be punished for her lack of sexual availability reinforces the idea that women are accountable for men's desires.
+--------------------------------------------------
+
+ID: 1010
+Text: Mom to me : Dei pooi clean shave panu po *After clean shave* Mom: Enna da ponnu maari aaita 😂🤣 &whole family laughing me 😂🤣 mt ms charan tamil memes
+Classification: misogyny
+Explanation: The meme implies that women are naturally messy and that shaving makes them more attractive. This perpetuates the stereotype that women are responsible for maintaining their physical appearance to be deemed attractive. Such humor reinforces the idea that women's natural state is messy and that their worth is tied to their physical appearance.
+--------------------------------------------------
+
+ID: 744
+Text: defeated defending champions nengalum ena marii dhn polae yepidi Nambala dhn easy ah upset akiranga
+Classification: misogyny
+Explanation: {
+"explanation": "The text implies that women, represented by "nengalum", are easily upset and prone to emotional instability, thereby perpetuating a stereotype that women are more emotional and volatile than men.",
+"classification": "misogyny"
+}
+--------------------------------------------------
+
+ID: 1262
+Text: dailyhunt GET IT ON Google Play விளம்பரங்களில் வரும் அம்மா மட்டும்தான் முத்தமிட்டு தலைகோதி குழந்தைக்கு ஹார்லிக்ஸ் தருவாங்க போல.. -யாரோ பக்கத்து வீட்டிலலாம் சனியனே! இதை சீக்கிரம் குடிச்சுத்தொலையேன்ற சவுண்டு தான் வருது... 😮😮😮
+Classification: misogyny
+Explanation: The meme humorously suggests that mothers are overly affectionate towards their daughters, comparing them to the exaggerated affection mothers in advertisements display towards their sons. This reinforces the stereotype that mothers favor sons over daughters.
+--------------------------------------------------
+

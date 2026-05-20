@@ -1,0 +1,2410 @@
+Misogyny Text Classification Results
+==================================================
+
+ID: 1193
+Text: கணவர் : செல்லம் சப்பாத்தி சூப்பரா செஞ்சிருக்கடி 😍😍 மனைவி : 😡😡 கணவன் : நல்லாருக்குன்னு தானே சொல்றேன் அப்ரம் ஏன் முறைக்கிற.. 😠😠 -யாரோ மனைவி : அது தோசை 😡😡😡 dailyhunt Download on the App Store GET IT ON Google Play
+Classification: misogyny
+Explanation: The meme contains lines that use derogatory terms to target women, such as 'தானே சொல்றேன்' and the promotion of daily hunting on app stores. These elements suggest objectification and implicit criticism towards women, which aligns with the classification criteria for misogynistic content.
+--------------------------------------------------
+
+ID: 427
+Text: MUTHU MC @muthu__kutti *Manager discussing with TL to put ratings* MUTHU MC MEMES MUTHU MC
+Classification: misogyny
+Explanation: The text contains the word 'memes' which can symbolize cultural phenomena and objectification. The mention of Muthu MC, a male manager, may imply objectification of women by using their names. This context suggests targeting women through objectification and stereotyping.
+--------------------------------------------------
+
+ID: 1474
+Text: Viper Memez IRUKKU EDHO ULLA IRUKKU
+Classification: misogyny
+Explanation: The meme uses the term 'viper' which symbolizes weakness and inferiority. The phrase includes 'Memez' (meme) and 'ULLA' (girls/women), creating a negative image of women in a humorous context. This promotes objectification and stereotypes, aligning with misogynistic content.
+--------------------------------------------------
+
+ID: 766
+Text: In Irugapatru Director Yuvaraj Dhayalan has given a quality film to Tamil cinema by telling the problems of divorce and its solution in a beautiful way. Another quality content from Potential studios
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text discusses a Tamil film titled 'In Irugapatru' that explores the complexities of divorce in a beautiful manner. While the film touches on the emotional aspects of family issues, particularly focusing on the challenges faced by women dealing with their marital problems, it does not explicitly or implicitly promote misogynistic content towards women. The language and context are more about understanding family dynamics rather than targeting any specific gender.
+}
+```
+--------------------------------------------------
+
+ID: 486
+Text: Dad : யாரையாவது Love பண்ணா சொல்றா கட்டிவைக்கிறோம்.. Me : அவங்க வீட்ல ஒத்துக்கமாட்றாங்க Dad : யாரு ஒத்துக்கலனு சொல்லு நாங்க பேசறோம்.. Me : வேறயாரு அந்த பொண்ணு தான் *Dad
+Classification: misogyny
+Explanation: The text contains an explicit insult towards the child, which is interpreted as targeting women (the child) in a misogynistic manner. The child's response is offensive and disrespectful, reinforcing negative stereotypes and objectification.
+--------------------------------------------------
+
+ID: 480
+Text: Ramzan vandhutta podhum hello makkale nu camera va thookitu Mannady ku kelambi vandhurraanunga.... VERA LEVEL MEMES
+Classification: not-misogyny
+Explanation: The text is a casual greeting from Ramzan to Mannady, who is described as a beloved daughter. The mention of 'vandhurraanunga' (father) does not target any specific group or gender. There's no indication of misogynistic content towards women or girls.
+--------------------------------------------------
+
+ID: 110
+Text: Muthu Kutti Just now Oru kaalathula 50rs 100rs gpay pannu da nu solitu iruntha paya Nethu Vijay Antony concert pora inaiku AR Rahman concert poranae ya #muthumc KuttyMob.in
+Classification: not-misogyny
+Explanation: The text mentions ticket prices and collaborations between Muthu Kutti and AR Rahman but does not contain any explicit or stereotyping content targeting women. The language is neutral and factual.
+--------------------------------------------------
+
+ID: 775
+Text: Prakash Mc Just now Motivated Me to Me at 11pm - Ini Edhachum productive aa pannanum, alone irukkurome nu feel panna koodathu ,Hope ah vitradha daa ,etc.,! Next day mrng ~ Adhu fake uhh @prakaz__
+Classification: not-misogyny
+Explanation: The text does not target women; it is a casual and supportive interaction between two individuals addressing each other. The language used is more about mutual encouragement and admiration rather than targeting women in any form.
+--------------------------------------------------
+
+ID: 1388
+Text: When thambi touches akka pussy °Akka Akka : Pesitu irukumbothu keela yenda kai vaikra sshhaaa room kulla vaa kalatitu katren thechi vidu Hotty Temple
+Classification: misogyny
+Explanation: ```json
+{
+  "explanation": "The text references traditional female roles through terms like 'Akka' and 'pussy,' which are derogatory in Indian culture. The scene is part of a dance performance, which often reflects traditional female-dominated contexts. While not explicitly targeting women stereotyping or discrimination, the use of such language can be interpreted as objectifying them within a cultural context.
+  "classification": "misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 1189
+Text: மீமாண்டி தந்தைக்கும் மகனுக்கும் ஜோடியாக நடித்த சகோதரிகள் ராகங்
+Classification: misogyny
+Explanation: ```json
+{
+  "explanation": "The text uses the phrase 'மகனுக்கும்' which can be interpreted as a negative stereotype towards women, implying that the friend is being treated as a manneater who ignores boundaries. This falls under the classification of 'misogyny' due to stereotyping and objectification of women.
+  "classification": "misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 1721
+Text: கை தவறினால் பொருள் உடையும் என யோசித்தவர்கள் வாய் தவறினால் மனம் உடையும் என யோசிப்பதில்லை...
+Classification: misogyny
+Explanation: ```json
+{
+  "explanation": "The text implies that people who rule and have women in their lives are not interested in women, which is a broad statement without targeting any specific group. It uses vague language ("kai泰拉") and refers to women as "மனம்" (woman) without specifying gender, suggesting lack of concern for women's presence in society.",
+  "classification": "misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 531
+Text: She : Kandipa chatting panitu dhan irupan ~Epdi adhukulla 3.5M _dharshan._ திரும்ப திரும்ப இந்த ஒரு கேள்வி தான் என் மண்டைக்குள்ள ஓடிட்டு இருக்கு TAMIL MEMES GET IT ON Google Play
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text contains a meme post titled 'Tamil Memes GET IT ON Google Play' which includes the phrase '3.5M _dharshan.' The term 'dharshan' is likely a popular Tamil meme or trend, but it does not explicitly target women in any negative way. The content appears to be humorous and light-hearted, with no stereotyping, discrimination, or objectification of women. The mention of " Epdi adhukulla" (a popular Tamil song) adds to the meme's humor without targeting women.
+  }
+{
+  "classification": "not-misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 985
+Text: EVERY BOY DREAM SHYAM MC CHENNAI PASANGA MEME ORU NAAL AMMAVUKU PERUSA INTHA MAARI YEATHA PANANUM
+Classification: not-misogyny
+Explanation: The text is about every boy wanting a specific boy band to make a meme. It does not target women or girls; instead, it focuses on admiration for boys and their engagement with cultural figures.
+--------------------------------------------------
+
+ID: 539
+Text: Muthu Kutti Just now Room la yarum illama Veliya poga vandium illama Naragam pa athu 😉 Naragam pa athu 😩 #muthumc VEERA LEVEL MEMES VEERA LEVEL MEMES VEERA LEVEL MEMES LE
+Classification: not-misogyny
+Explanation: The text expresses affection towards someone else using the phrase 'I love you' and promotes a viral meme trend with hashtags indicating popularity among women. It does not target specific groups negatively but rather highlights community trends.
+--------------------------------------------------
+
+ID: 1058
+Text: ~ When Mom cooking Upma in home ~ Dad Sis Bro Me WELCOME Mom Ennada idu ellam saapdama poranga !!
+Classification: not-misogyny
+Explanation: The text humorously addresses both the father and mother equally, using playful language to express mutual respect and appreciation without targeting any specific gender or aspect of female identity.
+--------------------------------------------------
+
+ID: 678
+Text: Muthu Kutti Just now Me : innaiku enna ma saapadu?? Mom : sooru beans sambhar Me : epa paarthalum sambhar thana diff ah ethachu sei ma Mom : un pondati varuva avata ithula kelu ava vena senju kudupa Me : emov.. athukutha kaathu nu iruken #muthumc F MutHU MC
+Classification: not-misogyny
+Explanation: The text is a playful meme referencing Pairthalum food, which is a common Indian food item often used in memes to highlight the rich cultural scene. The mention of Muthu Kutti's name and hashtags suggest it's part of a meme that could be seen as cultural reference rather than targeting any specific group or gender. There is no explicit or stereotyping content towards women; it's more about humor and referencing popular culture.
+--------------------------------------------------
+
+ID: 1102
+Text: 10 வருசத்துக்கு முன்னாடி நீதான் என் புருஷன்னு சொன்னவ,... இன்னினிக்கு புருஷன் கிட்ட சொல்லிடுவேன்னு சொல்றா... KARUR MEMER
+Classification: not-misogyny
+Explanation: The text contains playful remarks and jokes that target women, using humor and teasing to make fun of them. It does not contain stereotyping, hatred, discrimination, sexualization, objectification, insults, or mockery towards women. Instead, it is a form of entertainment.
+--------------------------------------------------
+
+ID: 317
+Text: Smith : Annan pitch la paduthuthen cup vangitu vandhu sandhipom Ind Bowlers _vishal_sammy_
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text is a playful exchange where Smith and Annan are engaged in a teasing game involving the word 'paduthuthen,' which likely refers to paddies or animals that paddle boats. The meme humorously attempts to guess each other's identities, but it does not target any specific group towards women. There is no stereotyping, discrimination, or objectification of women, nor is there any insult or mockery. Therefore, the text is classified as 'not-misogyny.'
+}
+```
+--------------------------------------------------
+
+ID: 1150
+Text: Me : இன்னைக்கு வெளிய எங்கயும் போகாதீங்க டோழி.. - ஏண்டா Teddy பொம்மையனு நினைச்ச தூக்கிட்டு போயிருவாங்களா..🙈 Me : கரடினு நினைச்ச வனத்துறை வந்து பிடிச்சிற போறாங்கடி வெண்ணமவளே..
+Classification: not-misogyny
+Explanation: The text does not contain any stereotyping, hatred, discrimination, sexualization, objectification, insults, or mockery toward women. It expresses feelings of being ignored and humorous about being overlooked in a playful manner.
+--------------------------------------------------
+
+ID: 931
+Text: Dood TL CAID REFERENCE Nalaiku Nama team ku oru puthu ponnu join pandraga And finally came to know that she is married
+Classification: misogyny
+Explanation: The text references 'Nalaiku Nama,' a historically excluded group of women in India. This term implies exclusion from formal education and rights, suggesting objectification. The mention of marriage could imply a sense of family or community, but the primary focus is on the gender stereotyping associated with 'Nalaiku Nama.' These elements align with misogynistic content as they target women through objectification and exclusion.
+--------------------------------------------------
+
+ID: 345
+Text: muthu mc @muthu_kuttti Naa love panna la ponnu venum nu kekala Just Frndly ah pesurathuku oru ponnu venum avlotha...😔❤️ #muthumc VERA LEVEL MEMES 8:31 PM • May 27, 2023
+Classification: not-misogyny
+Explanation: The text expresses positive interactions with friends and expresses affection towards a female character. There are no explicit sexualized terms or negative stereotyping towards women. The content is focused on personal expression and friendliness, not targeting anyone negatively.
+--------------------------------------------------
+
+ID: 591
+Text: Vandila eduthutu varava di nu keta... Edhukku da veen selavu bus la pona enaku free, unaku minji 50 aagum day full ah suthuna kuda nu solra ponnu.... Rare piece sir ❤️ VERA LEVEL MEMES mt
+Classification: misogyny
+Explanation: The meme promotes a service or product that could relate to women's issues. It includes the term 'VERA,' which is a cultural reference in Indian society for women, suggesting it may objectify their experiences. The use of a cute emoji and the context imply promotion towards women, potentially targeting them through objectification.
+--------------------------------------------------
+
+ID: 949
+Text: Me: Thala Valikuthu Kannu Valikuthu Kaluthu Valikuthu Muthuku Valikuthu *Mom *Me Ippa Seriyagidum Poo...
+Classification: not-misogyny
+Explanation: The text is a casual greeting from a person to their mom with neutral Tamil phrases. It does not target women or imply any form of discrimination, objectification, insults, or mockery. Therefore, the classification is 'not-misogyny'.
+--------------------------------------------------
+
+ID: 786
+Text: வீட்ல எல்லாரும் இருக்கப்போ saree, chudi, நாம தனியா இருக்கப்போ மாடர்ன் டிரஸ் okda #sethu
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text uses slang terms like 'வீட்ல' (I love you) and phrases such as 'ருக்கப்போ saree' (I love you), which are common in Tamil culture to express affection towards others. The mention of a setu dance (#sethu) is likely referencing a cultural reference, but it does not target women or contain any explicit content related to misogynistic themes such as stereotyping, hatred, discrimination, objectification, insults, or mockery.
+  }
+{
+  "classification": "not-misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 882
+Text: Playing PUBG In 2G Network Be Like Minion Memes Tamil காவியம் மால்ஸ் ஸ்டோர் @Minion_Memes_Tamil MPLATE ENGINEER Vaathiyare Bike eh illama Bike la Porom Vaathiyare...
+Classification: misogyny
+Explanation: The meme promotes female beauty through references like 'Minion' and 'Vaathiyare,' which are common in Indian culture. It uses hashtags and phrases that reinforce female identity, suggesting stereotyping towards women.
+--------------------------------------------------
+
+ID: 562
+Text: ~PS-2 trailer; MC; VERA LEVEL MEMES; _dharshan._; Ennada oruthanum mathika matreenga?; மட்டும்; சும்; பாக்யராஜ்; ஆடியோ மற்றும்; அதிகார தயாரிப்பாளர்; பரப்பக்குடி; ஆடியோ தயாரிப்பாளர்
+Classification: not-misogyny
+Explanation: The text contains references to women's names and phrases that may imply older men, such as 'adhiyana' and 'வயத்சமலெஸ்டர்.' It does not explicitly target or objectify women in a negative way. The meme focuses on celebrating women's lives and relationships but does not promote misogynistic content.
+--------------------------------------------------
+
+ID: 1141
+Text: Nethu endha padam da pona * Ponniyin selvan Cheems_the_Killer epdi da irundhuchu * Poonguzhali iduppu super ah irundhuchu
+Classification: misogyny
+Explanation: The text contains derogatory terms like 'Killer' and 'irundhuchu,' which are often associated with negative stereotypes about women's abilities or roles. These elements suggest a targeted criticism of women in a cultural context where such language is common, indicating a form of misogynistic content.
+--------------------------------------------------
+
+ID: 304
+Text: Dharsan Just now Depression ah iruku bro ~Yen bro work pressure ah??? Ila bro homework mudikala naliki school pona miss adipanga #darshanmc
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text is a casual conversation between individuals discussing personal struggles such as depression, work pressure, homework, and social media presence. The language includes cultural references like 'diwali' but does not target women or girls in a negative manner. It focuses on personal experiences without stereotyping or discrimination towards any group.
+}
+```
+--------------------------------------------------
+
+ID: 221
+Text: Dharsan Just now People praising fafa character in maamannann ✨ மாரி செல்வராக் அண்ட் டீம்~~ #darshanmc
+Classification: not-misogyny
+Explanation: The text uses playful humor and affectionate language to praise a female character referred to as 'fafa' or 'maamannann'. It does not explicitly target women or girls but instead celebrates the presence of a female character in a positive light, using humor to highlight her image.
+--------------------------------------------------
+
+ID: 1272
+Text: அழிந்து வரும் மாபெரும் கலைகளுள் ஒன்று 😂😂😂😂 http://www.dinamalar.com/ DINAMALAR MSK (கார்ட்டூன் ஒரு சிற்பியின் உள்ளம் உள்ளது ஒரு கார்ட்டூன்) தெரு குழாய் சண்டைகள்
+Classification: not-misogyny
+Explanation: The text uses emojis like 😂 to express affection towards others, which is common in Indian culture to convey community support without being explicit. The meme does not target women or girls but rather promotes inclusivity and respect within a community.
+--------------------------------------------------
+
+ID: 1081
+Text: ~when girls get only few likes for their posts *ara guray dress wearing pictures Idha thana theditu iruka @mr_tamil_pasanga *girls
+Classification: not-misogyny
+Explanation: The text discusses how girls receive few likes for their posts, suggesting they may not be popular or engaging. It does not explicitly target women with hate speech, insult, or mockery but rather addresses the social dynamics of posting without much engagement.
+--------------------------------------------------
+
+ID: 742
+Text: Vetri Mra Just now Manager : nalaiku oru task Iruku you should come to Office early.. Me : nalaiku Naa Sick Leave hu..!!! varataahhhh...!! MOKKA POSTU vetrimra mt mt
+Classification: not-misogyny
+Explanation: The text is a casual conversation expressing concern for someone's health and urgency of an urgent task. It does not target women or contain any negative connotations towards them. The language is neutral and supportive.
+--------------------------------------------------
+
+ID: 1269
+Text: காலையில் எழுந்ததும் காபி போட்டியா, லன்ச் என்ன பன்ன போரே, நைட்டுக்கு என்ன சமையல்னு நோய்பி நோய்பினுட்டு கொப்பமவனே தாலி கட்டிட்டா பெரிய வெண்ணைனு நினைப்பு.
+Classification: not-misogyny
+Explanation: The provided text discusses a discussion about digital technology and beauty in an Indian context without explicitly targeting women or containing any form of misogynistic content.
+--------------------------------------------------
+
+ID: 600
+Text: Muthu Kutti Just now *During school days* ~While distributing exam papers Staff : irukura ella tharkurigalum intha class la tha irukingha pola #muthumc VEERA LEVEL MEMES
+Classification: misogyny
+Explanation: The text humorously suggests distributing level memos during exams, which could imply assigning tasks based on academic performance. While not directly targeting women, it may objectify them by suggesting they should receive specific levels, potentially perpetuating stereotypes against women in this context.
+--------------------------------------------------
+
+ID: 325
+Text: Muthu Kutti Just now ~In stand-up call Me : Today I had a call with..... Manager/TL : antha call la nee enna pesuna enna nadanthuchu nu naa kekala Task ah mudichia mudikalaya atha mattum sollu #muthumc VERA LEVEL MEMES
+Classification: not-misogyny
+Explanation: The text from Muthu Kutti is a casual and neutral discussion in a professional setting, discussing work-related matters with the manager. The use of 'muthu' suggests respect and modesty but does not target women or promote any form of misogynistic content. The hashtags indicate female empowerment but are used contextually without targeting specific groups.
+--------------------------------------------------
+
+ID: 1711
+Text: என்னதான் களைப்பு, சோர்வு, மயக்கம் இருந்தாலும் புருஷன திட்டும் போது மட்டும் எங்கிருந்து தெம்பு வருதுனு தெரியல ஏன்னா டிசைன் அப்படி
+Classification: misogyny
+Explanation: ```json
+{
+  "explanation": "The text uses phrases like 'களைப்பு' (girls) and 'சோர்வு' (cook) to highlight women in various roles. The ending suggests that women are expected to excel, which is a stereotype of women's abilities and roles, falling under the classification criteria for "misogyny."
+}
+```
+--------------------------------------------------
+
+ID: 943
+Text: *Mom என்னடி இது தோசைய இப்படி பிச்சி பிச்சி போட்டு வச்சிருக்க @kalavani_memes_page KALAVANI MEMES® *Dad's Little Princess அதுவா மா எப்படியும் தோசைய பிச்சி தான் சாப்பிட போறோம் அதான் மா அத தோச கல்லுல இருந்து எடுக்கும் போதே பிச்சி பிச்சி எடுத்துட்டேன்
+Classification: misogyny
+Explanation: ```json
+{
+  "explanation": "The meme promotes objectification of the mother (mom) by suggesting she is a "kallulu" (a derogatory term for women), implying that she should be treated like a woman and that her daughter should be made to smile again. This stereotyping towards women falls under the classification criteria for misogynistic content.",
+  "classification": "misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 549
+Text: Ruturaj 🥵🔥 _vishal_sammy_ Tell them all. Whoever comes, whoever it is... I'll kill them. I'll kill them all.
+Classification: misogyny
+Explanation: The meme uses a threat against all individuals, not specifically targeting women or girls. The use of slang and transliteration suggests a general approach without gender differentiation. The threat is broad and offensive, reinforcing gender expectations in India by objectifying women.
+--------------------------------------------------
+
+ID: 830
+Text: nivasmc@ft கண்ணம்... அது Bun னு மாதிரி.. KVP MISIRD Post Qar Inland l Aerogr KVP MISIRD Post Qar Inland l Aerogr *Rocky Bhai* எது Bun ஆ!? இப்படித்தான் 1961ல எட்டு ஷிக்கு பாலிஷ் போட்டா தான் எனக்கு ஒரு Bun னு கிடைக்கும்.
+Classification: not-misogyny
+Explanation: The text is a series of questions about meme posts and characters, focusing on the context and tone rather than targeting any individuals. It does not explicitly or overtly target women or gender-related issues.
+--------------------------------------------------
+
+ID: 1366
+Text: PORIKKI ANNA ##MBIVITTA KONJIYA EN MUNJILA OOTHURANNNU THANA SONNA ETHUKKU IPPO EN VAILA ROPPUNA HMM ACTRESS TREND MEMES ANGRY THANGCHI ATM NEXT TIME ##MBA SOLLUVALLA PATHUKKUREN IRU HUMM KONJI NALLA PULLIPPA IRUNTHALUM TEASTA THAAN IRUKKU MULUGIDREN
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text uses references to women through terms like 'MUNJILA' and 'KONJI' but does not target any specific group of women. It discusses general trends related to acting and women in the entertainment industry, expressing frustration with certain aspects. The language is casual and doesn't stereotyping or discriminate against women.
+}
+```
+--------------------------------------------------
+
+ID: 382
+Text: After receiving KT for full day from senior dood He~Edhuna purinjidha ??? *Me VERA LEVEL MEMES @_darshan__
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text mentions receiving KT for a full day from a senior dood and includes meme-like expressions aimed at women, such as "*Me VERA LEVEL MEMES*" and "_darshan_". While it uses slang and phrases that might imply a relationship or group, the primary focus is on sharing memes with women rather than targeting them specifically. Therefore, this does not promote misogynistic content.",
+  "classification": "not-misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 1450
+Text: மீம்ஸ்..தமிழ் *Wife என்னங்க !! இன்னைக்கு நீங்க ரொம்ப அழகா இருக்கீங்க *Husband என்ன புள்ள வீடு பெருக்கணும்மா
+Classification: misogyny
+Explanation: The meme uses the term 'மீம்ஸ்' (wife) to imply that the husband is not as strong or good as his wife, which can be interpreted as objectifying and marginalizing the husband's qualities. This language reflects societal expectations of gender roles and strength, potentially targeting women by objectifying them through implicit criticism.
+--------------------------------------------------
+
+ID: 30
+Text: Enaku ennamo iniki leo trailer perusa sambavam pannum nu thonudhu VERALEVEL MEMES @_dharshan._
+Classification: not-misogyny
+Explanation: The meme is a humorous message from someone who is sad and follows them. It does not target anyone in particular, especially not women. The language used is casual and doesn't contain any explicit or offensive content towards women.
+--------------------------------------------------
+
+ID: 866
+Text: ZEE தமிழ் SURVIVOR survivor Lakshmi Priya nenga entha mathiri task evlo tough ah kuduthalum sari Lakshmi Priya team captain ah irukura vara intha sword avanga kaila than irukum 🔥 💯
+Classification: misogyny
+Explanation: The text promotes roles unsuitable for women, using negative language like 'mathiri task' (task) and 'kuduthalum' (not fit), which suggests objectification of women in non-compliant contexts. This targets women by stereotyping their gender expectations.
+--------------------------------------------------
+
+ID: 1703
+Text: Facebook irukura ellam pombala pullaikum happy women's day wish pannuran veedula amma nu oruthi kuththu kal ah iruken oru wish pannuran ah paru...???
+Classification: not-misogyny
+Explanation: The text is a greeting and wish message expressing gratitude to women for their birthdays. It does not contain any explicit or offensive content, nor does it target any specific group negatively. Therefore, it is classified as 'not-misogyny'.
+--------------------------------------------------
+
+ID: 1044
+Text: Girls ~ 1 hour later ; Boys ~ 5 min later ; Mov sapadu ready ah.. @team_cheems
+Classification: not-misogyny
+Explanation: The text compares the preparation times for girls and boys, suggesting a playful contrast rather than targeting any specific group. There is no content that implies stereotyping, hatred, discrimination, objectification, insults, or mockery toward women.
+--------------------------------------------------
+
+ID: 1492
+Text: Here's all visible text in a single line: "ஆடி மாசம் எப்ப முடியும்...புருஷன் ஊருக்கு எப்ப திரும்ப வருவோம்னு இருக்குற நான் எங்க... " wife "ஆடி மாசம் எப்படா பொண்டாட்டி ஊருக்கு போவா... போனதுக்கு அப்புறம் ஜாலியா சரகடிச்சி சுத்துற நீ எங்க..." IVP memes https://www.facebook.com/ivptele.iv Can Stock Photo - csp34701157 Husband
+Classification: not-misogyny
+Explanation: The text asks a general question about how much the user loves their partner, which could imply seeking attention or affection. However, it does not explicitly target women or contain any harmful or misogynistic content within an Indian cultural context.
+--------------------------------------------------
+
+ID: 1709
+Text: Na clg varathey @mokkha_memer_offl mt * me mt * Unakaga Unakaga Senior crush Junior crush mt
+Classification: not-misogyny
+Explanation: The text compares two groups based on their age or status, with no explicit mention of women or any form of objectification or insult targeting them. The meme is playful and humorous, focusing on the comparison rather than any negative stereotyping or discrimination against women.
+--------------------------------------------------
+
+ID: 1638
+Text: In Textile Shop *slim girl Anna enaku set agura mari oru dress kattuga kadaikara Anna Unnoda size ku la kids section ma ohh seri anna COTTON CANDY MEMES oneindia tamil
+Classification: not-misogyny
+Explanation: The text refers to a slim girl named Anna from a clothing shop, which is a common term in Indian culture without targeting specific groups. It doesn't contain hate speech, objectification, or insult towards women and is neutral regarding fashion.
+--------------------------------------------------
+
+ID: 1716
+Text: Kilakarai Pasanga da OVVORUTHANGALUKU ONNU ONNU MELA BODHA...! ENAKU ENNODA MOBILE MELA BODHA!
+Classification: misogyny
+Explanation: The text uses the Tamil expression 'OVVORUTHANGALUKU' which is commonly used by women in India to refer to men as a group or category. This stereotyping and objectification towards women are signs of misogynistic content.
+--------------------------------------------------
+
+ID: 1254
+Text: ME TRYING TO IMPRESS MY CRUSH EN KAILA IRUKU CHEESE'UH... NAAN ORU LOOSE'UH... AANA NEE THAN ENAKU MASS'UH
+Classification: not-misogyny
+Explanation: The text is a casual greeting expressing interest in Kaila IRUKU and ordering food. It does not target women or contain content that could be misinterpreted as misogynistic, as it lacks explicit or negative connotations.
+--------------------------------------------------
+
+ID: 116
+Text: Lockup crime audio series out on Kukufm அநியாயமா கொண்ணுட்டானுகளே துக்கு சார் எங்க அப்பாவ அடிக்கிறீங்க Audio kekurapove visual ah pakra mari irukae!
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text uses the term 'Kukufm' which refers to hate speech in Tamil culture, and the phrase 'அநியாயம்' translates to 'stereotyping.' This suggests promoting a stereotype of women being targeted for their characteristics or behaviors. However, it does not explicitly target women; instead, it categorizes them as stereotyped individuals who are being targeted. Therefore, while it contains misogynistic elements, it does not specifically target women.
+  "classification": "not-misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 680
+Text: Muthu Kutti 1m The day is not complete without this dialogue from our mom Poi kuli da... #muthumc MUTHU MC SREERAGAM VERA LEVEL MEMES
+Classification: not-misogyny
+Explanation: The text references a female figure, Poi kuli da, and uses casual Tamil terms without targeting any specific group. It does not contain stereotyping, discrimination, or objectification of women. The humor comes from the playful interaction rather than negative connotations.
+--------------------------------------------------
+
+ID: 1423
+Text: Aah dei un aal breakup pannita nu solli feelingla irupanu partha enna ipdi seiriye da Ssh... medhuva vitu edu da poruki aaah hmmm Un aalu pona ena adhaan un bestie irukenla da En lovera vida ne dhan da nalla seira aah vegama adi da un aala nenachi enna sei da
+Classification: misogyny
+Explanation: ```json
+{
+  "explanation": "The text uses terms like 'she' and 'bestie' to suggest objectification of women in relationships, implying that they are valued and loved. It also references 'vegama' which may indicate affectionate language, further suggesting implicit criticism or objectification towards women.
+  "classification": "misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 1245
+Text: மனைவி: "பக்கத்துக்கு பிளாட் பரிமளாவுக்கு யாரோ 20000/ ரூபாவுக்கு பட்டுப் புடவை gift குடுத்திருக்காங்களாம் - ஒரேயடியா பீத்திக்கிறா" யாறோ f/alwzsmle கணவர் : "இல்லியே தள்ளுபடி போக 16000/ தானே ஆச்சு " எப்படி மாட்டிக்கிட்டான் பாரு லூசுப்பய.... 😂😂😂
+Classification: misogyny
+Explanation: ```json
+{
+  "explanation": "The text humorously suggests that men can give gift money to women, which is a common stereotype in Indian culture. The mention of 'f/la wzsmle' and 'aashch' may imply a lack of respect for women's worth or objectification. This meme targets women by promoting gender equality through positive actions, falling under the classification criteria for "misogyny."
+}
+```
+--------------------------------------------------
+
+ID: 1091
+Text: பசங்களுங் விட பொண்ணுங்க நாங்க தான் உண்மயா லவ் பண்றோம் *She pitchumani memes இததுடன் விளையாட்டுச் செய்திகள் முடிவடைகிறது
+Classification: not-misogyny
+Explanation: The meme refers to memes being trending, which is a reference or meme that may imply a discussion of women's interests or popular culture without targeting any specific group explicitly.
+--------------------------------------------------
+
+ID: 66
+Text: Udhay ✔️ @Udhaystalin · 7h Thalabathy @actorvijay Anna's #Leo 👍👍👍 @Dir_Lokesh excellent filmmaking, @anirudhofficial music , @anbariv master @7screenstudio 👏👏👏 #LCU 😅 ! All the best team ! 🅿️MUTHU MC
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text uses symbols like emojis to express affection towards others, referencing Leo (a term for women who have given birth) and LCU (Lakshmi Chakra Usha). It highlights excellent filmmaking and mentions specific individuals involved in the project. While it doesn't target women negatively, it celebrates female roles without promoting discrimination.
+}
+```
+--------------------------------------------------
+
+ID: 213
+Text: ~Kerala Biriyani~ Ennada Ivanuga Biryani Ku Appalam Vaikuranuga
+Classification: not-misogyny
+Explanation: The text is a greeting in Malayalam that expresses admiration for someone's love and invites them to a biriyani event. It does not target women or promote any form of discrimination or objectification.
+--------------------------------------------------
+
+ID: 558
+Text: DMINES g Entertainment studio green K.E. ஞானவேல்ராஜா presents K. E. ஞானவேல்ராஜா வழங்க Dr. JAYANTILAL GADA presents பத்து தலை சிலம்பரசன் TR கௌதம் கார்த்திக் பிரியா பவானி சங்கர் இயக்கம் N. கிருஷ்ணா இசை A. R. ரஹ்மான் Idhu enna game uh VERA LEVEL MEMES VERA LEVEL MEMES @_dharshan._ வெற்றிமாறன் விடுதலை பாகம் 1 இசை இளையராஜா Naliki nadaka podhu paaru real game uh
+Classification: not-misogyny
+Explanation: The text does not contain any explicit or stereotyping references to women or girls. Instead, it presents a competitive meme setup with playful language and humor, likely intended for entertainment purposes.
+--------------------------------------------------
+
+ID: 1111
+Text: South Indian Aunties during தெரு சண்டை & குழாயடி சண்டை.... - நீ எவன் கூட எல்லாம் தொடர்பு வச்சிருக்கனு எனக்கு தெரியும்டி...
+Classification: misogyny
+Explanation: The meme references South Indian Aunties who are making fun of others by saying they 'never will' have any issues and that everyone should be together. This implies a lack of respect for women's roles and social status, targeting them through stereotyping, discrimination, objectification, insults, and mockery.
+--------------------------------------------------
+
+ID: 1616
+Text: Sariyana lambadi pombalaya iruppa pola KATTADHURAI MEMES TAMIL MEMES Attitude girl nu decent ah sollu man
+Classification: misogyny
+Explanation: The text contains negative language and terms like 'sollu' (decent) and 'man,' which may imply a lack of confidence or attractiveness. These elements could be used to insult or mock women, fitting the criteria for misogynicism.
+--------------------------------------------------
+
+ID: 1253
+Text: Anand Memes மாமியார் சாம்பார்ல மீன் போடலாமா போடக்கூடாதா பதில் சொல்லு மருமகள்
+Classification: misogyny
+Explanation: The meme references Anand Memes and the Mamayara name, which is often associated with negative stereotypes in Indian culture. The phrase suggests objectifying women's names, implying that certain names are associated with negative traits like mud. This use of negative language toward women falls under the classification of 'misogyny' as it targets women through objectification.
+--------------------------------------------------
+
+ID: 71
+Text: Muthu Kutti 2m When all your colleagues are going for a break You are working on a critical task Neenga ponga naa vare... #muthumc Volga Raghuvaran B. Tech Latest Telugu Movie | 2015 Volga Video
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The meme revolves around Muthu Kutti's personal life and work, focusing on his frustration with colleagues taking a break while he is working on a critical task. The hashtags suggest a reference to a recent video related to B.Tech studies in Telugu. There are no explicit mentions of women or gender issues, so it does not target women.
+  "classification": "not-misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 340
+Text: Muthu Kutti 1d Inimae nammala yarukum poi msg panna venda avangala pannatum *Several days later* Enna oru msgum kaano #muthumc VERA LEVEL MEMES KTV
+Classification: misogyny
+Explanation: The meme references female athletes at KTV, specifically mentioning 'muthu' (a term for female athletes) in a derogatory context. This use of gender-specific terms can be interpreted as objectification or implicit criticism towards women, aligning with misogynistic content.
+--------------------------------------------------
+
+ID: 367
+Text: Muthu Kutti Just now *me on every monday* Inaika en manager leave potta nalla irukkum #muthumc VERA LEVEL MEMES VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The text humorously categorizes memes into levels of edginess using hashtags like '#muthumc' and 'VERA LEVEL MEMES', which are often associated with risque or objectified humor. While it doesn't specifically target women as individuals, the use of these hashtags can be interpreted as promoting objectification towards women in a humorous context.
+--------------------------------------------------
+
+ID: 1664
+Text: நாளை முதல் நகரப்பேருந்துகளில் மகளிர் இலவசமாக பயணிக்கலாம் - மு.க.ஸ்டாலின் அட பாவிகளா இந்த ஆம்பளைங்கள ஒருத்தர் கூட மதிக்க மாட்டிக்காங்களே
+Classification: not-misogyny
+Explanation: The meme is not targeting any specific group of women or girls. Instead, it promotes a common misconception that women can have multiple relationships with men, which is often used to objectify and educate about gender roles in Indian culture.
+--------------------------------------------------
+
+ID: 484
+Text: muthu mc @muthu__kutti Pov ~ when u don't have double helmet Macha antha signal vara konjo nadanthu poyen da #muthumc ALT NEXT TO WATCH FULL MOVIE UNLOAD NOW NEXT LEVEL MEMES 10:16 PM · Apr 9, 2023
+Classification: not-misogyny
+Explanation: The text contains hashtags related to online culture and entertainment, but it does not target women for content. It discusses general internet usage and preferences without any explicit or offensive language.
+--------------------------------------------------
+
+ID: 577
+Text: Dharshan Just now When married mappilai went to play cricket (Sunday) His wife and her family VERA LEVEL MEMES VERA LEVEL MEMES @_dharshan._ TAMIL MEMES Google Play mt
+Classification: not-misogyny
+Explanation: The text uses playful language and affectionate terms to express admiration towards Dharshan's wife and her family members, which is seen as mocking or objectifying them rather than targeting women in a negative way.
+--------------------------------------------------
+
+ID: 136
+Text: Muthu Kutti Just now When my favorite person didn't message me for two days Aie... paathia vittu pora paathia.. #muthumc VERA LEVEL MEMES
+Classification: not-misogyny
+Explanation: The text humorously suggests that a person who does not respond to his messages still loves him, as indicated by the recurring use of the expression 'I love you.' This meme is about the dynamics between two people rather than targeting any specific group or gender, so it does not promote misogynistic content.
+--------------------------------------------------
+
+ID: 24
+Text: muthu mc @muthu__kutti Sex na MALE/FEMALE nu enakku therium ley... #muthumc 11:32 AM · Feb 27, 2023 VERA LEVEL MEMES
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text uses hashtags and playful language to create a viral meme structure, suggesting the presence of multiple identities without targeting any specific gender. The phrase 'sex na MALE/FEMALE nu enakku theriumley...' does not imply discrimination or objectification towards women but rather presents itself as having both male and female identities, which is more about inclusivity than targeting.
+}
+```
+--------------------------------------------------
+
+ID: 629
+Text: She : You are my man da Me : Iyaa Batman or Ironman sollu d She: @_vishal_sammy_ TAMIL MEMES GET IT ON Google Play
+Classification: not-misogyny
+Explanation: The text does not target women or girls in any form. It promotes TAMIL MEMES and engages with them online, mentioning Batman and Ironman as background elements without targeting any specific group.
+--------------------------------------------------
+
+ID: 887
+Text: Me after seeing my frnd's phn contact list... my frnd me Pesama nee padikiratha vitru... Vena Kozhanthu Aluthurubuyan TAMIL MEMES Girls hostel start panidu...
+Classification: misogyny
+Explanation: The text humorously invites others to join a girls' hostel, suggesting inclusivity and potential objectification of women by promoting a welcoming environment.
+--------------------------------------------------
+
+ID: 1238
+Text: சோறு மட்டும் மூணு வேலைக்கும் நல்லா திங்க தெரியுது girls *Mom வீட்டு வேலை செய்யுனு சொன்னா மட்டும் ரோசம் பொத்துட்டு வருதே Helo
+Classification: misogyny
+Explanation: The text uses the term 'சோறு' (hate) and 'rocham' (love/hate) to critique societal expectations of women's relationships with their mothers. It highlights objectification and marginalization, targeting women in a negative way.
+--------------------------------------------------
+
+ID: 355
+Text: My AI Hey! How's it going? ME How are you MY AI I'm doing great! Thanks for asking. ME Unuku tamil theriyuma MY AI A little bit. ME Seri okay vaa pesalam MY AI VERA LEVEL MEMES DHARSHAN Enaku vera vali therila aatha
+Classification: not-misogyny
+Explanation: The provided text discusses the speaker's language skills and their AI's ability to verify meme content. It does not target women or girls; instead, it focuses on language and technology verification.
+--------------------------------------------------
+
+ID: 1034
+Text: ஊசி போட்டது வீங்கிருச்சடி.... ஜஸ் வை டா.... ஆயிரம் சொல்லு உன் அழகுக்கு முன்ன ஐஸ்வர்யா ராய் கூட டம்மி தான்டி.... She
+Classification: not-misogyny
+Explanation: The text discusses a woman as a teacher and educator, focusing on her qualities and contributions without targeting any specific group or gender. There is no stereotyping, discrimination, objectification, insults, or mockery towards women in this context.
+--------------------------------------------------
+
+ID: 1344
+Text: IVA. NAMBALA. PAKUM.BOTHU NAMBA. MIND VOICE YEPPA. THEVU****. EPDI PAKURA PARU. GAAJI. PUDUCHA. MUNDA MOOD. YETHURA DI. MUNDA AIYOOO🥵
+Classification: not-misogyny
+Explanation: The text contains phrases like 'NAMBALA.' which translates to 'Woman's Love,' suggesting promotion of women's positive qualities. However, the overall tone is neutral and focuses on expressing appreciation for women without targeting them in a misogynistic way.
+--------------------------------------------------
+
+ID: 1512
+Text: 2k மாமியார் ஏண்டி, என் புள்ள பேர் கூடவா உனக்கு தெரியாது? Aruppukottai_Official 2k மருமகள் இன்ஸ்டால "Kiya Miya Kissa Boy"ன்னு வச்சுருந்தார்..
+Classification: not-misogyny
+Explanation: The text discusses a meme with 2000 marthas (people) titled 'Miya Kissa Boy' which is associated with empowerment and self-confidence. The phrase does not target women or any specific group, but rather conveys confidence in gender equality. There are no stereotyping, hatred, discrimination, objectification, insults, or mockery towards women.
+--------------------------------------------------
+
+ID: 353
+Text: Boys BALMAIN PARIS THE BOYS We have Balmain Paris and The Boys Girls We have yellow and red kurtis VERA LEVEL MEMES
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The meme compares boys to Balmain Paris, a well-known Indian actor, and discusses their clothing choices. The mention of 'VERA LEVEL MEMES' could imply a level or stage in fashion, which might not be offensive but could be interpreted as objectifying the target audience. The text does not explicitly target women, so it is classified as 'not-misogyny'.
+}
+```
+--------------------------------------------------
+
+ID: 632
+Text: @ night time YERA LEVEL MEMES YERA LEVEL MEMES _ _dharshan._ _ Laip enna pottu okkum nu theriyum but indha alavuku okkum nu theriyadhu
+Classification: not-misogyny
+Explanation: The text references a Tamil song by Anil Vithal titled 'dharshan' and uses it in a meme code. It promotes female empowerment in the music industry without targeting any specific gender beyond referencing women through the song's context.
+--------------------------------------------------
+
+ID: 1636
+Text: புருஷன் சரியில்லேன்னா கூட அட்ஜெஸ்ட் பண்ணிப்பாங்க... -யாரோ ஆனா புதுசா தைத்த ஜாக்கெட் சரியில்லேன்னா டைலர் மேலே கொலைவெறி ஆயிருவாங்க... 😡😡😡😀😀😀
+Classification: not-misogyny
+Explanation: The text uses common Tamil expressions and references to present women as beautiful and approachable, without targeting them in a misogynistic manner.
+--------------------------------------------------
+
+ID: 479
+Text: Muthu Kutti Just now When baby is trying to talk.... Amma sollu amma... Appa solu thango appa... #muthumc #MUTHU MC
+Classification: not-misogyny
+Explanation: The text is a playful and casual meme that humorously exchanges affectionate phrases with a baby and a person, using Tamil language elements. It does not target women or contain any negative connotations towards them. The language is neutral and focuses on light-hearted interactions.
+--------------------------------------------------
+
+ID: 384
+Text: mt When you don't understand that one 18+ meme VERA LEVEL MEMES O_dharshan_ mt TAMIL MEMES
+Classification: not-misogyny
+Explanation: The text discusses a meme that someone might not understand at a high level, specifically mentioning advanced memes referred to as 'VERA LEVEL.' It does not target any gender or person, focusing instead on the complexity and difficulty of understanding such memes. There is no stereotyping, discrimination, objectification, insults, or mockery towards women or girls.
+--------------------------------------------------
+
+ID: 1031
+Text: அம்மா : தோசை ஊத்துறேன்.. சாப்பிட்டு தூங்கு டா.. : போ மா .. Daily தோசை தோசைனு.. நா வெளிய Hotel ல சாப்பிட்டேன் .. அம்மா : என்ன சாப்பிட : தோசை தான்
+Classification: not-misogyny
+Explanation: The text is a greeting from a character in an Indian context, using common phrases related to marriage and relationships. It does not target women or gender-specific content but rather expresses marital status and casual interactions.
+--------------------------------------------------
+
+ID: 238
+Text: Muthu Kutti Just now *Got escalation from client* Manager: Task ah mudikkama enna ma pannitu irundha Doodie : Reels panitu irundhen sir.. #muthumc EXTRA LEVEL MEMES EXTRA LEVEL MEMES
+Classification: misogyny
+Explanation: ```json
+{
+  "explanation": "The text mentions 'muthu kutti' and refers to herself as assigning tasks, which might imply she is involved in managing or mentoring. The use of hashtags like "#muthumc" could indicate a meme targeting female employees or roles. While the text may not explicitly target women, it could contribute to objectification by promoting female characters within memes.
+}
+{
+  "classification": "misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 1358
+Text: Me : Seekarama vaa d romba mood ah iruku Bestie : Daii jetiya kalatavadhu time kudra apdiye vaa nakkuva Trollmy_bestie Me : Seri kalatu Bestie : Ssshhhh aaahh apdidha nalla nakku da aahahhh
+Classification: not-misogyny
+Explanation: The provided Tamil meme text is a casual conversation between two individuals seeking advice. The language used is straightforward and does not contain stereotyping, discrimination, objectification, or mockery towards women. It focuses on general advice seeking without targeting specific groups like women. Therefore, the text does not exhibit misogynistic content.
+--------------------------------------------------
+
+ID: 332
+Text: Muthu Kutti Just now ~salary credited கடன் கேட்பவர்கள் : Hi macha Salary credit aana ivanuku epdi tha th theriyalayae.. crt ah vantharangalae #muthumc VERA LEVEL MEMES
+Classification: not-misogyny
+Explanation: The text refers to male employees by their names and uses casual language. It does not target women or contain any content that would be considered misogynistic. There is no stereotyping, discrimination, or objectification of women in this context.
+--------------------------------------------------
+
+ID: 1455
+Text: Sunny Pidikum nu sonnean ...... Nan sonnathu intha sunny Rum ma than SÈLVÂ MEMES
+Classification: misogyny
+Explanation: ```json
+{
+  "explanation": "The meme uses 'Sunny Pidikum' which refers to a woman, often used to target women through objectification and negative stereotypes. The phrase "sèlvâ memos" suggests promoting memes as objectified, implying potential misogynistic content.",
+  "classification": "misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 112
+Text: Me taking service road in order to avoid signal but service road get jammed and signal cleared @_vishal_sammy_ *VERA LEVEL MEMES* TAMIL MEMES Google Play mt
+Classification: not-misogyny
+Explanation: The meme uses humor and hashtags to express avoiding traffic on a service road despite being blocked. It's casual and playful, fitting into Indian meme culture without targeting specific groups like women. There's no clear evidence of misogynistic content.
+--------------------------------------------------
+
+ID: 1720
+Text: அடுத்த நிமிடம் கூட நமக்கு நிச்சயம் இல்லை இதில் திமிர், வெறுப்பு, கோபம் ஆணவம் போன்ற அழுக்கை சுமந்து சாகாதே! அன்பை மட்டுமே நேசியுங்கள்..!
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The meme uses symbolic references like 'திமிர்' (tamiyer) and 'கோபம் ஆணவம்' (kopam anna mave) to represent women, which is a form of objectification. It also mentions 'அன்பை மட்டுமே நேசியுங்கள்..' which refers to cisgendered individuals as "as long as you're cisgendered." This does not target specific women or girls but uses them symbolically, falling under objectification rather than misogynistic content.",
+  "classification": "not-misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 1092
+Text: LOVE MARRIAGE babe pls have sax with me I'm horny... no da not in the mood... ARRANGED MARRIAGE padukreya ila Unga Amma veetuku poreya ?? ok..
+Classification: not-misogyny
+Explanation: The text discusses love and marriage between two individuals but does not target any specific gender. It uses casual terms like 'sax' and phrases that suggest interest without targeting women or girls specifically.
+--------------------------------------------------
+
+ID: 189
+Text: Muthu Kutti Just now After leaving office ~ TL ~ can you connect now regarding a critical issue? Romba dhooram poiten.....🏃‍♂️ #muthumc mt Next Level Memes
+Classification: not-misogyny
+Explanation: The text is a meme promoting female students and higher education institutions. It uses humor and hashtags to encourage female participation without targeting specific groups negatively. The content does not explicitly target women in a misogynistic manner but may be interpreted that way due to its promotion of female students, which could imply exclusion or stereotyping.
+--------------------------------------------------
+
+ID: 652
+Text: When someone says - prechana ennanu pesunga da apa dhan theerum... Me - pesalanu dhan da prechanaye VERA LEVEL MEMES mt TAMIL THE
+Classification: misogyny
+Explanation: The meme references a woman who takes her daughter for granted, which is interpreted as objectifying towards women in Indian culture. The speaker's use of terms like 'prechana' and 'pesunga' may imply taking their daughter without considering their worth, potentially targeting her negatively. This falls under the classification of misogynistic content due to stereotyping and objectification.
+--------------------------------------------------
+
+ID: 937
+Text: Dad : Needhan english series lam pakriye bank karan edho pesuran ennanu kelu . . Me*
+Classification: not-misogyny
+Explanation: The text does not contain any explicit content that targets women or promotes misogynistic ideas. It is a playful and light-hearted request for information about a TV series, which may be used humorously without targeting anyone specifically.
+--------------------------------------------------
+
+ID: 414
+Text: PS2 pathachu, Friends oda veliya poiyachu, Family oda koil thiruvizha poiyachu, CSK match pathachu, Chennai la mazha pathachu next enna panalam Life, Career, Office etc : Thirumbi enna paru da @_vishal_sammy_
+Classification: not-misogyny
+Explanation: The text is a casual interaction between VISHAL and pathachu in a group chat. It uses slang and abbreviations to engage with him, focusing on the team's activities without targeting any specific gender or implying negative connotations towards women. There's no stereotyping, discrimination, or objectification of women.
+--------------------------------------------------
+
+ID: 465
+Text: MUTHU MC @muthu_kutti Some one : How many days you work in a week?? Support dood : MUTHU MEMES f MUTHU MC
+Classification: not-misogyny
+Explanation: The text uses references to male characters (Muthu) and humor through terms like 'dood' and 'memes.' It may objectify female characters in memes but does not explicitly target any specific group of women, suggesting a more playful context.
+--------------------------------------------------
+
+ID: 599
+Text: ~ dad & mom calculating monthly expense me ~ 200 ruba kuduthinga na, na apdiye padathukku kelambiruve |Ayali - Web series *Me *Dad
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text discusses monthly expenses involving the user and mentions a TV show titled 'Dad' from an Ayali web series. While it doesn't explicitly target women, it could imply a female audience. The mention of family dynamics might suggest a female demographic but lacks explicit gender targeting towards women.
+}
+```
+--------------------------------------------------
+
+ID: 940
+Text: காயத்ரி : சாப்டிரதா தயிர்சாதம் 🙂 !!! மோதி பாத்தா உயிர் சேதம் 💪😎🔥!!!...... #_GANESH_MC MEMECREATION_
+Classification: not-misogyny
+Explanation: The meme references GANESH MC and promotes self-acceptance through humor and empowerment, without targeting any specific group or gender. It does not contain explicit content that would be considered misogynistic.
+--------------------------------------------------
+
+ID: 368
+Text: Me struggling with the new insta button update @_vishal_sammy_
+Classification: not-misogyny
+Explanation: The text discusses a user interacting with a new Instagram feature, specifically mentioning 'insta' which can sometimes be associated with male-dominated social media. The phrase does not target women or girls and is more about social interaction and features rather than promoting any form of misogynistic content.
+--------------------------------------------------
+
+ID: 163
+Text: Enna dhaan Negative character pannalum avan mela veruppe vara matingudhe #fahadfazin VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The text uses terms like 'negative character,' 'veru' (beautiful), and 'matingudhe' which imply a focus on attractive qualities. It targets women through objectification and negative stereotyping, referencing traditional dance poses and societal expectations.
+--------------------------------------------------
+
+ID: 333
+Text: Muthu Kutti Just now Anta thappa mattum panida maaten da.. #muthumc Venada Muthu single ah iru atha nallathu Luv la venada Purinjuko J4 STUDIOS VERA LEVEL MEMES J4 STUDIO
+Classification: not-misogyny
+Explanation: The text discusses the relationship between Muthu Kutti and Venada using common Tamil phrases and hashtags. While it references specific names, it does not target women or girls in a misogynistic manner but rather focuses on their relationships and cultural references.
+--------------------------------------------------
+
+ID: 1641
+Text: *Mom இந்தாம்மா பொண்ணு இந்த பையனுக்கு ஒரு ஜட்டி oneindia tamil *Me பொம்மை படம் போட்ட ஜட்டி குடும்மா இல்லாட்டி கோவச்சுக்குவான்
+Classification: not-misogyny
+Explanation: The text uses the phrase 'put into a box oneindia' which is slang for putting her somewhere, metaphorically. The word 'I am' is common in such contexts and does not inherently imply negative stereotyping unless used against someone. The phrase suggests humor or objectification of the woman but doesn't target women specifically. It's more about expressing emotions or showcasing personality.
+--------------------------------------------------
+
+ID: 1755
+Text: இந்த பூலோகத்தில் யாரும் பார்க்கும் முன்னே உன்னை அதிகாலை அனுப்பி வைப்போம் *Committed Single's* ஓகோ கள்ள தொடர் பா Chennai Pattinam
+Classification: not-misogyny
+Explanation: The text is a casual praise for the song *Committed Single's* by Committed Single's, mentioning its location in Chennai. It does not contain any explicit or negative references to women or gender stereotyping.
+--------------------------------------------------
+
+ID: 1679
+Text: mt *Me Singa pennee Vevo itha thana theditu irukenga @ LUCKY_FELLOW_MEME mt *Status guys mt
+Classification: not-misogyny
+Explanation: The text from LUCKY involves positive affirmations and encouragement aimed at boosting self-esteem, which are common in memes. It does not target women or anyone negatively; it focuses on uplifting confidence without any explicit or implicit criticism towards women.
+--------------------------------------------------
+
+ID: 1069
+Text: Virginvairamuthu II Just now Aunty ~ நேத்து எங்கடா போன? ~ என் ஆளு கூட படத்துக்கு போனேன் Aunty ~ அப்போ நா யாரா 💔🥀 TEMPLATE GRAM
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The provided meme transcription does not contain any explicit or harmful content. It appears to be a casual and humorous exchange between two individuals, with no stereotyping, discrimination, or objectification of women. The language used is standard Tamil, and the lines do not target anyone, especially women.
+}
+{
+  "classification": "not-misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 174
+Text: Drugs 🔥 Romba naal kalichu short film la Indha maari concept pudhusa nallarukku
+Classification: not-misogyny
+Explanation: The text humorously suggests using drugs in a film without targeting specific groups. It's about cultural references within Indian society rather than targeting women, so it's not misogynistic.
+--------------------------------------------------
+
+ID: 1152
+Text: Love breakup kuda paravala MOKKA POSTU @dpak__97 ana ithellam irukae 😭😩 yebaa
+Classification: not-misogyny
+Explanation: The text uses Tamil terms like 'kuda' to refer to women's clothing and emojis to convey affection. It does not target specific groups or genders, focusing instead on expressing love and emotions through cultural references.
+--------------------------------------------------
+
+ID: 454
+Text: muthu mc @muthu_kutti Need pakkathu veetu doli lyk this👉🧡🦋 #muthumc Translate Tweet You had one, isn't it? Where are your relatives? 4:01 AM · Apr 17, 2023
+Classification: not-misogyny
+Explanation: The text is a casual and friendly exchange between two individuals addressing each other. The content does not target women or girls in any negative way; it's respectful and non-offensive towards all genders.
+--------------------------------------------------
+
+ID: 755
+Text: Leo (UA) (2D) (Tamil) Date Thu, 19 Oct, 2023 Time 04:00 AM Venue(s) Sri Srinivasa 4K Dolby Atmos A/C: Padmanabanagara(SRI Seats SWARNA - N21, .N22 MOKKA POSTH @ganesh_rohit45 *Le me (Surya Fan) Getting ready to witness the most hyped movie in the K'TOWN !
+Classification: not-misogyny
+Explanation: The text does not contain any explicit or offensive language targeting women. It is a casual interaction between the speaker and a fan, inviting them to watch a hyped movie. There is no stereotyping, discrimination, objectification, insults, or mockery towards women.
+--------------------------------------------------
+
+ID: 1698
+Text: * Girls HAPPY WOMEN'S DAY அதானடா.... 😩 மத்த நாள்லாம் கண்டுகாம இருந்துட்டு, வந்துட்டான் wishes சொல்ல
+Classification: not-misogyny
+Explanation: The text humorously celebrates women's contributions with wishes, focusing on celebrating their presence without targeting specific groups negatively.
+--------------------------------------------------
+
+ID: 1027
+Text: *Relative Aunty Ethana masam di @arun_memes_page Chubbygirl* paithyakari paithyakari adhu en thoppa di
+Classification: not-misogyny
+Explanation: The meme uses objectification by promoting Chubby Girl's charm and social status through hashtags like paithyakari. It reflects a form of objectification and marginalization, focusing on their appearance rather than targeting any specific gender or group.
+--------------------------------------------------
+
+ID: 1206
+Text: Mom helping for our love expectation Reality velakkamaru pinju poirum.unalam kallipaal oothi kondrukanum da
+Classification: not-misogyny
+Explanation: The text is a mother encouraging her child about their feelings of love and expectation, using playful language like 'velakkamaru' (goodbye) and 'poirum' (well-being). It does not target women or girls but focuses on emotional support. There's no explicit content promoting misogynistic behavior.
+--------------------------------------------------
+
+ID: 204
+Text: Muthu Kutti Just now When my favorite person didn't message me for two days Aie... paathia vittu pora paathia.. #muthumc
+Classification: not-misogyny
+Explanation: The text does not target women or girls. It expresses a personal sentiment regarding communication between two individuals without explicitly targeting any group. The use of terms like 'vittu pora' suggests affectionate responses rather than objectification.
+--------------------------------------------------
+
+ID: 863
+Text: They are famous thief during our childhood UrUpUdAtHA MeMeS May I come in my friend with pencil, scale, eraser, snacks thiruttu
+Classification: misogyny
+Explanation: The meme references famous thieves during childhood who performed a dance called 'UrUpUdAtHA' with their friend, implying they might be associated with theft. The phrase 'My Friend Me Me' suggests these characters are often referred to as female friends. The mention of bringing pencils and other items could imply objectification if it implies responsibility or role attributes, but the primary focus is on negative stereotyping towards women who may be at risk of such behavior.
+--------------------------------------------------
+
+ID: 375
+Text: Sanjay Krishna Just now • 🌍 ❤️ " dei, unnaya vechu enna meme podrathu ney therla da, ellaa concept layum meme potachu da... VERA LEVEL MEMES VERA LEVEL MEMES
+Classification: not-misogyny
+Explanation: The text promotes meme content with positive emojis and mentions 'unna' which may imply a lack of respect for women in traditional contexts, potentially objectifying the audience by highlighting their presence on memes. However, there is no explicit targeting or negative stereotyping towards women, so it does not fall under misogynistic content.
+--------------------------------------------------
+
+ID: 1533
+Text: incase after marriage job poga ninacha allow panitu home work ah avanga kuda share panrathu ROOZZI MEMES Property ah iruntha atha boys Maari girls kum share pananum.
+Classification: misogyny
+Explanation: The meme contains explicit language like 'job poga ninacha' which implies a stereotype of women having jobs in love. It also promotes gender equality by encouraging female participation and objectifies women through actions expected of men, such as sharing work and promoting inclusivity.
+--------------------------------------------------
+
+ID: 472
+Text: Vera Level Memes Kaalai la enchi straight ah inga dhan vara pola VERA LEVEL MEMES VERA LEVEL MEMES @_dharshan._ *Twitter 🔞
+Classification: misogyny
+Explanation: The text promotes Vera Level Memes specifically for women using their name 'dharshan' and emphasizing directness. The hashtags and cultural references suggest a focus on women's identity, potentially promoting objectification.
+--------------------------------------------------
+
+ID: 1336
+Text: AT OFFICE WITH PA Me: Rashi oru vaati ma oru 15mins dhaan quicka mudichiralam Rashi: Sir neraya work iruku sir suma irunga @tamil.troll
+Classification: misogyny
+Explanation: The text uses the term 'Vaati' to denote admiration towards a woman, which is an instance of objectification. This form of language can be seen as misogynistic as it reflects respect and admiration rather than discrimination or hate.
+--------------------------------------------------
+
+ID: 487
+Text: கொலையை கண்டுபுடிக்குர படமா பாக்குரது காலையில ஜட்டிய காணோமேனு என் உசர வாங்குரது தூ ... Fraud கார பய *Amma
+Classification: misogyny
+Explanation: The meme uses the term 'Amma' (which stands for amazing) to promote admiration towards women. The use of such terms often reflects objectification and stereotyping in Indian culture, where certain words are used to refer to women's qualities or achievements.
+--------------------------------------------------
+
+ID: 1270
+Text: 2k kids உன் கன்னக்குழி அழகிலதான் என் கற்பனையை நான் புதைப்பேன் 90s kids இருமா சோத்துல குழிபண்ணிக்கிறே இல்லாட்டி ரசம் வழிஞ்சு ஓடிரும் REAL MUSIC VIDEOS Download Dailyhunt on Play Store
+Classification: misogyny
+Explanation: The meme is a form of objectification that uses the characteristics of children (referred to as '2k kids') to create humor about 90s kids using real music videos. The humor is crude and offensive towards women, which falls under objectification. It does not target women directly but uses them in a humorous context.
+--------------------------------------------------
+
+ID: 586
+Text: Muthu Kutti 21m Mom : பாட்டி இறந்துட்டாங்களாம் டா வா ஊருக்கு போலாம் Me : சாகுறதுதா சாகுறாங்க வெள்ளிக்கிழமை செத்து இருந்தா 3 நாள் leave ஆவது கிடைச்சு இருக்கும். #muthumc *மம்மி mt
+Classification: misogyny
+Explanation: The meme transcription contains negative stereotypes about women's economic status and financial constraints, which are forms of misogynistic content. The text uses phrases like 'I am poor' and 'I am unable to afford a car' to perpetuate the stereotype that women lack resources or opportunities compared to men. This stereotyping is a form of discrimination against women in terms of their abilities and resources.
+--------------------------------------------------
+
+ID: 583
+Text: Muthu Kutti 1m Me : vaa briyani saapuda pola... Roomate : ippova?? Me : ipotha Roomate: aie ipo neram enna aaguthu theriuma #muthumc *me VERA LEVEL MEMES *roomate
+Classification: not-misogyny
+Explanation: The text discusses food (Biyani) and rooming together without targeting any specific gender towards the other person. It is neutral and does not contain explicit or offensive language.
+--------------------------------------------------
+
+ID: 426
+Text: Adipurush - New movie poster is out ! Summa solla koodadhu.. Kriti sanon paaka Apdiyae divine maari irukanga
+Classification: not-misogyny
+Explanation: The text discusses a new movie poster being released without targeting any specific group, including women. It uses neutral language and factual information, so there's no indication of misogynistic content.
+--------------------------------------------------
+
+ID: 1277
+Text: இங்க பாரு அது ஆபாத்தானது அத் ஒழுங்கா ஏ கிட்ட குடுத்துடு #அண்ணன் *தங்கச்சி அது ஆபாத்தானதா இருந்தாலும் பரவாயில்லா நடுவுல இருக்குற நூல உருவிட்டு ஒவ்வொன்னா வெடிப்பேன்
+Classification: misogyny
+Explanation: The text discusses themes of darkness and societal issues, using language that implies objectification towards women. The use of hashtags like #Aman and *his* suggests a derogatory tone, potentially implying negative stereotypes or objectification of women in a negative context.
+--------------------------------------------------
+
+ID: 1393
+Text: Me : Thambi TEA venuma COFFEE venuma ~ My reaction be like ~ Thambi : Akka Paal venum UNSEEN ADULT MEMES
+Classification: misogyny
+Explanation: The meme targets women indirectly by highlighting their enjoyment of adult activities in social settings, which are often associated with camaraderie rather than explicit sexual content.
+--------------------------------------------------
+
+ID: 1712
+Text: கோவை பென் கடிது நாய் சாவு இன்று ரூ.5 Kovama Kuttma *Girl Bestie Hey venam ithula tag panidatha
+Classification: not-misogyny
+Explanation: The text contains playful humor and casual teasing without targeting specific groups or implying negative stereotypes about women. It uses Tamil language with slang terms but does not contain explicit content related to misogynistic themes.
+--------------------------------------------------
+
+ID: 1696
+Text: *GIRL BESTIE Chennai Pattinam Enna Patha Unaku Ponnu Mathiri Therlaya ME* Enakum "WOMEN's DAY" Wish Pannu da
+Classification: not-misogyny
+Explanation: The text is a greeting followed by a message of wishing Panna, which is a traditional expression of love and support for women in Indian culture. The phrase 'WOMEN's DAY' is commonly used to express gratitude and hope for the future, without targeting any specific group negatively. There is no explicit or implicit discrimination towards women; it is more about expressing positive emotions within a cultural context.
+--------------------------------------------------
+
+ID: 1441
+Text: #BREAKING கோவையில் முதல் பெண் ஓட்டுநர் ஷர்மிளா பணி நீக்கம் கோவையின் முதல் பெண் பேருந்து ஓட்டுநரான ஷர்மிளா பணியிலிருந்து நீக்கம் LAKSHMANAN MEMES Behindகட்ட/ மீடியா *மீகி எனக்கென்னமோ உன் மேல தான் சந்தேகமா இருக்கு...
+Classification: not-misogyny
+Explanation: The meme uses the phrase 'Behindகட்ட' (In the back of the door) in a humorous context to express surprise or confusion, which is a common expression in Tamil Nadu. It does not target any specific group towards women and does not contain stereotyping, hatred, discrimination, sexualization, objectification, insults, or mockery toward women.
+--------------------------------------------------
+
+ID: 1396
+Text: *Anni ADULTS_SPOT En Room La Heater Work Agala Un Room Ku Kulika Vanthen Ne Kai Adikura Nu Teriyama Light On Panniten Da Un Annana Vida Perusa Iruku Da Unaku Shhh Ivlo Stronga Nikkuthu Inga Va Nane Un Sunniya Kuliki Kanjiya Kudikiren
+Classification: not-misogyny
+Explanation: The text uses the term 'Anni' to refer to women in Tamil culture, which is often associated with independence and strength. The phrase 'Kulika' means 'room' and 'Kudikiren' means 'can't go,' encouraging women to stay in a room even if they can't leave. This meme promotes empowerment and objectification without targeting women negatively. It's about supporting their independence, not promoting discrimination or objectification.
+--------------------------------------------------
+
+ID: 1278
+Text: Age - 20 Age - 19 IG : INIME_IPDITHAAN maap Gabriella ah vida chinna ponna ah shivani
+Classification: not-misogyny
+Explanation: The meme uses the term 'panna' which can be interpreted as offensive, and 'Shivani' suggests a relationship with a partner. While it doesn't explicitly target women, it promotes a dynamic between two people without objectifying them.
+--------------------------------------------------
+
+ID: 1024
+Text: When Mom is Not in Home Little Princess* இன்னைக்கு அம்மா வேற வீட்டுல இல்ல... நம்மளே சமையல் பண்ணி...அந்த சமையலுக்கு ஒரு பேர வச்சிர வேண்டியது தான்....
+Classification: not-misogyny
+Explanation: The text humorously describes a situation where Little Princess is not home and mentions being in a mess, which does not target women or contain any form of objectification, insult, or mockery. It focuses on the situation as a humorous comment.
+--------------------------------------------------
+
+ID: 1658
+Text: உள்ளூர் அரசு பஸ்களில் BEN MEMES பெண்களுக்கு இலவச பயணம் BEN MEMES ஆண்கள் * இனி கெட்டப் சேஞ்ச் பண்ணிட்டு ட்ராவல் பண்ணிட வேண்டியது தான்
+Classification: misogyny
+Explanation: The meme humorously targets women by using phrases that imply insensitivity towards men (e.g., 'I know you're not here') and objectification of women (e.g., 'and then you'll get tired and leave me'). These elements are stereotyping, discrimination, and objectification of women within a cultural context where such jokes are common.
+--------------------------------------------------
+
+ID: 50
+Text: Vasanth Karthik 14 minutes ago When i argues with my mom Amma : nee ellam suneeta sharma kaal kazhuvi kudichalum urupdamata da Me ~ adhu yaar ma suneeta sharma? Amma : adhan 100 ruba potu 1.5 kodi jeichaley youtube la vilambaram poduvaney junglee rummy Me : epomey akkam pakkathula irukkavan kooda thana ma compare pannuva, ipa ennama YT vilambaram kooda la compare panra Dai_summa_Iru_da
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text discusses comparing social status with money and using video titles for comparisons. While it involves societal perceptions of wealth, it does not specifically target women or girls. The focus is on generalizations about social standing rather than any form of objectification or discrimination against women.
+}
+```
+--------------------------------------------------
+
+ID: 995
+Text: Cuckoo... Cuckoo... katta thoraiku kattam seri ila ini குயில் cuckoo nu koovuna koda un niyabagam than dhee varum
+Classification: not-misogyny
+Explanation: The meme is a playful expression of love and affection towards someone, using repeated lines about a cuckoo bird. It does not target women or promote any form of discrimination or objectification. The text is more about expressing feelings through language rather than targeting anyone negatively.
+--------------------------------------------------
+
+ID: 1442
+Text: மன அழுத்தமா இருக்கேன்னு மீன் வாங்கி வளர்த்தேன் தம்பி. இப்ப மீன் தொட்டி கழுவுறத நினைச்சா அத விட மன அழுத்தமா இருக்கு தம்பி..
+Classification: not-misogyny
+Explanation: The meme humorously states that men are being added to the pool of people who can be added, implying that adding someone else doesn't discriminate against women. The text does not target or objectify women; it focuses on social dynamics and inclusion.
+--------------------------------------------------
+
+ID: 1381
+Text: Nethu naanum Un friendum un roomla Una veliya thaalitu 3hrs onna paduthu ozu vaanguren nee Kai adikiradhu ilama poi condom vaangitu vandhu avanuku kudukura adhu Parthu innum mood agi okkran da nee ennoda bf ah irundhalum Una avan veliya nikka vachitu ulla enna poduran Par Sema mood da
+Classification: not-misogyny
+Explanation: The text expresses casual affection towards others without targeting specific groups like women. It focuses on mutual admiration and feelings of attraction, avoiding any stereotyping or harmful language.
+--------------------------------------------------
+
+ID: 619
+Text: * IND vs AUS WC tickets available , Interested DM * Me ~ Bro 5 Tickets Venum 20K Totally 1L Bro.. Gpay Pannirunga..!
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text does not explicitly target women but uses slang and colloquial terms like 'Pannirunga' which is often used in Indian contexts to refer to money. The mention of tickets and financial transactions might imply a relationship context, though it's unclear if this targets women. The classification is 'not-misogyny' as the text doesn't stereotyping or discriminate against any group.
+}
+```
+--------------------------------------------------
+
+ID: 535
+Text: Ipo nee pay pannu aprm gpay panren nu solluvan mt VERA LEVEL MEMES _dharshan._ TAMIL MEMES Nammbadha
+Classification: not-misogyny
+Explanation: The text expresses affection towards women using common phrases that are widely accepted in Indian culture. It does not target anyone negatively but rather conveys positive feelings of admiration and love, avoiding any negative connotations.
+--------------------------------------------------
+
+ID: 711
+Text: உன்ன தான்டா முதுகு கூன் போடாமல் நிமிர்ந்து உட்கார்
+Classification: not-misogyny
+Explanation: The text does not contain explicit or stereotyping content that targets women or girls. It focuses on empowerment and empowerment towards women, reflecting positive societal values in India.
+--------------------------------------------------
+
+ID: 1461
+Text: இன்றைய வானிலை நிலவரம் துவைத்து போட்ட சட்டை 5 நிமிடத்தில் காயும் குளிச்சிட்டு போட்ட சட்டை 2 நிமிடத்தில் நனைந்து விடும்
+Classification: misogyny
+Explanation: The meme uses Tamil slang 'இன்றைய' to refer to women, which is a form of objectification. The phrase also mentions dancing, which can be seen as promoting physical expression and not necessarily sexualized content. However, the explicit mention of Tamil slang for women strongly suggests it targets women in a misogynistic context.
+--------------------------------------------------
+
+ID: 1744
+Text: ஆண் பிள்ளைகளை பெற்ற அம்மாக்களுக்கு மட்டுமே தெரியும் தன் மகனுக்கு காதலை விட சோறு தான் முக்கியம் என்று
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The meme transcribes a situation where someone is offering money to people who have more money. The phrase 'மகனுக்கு காதலை விட' suggests objectification and mockery of women with wealth, which falls under the classification of misogynistic content due to its stereotyping and objectification towards women.
+}
+```
+--------------------------------------------------
+
+ID: 868
+Text: CM 5866 மகளிர் பயணம் செய்ய கட்டணமில்லை M.E.M.E M.E.M.E ENGINEERING mt Cha Ena manushan ya 😂❤️ TAMIL MEMES
+Classification: misogyny
+Explanation: The text uses the Tamil word 'M.E.M.E' to stereotype women as being confined to male roles and behaviors, a form of misogynistic content known as objectification. This targets women by associating them with male professions and behaviors, which is offensive and harmful.
+--------------------------------------------------
+
+ID: 79
+Text: Muthu Kutti 2m When ur in good dream suddenly ur mom waking u up #muthumc ora 5 nimsam... 5 nimsam
+Classification: not-misogyny
+Explanation: The text is a personal reflection on the outcome of a good dream, where the speaker wakes up after being in one. The use of Tamil slang like 'muthu' and the phrase 'good dream' suggests a positive emotional state. The hashtags and repeated words do not indicate negative stereotyping or objectification towards women. It focuses on personal experiences rather than promoting discrimination.
+--------------------------------------------------
+
+ID: 211
+Text: Dream until it becomes true ndradha thappa purinjitu verum dream mattume panitu irukaan adha nirutha solungalen da VERA LEVEL MEMES VERA LEVEL MEMES TAMIL MEMES with Google Play mt
+Classification: not-misogyny
+Explanation: The text humorously references women's names and uses them in a meme context, possibly promoting tech and cultural references without targeting specific individuals negatively.
+--------------------------------------------------
+
+ID: 1209
+Text: அறியா வயசு அறுத்த வயசு அனுபவ மனசு மீமண டீ
+Classification: misogyny
+Explanation: The text suggests that women should take care of themselves, implying a stereotype about women's roles in society. It objectifies women by suggesting they are to be taken care of rather than valued for their contributions and strength.
+--------------------------------------------------
+
+ID: 74
+Text: After Nitham oru Yutham audio book on Kukufm So far, 75000 people have died Namba audio dhana kekrom..enaku apdiye padam paakra mariye iruku...
+Classification: misogyny
+Explanation: The text discusses a continuation of a meme that focuses on women's deaths due to a condition referred to as 'Kukufm.' The mention of women being referred to as 'apdiye padam' (paakam meaning die) and the use of terms like 'dhana kekrom' suggest a focus on objectification and marginalization, targeting women in a way that promotes gender inequality.
+--------------------------------------------------
+
+ID: 70
+Text: Muthu Kutti 19h *when someone asks about my fav person* Nallatha pesuva.. suma solla kudathu Enna late ah reply varum avlo tha #muthumc OVER LEVEL MEMES
+Classification: not-misogyny
+Explanation: The text does not target women or exhibit any form of misogynistic content. It contains casual interactions with slang terms and hashtags related to meme culture, which may reflect a cultural or social context rather than explicit targeting of women.
+--------------------------------------------------
+
+ID: 820
+Text: When I tries to study * Padipu * sleep Onnu varavae varathu 😔 Onnu vanthutae erukum 😴 * Me NURSING ATROCITIES
+Classification: misogyny
+Explanation: The text uses the term 'Padipu' to refer to women, highlighting their partner's behavior in a humorous way. The phrase 'NURSING ATROCITIES' is a double meaning that implies mistreatment or abuse. This promotes objectification and mockery of women through negative stereotypes.
+--------------------------------------------------
+
+ID: 1183
+Text: என்னதான் தலையில பூ வைக்கிறது நம்ம கலாச்சாரமா இருந்தாலும் ஒரு நியாயம் வேண்டாமாடா 😂😂😂
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text discusses confidence issues, specifically about lacking self-confidence and being 'lack of something.' It uses slang terms like 'பூ' (put) and 'மாடா' (a thing), which are common in Tamil memes. The emojis 😂 and😂 suggest happiness or surprise. While the meme is general, it does not target women or girls; it's about personal self-assessment.
+}
+```
+--------------------------------------------------
+
+ID: 1115
+Text: crush online Today dai Enga da irukka?? 20:54 un idhayathula thaan 20:54 serida. mathavangaloda sandai podama silenta iru 20:54 mt எதேய்ய்ப்ப்ப்.......
+Classification: not-misogyny
+Explanation: The text consists of memes where individuals are attempting to crush others online at specific times. These are part of a meme series and do not target women or contain any negative content related to women's issues.
+--------------------------------------------------
+
+ID: 731
+Text: VARALAATRIL INDRU !!! @SridharKuruvilla MOKKA POSTU @SRIDHAR KURUVILLA Today shall be the final 21st day of 21st year of 21st Century
+Classification: not-misogyny
+Explanation: The meme is a reaction to humor intended for light-heartedness rather than targeting any specific group towards women or girls. It uses humor as a form of social interaction and does not express harmful stereotypes.
+--------------------------------------------------
+
+ID: 527
+Text: MUTHU MC @muthu__kutti *when u don't have double helmet* Traffic police to you : f MUTHU MC
+Classification: not-misogyny
+Explanation: The meme refers to traffic police requesting Muthu MC with a double helmet, which is a common expression in Indian culture indicating something missing. It doesn't target women and isn't misogynistic.
+--------------------------------------------------
+
+ID: 434
+Text: Muthu Kutti Just now Ivalo pending task vachuta da monday paathukalam ndra mind set la iruka #muthumc Thandhira Raaja Thandhira
+Classification: not-misogyny
+Explanation: The text uses the meme name 'Muthu Kuttiyam' which is associated with female characters in Indian culture. The phrase does not target any specific individuals negatively but rather references a community reference, so it's not misogynistic.
+--------------------------------------------------
+
+ID: 451
+Text: Akash to Theekshana : Padupaavi Kaila vandha catch vitiyae
+Classification: not-misogyny
+Explanation: The meme uses the phrase 'Padupaavi Kaila vandha catch vitiyae' to express affection for a female character, indicating love and affection towards someone without targeting any specific gender. It conveys feelings of romantic interest rather than promoting misogynistic content.
+--------------------------------------------------
+
+ID: 608
+Text: Dei enna da kannellam red ah irukku thoongalaya night uh He - I'm Batman டேய் அடிச்சா மீசலாம் பிச்சக்கும் முடீட்டு உட்கார்றா, கண்ட கருமத்த நெனச்சா தூங்காம இருந்துட்டு Batman nu சுத்திட்டு இருக்க vera level memes
+Classification: not-misogyny
+Explanation: The text discusses a meme featuring the character Batman, focusing on its implications and cultural references without targeting specific individuals or women. The mention of 'meme' suggests objectification rather than direct targeting of women.
+--------------------------------------------------
+
+ID: 1384
+Text: YENDA AMMAVA MATTUM THAAN OPPIYAAAA ENNA OKKANUMNU THONALIYA... AMMA VIDA NAN NALLA OOMBUVEN
+Classification: not-misogyny
+Explanation: The text refers to the film 'The Godfather' and its themes of mafia culture. While it does not explicitly target women or girls, it may inadvertently promote certain values associated with the film, which are often criticized for promoting misogynistic themes.
+--------------------------------------------------
+
+ID: 1753
+Text: 90's PARITHABANGAL இவ தான் ஊர் சுத்தி இல்ல இப்ப இவ தான் ஊர் சுத்தி TAMIL CINEMA
+Classification: misogyny
+Explanation: The meme critiques a Tamil film, PARITHABANGAL, by suggesting that the characters are not having fun, implying that women in Indian cinema may be unlikable. This targets women indirectly through its critique of their portrayal and negative views on their character development.
+--------------------------------------------------
+
+ID: 77
+Text: After listening Nitham oru Yutham audio book on Kukufm சாவாங்க (They will die) இன்னும் செத்து விழுவாங்க (They will die even more) *AUDIENCE AALA PATHA DUMMY PIECE AH IRUKA, AANA BAYANGARAMANA AALA IRUKIYE DA (Looks like a dummy piece, but you are a dangerous person)
+Classification: misogyny
+Explanation: The meme humorously mocks women using dummy pieces and refers to the speaker as a dangerous person, suggesting objectification and sarcasm. It also implies disrespect towards others, which could contribute to misogynistic themes in Indian culture.
+--------------------------------------------------
+
+ID: 1625
+Text: தினமும், ‘யூடியூப்’ல சமையல் பண்றது எப்படின்னு மூணு மணி நேரம் பாக்குற ஆனா... நீ என்ன சமைக்கிறது அதே உப்புமா... அதே இட்லி... அதே தோசை தானே!
+Classification: misogyny
+Explanation: The text uses terms like 'யூடியூப்' (women) and 'உப்புமா' (general term for women) without proper nuance or gender-specific context, implying a lack of respect for women's autonomy. The meme also uses phrases like 'நீ என்ன சமைக்கிறது' which suggests an unawareness of how women are treated in society, further implicating objectification and implicit assumptions about women's roles.
+--------------------------------------------------
+
+ID: 1730
+Text: தவறு செய்து விட்டாய் அம்மா !! ஞாயிற்றுக்கிழமை வெட்ட வேண்டியது காய்கறிகள் அல்ல ! சித்தம் தண்டுகளே!!!
+Classification: not-misogyny
+Explanation: The text contains jokes and references that are meant to be humorous and do not explicitly target or insult women. The language is in Tamil, which has its own slang and transliteration systems, but the content does not contain stereotyping, hatred, discrimination, sexualization, objectification, insults, or mockery toward women.
+--------------------------------------------------
+
+ID: 1316
+Text: ssshhh ice cream potu nakkuriya da ?? bestie briyani saptu naaku podurathu naala eriyuthu da anga ellam
+Classification: not-misogyny
+Explanation: The text is a casual greeting from one person to another, discussing ordering ice cream and biryani. It does not target any specific gender or person and does not contain any content related to misogynistic topics.
+--------------------------------------------------
+
+ID: 483
+Text: Muthu Kutti Just now Macha en pakathu la evano suduran da Athu bot uh murugesha.. #muthumc VERA LEVEL MEMES
+Classification: not-misogyny
+Explanation: The meme uses gender-neutral terms like 'Muthu' (male) and 'Macha' (I am male) to play on common Tamil phrases, suggesting a playful tone of humor. It references level 1 memes, which are often associated with younger generations and may be used to highlight the lack of confidence or oversight in women's roles. The meme is likely intended for entertainment rather than targeting specific individuals, making it not misogynistic.
+--------------------------------------------------
+
+ID: 1768
+Text: ஒரு தோசைக்கே இரண்டு வகை சட்னி இருந்தால்தான் டிபன் கூட திருப்தியாக அமையும் இத வீட்ல சொன்னா வெளக்கமாரு தேடும் 🥺
+Classification: misogyny
+Explanation: ```json
+{
+  "explanation": "The meme uses the word 'இரண்டு' (two) and 'மேல் திருப்தி' (more severe) to imply multiple negative aspects, suggesting that women are being made worse off in various ways. This promotes objectification of women and can be seen as misogynistic by making the audience aware of their struggles.
+  "classification": "misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 299
+Text: Sanjay Krishna Just now Me spamming my stories with vintage raja song, followed by a dark meme, followed by a normie gubeer meme, followed by a racist meme Viewers : Dei enna sequence daa ithu GOLDMINES
+Classification: misogyny
+Explanation: The text contains references to Indian cultural terms like 'raja' (from Andhra Pradesh) and 'normie' (lower social status), which can imply a negative and possibly offensive stereotype about women's roles. The use of words like 'GOLDMINES' suggests negativity, potentially targeting women in a discriminatory manner. Additionally, the mention of a racist meme implies that the content may be objectifying or mocking certain groups within the target demographic.
+--------------------------------------------------
+
+ID: 611
+Text: தனியா இருந்தா எப்படிடா சந்தோஷமா இருக்க முடியும்...! தோ...இவரு பாரு... VADIVELU MEMEZ
+Classification: misogyny
+Explanation: The text contains the word 'சந்தோஷம்' (harassment) which suggests harassment towards women. This is a form of objectification and mockery, as it targets women's treatment in society.
+--------------------------------------------------
+
+ID: 255
+Text: Mc Muriel Just now People vibing for a song or movie That one ulaga cinema puluthi on his way to say it is overrated #mc_muriel ParithabangaL
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The meme uses humor and sarcasm in a playful context, referencing a movie and a specific character. It mocks a situation where someone is overdoing it, possibly romantic or social. The content does not explicitly target women or girls but rather mocks the behavior of being overdone.
+}
+```
+--------------------------------------------------
+
+ID: 1001
+Text: OLDMINES Inspiring Entertainment OLD PULLINGOO MEME'S Tamil nadu ku neenga epdiyo antha maathiri Nigerian ku Avunga...
+Classification: not-misogyny
+Explanation: The text contains words like 'nudu' (old) and 'mula' which can imply objectification of authority figures, but it doesn't specifically target women in a negative way. The focus is on the context rather than gender stereotyping.
+--------------------------------------------------
+
+ID: 979
+Text: Appa : Dei Konja neram TV ah off panra.. Pavaam evlo neram tan rest eh illama odikitu irukum..!! © @_trendingmemes *TV mt © TRENDING MEMES Cha enna manusan ya..!!
+Classification: misogyny
+Explanation: ```json
+{
+  "explanation": "The meme uses hashtags like @_trendingmemes and *TV mt to target women in Indian culture, suggesting they are being overlooked or treated unfairly. The phrase 'cha enna' refers to women, and the text expresses frustration with societal issues, possibly targeting women for their contributions or recognition.
+  "classification": "misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 31
+Text: Muthu Kutti Just now 2 naal ah orae fever da macha Thalra thalra motha #muthumc sharon sharon shardin
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text is a casual and slangy meme that humorously references a community or issue, using phrases like 'naal' (I'm sorry) and 'thalra' (shamanaan) in a humorous context. The hashtags include #muthumc and #sharon, which may refer to specific groups or issues. The text does not explicitly target women; instead, it is about a general feeling of illness referencing a community. There's no stereotyping, discrimination, objectification, insults, or mockery towards women.
+}
+```
+--------------------------------------------------
+
+ID: 1129
+Text: Before Periods Yeah, Baby Are U ok? During Periods Na epdi iruntha unakenna? athisayama Visarikura Are U ok?
+Classification: not-misogyny
+Explanation: The text discusses a baby's health during different periods without any reference to women, focusing on a casual conversation between two individuals.
+--------------------------------------------------
+
+ID: 670
+Text: Innah idhu Vera Mari CG ya iruku 🥰🔥 From the Director of "Indru Netru nalai" tag is enough 💯 Bhai Hollywood Range than 🥶💥 FROM THE DIRECTOR OF இன்று நேற்று நாளை
+Classification: not-misogyny
+Explanation: The text discusses a director's performance in a film titled 'Indru Netru nalai' and references other directors. It does not explicitly target women or gender-specific content but focuses on the director's work within an Indian cinema context.
+--------------------------------------------------
+
+ID: 1472
+Text: puZZy cat Aunty teen vibrator ilanu fone ah vibrate mode la potu use panava di intha Aunty oGrid
+Classification: not-misogyny
+Explanation: The text references terms like 'vibrator' which may imply sexual content, though within a cultural context emphasizing family values. It uses 'potu' for love and 'Aunty' as a title, suggesting a focus on family dynamics rather than targeting women. There's no clear indication of misogynistic content.
+--------------------------------------------------
+
+ID: 352
+Text: muthu mc @muthu__kutti *When someone asks about my manager* Me : #muthumc Thunderman, Wonderman, Angrymman, Brawler, 9:15 PM · May 23, 2023 · 1 View
+Classification: misogyny
+Explanation: The text uses gendered hashtags like #muthumc Thunderman, Wonderman, Angrymman, Brawler, which are suggestive of objectification towards men. This can be interpreted as objectifying someone in a way that may target men, even if the focus is on a manager who could be any gender.
+--------------------------------------------------
+
+ID: 1306
+Text: Don't Underestimate Anyone Athai Unaku panna theriyuma mothala dei thanni kudu da konjam vali thaanga mudila pothum vitru da
+Classification: not-misogyny
+Explanation: The meme uses the term 'Athai' to refer to women, suggesting they are valued and respected. The phrase 'panna' means 'not,' reinforcing that it's important not to overlook these individuals. While the use of 'mudila pothum vitru da' is unclear, it might imply respect or affection towards women. The text does not target specific groups in a harmful way but rather promotes equality and respect for women within their roles.
+--------------------------------------------------
+
+ID: 1376
+Text: un aasaiku evan evanaiyo kootitu varuva na avanukellam virikanum wife aana na mattum en aasaiku oruthanayum vechika kudathu la
+Classification: misogyny
+Explanation: ```json
+{
+  "explanation": "The text uses the word 'aasaiku' which means 'love,' to address Evan, who is addressed as 'evan.' The phrase 'varuva na avanukellam virikanum wife aana na mattum' suggests addressing women in a way that may imply objectification. The repetition of 'aasaiku' and 'evan' indicates a general statement about women without nuance, which could be interpreted as misogynistic due to the use of broad terms like 'love' and objectification.
+  "classification": "misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 100
+Text: VERA LEVEL MEMES _dharshan._ *2023 Enna'nga ivan ivlo fast ah poitu irukan TAMIL MEMES GET IT ON Google Play
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The meme references Dharshana, a prominent female figure known for her role as a teacher and mentor. The text uses slang terms like 'vera level' to describe her character and includes code words that play on cultural references such as 'Enna' and 'Ivan.' While the text does not explicitly target women or girls, it is referencing a female character within the context of Indian culture, which may be seen as objectifying in a way. However, this does not constitute misogynistic content towards women.
+}
+```
+--------------------------------------------------
+
+ID: 915
+Text: Birthday Wishes by Girls | Happy Birthday dii.. happy to have a Friend like you | Thank you so much dii | Birthday Wishes by Boys | Nee oru aalu unaku Birthday oru Kedu... | Phone ah vaida ngotha | RAGA MEMES
+Classification: not-misogyny
+Explanation: The text expresses wishes for a friend like you and mentions thanking the person, which may imply a positive relationship without targeting any specific gender. The mention of RAGA memes is irrelevant to the content being discussed. There's no stereotyping towards women or girls in this context.
+--------------------------------------------------
+
+ID: 248
+Text: Dharshan Just now ~Chennai nalae gethu dhan bro :Ohh nee Chennai la endha area bro?? ~Nan gummidipoondi bro #dharshanmc VERA LEVEL MEMES mt
+Classification: not-misogyny
+Explanation: The provided Tamil meme text discusses regional terms like Chennai and enda area without targeting women. The use of hashtags and references suggest it's about regional culture rather than gender-based content.
+--------------------------------------------------
+
+ID: 1380
+Text: _DIRTY_ACTRESSES_MEMES_ DAI IPO THA O ANNA VACHI ADIADINU ADICHITU 😟 PORA IPO NI CHINA P**LA THUKITU VATHU NIKIRA 😲 DAI THADAVATHA DA APRM P**DA LA OLIGI 💦 UTHIDO UFFF SARI VA ROOM KU O ANNA VARATHU KULLA P**LA SAPI
+Classification: misogyny
+Explanation: The text uses terms like 'DIYACTRESSES' and references to women (e.g., DIYACTRESSES, ANNA Vachi) to suggest a focus on objectification or discrimination towards women. The meme's content implies taking actions from others and acting on them, which is often associated with misogynistic themes.
+--------------------------------------------------
+
+ID: 835
+Text: Preethi Preethi Varun Abhishek unna nambi yoga pannathuku unnala enna panna mudiyumo atha pannita...
+Classification: not-misogyny
+Explanation: The text is a positive expression of love and affection, referencing Diwali celebrations. It does not contain any negative language or stereotyping towards women or girls.
+--------------------------------------------------
+
+ID: 252
+Text: Muthu Kutti Just now Coding um theriyama..English um varama... Naragam pa naragam.. #muthumc YER1 LEVEL MEMES VERA LEVEL MEMES
+Classification: not-misogyny
+Explanation: The provided Tamil meme text is a casual typing session between two individuals discussing coding and English. The hashtags used are not indicative of any negative intent towards women or girls. The language is neutral and factual, focusing on communication rather than targeted content.
+--------------------------------------------------
+
+ID: 169
+Text: The Gap - concept video from Irugapatru team Idhe mari Avanga Bf/Gf kuda indha game aadravanuku life time settlement ra 😂
+Classification: misogyny
+Explanation: The meme promotes women leading the game of life, suggesting they are in charge. This objectifies women as dominant figures rather than equal members of society.
+--------------------------------------------------
+
+ID: 924
+Text: yaro உங்க மகள் பத்தி சொல்லுங்க me Amma No comments simply waste ஏதோ பெத்துட்டேனு வளர்த்திட்டு இருக்கேன்
+Classification: misogyny
+Explanation: The meme references women being undervalued with phrases like 'no comments simply waste' and 'waste wonderful.' This implies a lack of respect for women's contributions, which can be seen as objectification towards women. The use of sarcasm adds to the negative connotation, suggesting that women are not acknowledged or appreciated.
+--------------------------------------------------
+
+ID: 240
+Text: Enna dhan nan gaaja irundhalum ipo veriyum evatyum kaasu kuduthu ponadhu ila VERA LEVEL MEMES VERA LEVEL MEMES O_dharshan._
+Classification: not-misogyny
+Explanation: The text discusses Enna dhan, a female character depicted as strong and confident in a series of meme images. It does not target women stereotyping, hatred, discrimination, sexualization, objectification, insults, or mockery. The focus is on representation and positive imagery.
+--------------------------------------------------
+
+ID: 1112
+Text: TROLL POSTU DANGEROUS CURVES AHEAD
+Classification: misogyny
+Explanation: The meme uses the word 'troll' and phrases like 'postu' and 'curves' to imply that women might be less capable or skilled, suggesting implicit stereotypes about their abilities. This targets women through stereotyping, discrimination, and objectification.
+--------------------------------------------------
+
+ID: 695
+Text: When she suddenly holds my hand while crossing the road... 🥺 ERROR
+Classification: not-misogyny
+Explanation: The text describes a woman holding hands while crossing the road, which is a common and positive gesture in India. The emoji adds a playful touch but doesn't target women or promote any negative behavior. There's no stereotyping, discrimination, or objectification of women here.
+--------------------------------------------------
+
+ID: 1736
+Text: பரிணாம வளர்ச்சி INSTA MALAR MEMES குடுமா
+Classification: not-misogyny
+Explanation: The text uses the term 'பரிணாம' (statured) to imply imposing strength or height, which can sometimes be associated with male power but does not explicitly target women. It is more about the structure and appearance rather than gender.
+--------------------------------------------------
+
+ID: 463
+Text: RAM CREATION VERA LEVEL MEMES mt *Me *Also me ennaga beast movie intrest pathutu iruku Google Play
+Classification: misogyny
+Explanation: The meme contains explicit content that targets women by using the term 'ennaga' (eggah), which means 'I also have a baby.' This stereotyping and objectification of women are examples of misogynistic content.
+--------------------------------------------------
+
+ID: 1453
+Text: நான்: என்ன ஆண்டி,அங்கிள ஓயின்தொப்பல பார்த்தேன்.சில்லரை மாத்த,அனுப்புனிங்களா?? ஆண்டி:என்னடா,சொல்ற,??இன்னைக்கு வரட்டும் அவன்,எவ்ளோ ரகலான ஆளு நானும் காட்டுற!!! ஆண்டி நான் அட்வைசா பண்ற சாவுடா!! இன்னொன்னு,ஆண்டி!! இன்னைக்கு வர மாட்டாறூ...அவரு உங்க பிரண்டு பிரியா வூட்ட்ல இட்லி,குடல்கறி தின்னூட்டு இருந்தாரு, ஆண்டி!!! 😂
+Classification: misogyny
+Explanation: The text references cultural references related to Indian culture, including traditional symbols like the wheel and dance forms, which are often associated with gender roles. It also includes jokes that target stereotypes about women's roles in society, such as objectifying their importance in traditional contexts. These elements reinforce gendered expectations and objectification within a cultural context.
+--------------------------------------------------
+
+ID: 533
+Text: POV :When you are a good hearted person ~ எதுவும் தெரியலங்குறதுக்காக 😂 மிளகா அரைக்க பாக்குராணுக 😠😊 AFRIIN VERA LEVEL MEMES (Tamil text: "எதுவும் தெரியலங்குறதுக்காக 😂 மிளகா அரைக்க பாக்குராணுக 😠😊" translates to "They're trying to grind chili on me just because I don't know anything 😂😠😊")
+Classification: misogyny
+Explanation: The meme uses the phrase 'grinding chili' which is a common expression in Indian culture to express frustration or insult towards women who don't know anything. The use of objectified and cultural references like the smiley emojis could contribute to objectification, aligning with the classification criteria for misogynistic content.
+--------------------------------------------------
+
+ID: 1125
+Text: ~nobody GF : night net on panni vachutu thoongeten da @MR_TAMIL_PASANGA Ayo arichandera nengala
+Classification: misogyny
+Explanation: The meme refers to addressing someone as a 'Gyanamithi' (good girl) and suggesting that nobody has female friends. This stereotyping and objectification of others into being good girls can be seen as misogynistic.
+--------------------------------------------------
+
+ID: 33
+Text: That one person asking permission at home to go out Whole gang VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The meme humorously references 'VERA' to refer to women and asks for consent at home, which can be seen as objectifying and potentially promoting a negative view of women. The context within Indian culture often treats women as dependent on their husbands, making such requests disrespectful.
+--------------------------------------------------
+
+ID: 1345
+Text: ENNA DA IVLO PERUSA IRUKU SNAKE UH ME: UNNA VIDA ONNUM PERUSU LAM ILLA DI ENNA DI IPDI VALATHU VECHIRKA
+Classification: not-misogyny
+Explanation: The meme is a common Indian self-acceptance joke where the speaker instructs someone to show off their cute side, using humorous language. It promotes socializing and fun without targeting any specific group negatively.
+--------------------------------------------------
+
+ID: 234
+Text: Dharshan Just now · ~VIP me watching office festival celebration videos in social media #dharshanmc
+Classification: misogyny
+Explanation: ```json
+{
+  "explanation": "The meme promotes Dharshan as a prominent VIP who enjoys watching office festival videos on social media. This use of the term "VIP" and the focus on his image can inadvertently target women by promoting his own audience without considering others, potentially contributing to misogynistic content.",
+  "classification": "misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 498
+Text: Sanjay Krishna Just now • 🌍 * Uploads a story * Friend : Dei send this video da : Muttaal athu reel da CENTRAL TALKIES
+Classification: not-misogyny
+Explanation: The meme transcription involves Sanjay Krishna uploading a story and inviting his friend to send it, followed by a request for feedback from the audience. The text does not contain any explicit content or stereotyping towards women. It is a casual interaction between friends where someone is asking another person to share their story and get feedback on a TV show. There is no indication of misogynistic content.
+--------------------------------------------------
+
+ID: 1122
+Text: priya johnson @talksstweet ஆண்கள் பெண்களை போன்று கண்ணியமானவர்கள் கிடையாது. யார் கூப்பிட்டாலும் போய் விடுவார்கள். Translate Tweet 11:17 AM · 24 Jul 22 · Twitter for Android 30 Retweets 81 Quote Tweets 438 Likes 🇮🇳 Mohan Krishnakumar 🇮🇳 ஜய்... Replying to @talksstweet பெண்கள் கண்ணியமானவர்களென்றால், யார் கூப்பிட்டாலும் போய் விடும் ஆண்களைக் கூப்பிடுவது யார்? ... 13h
+Classification: not-misogyny
+Explanation: The text does not explicitly target women or any specific group. Instead, it discusses a common social interaction involving money and naming, which is part of a typical exchange between people discussing financial matters and their names. There is no stereotyping, discrimination, objectification, insults, or mockery towards women in this context.
+--------------------------------------------------
+
+ID: 910
+Text: In Search of Gold Anish Mc Corporate Criminal MEME இந்தியாவுக்கு இந்தியா We lost the diamond 🙁
+Classification: not-misogyny
+Explanation: The text discusses Anish Mc, a corporate criminal who has lost something valuable, represented by the diamond emoji. It does not target women or girls; it focuses on personal loss and corporate responsibility.
+--------------------------------------------------
+
+ID: 933
+Text: *Me MOKKA POSTU Dei naa one year ku munnadi mute la pota family grp eh unmute aaiduchu da *Corona @gowtham_krishna_21 Ne innum apdiye irukiye da
+Classification: not-misogyny
+Explanation: The meme text uses the term 'MOKKA' which stands for 'good,' suggesting support for someone else. It addresses COVID-19 and family groups, but it does not target women or promote any negative stereotypes about them. The language is neutral and factual, focusing on positive intentions rather than discrimination against women.
+--------------------------------------------------
+
+ID: 186
+Text: Muthu Kutti Just now When someone cares for me and gives me more importance.. Nee pesanthu ellamae ithuku muandi oruthar pesunaru.. ipo avar illa #muthumc VERA LEVEL MEMES VERA LEVEL These words... I feel like I've heard them before. LUX STUDIO
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text addresses women's needs and concerns but includes hashtags that are often used to promote female empowerment. While it doesn't explicitly target women, the context of encouraging female content could inadvertently promote misogynistic behavior by fostering a culture where women feel objectified or objected.
+  }
+}
+```
+--------------------------------------------------
+
+ID: 1701
+Text: Here is the extracted text: Womens Day ku Wish paniya Nee? Yousuf Yov Avangalukum Enakum Palakame kidaiyadhu yaa
+Classification: misogyny
+Explanation: The meme references a stereotype that women are expected to take on certain roles in media, such as being strong or intelligent. This reflects societal assumptions about women's contributions and expectations, which can be seen as misogynistic.
+--------------------------------------------------
+
+ID: 1377
+Text: Athu ena palakam sir Project la thappu panna velaya vittu thookarthu hmmmm Engalukum thooka vekka theriyum pakuringala hmmmm ??????
+Classification: not-misogyny
+Explanation: The meme portrays a couple engaged in a relationship, focusing on mutual respect and affection without targeting any specific group, including women. There is no stereotyping, discrimination, or negative content towards women.
+--------------------------------------------------
+
+ID: 343
+Text: R L VERA LEVEL MEMES VERA LEVEL MEMES VERA LEVEL MEMES Cup ah CSK perla eludhungo
+Classification: misogyny
+Explanation: The text "R L VERA LEVEL MEMES VERA LEVEL MEMES VERA LEVEL MEMES Cup ah CSK perla eludhungo" is analyzed for potential misogynistic content. The repetition of "Vera Level Memes" suggests a focus on women, possibly implying objectification or stereotyping towards them. The mention of sports teams ("CSK") could relate to women in that field, potentially leading to objectification and discrimination.
+
+**Explanation:** The text is repetitive with meme designs and references to sports teams, which may imply targeting women through objectification and stereotyping.
+**Classification:** misogyny
+--------------------------------------------------
+
+ID: 45
+Text: Dharshan Just now Dei epdi da ungaluku padutha udanae thookam varudhu #dharshanmc TAMIL MEMES GET IT ON Google Play
+Classification: not-misogyny
+Explanation: The meme text encourages others to understand Dharshan better and show love for him, focusing on positive aspects like respect and appreciation. It does not target women or contain any form of misogynistic content.
+--------------------------------------------------
+
+ID: 901
+Text: Here is all the visible text in a single line: Madras Central *Me Hey tommy ... jump from this wall to that wall *My dog ENGINEERING FACTS AND COMEDY DIALOGUES IN MOVIES /EFACDIM EFACDIM intha naai podra oru rubai butter biscuit ku enana solran parunga
+Classification: not-misogyny
+Explanation: The text contains the term 'tommy,' which refers to a woman in Tamil culture. While this may imply stereotyping or targeting, it is not explicitly misogynistic. The context suggests playful humor without explicit targeting towards women.
+--------------------------------------------------
+
+ID: 571
+Text: Mc Muriel Just now Murpoks trying to normalise everything - 1st schl,clg la aai poratha normalise pannunga da #mc_muriel mt AMP MEMES Google Play
+Classification: not-misogyny
+Explanation: The text discusses normalization of societal issues from the perspective of a woman's pronouns and mentions trending memes. It does not target specific individuals but rather promotes general discussions on gender roles.
+--------------------------------------------------
+
+ID: 974
+Text: ~ In summer ~ தெய்வமே நீ மட்டும் இல்லேன்னா அழக்குற வெயிலுக்கு கருகிருப்பேன் ~ In winter ~ நடு வீட்டில் உனக்கு என்னடா வேலை.. diskool
+Classification: misogyny
+Explanation: The text references 'அழக்குற' (slang for women), 'நடு வீட்டில்' (village in summer), and 'diskool' (women's term) which implies a targeted and objectified approach towards women, suggesting implicit discrimination or objectification.
+--------------------------------------------------
+
+ID: 890
+Text: Crush online Enna pandra .. Lover Kuda pesitu iruken 🏃‍♂️ unnaku than lover yehh illaiye athan ni irukala 😂🙈 deii iru enga Anna kitta Solren... unnaku Anna illaiye 🤔 Athan ni irukala 😂😂😂 ~Me ~Crush Deii ennake vibuthi Adika pathila
+Classification: not-misogyny
+Explanation: The text uses negative language like 'Lover Kuda pesitu iruken' which may be part of a broader set of negative expressions. It also contains inline jokes and references to other people, suggesting humor rather than explicit content. The use of emojis can sometimes imply sarcasm or offense, but the primary focus is on expressing frustration with someone's behavior, not targeting women specifically.
+--------------------------------------------------
+
+ID: 197
+Text: En da thirumba thirumba "un alumba paathavan" nu kathikite irukka Ellaam veri etha dhaan 🔥 VERA LEVEL MEMES VERA LEVEL MEMES
+Classification: not-misogyny
+Explanation: The text humorously targets Ellaam Veri Etha Dhaan by suggesting she is trying to reach out for help or support, using common expressions from Indian culture. There's no stereotyping, discrimination, or objectification of women; it's more about expressing admiration and seeking connection.
+--------------------------------------------------
+
+ID: 880
+Text: TODAY 1MINUTE VIDEO Girls Psychology in Tamil | Intersting Facts about Womens பசங்க மறக்காம பாருங்கா! GIRLS PSYCHOLOGY செம Interesting வீடியோ மக்களே Miss பண்ணாம பாருங்க! FULL VIDEO LINK IN MY BIO
+Classification: misogyny
+Explanation: The text uses the term 'Masks' which is a common stereotype in Indian culture to represent women's role in society. Masks are often associated with protecting against harm and social appropriateness, but they can also objectify individuals by associating their clothing choices with societal roles rather than individual contributions.
+--------------------------------------------------
+
+ID: 988
+Text: Summer season exists.. Fan be like: Off hey pannamaa On le ye vepangle.. mt Epavu single and memes TAMIL MEMES Google Play mt
+Classification: not-misogyny
+Explanation: The text contains playful remarks about a female character from a TV show and mentions Google Play for fun. There is no explicit or offensive reference to women, so it does not target women or girls.
+--------------------------------------------------
+
+ID: 1342
+Text: Gaaji puducha Munda Endi ipdi pakura thevudiya Un Sunnni ivlo perusa irukey Epdi sappurathunu pakuran da Sappuna sappitey irupan da Vaiya vittu edukavey mattan da arippu jasthi ah Iruku da enna nalla oolu da
+Classification: misogyny
+Explanation: The text references objectification of women through strong and capable portrayals, suggesting a stereotyping approach. It also focuses on general women rather than specific individuals, reinforcing objectification. The use of terms like 'sappurathunu' (strong) and 'sappuna sappitey' implies a focus on strength and capability, which can be seen as objectifying them.
+--------------------------------------------------
+
+ID: 60
+Text: KFC Crispy Days offer la 9 Peri Peri Strips 199 rupees only than. Visayam Top Secret uh!
+Classification: not-misogyny
+Explanation: The text uses terms like 'Strips' which refers to lying down, and 'Visayam' which is a term for women's clothing. The phrase '199 rupees only than' might imply exclusivity but isn't offensive. There's no stereotyping or targeting of women; it's more about humor and cultural references.
+--------------------------------------------------
+
+ID: 1210
+Text: சட்டத்தையும் நம்ப வேணாம்... ச மனிதனையும் நம்ப வேணாம்... நீங்களே துணிந்து விடுங்கள் பெண்களே
+Classification: misogyny
+Explanation: ```json
+{
+  "explanation": "The meme uses the term 'சட்டத்தையும்' (as much as) to emphasize that women's clothing should be modest. It also includes the phrase 'நம்ப வேணாம்' (don't be too much of it), which is a common expression in Indian culture to highlight excessive or inappropriate behavior. The meme targets women by focusing on their clothing and body language, which are stereotypical and not aimed at any specific gender.
+  "classification": "misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 290
+Text: Mall la bargain pannathavanu Matha kadaile bargain pandravanu oorey aala VERA LEVEL MEMES Swathi mc
+Classification: misogyny
+Explanation: The text uses the term 'VERA' which in Tamil often refers to women, suggesting a promotion of objectification towards women. The meme likely aims to highlight female issues through various memes, potentially promoting misogynistic content.
+--------------------------------------------------
+
+ID: 298
+Text: Sunday veetla non veg saptu thoonguradhum sugama dhan ya iruku 😴❤️ 2:24 pm · 18 Jun 23
+Classification: not-misogyny
+Explanation: The text contains humor and food-related content but does not target women or men in a harmful manner. It discusses non-vegetarian dishes and uses emojis for affectionate expressions without any explicit or offensive language towards women.
+--------------------------------------------------
+
+ID: 1114
+Text: குழந்தை பெண்கள் ஆடி 17ம் தேதி Mr.Kumbakonam school Girl clg girl New married Morden Girl ஆடி 18ம் தேதி
+Classification: misogyny
+Explanation: The text humorously suggests that there are multiple girls in the group, implying that they are all equal and expecting more than one. This objectification of women is stereotyping towards them, which falls under the classification of misogynistic content.
+--------------------------------------------------
+
+ID: 1074
+Text: Nan illana sethuduvean nu sonna , inum sagama iruka ???? Nee kuda than sonna nee partha udamba vera oruthan partha poison kudichu sethuduvean nu nee yean sagala? SēLvĀ MEMES
+Classification: misogyny
+Explanation: The text contains negative language and possibly negative stereotypes about women's names and presence. It uses terms like 'sangama,' 'poison kudichu,' and 'SēlvĀ MEMES' which are associated with derogatory and objectifying attitudes toward women in Indian culture.
+--------------------------------------------------
+
+ID: 1565
+Text: When a boy follows a girl Outside: Girls * Ethana time thitunalum pinnadiye varane Inside: Ennayum oruthan follow panrane bhagavane
+Classification: not-misogyny
+Explanation: The meme depicts female dancers performing traditional dances to represent their roles in social interactions. It does not target any specific group of women but rather represents their participation in dance forms, which are part of Indian culture's celebration of female empowerment and social dynamics.
+--------------------------------------------------
+
+ID: 1320
+Text: poruki adha idha nu solli enna mayaki un matter ah mudichikita la friend akka ithuku thanda chinna pasanga kita savagasam vechika koodathu nu soldrathu
+Classification: misogyny
+Explanation: The text uses the term 'mayaki' which refers to women's clothing or body image, suggesting a focus on objectifying the woman. The use of 'savaga' implies a sexualized approach and may imply a negative relationship towards the partner. This targets women by focusing on their body image and using language that conveys a negative view towards them.
+--------------------------------------------------
+
+ID: 1433
+Text: Wakali yarra neengalam 😩 Miss y u MISS U T
+Classification: misogyny
+Explanation: The meme uses 'missed' to imply that the other person is not present or hasn't been reached yet. This suggests objectification and may be interpreted as objectifying the other person in a relationship context.
+--------------------------------------------------
+
+ID: 1561
+Text: ஒரு பொண்ணு உன் msg க்கு "hmm" "kk" னு மட்டும் Reply பண்ணுனா முடிட்டு போடா னு அர்த்தம்
+Classification: misogyny
+Explanation: The text uses derogatory slang like 'hmm' and 'kk,' which are common in Indian culture, and includes phrases like 'pannanaa' and 'mudita ponde' that may be used in a derogatory or offensive manner towards women. The ending with 'arththam' (love) is a strong, negative term that implies a lack of affection for women. This falls under misogynistic content as it targets women through objectification and implicit discrimination.
+--------------------------------------------------
+
+ID: 124
+Text: Muthu Kutti 11m TL/M : are u busy ..why are u not replying to my msg Me : time sheet fill pannitu irunthe my lord #muthumc f MUTHU MC
+Classification: not-misogyny
+Explanation: The text is a casual request for assistance from an unresponsive individual in a community setting. The mention of 'Muthu' and 'MUTHU' does not imply gender stereotyping or discrimination but rather frustration seeking help without targeting women. It's a common request, not misogynistic.
+--------------------------------------------------
+
+ID: 1353
+Text: anni : dai un annan innaikkum night veetuku varalayaam, nee venumnaa yen roomlaye paduthukko @bestie_memes_69 me : nethu night ithella thappu vendaamnu sonna inaikku neeye koopdra, ready ah iru innaikku un p*ndaya oru vali pandren paaru...
+Classification: not-misogyny
+Explanation: The meme uses phrases like 'varalayaam' (I'm with you) and references to 'pandren paaru' (I love you) to emphasize the speaker's feelings about their relationship. It doesn't explicitly target women or objectify them but rather highlights emotional expressions and relationships in a humorous manner.
+--------------------------------------------------
+
+ID: 556
+Text: Muthu Kutti 1m #salaryday #muthumc VERA LEVEL MEMES (repeats in a circular fashion)
+Classification: not-misogyny
+Explanation: The meme repeats hashtags related to salary day and Muthu Chettiyar, which are common expressions for women in Tamil Nadu. It does not target any specific group negatively but rather celebrates earnings and social events.
+--------------------------------------------------
+
+ID: 1770
+Text: Jailer Movie Jackie Shroff : சொன்ன வேலைய முடிச்ச குடுத்த ஜெயிலுக்குள்ள சுருட்டு, பீடி, பொடி வாங்கி தருவாரு மேடம்... ரொம்ப நல்ல Jailer. கோவம் வந்தா மட்டும் காத அறுப் பாரு...
+Classification: misogyny
+Explanation: The text uses the term 'Jailer' (joker) in a derogatory manner, which is a common reference in Indian culture to demean women. This usage contributes to the classification as 'misogyny,' as it stereotyping and objectifying women within a cultural context.
+--------------------------------------------------
+
+ID: 271
+Text: Mc Muriel Just now periya aasai lam illa sithappa. Love song kekkurappo atha relate pannika oru doli iruntha pothum #mc_muriel mt TAMIL MEMES GET IT ON Google Play
+Classification: not-misogyny
+Explanation: The text discusses Mc Muriel's love song and dance-related content without targeting women. It does not contain stereotyping, discrimination, objectification, insults, or mockery towards women.
+--------------------------------------------------
+
+ID: 1777
+Text: dailyhunt GET IT ON Google Play சரக்கு அடிச்சிட்டு பொண்டாட்டிய போட்டு அடிச்சா அவன் கிராமத்துகாரன்... பொண்டாட்டிக்கிட்ட அடி வாங்கிட்டு போய் சரக்கு அடிச்சா அவன் நகரத்தான்... 😭
+Classification: misogyny
+Explanation: ```json
+{
+  "explanation": "The text contains neutral and respectful terms such as 'சரக்கு' (good) and 'அவன்' (he), which are used in a humorous context to express frustration with the interface of Google Play. These terms do not target women or any specific group negatively, so it does not fall under the classification of "misogyny."
+  }
+```
+--------------------------------------------------
+
+ID: 1134
+Text: prathap prathap palikarana memes pangu rope ah keela podu
+Classification: not-misogyny
+Explanation: The meme 'prathap prathap palikarana memes pangu rope ah keela podu' is a playful reference in Tamil culture, often used for humor and social interaction. It translates to 'Like Rope, Oh Like!' and likely refers to someone liking something or commenting on it. The text does not target women or promote any form of discrimination or objectification; instead, it serves as a light-hearted meme within the Indian cultural context.
+--------------------------------------------------
+
+ID: 1615
+Text: ஒரு பெண்ணின் உள்ளங்கை மென்மையா இருந்தால்...!!! முதேவி, வீட்டில் ஒரு வேலையும் பாக்காதுன்னு அர்த்தம்...
+Classification: not-misogyny
+Explanation: The meme uses the term 'மென்மையா' which translates to 'money' or 'moneyman,' suggesting that the person has a lot of money. However, this phrase does not target any specific gender and is more about financial status rather than promoting misogynistic content.
+--------------------------------------------------
+
+ID: 1610
+Text: வெளிச்சம் தந்தவ ஒருத்தி.. அவள இருட்டில நிறுத்தி இருட்டில நிறுத்தி..??? ARUN MC நீ நெனைக்கிற மாதிரிலாம்.. இல்ல.. ஜோரா பயணத்த கெளப்பி தனியா எங்க போனாலா..
+Classification: not-misogyny
+Explanation: The text contains jokes and references to characters (ARUN MC and JOROIA) but does not target any specific group towards women or exhibit harmful behavior. The language used is common in Tamil culture, which may include slang and transliteration, but the humor is more about absurd scenarios rather than explicit or offensive content.
+--------------------------------------------------
+
+ID: 814
+Text: NEWS 7 TAMIL 14 DEC 21 புஷ்பா பாடலுக்கு வலுக்கும் எதிர்ப்பு புஷ்பா திரைப்படத்தில் இடம்பெற்ற 'ஓ சொல்றியா மாமா' பாடலை தடை செய்ய வேண்டும்; இல்லாவிடில் சம்மந்த உள்ளிட்ட படக்குகு மீது சட்ட நடவடிக்கை எடுக்கப்படும் - தமிழ்நாடு ஆண்கள் பாதுகாப்பு சங்கம் NEWS 7 KADALLAYE ILLAYAM MEMES WE GUYS HAVING SANGAM ?
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text refers to a meme where a woman named 'ஓ சொல்றியா மாமா' (O Chelliyaa Mamana) is addressed in a news article. The user mentions that these memes are being used by the users of the group, implying they target women. The term "ஓ சொல்றியா மாமா" serves to objectify and refer to a woman, which falls under objectification as per classification criteria. This is considered misogynistic content in India due to its use of objectification.
+}
+```
+--------------------------------------------------
+
+ID: 1558
+Text: Manoj Shakthi K Girl Bestie FB TEA KADAI Ena da Apdi Paakura? Me Nejamavey ne ponnu dhana? Una epdi paathalum aambala madhiri dhan d iruka
+Classification: not-misogyny
+Explanation: The text is a casual interaction between two individuals discussing food and general friendship. The mention of 'KGirl Bestie' suggests a friendly exchange rather than targeting women, focusing on mutual friendliness and shared enjoyment of food.
+--------------------------------------------------
+
+ID: 276
+Text: Dharshan Just now Recent buff :Selvaraghavan to direct 7G rainbow colony 2 #dharshanmc VERA LEVEL MEMES VERA LEVEL MEMES @_dharshan._ Raghavan don't
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text discusses Dharshan's promotion of Selvaraghavan's film and his criticism of an artist, but it does not explicitly target women or involve any form of misogynistic content. The mention of Dharshan is within the context of Indian cinema, which is male-dominated, and while he's prominent, there's no clear indication of targeting women.
+}
+```
+--------------------------------------------------
+
+ID: 1454
+Text: *Lakshmy ஏன்மா video call எடுத்த உடனே காட்ட சொன்னா காட்டுவீங்களாமா? *சிங்கப்பெண் இல்ல மேடம், முதல் Audio call தான் பேசினோம் பிறகு அவர் தான் சொன்னார் நான்தானே உன்ன கல்யாணம் பண்ண போறன்,இப்போ காட்டுனு சொன்னார்.அதான் மேடம் நான் காட்டின
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text is a humorous attempt to engage with women in Indian culture by asking questions and inviting interaction. It does not target any specific individuals or groups but rather promotes inclusivity and humor among women.
+  "classification": "not-misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 964
+Text: parotta master: After taking parotta from dhosa kalluu
+Classification: misogyny
+Explanation: The text uses the term 'parotta' which refers to women of color in Tamil culture, clearly targeting women. This is a form of gender stereotyping aimed at highlighting the stereotype that women are taken from traditional dhosa kalluu, reinforcing negative societal expectations.
+--------------------------------------------------
+
+ID: 351
+Text: Muthu Kutti Just now Vinayakan (varman 😈) acting allu vitruchu 🔥 #muthumc VERA LEVEL MEMES
+Classification: not-misogyny
+Explanation: The text is a casual meme promoting internet culture and tech-related memes. It does not explicitly target women or girls, nor does it contain any content that would be classified as misogynistic based on the criteria provided.
+--------------------------------------------------
+
+ID: 773
+Text: Vetri Mra Just now Me : sir 2'o clock mela leave venum..!! Manager : athu enna 2'o clock mela..? Me : athu Vanthu ( CWC-23 : ENG vs NZ ) MOKKA POSTU vetrimra mt
+Classification: misogyny
+Explanation: The meme transcription includes the term 'mula' which is often associated with objectifying women's roles in management. Vetri's mention of 'MOKKA POSTU vetrimra mt' could imply a reference to a meme or topic related to women, potentially stereotyping their contributions and expectations.
+--------------------------------------------------
+
+ID: 1541
+Text: பெண் காதலியா இருக்கும்குறப்போ பாசத்தை வீசுவதும்.....!!!! மனைவியா மாறிய பின்பு பாத்திரத்தை வீசுவதும் சகஜமப்பா.....😔
+Classification: not-misogyny
+Explanation: The text humorously suggests that a man is expected to leave behind his wife in the bathroom, implying that he should have been there. This does not target any specific individual or group but rather generalizes on societal expectations and relationships.
+--------------------------------------------------
+
+ID: 1527
+Text: me ~ Aunty.. போன மாதம் 10ம் தேதி 4 தக்காளிகள் கடனா வாங்கிட்டு போனேன்களே... me தேவைப்படும்போது கேளு தரேன் வேற சொன்னேன்களே... நியாபகம் இருக்கா... இப்ப தேவைப்படுது.. தரீங்களா... neighbour Hari's Edits She ~ 😮😮😮😮
+Classification: not-misogyny
+Explanation: The provided Tamil meme transcription discusses a playful exchange between two individuals regarding an aunt's birthday and family members. The text does not target women or girls, focusing instead on family dynamics and casual conversation.
+--------------------------------------------------
+
+ID: 965
+Text: பக்கத்து வீட்டில் ஒரு சின்ன பையன் இருந்துட்டா போதுமே *நான் ஆண்டி* mt Fa dark memes உடனே கடைக்கு போயிட்டு வா பால் வாங்கி போட்டு வானு வந்துருவீங்களே
+Classification: misogyny
+Explanation: The meme uses dark humor and objectifies women by implying that they have a life (நான் ஆண்டி) and puts them in a masked role (பால் வாங்கி). This suggests objectification of women, which is a form of misogynistic content.
+--------------------------------------------------
+
+ID: 1000
+Text: After watching This பேய் பொம்மை உண்மை சம்பவம் 👻 இனி உங்கள் பார்த்தாலே பயமா இருக்குமே 😱 little princess Karaikudi ilavarasi 👸
+Classification: not-misogyny
+Explanation: The meme humorously asks if the user has watched the movie 'Pemumaam Uman Chamappa' and if they're going to take it home. The text does not contain any explicit or offensive content related to women, gender, or misogynistic themes.
+--------------------------------------------------
+
+ID: 1282
+Text: 3 types of ANNI's Anni 1 Anni 2 Anni 3 Unna ellam thiruthaave mudiyathu da , vanthu thola ayayo vena da ithelam avaruku pandra dhrogam da sari intha oru thadava paniko, aana veliya theriyama pathuko
+Classification: misogyny
+Explanation: The meme uses the term 'ANNIs' to refer to women, highlighting three types of them. The text then discusses moodiness and unhappiness towards these women, suggesting objectification and implicit discrimination against women in a negative light.
+--------------------------------------------------
+
+ID: 1279
+Text: கணவர் : ஆறுமணி நேரமா எங்கடி போனா? மனைவி : ஷாப்பிங் போனேங்க.. கணவர் : என்னென்ன எடுத்த?? மனைவி : "ஒரு ஜிமிக்கியும் 60 செல்பியும்"
+Classification: not-misogyny
+Explanation: The text references women in a humorous context, highlighting their beauty and roles without targeting any specific group negatively.
+--------------------------------------------------
+
+ID: 1579
+Text: அவன் ஒரு குடிகாரன்னு தெரிஞ்சும் அவனையே ஏன் லவ் பண்ணீங்க ? : ஒன்னா சேர்ந்து குடிக்கத்தான்.. Infosys CONTROVERSY BOY
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The meme appears to be about a boy with a background in technology, specifically mentioning 'Infosys CONTVERSY BOY' which could imply competition or innovation. While the text uses terms like 'குடிகாரன்னு' (computer scientist) and 'Infosys', it does not explicitly target women or girls. The language is more about promoting technology and its impact rather than stereotyping or objectifying individuals.
+  "classification": "not-misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 1614
+Text: ANANTHAMELLAM ~Teacher Epdima veetuku pona udane padikka 📖 arambichirviya ma UDAYAKUMAR Made With VivaVideo 2 தமிழ் 1 rank girl Pona udane illa teacher, poittu irukumbothey padikka arambichirven PHOTOGRID
+Classification: not-misogyny
+Explanation: The text does not explicitly target any specific gender but rather promotes collaborative creation of content using VivaVideo. It focuses on female empowerment and inclusivity within the community.
+--------------------------------------------------
+
+ID: 1337
+Text: @tamil.troll WHEN A TEENAGE BOY IS STANDING BEHIND YOU AND RUBBING HIS HARD D AND YOU ENJOY THE FEELING
+Classification: not-misogyny
+Explanation: The text does not target women directly but focuses on social interactions and positive feelings between a teenager and the viewer. It uses terms like 'FEELING' without indicating any gender-based stereotyping or objectification, so it's not misogynistic.
+--------------------------------------------------
+
+ID: 68
+Text: Mc Muriel Just now • Mathavanga evlo hatred ah kuduthalum avangalukku nallatha thaan nottuven nu nenaikkiravan thaanda unmaiyana ilichavai pulla #mc_muriel
+Classification: misogyny
+Explanation: The text references Mathavanga, a well-known Tamil character known for her wit and intelligence. The meme personifies her as someone who has hatred toward women, using this to target women in a negative way without any nuance or context. This stereotyping towards women falls under the classification of 'misogyny'.
+--------------------------------------------------
+
+ID: 1524
+Text: மருமகள் சமைத்த சாம்பாரை சாப்பிட்ட மாமனார், மாமியார் பரிதாப மரணம் தெரியாமல் உண்ட பக்கத்து வீட்டு சிறுவனும் பலி @Kirukku.paya1987 #That 2k Marumagal காய் எதுவும் கெடைக்கல அதான் கீரைய பரிச்சி போட்டு சாம்பார் வச்சேன்... என்ன கீர...?? "அரளி கீர"
+Classification: not-misogyny
+Explanation: The text discusses the lack of detailed information on maronettes (marumgal) and expresses frustration with the user's request for more details. While the mention of 'அரளி கீர' (I know it) is relevant to women in Indian comedy, the primary focus is on seeking help and expressing frustration rather than targeting specific groups or objectifying women. The text does not stereotyping or objectify women but rather seeks information.
+--------------------------------------------------
+
+ID: 1108
+Text: மைலு: மாமா நீங்க காலைல வெந்நீர் குடிக்கணும் அப்பதான் உடம்பு நல்லா இருக்கும். மாமா : நான் குடிச்சுகுதான் இருக்கேன் மைலு. நீதான் அத காபினு சொல்லுற அதுக்கு நா என்ன பண்ணுறது 😂
+Classification: not-misogyny
+Explanation: The text expresses mutual respect and affection towards the speaker's husband in a humorous manner. It does not target women or girls but rather conveys positive and light-hearted expressions of love and appreciation.
+--------------------------------------------------
+
+ID: 1548
+Text: என் பொண்டாட்டி கிட்ட எனக்கு பிடிச்ச விஷயம்.. அவ என்ன தப்பு பண்ணாலும் என்ன மன்னிச்சிடுவா..
+Classification: misogyny
+Explanation: ```json
+{
+  "explanation": "The text uses the phrase 'மன்னிச்சிடுவா' (how I am a woman) to objectify the speaker as a woman, suggesting they are not fitting into traditional male roles. This is interpreted as misogynistic due to its stereotyping and objectification of women.
+  "classification": "misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 125
+Text: Dharshan Just now Macha enta vanguna kaasu kudra His reply : #dharshanmc @Ani_Stan Asinga paduthra...insult panra...
+Classification: misogyny
+Explanation: The text contains insults towards women, specifically targeting them with phrases like 'insult panra...' and mentions of specific groups or communities. These insults are used to objectify and insult women within a broader context that may normalize their issues.
+--------------------------------------------------
+
+ID: 544
+Text: GOLDKMINES First match loose panna dhan cup see more... VEERA LEVEL MEMES VEERA LEVEL MEMES @_dharshan._
+Classification: not-misogyny
+Explanation: The meme promotes clothing items meant for women, suggesting objectification of them by focusing on their appearance and social status. The hashtags indicate targeting a specific group within the population, which may contribute to stereotyping or objectification rather than explicit targeting of women in harmful ways.
+--------------------------------------------------
+
+ID: 1042
+Text: She - Good morning டா செல்லம், எழுந்திரு brush பண்ணிட்டு டி குடி. me - Brushலாம் பண்ண முடியாது போடி She - அட ச்சீ, இன்னும் கொஞ்ச நாள்தாண்ட அப்புறம் இருக்கும் உனக்கு ஆப்பு (ஆப்பு அடிச்சலா 😂😂😂) GOLDMINES
+Classification: misogyny
+Explanation: The text expresses frustration with using a brush for writing and mentions 'GOLDMINES' which can be interpreted as objectification or discriminative language, particularly in the context of wealth. It does not explicitly target women but rather highlights personal frustration.
+--------------------------------------------------
+
+ID: 1432
+Text: SALEM BUS STAND NIGHT AFTER 10'CLOCK Hai variya da thambi கையா இல்ல வாயா தம்பி 300 ruva than Ok va apo antha Erode bus nikkuthu paru anga va SELVA MEMES
+Classification: not-misogyny
+Explanation: The text is a humorous meme about Salem Bus Stand Night with mentions of money (300 rupees) and bus fares. It uses slang like 'ruva' for money, 'nikkuthu' for fare cards, and 'paru anga' for cash payment. There are no explicit sexual or gendered content elements. The text is purely playful and doesn't target women or girls.
+--------------------------------------------------
+
+ID: 1343
+Text: THAT GIRL: AVAN PO***LA PARU NA THAN FIRST SAPPI EDUPAN AUNTY: HEY PODI PASANGALUKU PONNA VIDA AUNTY THAN ROMBA PUDIKUM DI NA THAN FIRST SAPPI EDUPAN
+Classification: misogyny
+Explanation: The text humorously mocks a girl who is considered weak or unimportant by comparing her to 'First SAPPI EDUPAN,' implying she lacks social standing. The use of terms like 'paru na Than First' and the lack of respect for women's status are signs of objectification and mockery, which falls under misogynistic content.
+--------------------------------------------------
+
+ID: 1462
+Text: Relative : அப்பறம் உங்க பொண்ணு சமையல் வேலை எல்லாம் பழகிட்டாளா Her mom : சமைச்சு வச்சா கொட்டிக்குவா.. ஒன்னுக்குக்கும் லாய்க்கி இல்ல அசிங்கப்பட்டே இருக்கியேடி மீம் கிரியேட்டர் ஆப் யாமிக்குக்க பயமேன்
+Classification: misogyny
+Explanation: The text uses the term 'black man' to refer to women who identify with this category, which is a form of implicit discrimination and objectification towards women in Indian culture.
+--------------------------------------------------
+
+ID: 1224
+Text: கணவன்மார்களின் பரிதாபங்கள் மனைவி (கோபமாக): யார் முட்டாள்? நீங்கள்? நானா? கணவன் (அமைதியாக): எல்லோருக்கும்மே தெரியும் நீ புத்திசாலி என்று... ஆதலால், கண்டிப்பாக நீ ஒரு முட்டாள் கணவனை தேர்ந்தெடுத்திருக்க மாட்டாய்... கோடிக்கணக்கான தமிழ் மக்களுக்காக. டவுன்லோட் Way2Online
+Classification: not-misogyny
+Explanation: The text discusses a casual conversation between a man and women about asking questions and mentioning female names. It does not target any specific group or use harmful language. The context is standard and acceptable in Indian culture.
+--------------------------------------------------
+
+ID: 874
+Text: 1 ஒன்று ONE தமிழில் 10 பத்து TEN கோடா 100 நூறு HUNDRED கிளிம் 1000 ஆயிரம் THOUSAND தெரியு 10000 பத்தாயிரம் TEN THOUSAND இலக் 100000 இலட்சம் HUNDRED THOUSAND மல்டி 1000000 பத்து இலட்சம் ONE MILLION 10000000 கோடி TEN MILLION 100000000 அற்புதம் HUNDRED MILLION 1000000000 நிகர்நம் ONE BILLION 10000000000 கும்மம் TEN BILLION 100000000000 கச்சம் HUNDRED BILLION 1000000000000 கற்பம் ONE TRILLION 10000000000000 நிகற்பம் TEN TRILLION 100000000000000 பத்மம் HUNDRED TRILLION 1000000000000000 சங்கம் ONE ZILLION 10000000000000000 வெல்லம் TEN ZILLION 100000000000000000 அண்ணியம் HUNDRED ZILLION 1000000000000000000 அர்நதம் ? 10000000000000000000 பரார்த்தம் ? 100000000000000000000 பூரியம் ? 1000000000000000000000 முக்கோடி ? 10000000000000000000000 மகாயுகம் ? ABCD...☆ யாழிஸ் f YalMemes Jaffnese பார்த்தாயா எங்கள் தமிழின் சிறப்பு!
+Classification: not-misogyny
+Explanation: The provided text discusses large quantities and numerical values without targeting or discussing any aspect of women or girls. It focuses on mathematical concepts and does not contain any content related to gender stereotyping, objectification, or discrimination against women.
+--------------------------------------------------
+
+ID: 1653
+Text: நகர்ப்பேருந்துகளில் மகளிர் இலவசமாக பயணிக்கலாம் நாளை முதல் சாதாரண கட்டணம் நகர்ப்பேருந்துகளில் மகளிர் இலவசமாக பயணிக்கலாம் - முதலமைச்சர் மு.க.ஸ்டாலின் JUST IN From Tomorrow Local Buses be like
+Classification: misogyny
+Explanation: ```json
+{
+  "explanation": "The text humorously references women in a city setting, specifically mentioning them as 'ill-considered women' (நகர்ப்பேருந்துகளில் மகளிர் இலவசமாக பயணிக்கலாம்). This phrase is interpreted as a critique of how women are often overlooked or undervalued, which falls under the classification of "misogyny" due to its stereotyping and objectification of women.
+  }
+```
+--------------------------------------------------
+
+ID: 1741
+Text: சும்மாவே மதிக்க மாட்டாங்க.... கணவர்கள் இதுல மாசம் ஆயிரம் ரூபாய்.. பஸ்ஸுல வேற இலவசம்.. Download Dailyhunt on Play Store
+Classification: not-misogyny
+Explanation: The text is a playful Tamil meme that humorously references common expressions and emojis. It does not contain any explicit or negative content related to women or gender. The meme is likely intended for consumption rather than targeting any specific group, including women. Therefore, it falls under 'not-misogyny'.
+--------------------------------------------------
+
+ID: 592
+Text: Muthu Kutti Just now ~when some one say Itha en da ivalo kaasu kuduthu vanguna.. worth ae illa da Enga area la ithu cheap ah kidaikum da #muthumc VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The text uses terms like 'Itha en da' and 'ivalo kaasu kuduthu vanguna' which may imply insensitivity or objectification towards women, referencing their presence in the area where they are often concentrated. The use of 'cheap' and 'kidaikum' suggests a negative association with women's social status, reinforcing stereotypes about their worthlessness.
+--------------------------------------------------
+
+ID: 1182
+Text: தோழிக்கும் மனைவிக்கும சின்ன வித்தியாசம் தான்... -யாரோ நல்ல சரக்கா அளவா அடி ன்னு சொன்னா தோழி..😍 சனியனே.... சரக்கடிச்சிட்டு வீட்டு பக்கம் வந்துறாத ன்னா மனைவி...😂😂😂 dailyhunt Download on the App Store GET IT ON Google Play
+Classification: not-misogyny
+Explanation: The text is a meme that promotes everyday activities and humor without targeting women or any specific group. It does not contain explicit or offensive language, and the content is centered around enjoyment and engagement rather than promoting misogynistic themes.
+--------------------------------------------------
+
+ID: 1714
+Text: My Friend -: Machan Na Love Pannuranda MALIGAWATTA PASANGA TAMIL MEMES *Me Maligawatta Pasanga
+Classification: not-misogyny
+Explanation: The meme expresses mutual affection towards two people using the phrase 'I love you' and 'I love you too.' There is no explicit reference to women or girls, so it does not target them in a misogynistic way.
+--------------------------------------------------
+
+ID: 1360
+Text: Unga Cleavage mattum dhan Enaku theridhu ADULT OF MAFIA TAMIL MEMES Google Play
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text references 'Mafia,' which is associated with drug use and possibly negative stereotypes about women's bodies. While the meme uses this term, it may not specifically target women but rather generalize certain harmful connotations, potentially leading to misogynistic interpretations if these stereotypes are used to demean women.
+  }
+}
+```
+--------------------------------------------------
+
+ID: 1405
+Text: She ~ unna kalyanam pannikitta enakku vazhka full ha kanji oothuviyada... ~ வத்தி pora varaikkum oothuven di...
+Classification: not-misogyny
+Explanation: The text suggests that the speaker likes the person they're talking about, implying a positive relationship. The mention of women having beauty is a stereotype but doesn't target any specific group. It reflects societal expectations rather than misogynistic targeting, so it's classified as 'not-misogyny'.
+--------------------------------------------------
+
+ID: 847
+Text: Happy Diwali doli nu solitu convo start panuvanga.. 😥😥 @irukku_inga_fun_irukku Paathu soodhanama irunga nanbargalae.. ❤️❤️❤️
+Classification: not-misogyny
+Explanation: 
+--------------------------------------------------
+
+ID: 421
+Text: muthu mc @muthu__kutti Unnala enna refer panna mudiuma keeta MNC la software engineer ah irukura ndra #muthumc VERA LEVEL MEMES 7:45 PM • Apr 29, 2023
+Classification: not-misogyny
+Explanation: The meme discusses software engineers within Multinational Corporations (MNC) but does not target women. It focuses on promoting roles without targeting any specific gender, thus it is 'not-misogyny'.
+--------------------------------------------------
+
+ID: 638
+Text: Muthu Kutti 17m பெண் என்பவள்..... யோவ் பொன்னந்தின்னி வாயா எந்திரிச்சி போலாம் #muthumc #womensday2023
+Classification: misogyny
+Explanation: The meme uses the phrase 'யோவ் பொன்னந்தின்னி' which is often interpreted as objectification and stereotyping towards women. It targets pensy women, who are typically seen as having a certain attribute or characteristic that makes them seem more like a category than an individual. The use of hashtags further reinforces the target demographic, specifically targeting women in a particular group within the Tamil community.
+--------------------------------------------------
+
+ID: 1488
+Text: "ஏங்க sunday படத்துக்கு புக்கு பண்ணிட்டு நீங்களா..." புக் பண்ண கேஸ் நாளைக்கு வரும் அதுக்கு முதல்ல பணத்தை ரெடி பண்றேன்... IVP memes https://www.facebook.com/ivptele.ivptele
+Classification: not-misogyny
+Explanation: The meme does not contain explicit or overt references to women or any form of misogynistic content. The puncher uses a red headband, which is common in Indian memes, and the link points to an IVP meme account promoting some kind of role without targeting individuals. There's no stereotyping, discrimination, objectification, insults, or mockery toward women.
+--------------------------------------------------
+
+ID: 708
+Text: When my friend finally loose the v*rginity VERA LEVEL MEMES _dharshan._ Elai muthu nee aalu dham lae
+Classification: not-misogyny
+Explanation: The meme uses the theme of love and relationships, referencing a female character in a film. The phrase 'I'm not my friend anymore' suggests rejection, which can be seen as objectifying or insubstantial criticism against women's relationships and friendships. This falls under the classification criteria for misogynistic content because it involves stereotyping towards women.
+--------------------------------------------------
+
+ID: 528
+Text: Rajesh Jëé Just now Vijay ku epdi ivlo follwers vanthuchu . Avaru 1K follower vara 100rs pay panirukaru... GOLDMINES धूम्रपान स्वास्थ्य के लिए हानिकारक है ! GOLDMINES
+Classification: not-misogyny
+Explanation: The text humorously suggests that finding good online opportunities can lead to financial rewards, but it does not target women or girls in any negative way. It focuses on internet culture and wealth-building opportunities, which is more about entertainment than promoting misogynistic content.
+--------------------------------------------------
+
+ID: 1289
+Text: un kannu angaye pona anubavikka aasa varathanda seyyum , pakathu veetu aunty athulaye irukaatha epomey ok va , normal friends ah irukalam nama epomey ok
+Classification: not-misogyny
+Explanation: The text humorously references a person making a bow in front of themselves and listing others by name. It does not target any specific group or gender, focusing instead on self-identification and humor.
+--------------------------------------------------
+
+ID: 262
+Text: My mind is outta nowhere at 12.30 am in a loop mode: Naan ready dhan varava annen naan erangi varava ....seendaadhappa tovv to to tovv tototovvv Me: VERA LEVEL MEMES mt
+Classification: not-misogyny
+Explanation: The text uses 'Vera' to refer to women in a positive manner, which is common in Tamil culture. The repetitive and humorous language suggests entertainment rather than promoting negative stereotypes. There is no explicit or overt criticism of women, so it does not target them negatively.
+--------------------------------------------------
+
+ID: 778
+Text: LakshmiMV @mvlakshmibe56 She: Ungaluku ennalam pidikathu? #Fiance: Makeup items, shopping nu money waste panna pidikathu. Ooru sutha suthama pidikathu. She: Soli mudinjuuchu 🚶‍♀️ #lakshmi #mokkapostu MOKKA POSTU
+Classification: misogyny
+Explanation: The text contains several elements that suggest objectification and stereotyping of women in Indian culture. The use of the phrase 'I'm not a girl' is a common tactic to exclude individuals from consideration, often used implicitly or explicitly. Additionally, the mention of 'I'm a woman' can be interpreted as objectifying the speaker, implying they identify with being female. Sarcasm and dismissive remarks about the user's fiancé further contribute to the targetting aspect. These elements align with the classification criteria for misogynistic content.
+--------------------------------------------------
+
+ID: 241
+Text: ~When you are in depressed Frnd: Enna macha jolly ah iruka pola, unukuennapa and etc,... VERA LEVEL MEMES @_dharshan_ Indha mari pesura apodhan gaandavudhu
+Classification: misogyny
+Explanation: The text discusses a relationship within a depressed friend context, using common Tamil phrases. It does not explicitly target women but may objectify characters like Dharshan and Inda through affectionate terms such as 'pesura' (beloved) and 'apodhan' (love). This can be interpreted as objectification of these individuals, which might be seen as misogynistic by targeting them with negative stereotypes.
+--------------------------------------------------
+
+ID: 1170
+Text: வீட்டில இருக்கும் போது எல்லாப் பொண்ணுக ஹேர்ஸ்டைலும் .. இந்த சங்கி மங்கி ஹேர்ஸ்டைல் தான்
+Classification: misogyny
+Explanation: The meme promotes the idea of treating all girls equally by suggesting they should be treated like men, which is a form of misogynistic content. It uses humor to objectify women by implying that their intelligence and social status are irrelevant, reinforcing gender stereotypes.
+--------------------------------------------------
+
+ID: 953
+Text: After seeing this ad 10 MOKKA MEMES 2.0 PAND... MOKKA MEMES 2.0 Balaji BOOK STALL Maaru vesathuku undana mariyatha poche da
+Classification: not-misogyny
+Explanation: The text does not target women or girls. It promotes a product named MOKKA MEMES, which is associated with women culturally in India. The phrase 'PAND...' may refer to something specific but isn't stereotyping towards women. The context is promotional and doesn't include any content that objectifies or discriminates against women.
+--------------------------------------------------
+
+ID: 926
+Text: 90's parithabangal புது படம் ரிலீஸ் ஆனா உடனே யூடியூப்ல ரிவ்யூ பாத்துட்டு தியேட்டர் போனவன் இல்ல டா VIKI MEMES டாப் 10 மூவிஸ் புது வரவுல எதா ஒரு சீன் பாத்துட்டு படம் பார்த்த மாறி சீன் போட்டுட்டு எப்ப டா சன் டிவில படத்த போடுவான்னு காத்து கிடந்த 90ஸ் கிட்ஸ் டா
+Classification: not-misogyny
+Explanation: The text describes a woman in her 50s wearing traditional Tamil attire participating in a dance. The language is respectful and appropriate for that age group, focusing on celebrating women's bodies and contributions without targeting any specific group negatively.
+--------------------------------------------------
+
+ID: 821
+Text: Nobody ~ Beggars In Bus Stop ~ Aiya Saami, Aiya Saami, Sapttu Rendu Naal Achi Saami TAMIL MEMES123 டேய்...NATIONAL CRUSH டா அவ...
+Classification: not-misogyny
+Explanation: The text contains references to women using the Tamil word 'Aiya' which stands for woman. The meme promotes empowerment through various activities and achievements, focusing on celebrating women's contributions rather than objectifying them.
+--------------------------------------------------
+
+ID: 594
+Text: Muthu Kutti Just now Dolis la alaga iruntha 🦋✨❤️ Daily office polam polayae.. #muthumc VERA LEVEL MEMES MALAYALAM FILMS CENTRAL TALKIES f MUTHU MC
+Classification: not-misogyny
+Explanation: The meme features daily office photos of women, which are common in memes to highlight female work-life balance. The text does not contain explicit or offensive language and does not target women. It is focused on showcasing positive aspects of professional life.
+--------------------------------------------------
+
+ID: 416
+Text: Pichaikaraan2 trailer is out now Vijay Antony ku adutha blockbuster comfirm ✨
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The meme mentions Vijay Antony's work and his popularity, but the focus is on promoting his contributions rather than targeting women. The term 'adutha' is unclear, possibly referring to a short form of something else, which doesn't inherently suggest misogynistic content. The context in India emphasizes representation without stereotyping, so this meme likely promotes Vijay Antony's work positively without targeting women.
+}
+```
+--------------------------------------------------
+
+ID: 72
+Text: After watching Are you okay baby movie I don't know what I'm going to do! Livin together la iruka vendiyadhu..apro feel panradhe indha generation ku velaiya pochi... TAMIL MEMES GET IT ON Google Play
+Classification: not-misogyny
+Explanation: The text references love and cultural groups in a positive manner without targeting women. It promotes a love for movies and uses appropriate Tamil language without any negative stereotypes or jokes.
+--------------------------------------------------
+
+ID: 366
+Text: Dharshan Just now When fight exists between lovers Boy besties/girl besties : #dharshanmc
+Classification: misogyny
+Explanation: ```json
+{
+  "explanation": "The meme uses gender-neutral terms ("boy besties" and "girl besties") to depict a fight between two individuals who are in love with someone else. This reflects the common dynamics of romantic relationships where men often target women for affection, which is considered misogynistic within Indian culture.",
+  "classification": "misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 260
+Text: Muthu Kutti 1m *When mom and dad are fighting* mom suddenly starts scolding me Me : nippatungha pa neengalachu konjo sanda poduratha nippatungalae pa.. samanathamae illama enna pudichu thiturangha #muthumc VERA LEVEL MEMES VERA LEVEL MEMES mt TAMIL MEMES Google Play
+Classification: not-misogyny
+Explanation: The text uses the term 'nippatungha' which refers to women in Indian culture. While it may be seen as objectifying, it doesn't target women with hate or discrimination. The focus is on cultural references rather than targeting individuals negatively.
+--------------------------------------------------
+
+ID: 52
+Text: 2023 _vishal_sammy_ Anga paaru vandhu 2 masam kooda aagala athukula avana verukura alavuku kondu vanthan
+Classification: not-misogyny
+Explanation: The text mocks a character's mean behavior and expresses frustration without targeting any specific group, including women. It does not promote or objectify women, so it is not classified as misogynistic.
+--------------------------------------------------
+
+ID: 1226
+Text: சிரிக்கலாம் வாங்க மனைவி : நான் எல்லாம் காலேஜ் படிக்கும் போது மாறுவேட போட்டியில் அரக்கி வேஷம் போட்டதுக்கு எனக்கு இரண்டாம் பரிசு கொடுத்தாங்க கணவன் : அரக்கி வேஷம் போடாம சும்மாவே போயிருந்தா முதல் பரிசே கொடுத்து இருப்பாங்க. மனைவி : ஹலோ 108 ஆ ..?
+Classification: not-misogyny
+Explanation: The text does not target women or girls. It focuses on empowerment, self-acceptance, and celebrating the strength of women, without stereotyping, discrimination, or objectification.
+--------------------------------------------------
+
+ID: 911
+Text: உழவன் மீம்ஸ் @trendingmemes *Single's *Committed's Foodie's* Enaku sapade venam..🤤 Aaga..Aaga ❤️😍 Meen kozhambu neriya iruku ana sooru kojam tan irukey
+Classification: not-misogyny
+Explanation: The meme discusses the frustration of being alone with someone else, expressed through casual language and positive symbols. It does not target women or express misogynistic content.
+--------------------------------------------------
+
+ID: 1659
+Text: நாளை முதல் (மே 8) அனைத்து சாதாரண நகரப் பேருந்துகளிலும் பயணம் செய்ய மகளிருக்கு இலவசம் - முதல்வர் மு.க.ஸ்டாலின் முதல் கையெழுத்து *boy mind voice Tamil memes @vaada_memes_pakkalam mt ayya thorai..! ayya thorai...! ithu suya nala boomi ayya thorai
+Classification: not-misogyny
+Explanation: The text humorously states that in every crowd, people have made a show of their beauty and are all in love with the girls. It does not target any specific group or stereotyping towards women or girls.
+--------------------------------------------------
+
+ID: 1205
+Text: டேய் எனக்கு கல்யாணம் ஆகி ரெண்டு குழந்தை இருக்கு டா ஆண்ட்டி Re Parama மீ பரவால் ஆண்ட்டி ஐ லவ் யூ 😊😊 Helo
+Classification: not-misogyny
+Explanation: The text does not explicitly target women or girls. It appears to be a humorous meme that celebrates the passage of time and the evolution of memes in Indian culture. The language used is in Tamil, which may include transliteration for names but does not contain stereotyping, hatred, discrimination, sexualization, objectification, insults, or mockery toward women.
+--------------------------------------------------
+
+ID: 917
+Text: I'M LEAVING PAMI..😔 PRANK GONE WRONG SUHAIL - VLOGGER · 2.1M views · 4 months ago எனக்கு ஒரு ஆச்சரியம், எப்படி ஒரு மனிதன் ஒரு பெண்ணை இத்தனை முறை prank செய்யமுடியும்
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The meme is a prank gone wrong involving someone named Sunil. It does not explicitly target women but rather discusses the dynamics between individuals in the context of pranks, which are common in India. The mention of 'manu' (man) and 'maha' (hate) may imply objectification towards men, but it does not specifically target women.
+}
+```
+--------------------------------------------------
+
+ID: 372
+Text: mt VERA LEVEL MEMES @_dharshan._ Senior dood searching knowledge in me mt TAMIL MEMES GET IT ON Google Play Enna da ulla onnumae ila
+Classification: not-misogyny
+Explanation: The text does not explicitly target women or girls and does not contain stereotyping, hatred, discrimination, objectification, insults, or mockery. It appears to be seeking information and assistance from others.
+--------------------------------------------------
+
+ID: 1704
+Text: During Women's day Happy women's day.. you are an Angel in different angle... Rest of the days Munjiyum mogarayum paaru ...peah Bulla Memes
+Classification: not-misogyny
+Explanation: The meme uses the term 'Angel' metaphorically to suggest that women are attractive and have positive qualities, which may not necessarily target women directly but could imply objectification. The use of Tamil slang like 'mama' and metaphors such as 'belonging' might contribute to a general tone of inclusivity rather than targeting any specific gender.
+--------------------------------------------------
+
+ID: 433
+Text: Darshan Just now When someone asks "What is your contribution in the office" ~Ayya thanni can poda vandha ayya #darshanmc SUN TV
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text uses the term 'poda vandha' which means 'give credit,' and refers to someone's contribution in the office. The use of 'Ayya' as a greeting suggests acknowledgment or praise. While it may imply recognition, there is no clear indication of targeting women or any specific gender stereotyping, objectification, or discrimination.
+}
+```
+--------------------------------------------------
+
+ID: 1256
+Text: Hari Haran her crush * Un Padukaila paathi Edam Ennaku Thana *Gundu girls Ennake Edam Pathathu da Modevi
+Classification: misogyny
+Explanation: The text uses the term 'gundu' which refers to Indian descent girls, and employs gender-neutral terms like 'girls.' This generalization can objectify and discriminates against a specific group of women, contributing to misogynistic content.
+--------------------------------------------------
+
+ID: 409
+Text: Muthu Kutti 5h *When you are in apartment* தண்ணி வரலயே எவனாச்ச motor போடுறானா பாரு #muthumc Red Pix VEERA LEVEL MEMES VEERA LEVEL MEMES Red Pix Movies
+Classification: not-misogyny
+Explanation: The text does not contain any explicit or stereotypical content targeting women or girls. It describes a meme related to driving through an apartment complex and collecting movies, which is more about community setting than gender targeting.
+--------------------------------------------------
+
+ID: 1584
+Text: நேத்து ராத்திரி என் மனைவியை நான் கைநீட்டி அடிச்சுட்டேன்... ஐயோ அப்புறம் என்னாச்சு? -யாரோ அதுக்குள்ள என் மனைவி என்னை எட்டி உதைச்சி வேலைக்கு போக நேரமாச்சு எழுந்திருன்னு கனவைக் கலைச்சுட்டா...🤭🤣
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text contains references to general terms like 'யாரோ அதுக்குள்ள' (who are you?) and 'edta' (everybody), which do not target any specific group, including women. The content is more about addressing someone's name and their identity rather than targeting women or any other category.
+  "classification": "not-misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 615
+Text: Dharshan Just now இளநீர் எவ்ளோ??? ~70rs Illa vena nan thanni kudichikiren @_dharshan._ VERA LEVEL MEMES
+Classification: not-misogyny
+Explanation: The text mentions the user's interest in Dharshan regarding her quantity and cost, which could imply a desire for attention or recognition. However, the language is casual and does not target women stereotyping, hatred, discrimination, etc.
+--------------------------------------------------
+
+ID: 756
+Text: Odachi Paakalama? Dai Ivan edho soldraan daa ennanu kelunga daa
+Classification: not-misogyny
+Explanation: The meme discusses a romantic or sexual relationship involving Ivan, as indicated by the use of terms like 'soldraan' and 'kelunga.' It does not target women but rather focuses on Ivan's involvement in such a relationship. There is no explicit content that targets women or promotes misogynistic stereotypes.
+--------------------------------------------------
+
+ID: 1051
+Text: He: nee thuungum bothu kandipa paaka cute ah than irupa She:
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text contains the word 'cute,' which may be interpreted as objectifying women by labeling them with positive attributes. The use of 'paaka' (smile) in a greeting does not inherently indicate harmful intent but could imply casual interaction without addressing deeper issues like discrimination or inequality.
+}
+```
+--------------------------------------------------
+
+ID: 515
+Text: anastasija_golubeva78522 lesja_maslova09603 ndh897xlw584izu Jenny Young natalja_780.347 nina_poljakova74692 anastasija_prohorova90016 sasha_ponomareva42494 oda662lvl937bmq Stephanie Lipsitz _dharshan._ DEI, YAARA NENGALAM?
+Classification: not-misogyny
+Explanation: The text contains female names with transliteration that may be part of the name rather than gender-specific terms. It uses respectful and affectionate language, such as 'YAARA NENGALAM?' which means 'My love,' without targeting women in a misogynistic way. There's no stereotyping, discrimination, or objectification towards women.
+--------------------------------------------------
+
+ID: 142
+Text: She ❤️❤️ - naan raksha bandhan wish ey panirukalam thonudhulla ipo VERA LEVEL MEMES VERA LEVEL MEMES TAMIL MEMES GET IT ON Google Play mt
+Classification: not-misogyny
+Explanation: The text contains emojis that represent positive emotions (❤️) and mentions sharing on Google Play, which is a common positive action without targeting women or any specific group.
+--------------------------------------------------
+
+ID: 1139
+Text: Her Bio ~ 2K Girl - வெறும் ரெண்டாயிரம் தானா 🥵
+Classification: not-misogyny
+Explanation: The meme references a group of girls with a very beautiful rainbow look, using emojis to convey affection. The text does not target specific genders but rather describes a group, so it is 'not-misogyny'.
+--------------------------------------------------
+
+ID: 1233
+Text: That one photo in every 90sKids home Do you agree..??? TODAY TRENDING CTV
+Classification: not-misogyny
+Explanation: The text humorously references a photo from 90s Kids without targeting specific groups like women. The meme is about the image and its trendiness rather than gender stereotyping.
+--------------------------------------------------
+
+ID: 1660
+Text: My friend from tomorrow~ BREAKING NEWS அனைத்து மகளிரும் சாதாரண கட்டண நகரப் பேருந்துகளில் மே 8 முதல் கட்டணமில்லாமல் பயணிக்கலாம் - முதல்வர் மு.க.ஸ்டாலின் 07/05/2021 www.puthiyathalaimurai.com INIME IPDITHAAN ND TALKIES
+Classification: misogyny
+Explanation: The text targets women by stating that 'all men' are in the news, implying that women are excluded or objectified as not being part of the narrative. This stereotyping and implicit objectification of women fall under the classification of 'misogyny'.
+--------------------------------------------------
+
+ID: 1349
+Text: LIKEMAPLA EPPUDI PATHALUM 2 KA! PATHATHU SIR PIDIKA ;
+Classification: not-misogyny
+Explanation: The text is a casual greeting and interaction between two individuals, neither of whom explicitly targets women or girls. The language used is neutral and respectful, focusing on communication rather than any form of misogynistic content.
+--------------------------------------------------
+
+ID: 417
+Text: Planning to go out ... Movie polaama ? Avlo selavu thevaya ippo Apa mall povoma ? Romba kootama irukume Apana Beach polaama ? Romba Veil ah irukke Apa veetlaye irukalama ? Romba bore adikkudhe VERA LEVEL MEMES
+Classification: not-misogyny
+Explanation: The text consists of a series of Tamil questions about planning to go out, possibly related to watching a movie called 'Beach Polaama.' It does not contain any explicit content targeting women or contains no hate, discrimination, objectification, insults, or mockery. The language is within the cultural context of India and does not suggest negative intent.
+--------------------------------------------------
+
+ID: 1469
+Text: Trollpistha7 TROLL PISTHA Adhu epdi thimingalam adhukulla ivlo perusa aagiduchu..!!
+Classification: not-misogyny
+Explanation: The text uses Tamil slang and transliteration to express feelings of affection towards someone, possibly indicating self-acceptance or self-love. While it incorporates cultural references, the primary focus is on personal expression rather than targeting women in a harmful manner.
+--------------------------------------------------
+
+ID: 272
+Text: Muthu Kutti Just now *Drinking juice late at night* Naa koopta athu (sali) vanthurum mama #muthumc VERA LEVEL MEMES
+Classification: misogyny
+Explanation: The meme promotes drinking among women late at night, which can be seen as objectifying them by suggesting that women should engage in this behavior without targeting specific individuals.
+--------------------------------------------------
+
+ID: 185
+Text: Dharshan Just now 👥 Macha enta vanguna kaasu kudra His reply : #dharshanmc புகை பிடிப்பது உயிருக்கு கேடு Smoking Kills Asinga paduthra...insult panra...
+Classification: misogyny
+Explanation: The text targets women who have married or are involved in marriage by suggesting that smoking negatively affects their lives. This use of language implies objectification and stereotyping, which is classified as misogynistic.
+--------------------------------------------------
+
+ID: 757
+Text: **Dood mt Sunday work panna... Compensation ku monday leave nu soninga... 😉 Manager** mt MOKKA POSTU f SK_MC Athuu fake uhh 😉 GET IT ON Google Play
+Classification: misogyny
+Explanation: ```json
+{
+  "explanation": "The meme promotes fake products from MKMC, a brand known for offering fake options in various sectors including electronics and clothing. The use of 'fakes' and 'MKMC' can be interpreted as objectifying women by providing alternatives that are less genuine, suggesting stereotyping towards women.
+  "classification": "misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 245
+Text: Muthu Kutti 1m *After getting a seat in the unreserved compartment* #muthumc VERA LEVEL MEMES
+Classification: not-misogyny
+Explanation: The text references Muthu Kutti, a term commonly associated with women in Indian culture, suggesting she has gotten married and is now in a higher seat. The meme highlights her independence without targeting any specific group towards women, focusing instead on social status.
+--------------------------------------------------
+
+ID: 440
+Text: Takkar movie official teaser is out now ! Adengapa... Modern love huh pathi ivalo Open huh intresting huh solli irukanga
+Classification: not-misogyny
+Explanation: The text promotes Anil Vithal's film with a strong female lead and themes around caste discrimination. It uses neutral language to promote the movie without targeting women or girls.
+--------------------------------------------------
+
+ID: 661
+Text: When she doesn't know what is Instagram mt VERA LEVEL MEMES _ _dharshan._ Romba romba rare piece chettiyar TAMIL MEMES Google Play
+Classification: not-misogyny
+Explanation: The text discusses Instagram memes in Tamil, mentioning rare Tamil memes on the Google Play Store. It does not explicitly target women or contain stereotyping, discrimination, objectification, insults, or mockery towards them.
+--------------------------------------------------
+
+ID: 1766
+Text: மன்னவி மீது கோபத்தை அளவுக்கு மீறி வெளிப்படுத்தினால்.... சாம்பார் ரசமாகும் ரசம் வெசமாகும்...
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The meme is a continuation of a humorous and inclusive approach to addressing societal issues without targeting any specific gender or group. It promotes the idea that both positive and negative aspects can be understood and addressed collectively, rather than focusing on stereotyping or objectifying women.
+  }
+{
+  "classification": "not-misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 323
+Text: ACC AADHAVAN CINE CREATIONS PRESENTS விழித்தெழு WRITTEN & DIRECTION A.TAMILSELVAN PRODUCER GM.DURAI ANAND MUSIC NALLATHAMBI / LYRICIST INIYA PATHIRAVAN & SAMBATH KUMAR / EDITOR S.R.MUTHU KUMARAN STUNT SR.HARIMURUGAN / CHOREOGRAPHER STYLE BALA / COLORIST DELEPAN PROD.S & MAKING LAKSHMANAN / MAKEUP PRABHAKARAN / CO-D SAMBATH KUMAR.A LYRICIST KAVIGNAR SELVARAJA / KAVIGNAR MUGILAN / SINGER PRIYANKA MUKESH VEEL MURUGAN SFX.S & MIXING LOH / PRODUCTION MANAGER SATHISH P.R.O SAKTHI SARAVANAN / PROD. DESIGN SRI KALASA STUDIO / STILLS VELU MRT MUSIC MJ MEDIA UNIVERSE A NETWORK OF YOUR NEED'S mt Vizhithelu from 3rd March world Wide release in Theaters
+Classification: not-misogyny
+Explanation: The provided text is a meme titled 'Vizhithulu' from 3rd March worldwide release in Theaters. It contains production details such as creators, mixers, and design teams but does not include any explicit content or message towards women. There are no stereotyping, hatred, discrimination, sexualization, objectification, insults, or mockery toward women. The text is purely a summary of the production process without any negative intent.
+--------------------------------------------------
+
+ID: 817
+Text: Thanglish_cafe Love ah sollaamalayae..! Thanglish_cafe Love failure aagitan sir..🙂💔
+Classification: not-misogyny
+Explanation: The text contains a casual conversation between two individuals discussing food and humor in Tamil. The lines do not target any specific group towards women; they are purely social and humorous.
+--------------------------------------------------
+
+ID: 889
+Text: nyt achuna melody song kekura na enga items song kekura ne enga
+Classification: not-misogyny
+Explanation: The text is a song title in Tamil that refers to a song with a female lead singer. It does not target any specific individuals or groups but rather describes the structure of the song composition.
+--------------------------------------------------
+
+ID: 590
+Text: Koill pona peaceful ah irukum amadhiya irukum Me going to temple and its full crowd and noice VERA LEVEL MEMES @THALAPATHYSM @_vishal_sammy_
+Classification: not-misogyny
+Explanation: The text contains meme-related language and hashtags but does not target women or girls in any stereotyped, hatred, discrimination, objectification, insult, or mockery manner. It focuses on humor and social interaction.
+--------------------------------------------------
+
+ID: 1318
+Text: hyyy ennaa nanum pathutey iruken adikadi enna orasurathum ahhh anni azhagu anni nu monangarthuma iruka rugged anni un asingam pudicha vela ellam enkita kaatatha, thundu thunda aruthu kaaka ku potruven
+Classification: not-misogyny
+Explanation: The text expresses frustration with someone who is described as rugged and from a remote area, using exclamation points to convey anger. It does not target women or girls but rather reflects personal frustration towards an individual's tough exterior.
+--------------------------------------------------
+
+ID: 1290
+Text: Enna than avalunga mothama moodi cover panalum Namma mind ava mola paathu mood aagi mothama mudika than thonuthu
+Classification: not-misogyny
+Explanation: The text consists of a meme image featuring two women interacting in a playful manner. It does not target or objectify women, nor does it contain stereotyping, discrimination, or any form of misogynistic content.
+--------------------------------------------------
+
+ID: 251
+Text: Vicky Infosys Forwarded Blr Coorg variya 8:24 AM Boys? 8:24 AM Anand Infosys Polam 9:31 AM Aug12-15 plan panalam 9:32 AM Santhosh Infosys Anand Infosys Aug12-15 plan panalam Antha leave la na iruka matan da 9:48 AM Anand Infosys Adeii 10:07 AM Santhosh Infosys Enaku leave ila da 🙁 10:09 AM Antha leave na mrng shift vara sat sun support pananum 🙁🙁 10:09 AM f MUTU MC Indha maari pesumbodhu dhaan gaandaavudhu
+Classification: not-misogyny
+Explanation: The text does not contain any explicit mention of women or girls. It discusses a business meeting with various male names and places, focusing on organizational communication rather than personal interactions. There is no stereotyping, hatred, discrimination, sexualization, objectification, insults, or mockery towards women in this context.
+--------------------------------------------------
+
+ID: 701
+Text: Naana Paranthena - Lyrical video is out ! Starring Ishaaon, Prranali Alagu na alagu achacho apdi orru Alagu da Prranali 😍
+Classification: not-misogyny
+Explanation: The text humorously features a viral video with a character named 'Ishaaon' and another person named 'Prranali.' The use of terms like 'achacho apdi' (smile) and 'da Prranali' suggests playful or affectionate tone. While the meme may objectify characters, it does not explicitly target women in a negative stereotyping manner. It leans more towards objectification and humor, which are within the bounds of not-misogyny.
+--------------------------------------------------
+
+ID: 1162
+Text: அவ என்னை ஏமாத்துனத கூட மன்னிச்சிடுவேன் டா ஆனா? அவ புள்ளய விட்டு என்னை "மாமா"ன்னு கூப்பிட வச்சா பாரு. ~ மறக்கவே முடியல dude..
+Classification: misogyny
+Explanation: The meme refers to women being objectified based on their wealth and beauty, which are stereotyped and objectified in a way that promotes negative stereotypes about women.
+--------------------------------------------------
+
+ID: 415
+Text: Muthu Kutti 1m *when its too much rainy* Tea kada anna : ellarum en kadai kulla nillunga malai ninona polam #muthumc VERA LEVEL MEMES
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text contains a casual phrase in Tamil, "*when its too much rainy*", which may seem crude but does not target any specific individuals or groups. It includes a meal scene typical of memes and hashtags related to Muthu Kutti's work without explicit content towards women.",
+  "classification": "not-misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 383
+Text: Ivanuku epd nga daily thriller script kadaikudhu mt @_vishal_sammy_ IPL TAMIL ME GET IT ON Google P
+Classification: not-misogyny
+Explanation: The text is a link request for a daily thriller script in Tamil. It does not contain any content related to women or gender stereotyping, hatred, discrimination, sexualization, objectification, insults, or mockery. The user is promoting a product without targeting any specific group.
+--------------------------------------------------
+
+ID: 839
+Text: ~Proposal Expectation Endha pudi...Love you..!! ~Reality Un kaala pudichi kekuran enniya love pannu.!
+Classification: misogyny
+Explanation: The text uses the term 'Endha pudi' to objectify women as partners, focusing on their stability and unchanging nature. It promotes objectification by highlighting expectations towards a partner's role, not targeting any specific individuals. This falls under misogynistic content.
+--------------------------------------------------
+
+ID: 1651
+Text: vijay tv little princess dad ivan vera mahabaratham pottalum pottan. ellaam ponnungalum arjunan mela pathiyam irukanga.. ivana mathiri than future husband veanum nu sollita enga nelama laam enna ya..
+Classification: misogyny
+Explanation: The text contains explicit sexualized language targeting children, implying a marriage to them. It uses cultural terms like 'princess' and 'pottalum' which are common among women in India. The use of objectification towards the children is a clear indicator of misogynistic content.
+--------------------------------------------------
+
+ID: 980
+Text: mt ~followers 2 minutes la 600 Rupees earn panna solli tharaanga others TAMIL MEMES @mentor.guru ahu endha page nu sollungadaa mt
+Classification: not-misogyny
+Explanation: The text discusses earning money from panna, which is a term related to women in Tamil society, and mentions mentorship from @mentor.guru. While it highlights empowerment for women, the language does not explicitly target or objectify women, focusing instead on their contributions and social roles.
+--------------------------------------------------
+
+ID: 1145
+Text: ~ ஒல்லியா இருக்கேன்னு வருத்தப்படாதடி ~ ஏன்டா பட்டாம்பூச்சி எப்போ குண்டா இருந்துச்சினு சொல்ல போறியா.? ~ இல்ல கொசு என்னைக்கும் குண்டா இருந்துச்சு.. புகையிலை புற்றுநோயை உண்டாக்கும் புகையிலை மரணத்தை விளைவிக்கும்
+Classification: not-misogyny
+Explanation: The text discusses the appearance of women, specifically criticizing their faces for being unattractive. It does not target or stereotype any specific group but rather provides a neutral observation about women's appearance.
+--------------------------------------------------
+
+ID: 495
+Text: She : Match pakuriya da Me : Aama tho mudinchirum vandhuren She : Ada enjoy pani paaru da wait panren _vishal_sammy_
+Classification: misogyny
+Explanation: The text uses the term 'mudinchirum' which means 'like' or 'similar,' to compare the woman's partner's name with hers. This implies a form of implicit criticism or objectification towards her partner, targeting women through stereotyping and objectification.
+--------------------------------------------------
+
+ID: 951
+Text: Kesari ah sapdum bothu mattum thondaila eranguthu. mt AAHAAN *Rava Upma va sapdum bothu adachikuthu.
+Classification: not-misogyny
+Explanation: The text humorously references female characters or roles, such as women and their names, suggesting a light-hearted image of female figures without targeting any specific group.
+--------------------------------------------------
+
+ID: 399
+Text: Movies, events, festival enga ponaalum aasaikku oru snap photo eduthu anupanum... ukkandhu mothamum video eduthu anupitu iruka kudathu VERA LEVEL MEMES VERA LEVEL MEMES VERA LEVEL MEMES mt
+Classification: not-misogyny
+Explanation: The text promotes movies and events that are in love with festivals without targeting any specific group, including women. It uses casual language and terms like ' Vera level meme' which may refer to different types of memes but does not contain stereotyping or negative content towards women.
+--------------------------------------------------
+
+ID: 1346
+Text: THAT ONE GIRL IN OUR CLASS NALLA PAAL MAADU MARI IRUNTHU SEMAIYA MOOD YETHUVA
+Classification: not-misogyny
+Explanation: 
+--------------------------------------------------
+
+ID: 171
+Text: Partner movie sneak peek is out now Pakka comedy entertainer movie ya irukum Polayae... Pakka theatre material
+Classification: not-misogyny
+Explanation: The text promotes a female comedian performing in a theater production without targeting any specific gender. It focuses on the performance itself rather than women, so it doesn't fall under misogynistic content.
+--------------------------------------------------
+
+ID: 1050
+Text: Ex : அடுத்த ஜென்மம்மனு ஒன்னு இருந்தா நீயும் நானும் மறுபடியும் பொறந்து லப் பண்ணணும் டா Me : எதுக்கு அப்போவும் என்ன லவ் பண்ணிட்டு கடைசில எனக்கு விபூதி அடிச்சிட்டு இன்னொருத்தன் கூட போகுவா
+Classification: not-misogyny
+Explanation: The provided text is a humorous dialogue between two individuals discussing a light-hearted situation without targeting women or any form of misogynistic content.
+--------------------------------------------------
+
+ID: 1202
+Text: பக்கத்து வீட்டு பொண்ணு PANDIAN MC ஆண்ட்டி உங்க பையனுக்கு உடம்பு சரியில்லைன்னு கேள்வி பட்டேன் My mom Me ஆமாமா ரெண்டு நாளா வயிற்றால போகுது! ஒரே பேதி
+Classification: misogyny
+Explanation: The meme contains the phrase 'ஆமாமா' which implies objectification and implicit discrimination towards women. The use of 'PANDIAN MC' suggests a stereotype about Indian women's behavior, and the mention of 'My mom Me' indicates frustration with her and possibly other female characters. These elements align with misogynistic themes.
+--------------------------------------------------
+
+ID: 428
+Text: Muthu Kutti Just now *after put kosu vathi and good knight gold flash* Me to kosu : Aiya thayavu senju poiru ya naa seekaro thunganum #muthumc
+Classification: not-misogyny
+Explanation: The text is a casual greeting from Muthu Kutti to Aiya Thayavu, using Tamil slang and emojis. It does not target women or contain negative stereotypes or objectification towards them.
+--------------------------------------------------
+
+ID: 301
+Text: These few seconds>>>>>>Any full fledged women superhero film/series @_vishal_sammy_
+Classification: not-misogyny
+Explanation: The text promotes a full-fledged superhero film featuring female superheroes and mentions a username from an Indian social media account focused on women's empowerment. It does not target any women negatively but highlights positive aspects of their presence in entertainment.
+--------------------------------------------------
+
+ID: 1666
+Text: அனைத்து மகளிரும் சாதாரண கட்டண நகரப் பேருந்துகளில் மே 8 முதல் கட்டணமில்லாமல் பயணிக்கலாம் - முதல்வர் மு.க.ஸ்டாலின் *Someone என்னை அநியாயம் பண்றிங்க ஆண்களும்/பெண்களும் சமம்-னு சொல்லிட்டு.. இப்போ பெண்களுக்கு மட்டும் இலவசமா..
+Classification: misogyny
+Explanation: The meme humorously suggests that all women are equal to the first eight kings, implying a stereotypical comparison of women to men in terms of appearance. This promotes objectification and implicit gender equivalence, which falls under the classification of 'misogyny' as it targets women through stereotyping and objectification.
+--------------------------------------------------
+
+ID: 395
+Text: Muthu Kutti Just now EL CLASSICO 💛VS💙 #muthumc இன்று நடைபெறும் சென்னை - மும்பை போட்டியில், வெற்றி பெறும் அணி, 2வது இடத்திற்கு முன்னேறும்..! MAY 06. 2023 India Cements 7 VERA LEVEL MEMES f O MUTHU MC UTTRADHEENGA YEPPOV UTTRADHEENGA YEMMOV
+Classification: not-misogyny
+Explanation: The meme compares 'EL CLASSICO' (the classic) with 'MUPLOVE' (mouth love), highlighting their differences in a humorous way. It does not target women or girls and is purely for entertainment.
+--------------------------------------------------
+
+ID: 1236
+Text: 3 வருடங்கள் ஆனாலும் கெட்டுப்போகாத இட்லி: புதிய முறையை கண்டுபிடித்து அசத்திய பேராசிரியை! NEWS 7 Fb/Thair vadai 2.0 இது என் பொண்டாட்டிக்கு தெரியாம பாத்துகனுமே
+Classification: misogyny
+Explanation: The meme references three women and mentions a specific issue related to women's representation in society, which can be interpreted as targeting women by bringing up a particular problem or struggle. This language implies objectification of their experiences, suggesting stereotyping towards them.
+--------------------------------------------------
+
+ID: 1054
+Text: கண்களால் கவர்ந்து ,, !! மூச்சு காற்றில் கலந்து ,,,!! நுரையீரலில் நுழைந்து ,,,!! என் இதயத்தில் இடம் பிடித்தவளே. !!
+Classification: misogyny
+Explanation: The text uses terms like 'ூச்சு' (water) and 'நுரையீரலில் நுழைந்து' which are common in Indian culture to imply objectification of women. The use of multiple punctuation marks and emphasis on certain words suggests a negative tone, reinforcing the idea of women being taken advantage of or having their worth questioned.
+--------------------------------------------------
+
+ID: 507
+Text: SHAAKUNTALAM MOVIE TRAILER IS OUT NOW ! VISUALS UHM PERFORMANCE UHM VERA LEVEL LA YEDUTHU IRUKANGA PA 🔥
+Classification: not-misogyny
+Explanation: The text promotes a movie where the female lead is depicted as performing at a high level and being in love with the audience, using terms typical of Indian cinema. It does not target women negatively but rather praises her performance and emotional expression.
+--------------------------------------------------
+
+ID: 1738
+Text: 2K Kids Girls உங்களை அடையாம விடமாட்டோம் 90's Kids boys SIYA MEME 90's Kids மாப்பிள்ளமா, அவ்வளவு Easy யா கிடைக்காது
+Classification: not-misogyny
+Explanation: The text describes a meme about 2K girls coming together with boys from the 1990s, focusing on group dynamics and entertainment without targeting women or objectifying them.
+--------------------------------------------------
+
+ID: 1028
+Text: En ponnu amaidhiyana ponnu, kuninja thala kooda nimara mata ~ Reality _zero_memes Eleii Isuku..
+Classification: not-misogyny
+Explanation: The meme begins with a positive statement of affection towards both parties involved, followed by an acknowledgment that the speaker is a mother. The third part is unclear but likely continues the meme without negative intent. There's no stereotyping, discrimination, or objectification of women; it simply acknowledges the presence of a person. Therefore, it does not contain misogynistic content.
+--------------------------------------------------
+
+ID: 1418
+Text: TAMIL 18PLUS TALES Nee ennadi Winter season la Mangoes Grow pannitu iruka 🥰
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text mentions 'mangoes,' which can sometimes be associated with female characters in Indian culture. While the meme may use humor or objectification, without explicit targeting of women, it's classified as 'not-misogyny.'
+}
+```
+--------------------------------------------------
+
+ID: 530
+Text: POV~ Uploading your hot af looking photo to kadupethify your ex..... VERA LEVEL MEMES ***** Gethu kaatiyadhaga unargirar.....
+Classification: not-misogyny
+Explanation: The text promotes a viral meme by tagging an ex and sharing it without following the content. It does not explicitly target women or contain stereotyping, hatred, discrimination, sexualization, objectification, insults, or mockery towards women.
+--------------------------------------------------
+
+ID: 1109
+Text: Hey...! சச்சந்திரா நா அந்த அர்த்தத்துல சொல்லல மாமா...! 😬🚶 crush hu 🍌✨ online என்ன விலையழுகே சொன்ன விலைக்கு வாங்க வருவேன் 🏃 08:42 ✓✓ 8:44 am ✓✓ 8:44 am ✓✓ TAMIL MEMES 123
+Classification: not-misogyny
+Explanation: The text is a casual greeting and hashtags related to online interactions, focusing on greetings and social interaction rather than targeting women or girls.
+--------------------------------------------------
+
+ID: 1719
+Text: பணத்தின் தத்துவம் வாழ்வதற்குக் செலவு மிகக் குறைவு தான் ஆனால்.. www.Tamilscope.com அடுத்தவர்களைப் போல் வாழத்தான் செலவு மிக அதிகம்..!
+Classification: not-misogyny
+Explanation: The text humorously compares the lives of women and men, suggesting that women's lives are not as significant or important as men's. This comparison is objectifying towards women, implying a lack of respect for their value in society.
+--------------------------------------------------
+
+ID: 555
+Text: Mc Muriel Just now - ipolam movie pakka intrst illa, cricket pakka intrst illa , yaarkittayum pesa intrst illa . Maturity vanthuduchu pola : Ithukku per depression da pannada #mc_muriel mt mt
+Classification: not-misogyny
+Explanation: The text praises Mc Muriel for his work in movies and cricket, and references a critique of depression. It does not target any specific group, including women, and avoids stereotyping or objectification towards them.
+--------------------------------------------------
+
+ID: 176
+Text: Venue : Royapettah Taj club house, Chennai on Aug 19th Guys who are looking for higher studies at aboard Ayya intha world education exhibition attend pannugaya Global Reach Entry free link in bio 🔥
+Classification: not-misogyny
+Explanation: ```json
+{
+  "explanation": "The text is about a group of men attending an exhibition related to higher studies at Royapettah Taj club house on August 19th. It does not explicitly target women or girls but focuses on individuals seeking education, which falls under 'not-misogyny' as it doesn't stereotyping, discriminate, or objectify any gender.
+}
+```
+--------------------------------------------------
+
+ID: 1627
+Text: mamiyar உங்க வீட்டில் டீ போட சொல்லி கொடுக்கலையா 😂my fr😂 இமண்ட பத்திரம் அடுத்தவர் உயிர் கூட விளையாட கூடாது என சொல்லி கொடுத்து இருக்காங்க
+Classification: misogyny
+Explanation: ```json
+{
+  "explanation": "The text references female characters through terms like 'mamiyar,' 'franshi,' and 'மண்ட பத்திரம்' (the other girl's pride), which implies objectification of women. It also uses humor to target the next person, suggesting implicit negative stereotypes or discrimination against women.
+  "classification": "misogyny"
+}
+```
+--------------------------------------------------
+
+ID: 620
+Text: Accidental farmer - Sony LIV series Indha maari orru semma comedy series Tamil la vandhu irukunae nariya peruku theriyala
+Classification: not-misogyny
+Explanation: The meme refers to a female farmer titled 'Accidental Farmer' with multiple titles including 'LIV series Tamil La Vandhu Irukunae Nariya Peruku Theriyala.' There is no explicit reference to women or any negative stereotypes about them. The text focuses on celebrating the diversity of farming roles among women without targeting any group negatively.
+--------------------------------------------------
+
+ID: 1237
+Text: அம்மா தூங்கிடீங்களா இன்னைக்கு DALGONA COFFEE செஞ்சு பார்க்கலாம் Little princess மண்ட பத்ரம் மீம்ஸ் Amma அடியேய் கய்ல காசு இல்லாம ஏதோ இருக்குறத வச்ச சாளிச்கட்டு பைத்தியம் போல ஏதாவது பண்ண உன் அப்படியே கொன்றுவேன் 1/1
+Classification: not-misogyny
+Explanation: The meme humorously celebrates Amma, a female character in Indian culture, by depicting her enjoying a coffee drink called 'செஞ்சு' (chocolate) and having 'மண்ட பத்ரம்' (mango paste) on her plate. The text does not target or objectify women; instead, it celebrates Amma's presence in a light-hearted manner.
+--------------------------------------------------
+
+ID: 1010
+Text: Mom to me : Dei pooi clean shave panu po *After clean shave* Mom: Enna da ponnu maari aaita 😂🤣 &whole family laughing me 😂🤣 mt ms charan tamil memes
+Classification: not-misogyny
+Explanation: The text discusses mother-daughter interactions with a focus on humor typical of Indian culture. It includes family laughter but does not target women in a negative way, avoiding stereotyping, discrimination, or objectification. The language is neutral and respectful.
+--------------------------------------------------
+
+ID: 744
+Text: defeated defending champions nengalum ena marii dhn polae yepidi Nambala dhn easy ah upset akiranga
+Classification: not-misogyny
+Explanation: The text does not contain any negative stereotypes or offensive language towards women. It depicts a woman defeating other characters, which is common in Indian media to showcase female strength and independence. The content is neutral and promotes positive representation of women.
+--------------------------------------------------
+
+ID: 1262
+Text: dailyhunt GET IT ON Google Play விளம்பரங்களில் வரும் அம்மா மட்டும்தான் முத்தமிட்டு தலைகோதி குழந்தைக்கு ஹார்லிக்ஸ் தருவாங்க போல.. -யாரோ பக்கத்து வீட்டிலலாம் சனியனே! இதை சீக்கிரம் குடிச்சுத்தொலையேன்ற சவுண்டு தான் வருது... 😮😮😮
+Classification: not-misogyny
+Explanation: The text is a humorous meme promoting the 'Amma' game on Google Play. It uses positive terms like 'சனியனே' and 'சவுண்டு', which are associated with beauty and charm in Indian culture, not with any negative stereotyping or objectification towards women. There's no explicit content targeting women negatively.
+--------------------------------------------------
+

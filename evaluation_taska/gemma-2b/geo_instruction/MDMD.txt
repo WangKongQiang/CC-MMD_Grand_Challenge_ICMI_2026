@@ -1,0 +1,891 @@
+Misogyny Meme Classification Results
+==================================================
+
+Image ID: 100
+Image: MDMD\100.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1000
+Image: MDMD\1000.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1001
+Image: MDMD\1001.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1010
+Image: MDMD\1010.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1024
+Image: MDMD\1024.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1027
+Image: MDMD\1027.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1028
+Image: MDMD\1028.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1031
+Image: MDMD\1031.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1034
+Image: MDMD\1034.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1042
+Image: MDMD\1042.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1044
+Image: MDMD\1044.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1050
+Image: MDMD\1050.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1051
+Image: MDMD\1051.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1054
+Image: MDMD\1054.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1058
+Image: MDMD\1058.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1069
+Image: MDMD\1069.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1074
+Image: MDMD\1074.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1081
+Image: MDMD\1081.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1091
+Image: MDMD\1091.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1092
+Image: MDMD\1092.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 110
+Image: MDMD\110.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1102
+Image: MDMD\1102.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1108
+Image: MDMD\1108.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1109
+Image: MDMD\1109.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1111
+Image: MDMD\1111.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1112
+Image: MDMD\1112.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1114
+Image: MDMD\1114.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1115
+Image: MDMD\1115.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 112
+Image: MDMD\112.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1122
+Image: MDMD\1122.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1125
+Image: MDMD\1125.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1129
+Image: MDMD\1129.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1134
+Image: MDMD\1134.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1139
+Image: MDMD\1139.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1141
+Image: MDMD\1141.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1145
+Image: MDMD\1145.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1150
+Image: MDMD\1150.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1152
+Image: MDMD\1152.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 116
+Image: MDMD\116.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1162
+Image: MDMD\1162.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1170
+Image: MDMD\1170.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1182
+Image: MDMD\1182.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1183
+Image: MDMD\1183.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1189
+Image: MDMD\1189.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1193
+Image: MDMD\1193.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1202
+Image: MDMD\1202.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1205
+Image: MDMD\1205.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1206
+Image: MDMD\1206.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1209
+Image: MDMD\1209.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1210
+Image: MDMD\1210.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1224
+Image: MDMD\1224.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1226
+Image: MDMD\1226.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1233
+Image: MDMD\1233.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1236
+Image: MDMD\1236.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1237
+Image: MDMD\1237.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1238
+Image: MDMD\1238.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 124
+Image: MDMD\124.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1245
+Image: MDMD\1245.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 125
+Image: MDMD\125.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1253
+Image: MDMD\1253.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1254
+Image: MDMD\1254.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1256
+Image: MDMD\1256.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1262
+Image: MDMD\1262.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1269
+Image: MDMD\1269.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1270
+Image: MDMD\1270.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1272
+Image: MDMD\1272.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1277
+Image: MDMD\1277.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1278
+Image: MDMD\1278.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1279
+Image: MDMD\1279.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1282
+Image: MDMD\1282.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1289
+Image: MDMD\1289.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1290
+Image: MDMD\1290.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1306
+Image: MDMD\1306.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1316
+Image: MDMD\1316.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1318
+Image: MDMD\1318.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1320
+Image: MDMD\1320.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1336
+Image: MDMD\1336.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1337
+Image: MDMD\1337.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1342
+Image: MDMD\1342.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1343
+Image: MDMD\1343.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1344
+Image: MDMD\1344.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1345
+Image: MDMD\1345.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1346
+Image: MDMD\1346.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1349
+Image: MDMD\1349.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1353
+Image: MDMD\1353.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1358
+Image: MDMD\1358.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 136
+Image: MDMD\136.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1360
+Image: MDMD\1360.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1366
+Image: MDMD\1366.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1376
+Image: MDMD\1376.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1377
+Image: MDMD\1377.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1380
+Image: MDMD\1380.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1381
+Image: MDMD\1381.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1384
+Image: MDMD\1384.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1388
+Image: MDMD\1388.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1393
+Image: MDMD\1393.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1396
+Image: MDMD\1396.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1405
+Image: MDMD\1405.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1418
+Image: MDMD\1418.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 142
+Image: MDMD\142.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1423
+Image: MDMD\1423.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1432
+Image: MDMD\1432.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1433
+Image: MDMD\1433.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1441
+Image: MDMD\1441.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1442
+Image: MDMD\1442.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1450
+Image: MDMD\1450.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1453
+Image: MDMD\1453.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1454
+Image: MDMD\1454.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1455
+Image: MDMD\1455.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1461
+Image: MDMD\1461.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1462
+Image: MDMD\1462.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1469
+Image: MDMD\1469.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1472
+Image: MDMD\1472.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1474
+Image: MDMD\1474.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1488
+Image: MDMD\1488.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1492
+Image: MDMD\1492.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1512
+Image: MDMD\1512.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1524
+Image: MDMD\1524.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1527
+Image: MDMD\1527.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1533
+Image: MDMD\1533.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1541
+Image: MDMD\1541.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1548
+Image: MDMD\1548.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1558
+Image: MDMD\1558.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1561
+Image: MDMD\1561.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1565
+Image: MDMD\1565.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1579
+Image: MDMD\1579.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1584
+Image: MDMD\1584.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1610
+Image: MDMD\1610.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1614
+Image: MDMD\1614.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1615
+Image: MDMD\1615.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1616
+Image: MDMD\1616.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1625
+Image: MDMD\1625.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1627
+Image: MDMD\1627.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 163
+Image: MDMD\163.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1636
+Image: MDMD\1636.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1638
+Image: MDMD\1638.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1641
+Image: MDMD\1641.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1651
+Image: MDMD\1651.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1653
+Image: MDMD\1653.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1658
+Image: MDMD\1658.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1659
+Image: MDMD\1659.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1660
+Image: MDMD\1660.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1664
+Image: MDMD\1664.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1666
+Image: MDMD\1666.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1679
+Image: MDMD\1679.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 169
+Image: MDMD\169.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1696
+Image: MDMD\1696.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
+Image ID: 1698
+Image: MDMD\1698.jpg
+Classification: Error
+Explanation: Ollama API error: model 'gemma-2b' not found (status code: 404)
+--------------------------------------------------
+
